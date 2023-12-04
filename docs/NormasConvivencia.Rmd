@@ -1,0 +1,516 @@
+---
+title: "CATALOGO DE NORMAS DE CONVIVENCIA"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+# Catálogo de Normas de Convivencia
+
+## EXPOSICIÓN DE MOTIVOS
+
+La Ley de la Universidad Autónoma de la Ciudad de México establece que “Los principios de cooperación y apoyo mutuos deben ser la base de las normas” que la rijan. Estas palabras son un mandato que estamos en obligación de respetar y cumplir.
+
+El proyecto educativo de la Universidad Autónoma de la Ciudad de México tiene, de acuerdo con su Ley de autonomía, “la encomienda de ampliar las oportunidades de estudio prioritariamente para los sectores que han carecido de ellas”   Dejando a un lado la meritocracia, la UACM “como institución pública, sostenida públicamente, está plenamente abierta a cualquier persona, independientemente de su condición económica o cualquier otra particularidad social. En nuestra institución, de acuerdo con los recursos de los que disponga la Universidad, todo aquel y toda aquella que quiera aprender podrá estudiar.
+
+A estos programas y recursos académicos se agregan los instrumentos normativos que garanticen que, a este ingreso de estudiantes diversos, siga una permanencia en un marco institucional de corte democrático, igualitario, equitativo, justo y con sentido social, en el que se garanticen los plenos derechos de los universitarios.
+
+Como se señala en el artículo 17, fracciones I, VII y XVII de nuestra Ley, son atribuciones del Consejo Universitario “Aprobar y expedir el Estatuto General Orgánico y demás Estatutos, Reglamento y normas necesarias para el cumplimiento de los fines de la Universidad”, “Definir las características y funciones de las entidades académicas, así como las formas de organización y operación de la Universidad” y “Emitir un catálogo de normas de convivencia”.
+
+Las normas son reflejo de los principios éticos a partir de los cuales las personas aspiran a relacionarse entre sí; son acuerdos entre quienes integran una comunidad. Toda norma busca, esencialmente, que haya paz y que haya justicia. En la UACM partimos de la convicción de que quienes deciden formar parte de nuestra comunidad comparten los principios éticos que nos constituyen. 
+
+El procedimiento establecido en estas Normas busca que la comunidad se guíe por el diálogo y la razón, aun cuando surjan diferencias y conflictos originados en la pluralidad de ideas que es connatural a todo quehacer universitario.
+
+Es por eso que nuestro Catálogo de Normas de Convivencia establecen la sanción como el último recurso, después de intentar resolver los conflictos vía la mediación o la conciliación, herramientas a través de las cuales las personas son quienes resuelven, más que buscar la solución desde afuera. 
+
+La sanción, entonces, es el último recurso y la consecuencia de haber roto el acuerdo que implica formar parte de nuestra comunidad; es aplicable sólo a las personas cuyas conductas demuestren no compartir los principios que le dan sentido a nuestra institución.   
+
+Por ello únicamente reconocemos cuatro comportamientos que todos debemos reprobar y evitar en todos y cada uno de los espacios universitarios: la discriminación en todas sus formas, la violencia en todas sus formas, la venta de sustancias prohibidas por las leyes de la Ciudad de México y por las Generales de la Nación, así como la portación y el uso de armas.
+
+Ahora bien, considerando que el acceso a la justicia y el debido proceso son derechos de toda persona, esta normatividad busca que sea la propia comunidad universitaria la que analice y decida sobre las conductas inapropiadas y la reparación del daño a través del Consejo de Justicia, que será integrado por universitarias y universitarios de los tres sectores. Lo anterior, sin menoscabo de la normatividad laboral y administrativa que en sus respectivos campos contribuye también a que la Universidad marche por una ruta de autonomía y libertad. 
+
+En suma, este Catálogo de Normas de Convivencia es un instrumento para garantizar que la convivencia en la UACM esté sustentada en un entramado social sano y vigoroso, en el que estudiantes, personal académico, administrativo, técnico y manual mantengan sólidas relaciones, permeadas por una ética universitaria que genere una cultura de paz y de cuidados mutuos en un ambiente propicio para desarrollar nuestro quehacer, con miras a robustecer el proyecto académico de la UACM en el ejercicio de nuestras funciones sustantivas: docencia, investigación, difusión, extensión y cooperación.
+
+La aprobación del Catálogo de Normas de Convivencia ha sido una tarea que para las anteriores legislaturas fue difícil por diversas circunstancias, aunque prácticamente todas elaboraron una propuesta.
+
+El Sexto Consejo Universitario comenzó la discusión del Catálogo de Normas de Convivencia el 18 de septiembre de 2019 y la continuó a lo largo de 17 sesiones extraordinarias, mismas que concluyeron el 18 de septiembre de 2020. La discusión se llevó a cabo en 3 sesiones extraordinarias: Décimo Primera (3 partes: 18, 20 y 30 de septiembre), Décimo Cuarta (11 partes: 24 de octubre; 4 y 20 de noviembre; 16 de diciembre; 17, 20 y 27 de enero de 2020; 6, 13, 19 y 26 de febrero de 2020) y Décimo Quinta Extraordinaria 2020 (8, 14 y 18 de septiembre). Los planteles y sedes donde se llevaron a cabo las discusiones fueron: Casa Libertad (2 sesiones), Cuautepec (2 sesiones), Del Valle (1 sesión), Garcíadiego (7 sesiones), San Lorenzo Tezonco (2 sesiones) y Virtual (3 sesiones).
+
+Esta Sexta Legislatura no ha estado exenta de inconvenientes, ha discutido largamente diversas miradas y enfoques, en muchos casos contrarios, sobre el Catálogo de Normas de Convivencia; las discusiones en el Pleno han abordado los desacuerdos, que han enriquecido la presente propuesta.
+
+El Catálogo fue aprobado en lo general con el acuerdo: UACM/CU-6/EX011/044/19 en sesión llevada a cabo en las instalaciones del Plantel Casa Libertad. La metodología acordada para su discusión en lo particular fue discutir artículo por artículo, para después aprobar el Título completo.
+
+El Catálogo está conformado por tres títulos: Título I. Disposiciones Generales, artículos del 1 al 5; Título II. Catálogo de Normas de Convivencia, artículos del 6 al 22; y, finalmente, el Título III. Sanciones y órganos responsables de establecerlas, artículos 23 al 52. Se incluye un apartado de Transitorios que consta de 10 artículos.
+
+Después de más de 15 años, finalmente el Consejo Universitario aprueba en su totalidad el Catálogo mandatado en la Ley de la Universidad Autónoma de la Ciudad de México, publicada en enero de 2005, deuda histórica con la Comunidad Universitaria y que por fin queda saldada.
+
+Este Catálogo de Normas de Convivencia está pensado para que cada una de las personas que forman parte de la UACM encamine la totalidad de sus esfuerzos para que el desarrollo de prácticas democráticas así como el conocimiento sean la principal aportación de esta Universidad a la sociedad, en un marco de respeto y defensa de los derechos humanos. Somos un conjunto de voluntades encaminadas hacia un mismo propósito: contribuir -desde un ámbito universitario autónomo, seguro, propositivo- a la construcción un mundo mejor y más justo para todas las personas. 
+
+[Regresar a Documento Principal](index.html)
+
+
+
+## Glosario para el catálogo de normas de convivencia:
+
+
+Para los efectos del presente catálogo se entiende por:
+
+    Acoso laboral: Consiste en actos o comportamientos, en un evento o una serie de ellos, en el entorno del trabajo o con motivo de éste, con independencia de la relación jerárquica de las personas involucradas, que atentan contra la autoestima, salud, integridad, libertad o seguridad de las personas; entre ellos: la provocación, presión, difamación, intimidación, exclusión, aislamiento, ridiculización, ataques verbales o físicos que puedan realizarse de forma evidente, sutil o discreta, y que ocasionan humillación, frustración, ofensa, miedo, incomodidad o estrés en la persona a quien se dirigen, o en quienes la presencian, con el resultado de que interfieren en el rendimiento laboral o generan un ambiente negativo en el trabajo.
+    
+    Acoso sexual: Son actos o comportamientos de índole sexual, en un evento o en una serie de ellos, que atentan contra la autoestima, salud, integridad, libertad y la seguridad de las personas; entre otros: contactos físicos indeseados, insinuaciones u observaciones marcadamente sexuales, exhibición no deseada de pornografía, exigencias sexuales verbales o de hecho. El acoso sexual se configura independientemente de la relación jerárquica entre las partes. Y todas las mencionadas en el Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual en la UACM. 
+    
+    Autoridad Universitaria: Todos/as los/las funcionarios/as universitarios/as, los órganos, las instancias, las unidades y áreas de la Universidad, cualquiera que sea su denominación, que realice encargo o comisión en materia de gestión académica administrativa, administrativa y de gobierno universitario. En concordancia con el Protocolo.
+    
+    Comunidad Universitaria: A las y los estudiantes, personal académico de tiempo completo, Rector o Rectora, personal administrativo, técnico y manual de la Universidad Autónoma de la Ciudad de México. Así mismo, para su observación y aplicación del presente Catálogo de normas de convivencia se considerarán a todas las personas contratadas por obra determinada incluyendo profesores y profesoras de asignatura y al personal de confianza.
+    
+    Comisión de Asuntos Legislativos: Comisión de Asuntos Legislativos del Consejo Universitario.
+    
+    Comisión de Mediación: Comisión de Mediación y Conciliación del Consejo Universitario.
+    
+    Contrato Colectivo: El Contrato Colectivo de Trabajo vigente en la Universidad Autónoma de la Ciudad de México.
+    
+    Consejo de Justicia: Órgano Colegiado jurídico de resolución de conflictos derivados del incumplimiento o transgresión a las normas de convivencia.  
+    
+    Constitución: Constitución Política de los Estados Unidos Mexicanos.
+    
+    Debido proceso: Principio jurídico procesal según el cual toda persona tiene derecho a ciertas garantías mínimas, tendientes a asegurar un resultado justo y equitativo dentro del proceso, al permitirle tener oportunidad de ser oído y a hacer valer sus pretensiones legítimas frente a la instancia correspondiente.
+    
+    Defensoría: Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México. 
+    
+    Discriminación: El trato diferenciado basado en determinados motivos, prohibidos por el ordenamiento jurídico que tiene por objeto o por resultado la anulación o menoscabo en el ejercicio o goce de derechos de una persona o de un grupo de personas.
+    
+    Disculpa Pública. Reconocimiento público del daño o dolor infringido, el cual deberá ser proporcional y contextualizado a la ofensa en forma de pronunciamiento por parte de la persona que se encuentra o se reconoce responsable.
+    
+    EGO: Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México.
+    
+    Falta: Acción u omisión que transgreda las normas del Catálogo de Normas de Convivencia de la Universidad Autónoma de la Ciudad de México. 
+    
+    Falta grave: Todas aquellas conductas que por su realización u omisión implican agresiones, violencias y/o son conductas identificadas en los ordenamientos jurídicos locales o federales y que son constitutivas de delito sin importar el lugar donde se cometan y que se encuentran definidas en el artículo 51 del presente Catálogo de Normas de Convivencia. 
+    
+    Hostigamiento laboral El hostigamiento laboral consiste en el ejercicio del poder en una relación de subordinación real de la víctima frente a la persona agresora, en el entorno del trabajo o con motivo de éste cometiendo actos en un evento o una serie de ellos con independencia de la relación jerárquica de las personas involucradas, que atentan contra la autoestima, salud, integridad, libertad o seguridad de las personas; entre ellos: la provocación, presión, difamación, intimidación, exclusión, aislamiento, ridiculización, ataques verbales o físicos que puedan realizarse de forma evidente, sutil o discreta, y que ocasionan humillación, frustración, ofensa, miedo, incomodidad o estrés en la persona a quien se dirigen, o en quienes la presencian, con el resultado de que interfieren en el rendimiento laboral o generan un ambiente negativo en el trabajo.
+    
+    Hostigamiento sexual: El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva. El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+    
+    Ley: Ley de la Universidad Autónoma de la Ciudad de México.
+    
+    Pleno: El Consejo Universitario de la Universidad Autónoma de la Ciudad de México reunido en sesión ordinaria o extraordinaria.
+    
+    Protocolo: Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual en la Universidad Autónoma de la Ciudad de México.
+    
+    Plantel Académico: Inmueble que alberga principalmente las aulas para los/as estudiantes, los cubículos de profesores/as investigadores/as y los laboratorios, donde se imparten los planes y programas académicos de los ciclos y colegios de la universidad.
+    
+    Reparación del daño: Es la obligación, por parte de quien incurrió en las faltas descritas en este catálogo, de restablecer la situación de la o las víctimas, previa a la violación de sus derechos, a través de las medidas de reparación integral.
+    
+    Reparación Integral del Daño: Comprende el conjunto de medidas de restitución, rehabilitación, compensación y/o indemnización, satisfacción y garantía de no repetición en las dimensiones individuales, colectiva, material, moral y simbólica.
+    
+    Rector/Rectora: El/la rector/a de la Universidad Autónoma de la Ciudad de México.
+    
+    Sanción: Todas las citadas en el artículo 52 del presente Catálogo de Normas de convivencia, que son de observancia general y que serán aplicadas a las personas integrantes de la comunidad universitaria que infrinjan las normas y que podrán ser dictadas por el Consejo de Justicia.   
+    
+    Universidad: Universidad Autónoma de la Ciudad de México.
+    
+    Violencia digital: “Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias”.
+    
+    Violencia docente: Conforme a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México (LGAMVLCDMX) en su artículo 7, fracción III, la violencia docente “Es aquella que puede ocurrir cuando se daña la autoestima de las alumnas o maestras con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestros o maestras”. 
+    
+    Violencia económica: Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+    
+    Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres (LGAMVLV, artículo 21). 
+    
+    Violencia física: Es cualquier acto que inflige daño no accidental, usando el propio cuerpo o algún tipo de arma u objeto que pueda provocar o no lesiones, ya sean internas, externas o ambas (LGAMVLV, artículo 6, fracción II).
+    
+    Violencia laboral: Se ejerce por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, impide su desarrollo y atenta contra la igualdad. Conforme a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en su artículo 11, constituye violencia laboral: “la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género”. Esta modalidad de violencia atenta contra los elementos que constituyen el trabajo digno de acuerdo a la Ley Federal del Trabajo. 
+    
+    Violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+    
+    Violencia psicológica: Toda acción u omisión dirigida a desvalorar, intimidar o controlar acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica (LAMVLVCDMX, artículo 6, fracción I). 
+    
+    Violencia sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso, violación, explotación sexual comercial, trata de personas para la explotación sexual o el uso denigrante de la imagen de la mujer (LAMVLVCDMX, artículo 6, fracción V).
+    
+
+[Regresar a Documento Principal](index.html)
+
+
+
+# Título I. Disposiciones generales
+
+
+Artículo 1. El presente Catálogo de Normas de Convivencia es de carácter general y de observancia obligatoria para la comunidad de la Universidad Autónoma de la Ciudad de México, de conformidad con el artículo 17, fracción XVII de la Ley de la Universidad Autónoma de la Ciudad de México. Tienen el propósito de cumplir con el Estatuto General Orgánico, que en su artículo 84 indica que las personas integrantes de la comunidad universitaria tienen derecho a la convivencia en paz y a recibir un trato respetuoso. Asimismo, el Estatuto establece que la violación a estos principios deberá ser tratada específicamente y normarse de manera correspondiente en las normas de convivencia universitaria, así como en los diferentes estatutos.
+
+Artículo 2. La Universidad tiene la obligación de promover, proteger, respetar y garantizar los derechos humanos de conformidad con lo establecido en el Título Primero de la Constitución Política de los Estados Unidos Mexicanos y en el Título Segundo Carta de Derechos de la Constitución Política de la Ciudad de México.  
+
+Artículo 3. La autorregulación, la corresponsabilidad, la prevalencia del diálogo, la mediación y la conciliación como medios de solución de conflictos y el respeto por la diferencia y la diversidad son valores universitarios fundamentales para la convivencia.
+
+Artículo 4. El catálogo de normas establecido en el presente ordenamiento es de observancia general, obligatoria y aplicable en los espacios e instalaciones universitarias y fuera de éstas cuando se participe en actividades oficiales o promovidas por la Universidad.
+
+Artículo 5. Es responsabilidad de cada integrante de la comunidad universitaria conocer y cumplir con la Ley, los Estatutos, los Reglamentos y las Normas que rigen en la UACM. La Universidad tiene la obligación de construir e implementar mecanismos para que la comunidad universitaria obtenga un amplio conocimiento y comprensión de estas normas, así como de los procedimientos de aplicación de las mismas.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+# Título II. Catálogo de Normas de Convivencia
+
+
+Artículo 6. La Comunidad Universitaria se fortalece al cumplir los principios, deberes y obligaciones expuestos en la Ley y en la exposición de motivos, que orientan el quehacer cotidiano y permanente de nuestro proyecto educativo.
+
+Artículo 7. Las libertades de cátedra y de investigación de los y las universitarias son fundamentales en todos los espacios universitarios, tal como lo consigna la Ley en su artículo 8. Las personas integrantes de la comunidad deben respetar estas libertades.
+
+Artículo 8. Las personas integrantes de la comunidad universitaria podrán ejercer su derecho a las libertades de expresión, manifestación de las ideas y pensamiento, así como de asociación, según lo establecido en los artículos 6, 7 y 9 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con los artículos 77, 79 y 82 del EGO.
+
+Artículo 9. De acuerdo con el artículo 9 de la Constitución Política de la Ciudad de México, el artículo 17, fracción VI, de la Ley de la UACM y al artículo 13 del EGO, el Consejo Universitario tiene la obligación de desarrollar políticas de mejora de convivencia entre las personas integrantes de la comunidad universitaria, así como en materia de Derechos Humanos.
+
+La Universidad realizará todas las acciones necesarias para promover el respeto de los derechos humanos, la dignidad de las personas, el trato justo y la comunicación no violenta en todos los espacios universitarios, mediante políticas, planes y programas específicos.
+
+Artículo 10. El respeto a la integridad física de toda persona integrante de la comunidad universitaria es un principio elemental de la convivencia; por ello cualquier tipo de violencia física, será considerada falta grave y será sancionada conforme el artículo 52 de este catálogo de normas de convivencia.
+
+Artículo 11. El EGO en su artículo 78 establece que todas las personas integrantes de la comunidad tienen derecho a la protección de su salud física y psicológica, así como a un ambiente adecuado para su desarrollo y bienestar integral.
+
+La difusión de mensajes de manera personal y directa, que inciten a la violencia física, verbal, psicológica o sexual en las redes sociales u otras tecnologías de información y comunicación; la difusión de mensajes de odio por motivos de raza, género, identidad y expresión de género, orientación sexual, condición de discapacidad, origen socioeconómico e ideología; la difusión de mensajes de amenaza, denigración, intimidación y persecución;  el hostigamiento y el acoso sexual por esos mismos medios en contra de algún integrante de la comunidad universitaria, se considera que contravienen los artículos 77 y 78 del EGO, por lo tanto serán consideradas faltas graves.
+
+Es necesario señalar que la expresión de las ideas y/o diferencias de opinión, el debate de éstas, la crítica a las acciones de los órganos de gobierno, la sátira y caricatura política, forman parte del derecho a la libre expresión de las ideas, y por tanto no son parte de las expresiones de violencia señaladas en el párrafo anterior.
+
+Artículo 12. Las personas integrantes de la comunidad tienen derecho a no ser discriminadas por su origen o nación, la identidad y expresión de género, el género, el sexo, la edad, la condición de discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, la orientación y preferencia sexual, el estado civil o por cualquier otro motivo que atente contra la dignidad humana y tenga por objeto anular o menoscabar, de manera parcial o total, los derechos y libertades de las personas; sin perjuicio de la libertad de pensamiento, la libertad de examen y discusión de las ideas, la pluralidad de pensamiento, la libertad de cátedra e investigación y la cooperación y apoyo mutuo que constituyen principios fundamentales en la Universidad previstos en el numeral sexto de la Exposición de motivos y en los artículos 3 y 5, fracción I, de la Ley de la UACM. En consecuencia se debe garantizar su goce y ejercicio por parte de todas las personas integrantes de la comunidad universitaria.
+
+Los actos u omisiones que generen discriminación serán considerados como faltas graves de conformidad con el artículo 77 del Estatuto General Orgánico. Cuando se demuestre efectivamente un acto u omisión que constituya discriminación se aplicarán medidas efectivas para asegurar la no repetición y la reparación integral del daño.
+
+La Universidad realizará acciones y tomará medidas de educación para prevenir y eliminar la discriminación entre las personas integrantes de la comunidad universitaria.
+
+La Universidad tomará las medidas necesarias a fin de que sus instalaciones sean adecuadas para la accesibilidad y la inclusión de toda la comunidad universitaria.
+
+Artículo 13. La discriminación, las distintas formas de violencia y en particular las violencias en contra de las mujeres no deben tener cabida en la vida universitaria, institucional, académica ni administrativa.
+
+Todo acto de violencia contra las mujeres que se encuentra tipificado en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia. Las violencias psicológica, física, económica, patrimonial, sexual, docente y laboral; así como el hostigamiento y acoso sexual, y cualesquiera acción y/u omisión que tenga por objeto o como resultado atentar contra la dignidad humana, las libertades y la igualdad, están prohibidas y son consideradas faltas graves. 
+
+Es responsabilidad de la comunidad universitaria, de las instancias académicas, administrativas y de gobierno aportar a la prevención –a través de la reflexión y el análisis de las violencias- con el fin de identificarlas, visibilizarlas y enunciarlas, para contribuir en la búsqueda de soluciones a las necesidades de la sociedad, en este caso la erradicación de las violencias.
+
+Para generar un espacio libre de violencias y aportar a su erradicación, en pleno ejercicio de la autonomía universitaria, las presentes normas deben aportar a la construcción de una Política Institucional.
+
+Artículo 14. La Universidad, de acuerdo con el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos, tiene la obligación de atender aquellos casos de violencia especificados en el artículo 13 de este Catálogo, denunciados a cualquier autoridad de la Universidad. La autoridad no hará público el nombre de la víctima para evitar cualquier tipo de revictimización. Para ello deberán ceñirse al Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual elaborado por la Comisión de Mediación y Conciliación y aprobado por el Pleno del Consejo Universitario.
+
+Artículo 15. La fracción I del artículo 5 de la Ley dice que “los principios de cooperación y apoyo mutuo deben ser la base de las normas que rijan la Universidad”; por tanto, se deberán respetar los bienes y/o las posesiones de cualquier miembro de la comunidad.
+
+Queda prohibido dañar y/o apoderarse de los bienes o patrimonio que no sean propios o cuya propiedad no pueda demostrarse.
+
+Artículo 16. En concordancia con el artículo 3 constitucional fracción VI, el artículo 3 de la Ley de la UACM define la estructura de la Universidad, así como la facultad y la responsabilidad de gobernarse a sí misma, y sus funciones sustantivas de docencia, investigación y difusión de la cultura. Por otra parte, de acuerdo con la Ley General de Educación, en su artículo 74, “Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos”. El uso, la portación y el traslado de armas atentan contra estas funciones, contra el ejercicio de los derechos universitarios y contra la integridad física y psicológica de las personas integrantes de la comunidad universitaria, de acuerdo con el artículo 78 del EGO. Por lo tanto, no están permitidos el uso, la portación ni el traslado de armas en los espacios universitarios; tales actos serán considerados faltas graves.
+
+Artículo 17. En el marco de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aplicables, la legislación federal y estatal en la materia y lo previsto en la legislación universitaria, la salud de las personas integrantes de la comunidad universitaria es un estado de equilibrio psico-social que implica el ejercicio de derechos y libertades y la atención a las determinantes sociales de la salud, por ello el ejercicio del derecho a la salud de las personas integrantes de la comunidad universitaria supone una visión integral, individual y colectiva.
+
+La adicción a sustancias psicoactivas y al alcohol es considerado un problema de salud pública que causa deterioro de las personas, sus vínculos afectivos, sociales y escolares. Además, estas sustancias han constituido una forma de control social del Estado sobre las personas y su producción está basada en la explotación de la gente y de la naturaleza. Al contravenir los principios de la Universidad, está prohibido y se considera falta el consumo de bebidas alcohólicas y de narcóticos en los espacios universitarios.
+
+Artículo 18. La Universidad establecerá los vínculos institucionales y académicos con las instituciones especializadas en la investigación, prevención atención y tratamiento de adicciones de los sectores público, privado y social en beneficio de la comunidad universitaria.
+
+El Consejo Universitario determinará las instancias encargadas de realizar los vínculos institucionales y académicos y los mecanismos de difusión y acceso correspondientes. El principio de acompañamiento de procesos será uno de los lineamientos orientadores de la política institucional universitaria en la materia.
+
+Las personas integrantes de la comunidad universitaria promoverán las relaciones sociales basadas en el aprendizaje plural, creativo y significativo en el ejercicio del derecho a la educación y otros derechos conexos. La Universidad debe generar los espacios adecuados para actividades académicas, deportivas y culturales, así como programas de prevención e información sobre el consumo de drogas y alcohol.
+
+La Universidad, a través de la Coordinación de Servicios Estudiantiles o de la Coordinación de Servicios Administrativos –según sea el caso- canalizará a las personas integrantes de la comunidad universitaria que así lo soliciten, a la prestación de servicios médicos y psicológicos especializados y gratuitos para su atención y recuperación.
+
+La Universidad deberá contar con un protocolo de actuación de los servicios médicos en la UACM, especificando sus alcances y límites de responsabilidad, en los casos donde estén vulnerados la seguridad, la integridad, los Derechos Humanos y laborales de cualquier persona integrante de la comunidad.
+
+Artículo 19. En los espacios universitarios no se podrá distribuir, proporcionar, vender, intercambiar y ofrecer bebidas alcohólicas o cualquier substancia considerada por las leyes nacionales como narcótico, estupefaciente y /o psicotrópico. Las acciones enlistadas se consideran faltas graves, y se procederá conforme a la legislación aplicable, y respetando en todo momento la presunción de inocencia y el debido proceso de las personas integrantes de la comunidad universitaria.
+
+Artículo 20. En la UACM está prohibido el acoso y el hostigamiento laboral, tanto en forma personal, como por mensajes de texto, imágenes en los medios de comunicación, a través de las redes sociales y en cualquier tecnología de información y comunicación. Éstos serán considerados faltas graves. En el ámbito de las relaciones laborales se estará a lo dispuesto por el Contrato Colectivo de Trabajo de la UACM vigente, por la Ley Federal del Trabajo, y en el ámbito penal en los Códigos Penales vigentes de carácter local y federal.
+
+Artículo 21. De conformidad con los artículos 78 y 96 del EGO y atendiendo al artículo 6, fracción IX de la Ley, la comunidad universitaria tiene el derecho de contar con espacios universitarios, limpios y adecuados. Por ello todas las personas integrantes de la comunidad universitaria deberán cuidar las aulas, laboratorios, cubículos, pasillos, áreas verdes, áreas de comedor, áreas recreativas y culturales y mobiliario, así como los consumibles de baño y papelería, entre otros.
+
+Los Consejos de Plantel y la comunidad determinarán los mecanismos para el uso democrático y amplio de los espacios. El maltrato a la infraestructura se define con base en los fines de la Universidad.
+
+Artículo 22. La comunidad universitaria deberá respetar los horarios de las instalaciones de los planteles y las sedes. Se deberá justificar adecuadamente el uso de instalaciones fuera de los días y horarios establecidos.
+
+[Regresar a Documento Principal](index.html)
+
+
+# Título III. Sanciones y órganos responsables de establecerlas
+
+Artículo 23. Se entiende por falta toda acción u omisión que transgreda las normas descritas en este Catálogo de Normas de Convivencia, en aquellas que se encuentren previstas en la Ley de la Universidad Autónoma de la Ciudad de México, en el Estatuto General Orgánico o en otros ordenamientos legales vigentes en la Universidad, así como en las leyes locales y federales aplicables a la regulación de la convivencia universitaria.
+
+Artículo 24. Estarán sujetas al presente Catálogo de Normas de Convivencia, así como al Reglamento de Responsabilidades Universitarias, las personas que ocupen los siguientes cargos universitarios, ya sea en su calidad de titular, interino/a o encargado/a de despacho:
+
+    Rector/a
+    Secretario/a General
+    Contralor/a General
+    Abogado/a General
+    Tesorero/a
+    Coordinador/a de Colegio
+    Coordinador/a de Plantel
+    Coordinadir/a de Área
+    Consejero/a de plantel
+    Consejero/a Universitario/a (titular y suplente)
+    Defensores titular y adjunto/a de los Derechos Universitarios, y asesor/a legal de la Defensoría
+    Trabajador/a de confianza
+    Cualquier persona que realice encargo o comisión en materia de gestión académica-administrativa, administrativa y de gobierno universitario
+
+
+
+Artículo 25. La Comisión de Mediación y Conciliación, con fundamento en los artículos 17 fracción XVII de la Ley, el 116 del Estatuto General Orgánico y el 84 del Reglamento del Consejo Universitario, es la encargada de “… conocer los actos…” violatorios de las normas contenidas en este Catálogo “… buscar la solución de los conflictos mediante el diálogo y el convencimiento y, en caso necesario, remitir el asunto a las instancias administrativas o judiciales correspondientes”. Por lo tanto, el personal académico, administrativo, técnico y manual, así como las y los estudiantes serán responsables de las faltas a las presentes Normas ante la Comisión de Mediación y Conciliación.
+
+La Comisión de Mediación y Conciliación es la instancia competente para conocer, atender, recabar información verbal, documental o testimonial, vigilar y dar seguimiento a las faltas al presente Catálogo.
+
+Artículo 26. Con fundamento en los artículos 17 fracción XVII de la Ley, el 116 del Estatuto General Orgánico y el 84, fracciones II y III, del Reglamento del Consejo Universitario, la Comisión de Mediación y Conciliación es la encargada de realizar la investigación cuando integrantes de la comunidad universitaria entreguen por escrito una queja en la que se presuma violación a las presentes normas. Su actuación buscará, en todo momento, la solución de los conflictos mediante el diálogo y el convencimiento. La Comisión de Mediación y Conciliación en conjunto con la Comisión de Asuntos Legislativos y la asesoría de la Oficina del Abogado General la Defensoría de los Derechos Universitarios elaborará los protocolos y manuales de procedimiento bajo los cuales atenderá, recabará información verbal, documental o testimonial, vigilará y dará seguimiento a las faltas al presente Catálogo. Los protocolos y manuales de procedimiento de la Comisión de Mediación y Conciliación deberán apegarse al estricto respeto a los Derechos Humanos, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos, así como a la observancia, en todo momento, de los principios del debido proceso. Los protocolos de atención y manuales de procedimiento deberán hacerse públicos en un plazo no mayor a seis meses a partir de la aprobación de este Catálogo de Normas de Convivencia. La Comisión de Mediación y Conciliación deberá de solicitar el apoyo de la Coordinación de Comunicación para difundir de manera amplia los procedimientos, así como los lugares y/o personas a las que las personas integrantes de la comunidad universitaria pueden acudir en caso de que lo requieran.
+
+Artículo 27. Cuando una falta sea considerada grave, no sea posible la mediación o se hayan agotado las posibilidades de mediación o conciliación, la Comisión de Mediación y Conciliación turnará el caso al Consejo de Justicia, para que emita un dictamen que incluya su fallo sobre las acusaciones, determine la sanción e informe a las instancias encargadas de aplicarla.
+
+Cuando la Comisión de Mediación y Conciliación o el Consejo de Justicia consideren que la sanción a la falta podría ser el despido o la suspensión de un trabajador o trabajadora, remitirán el caso a la Oficina del Abogado General para que ésta abra la Junta Aclaratoria según lo establecido en el Contrato Colectivo de Trabajo.
+
+Artículo 28. El Consejo de Justicia es un órgano colegiado jurídico de resolución de conflictos. Su naturaleza es resolver controversias en el marco del Catálogo de Normas de Convivencia y la normatividad aplicable; su actuación deberá ser imparcial, transparente y justa. Estará conformado por tres o nueve integrantes de la comunidad universitaria y será constituido de la siguiente manera:
+Cuando sean tres personas quienes lo integren, deberán ser una persona del sector académico, una persona del sector estudiantil y una persona del sector administrativo, técnico o manual, todas ellas con voz y voto. 
+Cuando sean nueve personas quienes lo integren, deberán ser tres personas del sector académico, tres personas del sector estudiantil y tres personas del sector administrativo, técnico o manual, todas ellas con voz y voto. 
+
+Artículo 29. Los requisitos para ser integrante del Consejo de Justicia por parte del sector académico son:
+
+    Ser profesor/a-investigador/a de tiempo completo dictaminado/a favorablemente.
+    No ocupar un puesto de confianza.
+    De preferencia contar con experiencia y/o conocimiento comprobable en el área de derechos humanos, mediación, arbitraje, justicia o cualquier otra que acredite su intervención en resolución de conflictos.
+    Contar con por lo menos tres años de antigüedad laboral en la Universidad.
+    No ocupar ningún cargo de representación por elección en cualquiera de los órganos de gobierno de la Universidad o del sindicato.
+    No ser ministro/a de ningún culto religioso, ni ocupar algún cargo de dirigente de partido político, ni ser parte de las Fuerzas Armadas.
+    No haber sido sancionado/a por alguna falta grave prevista en ninguna de las siguientes normativas:
+    Catálogo de Normas de Convivencia.
+    Reglamento de Responsabilidades Universitarias.
+    Cualquier otra a la que esté sujeto como trabajador/a.
+    Conocer la reglamentación universitaria vigente.
+    Presentar carta de exposición de motivos.
+    Firmar carta compromiso y de confidencialidad elaborada por la Comisión de Mediación y Conciliación del Consejo Universitario.
+    Obtener una evaluación favorable de todos los cursos de preparación diseñados para este órgano, a saber: impartición de justicia, derechos y ética universitaria, resolución de conflictos y perspectiva de género.
+
+Artículo 30. Los requisitos para ser integrante del Consejo de Justicia por parte del sector administrativo, técnico y manual son:
+
+    Ser trabajador/a de base de la Universidad.
+    No ocupar un puesto de confianza.
+    De preferencia contar con experiencia y/o conocimiento comprobable en el área de derechos humanos, mediación, arbitraje, justicia o cualquier otra que acredite su intervención en resolución de conflictos.
+    Contar con por lo menos tres años de antigüedad laboral en la Universidad.
+    No ocupar ningún cargo de representación por elección en cualquiera de los órganos de gobierno de la Universidad o del sindicato.
+    No ser ministro/a de ningún culto religioso, ni ocupar algún cargo de dirigente de partido político, ni ser parte de las Fuerzas Armadas.
+    No haber sido sancionado/a por alguna falta grave prevista en ninguna de las siguientes normativas:
+    Catálogo de Normas de Convivencia.
+    Reglamento de Responsabilidades Universitarias.
+    Cualquier otra a la que esté sujeto como trabajador/a.
+    Conocer la reglamentación universitaria vigente.
+    Presentar carta de exposición de motivos.
+    Firmar carta compromiso y de confidencialidad elaborada por la Comisión de Mediación y Conciliación del Consejo Universitario.
+    Obtener una evaluación favorable de todos los cursos de preparación diseñados para este órgano, a saber: impartición de justicia, derechos y ética universitaria, resolución de conflictos y perspectiva de género.
+
+Artículo 31. Los requisitos para ser integrante del Consejo de Justicia por parte del sector estudiantil son:
+    
+    Ser estudiante con matrícula activa de una licenciatura o posgrado de la Universidad.
+    Los/as estudiantes de licenciatura deberán haber estado inscritos/as como mínimo en los cuatro semestres anteriores, y los/as estudiantes de posgrado deberán haber estado inscritos/as por lo menos en los dos semestres anteriores.
+    No ocupar un puesto de confianza.
+    De preferencia contar con experiencia y/o conocimiento comprobable en el área de derechos humanos, mediación, arbitraje, justicia o cualquier otra que acredite su intervención en resolución de conflictos.
+    No ocupar ningún cargo de representación por elección en cualquiera de los órganos de gobierno de la Universidad.
+    No ser ministro/a de ningún culto religioso, ni ocupar algún cargo de dirigente de partido político, ni ser parte de las Fuerzas Armadas.
+    No haber sido sancionado/a por alguna falta grave prevista en ninguna de las siguientes normativas:
+    Catálogo de Normas de Convivencia.
+    Reglamento de Responsabilidades Universitarias.
+    Cualquier otra a la que esté sujeto/a como estudiante.
+    Conocer la reglamentación universitaria vigente.
+    Presentar carta de exposición de motivos.
+    Firmar carta compromiso y de confidencialidad elaborada por la Comisión de Mediación y Conciliación del Consejo Universitario.
+    Obtener una evaluación favorable de todos los cursos de preparación diseñados para este órgano, a saber: impartición de justicia, derechos y ética universitaria, resolución de conflictos y perspectiva de género.
+
+Artículo 32. El Pleno del Consejo Universitario, a propuesta de la Comisión de Asuntos Legislativos, emitirá la Convocatoria para la conformación del Consejo de Justicia.
+
+Artículo 33. La Comisión de Mediación y Conciliación revisará que los y las aspirantes cumplan con los requisitos establecidos en los artículos 29, 30 y 31 del presente catálogo, según el caso, para conformar o incorporarse al Consejo de Justicia.
+
+Artículo 34. La conformación o integración al Consejo de Justicia será, en caso de ser necesario, a través de un proceso de insaculación, por sector, entre aquellos/as aspirantes que hayan cumplido con los requisitos establecidos en los artículos 29, 30 y 31 del presente catálogo.
+
+La Comisión de Mediación y Conciliación realizará el proceso de insaculación en presencia de la Contraloría General de la Universidad, la Defensoría de los Derechos Universitarios y con el apoyo técnico de la Coordinación de Informática y Telecomunicaciones.
+
+Artículo 35. Las y los integrantes del Consejo de Justicia serán ratificados/as por el pleno del Consejo Universitario. En un plazo no mayor a tres días hábiles contados a partir de su ratificación en el Pleno, la secretaría técnica de la Comisión de Mediación y Conciliación instalará al Consejo de Justicia. 
+
+El Consejo de Justicia entrará en funciones el día de su instalación. 
+
+Artículo 36. La renovación de las personas integrantes del Consejo de Justicia será cada dos años y escalonada por sector; primero el sector estudiantil, después el administrativo, técnico y manual y por último el académico, con una diferencia de seis meses cada uno. Quienes integren el Consejo de Justicia no podrán formar parte del mismo durante dos periodos consecutivos.
+
+Artículo 37. El Consejo de Justicia debe elaborar su reglamento interno, el cual contemplará la manera de resolver la baja o renuncia de alguno/a de sus integrantes, de conformidad con los artículos 28, 29, 30 y 31 del presente Catálogo de Normas de Convivencia. El Consejo de Justicia está impedido para sesionar en ausencia de alguno de los sectores y para el caso de la suplencia, esta será efectiva únicamente para lo que reste del periodo
+
+Artículo 38. Para el caso del sector estudiantil, quienes se integren al Consejo de Justicia tendrán la opción de que se les libere el Servicio Social, siempre y cuando cumplan con lo establecido en el Reglamento de Servicio Social y Prácticas Profesionales de la UACM.
+
+Artículo 39. Para el caso del sector académico, quienes se integren al Consejo de Justicia podrán optar por una asignación de horas frente a grupo de mínimo seis horas.
+
+Artículo 40. La administración y los/as responsables de área deberán garantizar que los/las integrantes del sector administrativo, técnico y manual tengan las facilidades para destinar 20 horas a la semana de su tiempo laboral a los trabajos que realicen en el Consejo de Justicia.
+
+Artículo 41. En observancia a lo dispuesto en los artículos 5, 6 y 7 de la Ley de la UACM; 77, 83, 84, 85, 86 y 88 del Estatuto General Orgánico, el Consejo de Justicia deberá atender a los principios universitarios, derechos e intereses legítimos de la comunidad universitaria.
+
+Artículo 42. El Consejo de Justicia deberá revisar las sanciones establecidas en el presente Catálogo de Normas de Convivencia para efectos de emitir una resolución en términos de sus facultades y atribuciones.
+
+Artículo 43. Las resoluciones del Consejo de Justicia deberán ser resultado del análisis, el pensamiento crítico y la discusión, y se buscará que sean por consenso. En caso de que el consenso no sea posible, las resoluciones se determinarán de las siguientes formas:
+
+    Si el Consejo de Justicia se integra por tres personas, se requerirá del voto de dos de ellas.
+    Si el Consejo de Justicia se integra por nueve personas, se requerirá del voto de siete de ellas. 
+    Los y las integrantes del Consejo de Justicia deberán reunirse obligadamente para tal efecto sin que medie ausencia que no sea justificada por causa de fuerza mayor.
+
+Artículo 44. El Consejo de Justicia elaborará su Reglamento Interno y pedirá la opinión técnica de la persona titular de la Oficina del Abogado General. Entregará su anteproyecto de Reglamento Interno a la Comisión de Asuntos Legislativos, la cual elaborará un dictamen sobre dicho Reglamento Interno para ser discutido y, en su caso, aprobado por el Pleno del Consejo Universitario.
+
+Cada cinco años o antes, de ser necesario, el Consejo de Justicia revisará su Reglamento Interno y, en su caso, presentará ajustes y/o modificaciones a la Comisión de Asuntos Legislativos, a fin de que ésta elabore un dictamen y lo presente ante el Pleno del Consejo Universitario.
+
+Artículo 45. Cualquier falta probablemente cometida por alguno/a de los/as integrantes del Consejo de Justicia, se deberá denunciar ante la Defensoría de los Derechos Universitarios. Esta instancia, a su vez, emitirá un dictamen para ponerlo a consideración del Pleno del Consejo Universitario para que, en su caso, éste determine las sanciones correspondientes. Lo anterior no impide que la comunidad ejerza su derecho a promover un Procedimiento de Responsabilidades Universitarias.
+
+Artículo 46. Además de lo establecido en el artículo 27 del presente Catálogo, el Consejo de Justicia podrá dar inicio al procedimiento por cualquiera de las siguientes vías:
+
+    Con la remisión del caso por parte de la Comisión de Mediación y Conciliación. 
+    Con la remisión por parte de las coordinaciones de Plantel y/o de los Consejos de Plantel. Los casos en que este supuesto aplique, quedarán establecidos en el Manual de procedimientos correspondiente. 
+    Con la remisión por parte de la Defensoría de los Derechos Universitarios. Los casos en que este supuesto aplique, quedarán establecidos en el Protocolo para prevenir y eliminar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual, en donde también se establecerán los recursos de revisión correspondientes.
+    
+En los tres casos la remisión se hará mediante escrito que contenga la exposición de los hechos y se anexarán las pruebas para su fundamentación.
+
+Artículo 46 bis. A partir de la remisión del expediente, las instancias especificadas en el artículo 46 tendrán un máximo de tres días hábiles para notificar a las partes.
+
+Artículo 47. Los insumos del Consejo de Justicia serán:
+    
+    La investigación que le haya entregado la Comisión de Mediación y Conciliación del CU, la Defensoría de los Derechos Universitarios o la Coordinación o Consejo de Plantel.
+    Las declaraciones de las personas involucradas con su correspondiente registro documental.
+
+La persona o instancia facultada para recibir el expediente por parte del Consejo de Justicia, contará con un máximo de cinco días hábiles para notificar a los integrantes de dicho Consejo la llegada del expediente. 
+
+El Consejo de Justicia tendrá máximo 10 días para notificar a las personas interesadas sobre las audiencias donde se escucharán sus declaraciones.
+
+Una vez que se hayan llevado a cabo las audiencias, el Consejo de Justicia tendrá máximo 20 días días hábiles para emitir la resolución.
+
+Los plazos establecidos en este artículo serán improrrogables salvo causas de fuerza mayor, las cuales deberán ser claramente especificadas en el Reglamento interno del Consejo de Justicia.
+
+Artículo 47 bis. En el caso de que el o la probable infractor/a no se presentara a la audiencia sin causa justificada, y habiendo sido debidamente notificado/a, la diligencia se desahogará conforme a derecho, se darán por ciertos los hechos señalados al o la probable infractor/a admitiendo, valorando y desahogando los señalamientos y las pruebas que integren el expediente.
+
+En caso de que la ausencia se base en causa justificada, el Consejo de Justicia programará la audiencia para fecha posterior, tomando en cuenta el motivo de la causa justificada al momento de fijar una nueva citación.
+
+Artículo 48. El Consejo de Justicia deberá llevar a cabo sus procedimientos en apego a los principios pro persona, de buena fe, presunción de inocencia, de objetividad, imparcialidad, legalidad, certeza, confidencialidad, inmediatez, debido proceso y con respeto a los Derechos Humanos y Universitarios. Dichos principios se deberán plasmar en la normatividad relativa al Consejo de Justicia.
+
+Artículo 49. El dictamen del Consejo de Justicia será público y obligatorio para las autoridades e instancias involucradas.
+
+Las resoluciones del Consejo de Justicia serán públicas y de aplicación obligatoria por parte de las autoridades e instancias competentes, buscando un ajuste razonable respecto de la protección de datos personales.
+
+Los recursos de revisión podrán presentarse bajo los siguientes términos:
+
+    En caso de que el expediente haya sido remitido por la Comisión de Mediación y Conciliación, por la Coordinación del Plantel y/o por el Consejo de Plantel, y de que la resolución haya sido emitida por el Consejo de Justicia, el recurso de revisión podrá interponerse ante la Defensoría de los Derechos Universitarios.
+    En caso de que el expediente haya sido remitido por la Defensoría de los Derechos Universitarios, y de que la resolución haya sido emitida por el Consejo de Justicia, el recurso de revisión podrá interponerse ante la Oficina del Abogado General.
+    En caso de que el expediente haya sido remitido por la Comisión de Mediación y Conciliación, por la Coordinación de Plantel y/o por el Consejo de Plantel, o por la Defensoría de los Derechos Universitarios, y de que la resolución haya sido emitida por la Oficina del Abogado General, los/as trabajadores/as podrán acudir a las instancias laborales competentes.
+
+Artículo 50. Tratándose de casos de falta grave a las normas, la Comisión de Mediación y Conciliación o el Consejo de Justicia podrán dictar las medidas de protección pertinentes al caso, para lo cual instruirán a las instancias o áreas competentes para su implementación. Las medidas de protección deberán estar debidamente formuladas y motivadas, con la finalidad de salvaguardar la integridad física, los derechos y la convivencia de las personas integrantes de la comunidad universitaria.
+
+Artículo 51. Se consideran faltas graves, tal como se enuncia en el presente Catálogo:
+
+    Ejercer Violencia Física (artículo 10)
+    Difundir mensajes de odio por motivos de raza, género, identidad y expresión de género, orientación sexual, condición de discapacidad, origen socioeconómico e ideología; difundir mensajes de amenaza, denigración, intimidación y persecución; ejercer acciones de hostigamiento y acoso sexual en redes sociales u otras tecnologías de información y comunicación en contra de alguna persona integrante de la comunidad universitaria (artículo 11);
+    Ejercer actos u omisiones que generen discriminación (artículo 12)
+    Ejercer cualquiera de los actos de violencia contra las mujeres que se encuentra tipificado en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia: violencia psicológica, física, económica, patrimonial, sexual, docente y laboral; así como el hostigamiento y acoso sexual, y cualesquiera acción y/u omisión que tenga por objeto o como resultado atentar contra la dignidad humana, las libertades y la igualdad (artículo 13)
+    Usar, portar y trasladar armas (artículo 16)
+    Distribuir, proporcionar, vender, intercambiar y ofrecer bebidas alcohólicas o cualquier substancia considerada por las leyes nacionales como narcótico, estupefaciente y /o psicotrópico (artículo 19)
+    Ejercer actos de acoso y/u hostigamiento laboral, tanto en forma personal, como por mensajes de texto, imágenes en los medios de comunicación, a través de las redes sociales y en cualquier tecnología de información y comunicación (artículo 20)
+
+Artículo 52. El siguiente Catálogo de sanciones es de observancia general para todas las instancias competentes. Para efectos de este catálogo las sanciones aplicables son:
+
+    Amonestación por escrito. La amonestación puede ser pública o privada.
+    Apercibimiento. Puede ser público o privado
+    Emisión de un acta circunstanciada
+    Presentación de una disculpa pública
+    Cambio temporal de plantel de adscripción con carta compromiso de cambio de conducta y acompañamiento profesional
+    Cambio definitivo de plantel de adscripción con carta compromiso de cambio de conducta y acompañamiento profesional
+    Prestación de servicio comunitario
+    Reparar el daño o perjuicio causado a personas. Reparar el daño o perjuicio que se haya ocasionado a la Universidad o a sus bienes
+    Carta compromiso de cambio de conducta
+    Rehabilitación condicionada
+    Separación temporal de la Universidad
+    Cuando se hayan agotado todas las rutas de resarcimiento de la falta, o cuando la gravedad de la misma sea extrema e irreparable, se sancionará con la separación definitiva de la Universidad.
+
+Estas sanciones se aplicarán sin perjuicio de otras establecidas en la legislación universitaria y serán independientes de la responsabilidad penal, civil o administrativa en que pueda incurrir la persona que cometió la falta en los ámbitos local, federal o internacional.
+
+Artículo 53. La sanción de cambio de plantel, sea temporal o definitiva, no será aplicable en los casos previstos en el Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual en la UACM. 
+
+Artículo 54. Las sanciones previstas en el presente Catálogo de Normas de Convivencia se determinarán tomando en cuenta los siguientes elementos:
+
+    El daño y/o efecto causado 
+    Las circunstancias y medios de ejecución de la falta
+    Si la falta ocurrió entre pares o en el marco de una relación jerárquica 
+    El reconocimiento por parte de la persona que cometió la falta 
+    La reincidencia se considerará una agravante 
+    Si la falta ocurrió bajo influjo de alcohol o substancia prohibida, se considerará una agravante 
+    Si se cometieron dos o más faltas de manera simultánea, se considerará una agravante 
+
+[Regresar a Documento Principal](index.html)
+
+
+# Transitorios
+
+Uno. El presente Catálogo de Normas de Convivencia, así como el acuerdo que le da sustento, entrarán en vigor a partir de la fecha de su publicación en la página oficial de la Universidad.
+
+Dos. La rectoría implementará en un plazo no mayor a seis meses un programa de capacitación e información amplio sobre el tema de acoso y hostigamiento laboral que contemple la colaboración interinstitucional y la participación del SUTUACM.
+
+Tres. El Pleno del Consejo Universitario instruye a los Consejos de Plantel, a los y las Coordinadores/as de Plantel, a los y las Coordinadores/as de Colegios, a la Coordinación de Servicios Estudiantiles, al personal encargado de las diferentes unidades de atención médica, a la Coordinación de Planeación a crear un grupo de trabajo para que, en un plazo no mayor de tres meses contados a partir de la publicación de este catálogo, presente al Pleno: 
+
+    una propuesta para el establecimiento de convenios interinstitucionales en el tema,
+
+    una propuesta integral para la prevención y atención de adicciones en la comunidad universitaria, y 
+    el protocolo de actuación de los servicios médicos en la UACM. Dichas propuestas deberán contemplar el respeto a los derechos humanos de los/as integrantes de la comunidad universitaria, la no criminalización de las personas consumidoras, así como actividades para la reflexión, talleres y toda acción creativa. Estas instrucciones se consideran de atención urgente, por lo que los plazos establecidos son improrrogables. Este grupo de trabajo tendrá la obligación de elaborar los lineamientos para su funcionamiento interno en los primeros quince días posteriores a su integración, además deberá elaborar un proyecto de dictamen para su presentación ante el Consejo Universitario.
+
+Cuatro. El Consejo de Justicia presentará a la Comisión de Asuntos Legislativos el proyecto de reglamento interno en un plazo no mayor a 30 días hábiles a partir de su instalación. Para su elaboración considerará como insumos tanto las versiones estenográficas de las sesiones como las distintas propuestas que se han presentado en el Pleno, así como todas las adiciones que considere convenientes y pertinentes. La Comisión de Asuntos Legislativos deberá elaborar para su presentación ante el Pleno del Consejo Universitario el dictamen correspondiente para su discusión en un plazo no mayor a 30 días hábiles posteriores a la entrega de la propuesta de reglamento por parte del Consejo de Justicia.
+
+Cinco. Las personas que integren el Consejo de Justicia serán renovadas en la primera ocasión en los siguientes plazos:
+
+    Sector estudiantil: a los dos años de la instalación.
+    Sector administrativo: a los dos años y seis meses de la instalación
+    Sector académico: a los tres años de la instalación
+Las renovaciones consecutivas serán cada dos años para todos los sectores. 
+
+Seis. La Comisión de Mediación y Conciliación elaborará el Manual de Procedimientos  para la aplicación del Catálogo de Normas de Convivencia, para su aprobación en el Pleno del Consejo Universitario, en un máximo de 30 días hábiles a partir de la publicación del Catálogo de Normas de Convivencia.
+
+Siete. En tanto la Comisión de Mediación y Conciliación presenta al Pleno el Manual de Procedimientos para la aplicación del Catálogo de Normas de Convivencia, el procedimiento de primera atención es:
+
+    Las personas integrantes de la comunidad universitaria acudirán con la Coordinación del Plantel cuando consideren que se han violentado las normas de convivencia, o bien con quien ésta nombre como responsable y/o con alguna persona del Consejo de Plantel que pertenezca a la Comisión de Mediación y Conciliación o de Seguridad local.
+    Quien dé la primera atención deberá registrar el caso y abrir el expediente, cuyo carácter será confidencial. Este se resguardará en la Coordinación del Plantel.
+    Cuando sea posible, quien dé la primera atención podrá iniciar el proceso de mediación informal, previa capacitación organizada por la Comisión de Mediación y Conciliación.
+    En situación de confinamiento, la primera atención estará a cargo de la Comisión de Mediación y Conciliación del Consejo Universitario a través de la cuenta de correo institucional: cu.mediacion@uacm.edu.mx.
+    Todos los casos que se puedan atender de manera local y/o en línea, se atenderán de ese modo.
+    Cuando no sea posible la mediación o la conciliación, o cuando el caso sea una falta grave o una reincidencia —y que no implique peligro inminente e inmediato—, quien dé la primera atención tendrá que asesorar a la persona en el llenado de su queja para la presentación ante la Comisión de Mediación y Conciliación del Consejo Universitario. Quien atiende debe canalizar el caso y darle seguimiento.
+    Una vez publicado el Catálogo de Normas de Convivencia, la Comisión de Mediación y Conciliación, durante la pandemia, convocará a: coordinaciones de planteles y a quienes estas consideren pertinentes; comisiones de mediación y conciliación o de seguridad de los planteles; así como a las coordinaciones de colegio y personas encargadas de las Sedes de la Universidad, para llevar a cabo una primera capacitación en materia de mediación y conciliación y de los procedimientos e instancias aprobados por el Consejo Universitario.
+
+Ocho. En tanto la Comisión de Mediación y Conciliación presenta al Pleno la propuesta de Manual de Procedimientos para la aplicación del Catálogo de Normas de Convivencia, y en tanto el grupo de trabajo conformado en el Transitorio 3 no entregue la propuesta integral para prevenir y atender las adicciones en la comunidad universitaria, así como el protocolo de actuación de los servicios médicos, el procedimiento para atender casos de consumo de alcohol y/o drogas en los planteles es:
+
+    Cuando la Coordinación del Plantel, quien ésta nombre como responsable con capacidad de toma de decisiones -que no sea personal de vigilancia-, y/o integrantes del Consejo de Plantel y/o de la Comisión de Mediación y Conciliación del Plantel, tengan conocimiento o presencien actos de consumo de alcohol y/o drogas, se acercarán a la/s persona/s que estén consumiendo, le/s solictará/n que se identifique/n y se retire/n de inmediato de la instalaciones universitarias. 
+
+    En caso de que la/s persona/s esté/n en un estado que la/s ponga en peligro, se le/s llevará a un lugar seguro hasta que esté/n en condiciones de retirarse por sí misma/s. En caso de que la persona que comete la falta no pertenezca a la comunidad universitaria, se levantará un acta de hechos, se le pedirá que se identifique y se retire del plantel. Cuando vuelva a ingresar se le apercibirá de que no puede consumir drogas o alcohol dentro del plantel. Si la persona reincide, se le pedirá nuevamente que se retire, se elaborará una segunda acta de hechos y se informará a la Oficina del Abogado General para que asesore acerca del procedimiento a seguir. 
+
+    En caso de que la/s persona/s se nieguen a identificarse y/o a retirarse de las instalaciones del Plantel, la Coordinación solicitará el apoyo del personal de vigilancia para que la/s conduzca/n hacia la salida, respetando en todo momento sus derechos humanos.
+    La Coordinación del Plantel en conjunto con la Comisión de Mediación y conciliación del Plantel estarán a cargo de llevar registro de estos incidentes y de notificarle a la/s persona/s que se está realizando dicho registro. Cuando sea posible la canalización a servicios de atención médica o psicológica, realizará las gestiones pertinentes.
+    Los casos de consumo de alcohol y/o drogas se remitirán a la Comisión de Mediación y Conciliación después de haberse llevado a cabo el registro de tres incidentes por parte de la misma persona.
+    
+    En caso de que quien haya estado consumiendo alcohol y/o drogas sea trabajador o trabajadora se levantará un acta circunstanciada en presencia de los representantes sindicales de planteles o sedes administrativas.
+    
+Nueve. En tanto la Comisión de Mediación y Conciliación presenta al Pleno el Manual de Procedimientos para la atención de las faltas al Catálogo de Normas de Convivencia, el procedimiento para atender casos de violencia grave o conductas que configuren un delito será el siguiente:
+
+    En caso de conductas que comprometan la integridad física de alguna persona integrante de la comunidad universitaria o de alguna otra persona que se encuentre dentro de las instalaciones o espacios de la Universidad, la Coordinación de Plantel, quien ésta nombre como responsable con capacidad de toma de decisiones -que no sea personal de vigilancia-, y/o integrantes del Consejo de Plantel y/o de la Comisión de Mediación y Conciliación del Plantel, solicitará a quien cometa la falta que se retire de las instalaciones y espacios universitarios. 
+    En caso de que quien haya cometido la falta grave sea trabajador/a se levantará un acta circunstanciada que deberá turnarse de manera inmediata a la Oficina del Abogado General para que se lleve a cabo el procedimiento según el Contrato Colectivo de Trabajo. La Oficina del Abogado General tendrá un máximo de tres días hábiles para iniciarlo.
+    En caso de que quien haya cometido la falta grave sea estudiante, una vez que la Coordinación de Plantel, quien ésta nombre como responsable con capacidad de toma de decisiones -que no sea personal de vigilancia-, y/o integrantes del Consejo de Plantel y/o de la Comisión de Mediación y Conciliación del Plantel le haya pedido que se retire de las instalaciones, remitirá el caso con los elementos de prueba al Consejo de Justicia una vez que esté constituido.
+    En lo relativo a la discriminación y a la violencia contra las mujeres, el acoso y el hostigamiento sexual, se atenderán estás faltas graves con el Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual.
+    En caso de tratarse de un delito la Coordinación de Plantel, quien ésta nombre como responsable con capacidad de toma de decisiones -que no sea personal de vigilancia-, y/o integrantes del Consejo de Plantel y/o de la Comisión de Mediación y Conciliación del Plantel contactarán a la Oficina del Abogado General para que instruya lo conducente.
+
+Diez. En tanto la Comisión de Mediación y Conciliación presenta al Pleno el Manual de Procedimientos para la atención de las faltas al Catálogo de Normas de Convivencia, el procedimiento para mediar o conciliar se describe a continuación.
+
+    Podrán ser mediadores/as o conciliadores/as la Coordinación de Plantel, quien ésta nombre como responsable con capacidad de toma de decisiones -que no sea personal de vigilancia-, y/o integrantes del Consejo de Plantel y/o de la Comisión de Mediación y Conciliación del Plantel, previa capacitación conforme a lo establecido en el artículo transitorio 7.
+    
+    Cuando sea posible la intervención a través de un proceso de mediación o conciliación, se convocará a la o las partes, juntas o por separado según sea el caso, a una sesión. En dicha sesión, quienes funjan como mediadores/as y/o conciliadores/as deberán:
+      Presentarse.
+      Informar el o los motivos de la reunión. 
+      Explicar en qué consiste la mediación o la conciliación.
+      Describir el/los procedimiento/s a seguir. 
+      Solicitar a las partes en conflicto su aceptación expresa para participar en el procedimiento. 
+      Solicitar a las partes en conflicto la aceptación expresa de la persona que atienda el caso en su papel de mediadora o conciliadora. 
+      Una vez que las partes hayan aceptado el proceso, se iniciará propiamente el procedimiento de mediación y conciliación.
+      Los acuerdos que surjan de dicho proceso serán confidenciales en tanto se cumplan. De no hacerlo, éstos podrán ser considerados como antecedentes en un procedimiento posterior.
+      En situación de confinamiento, la primera atención estará a cargo de la Comisión de Mediación y Conciliación del Consejo Universitario a través de la cuenta de correo institucional: cu.mediacion@uacm.edu.mx.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+**Catálogo de Normas de Convivencia.**
+TÍTULO I, TITULO II, TITULO III, ARTICULOS TRANSITORIOS, GLOSARIO DE TERMINOS, EXPOSICIÓN DE MOTIVOS
+Aprobado por 21 a favor, 1 en contra, 0 abstenciones y 3 ausencias
+

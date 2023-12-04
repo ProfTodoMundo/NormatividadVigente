@@ -1,0 +1,339 @@
+---
+title: "LeyUACM"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+**PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 5 DE ENERO DE 2005** 
+
+TEXTO VIGENTE 
+Última reforma publicada en la G.O.C.D.M.X. el 28 de noviembre de 2014 
+LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO
+(Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.-  México, la Ciudad de la Esperanza.-
+
+JEFE DE GOBIERNO DEL DISTRITO FEDERAL) LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO 
+ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed: 
+Que la Honorable Asamblea Legislativa del Distrito Federal III Legislatura, se ha servido dirigirme el siguiente: 
+DECRETO  (Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL) 
+
+**LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL III LEGISLATURA** 
+
+D E C R E T A:
+LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO 
+
+# TÍTULO PRIMERO DISPOSICIONES GENERALES 
+
+## CAPÍTULO I: NATURALEZA Y OBJETIVO DE LA UNIVERSIDAD 
+
+Artículo 1.- La presente Ley es de orden público y de interés social; tiene por objeto dotar de autonomía a la institución de educación denominada Universidad de la Ciudad de México, creada por Decreto del Jefe de Gobierno del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal del 26 de abril de 2001, con base en la fracción VII del artículo 3o constitucional, por lo que en lo sucesivo se denominará Universidad Autónoma de la Ciudad de México.  Para efectos de esta ley, se entiende por Universidad a la Universidad Autónoma de la Ciudad de México.
+
+Artículo 2.- La Universidad es un organismo público autónomo del Distrito Federal, por lo que goza de personalidad jurídica y patrimonio propio.  La Universidad se rige por el artículo 3o de la Constitución, la presente ley y las demás normas que de la misma emanen.  Toda disposición que contravenga lo establecido en esta ley, será nula de pleno derecho. 
+
+Artículo 3.- La Universidad tiene la facultad y responsabilidad de gobernarse a sí misma, definir su estructura y las funciones académicas que le correspondan, realizando sus funciones de educar, investigar y difundir la cultura de acuerdo con los principios del artículo 3° constitucional, respetando las libertades de estudio, cátedra e investigación y de libre examen y discusión de las ideas; determinar sus planes y programas; fijar los términos de ingreso, promoción y permanencia de su personal académico y administrar su patrimonio. 
+
+Artículo 4.- La Universidad tiene las siguientes atribuciones: 
+
+    I. Organizarse de la forma más conveniente para el desarrollo de sus actividades y establecer su propia normativa para lo cual podrá crear, organizar, integrar o suprimir sus estructuras académica, administrativa y operativa, de investigación, difusión y extensión de la cultura, y de cooperación y servicio conforme a los reglamentos correspondientes; 
+    
+    II. Elegir o designar a los integrantes de los órganos y cuerpos colegiados establecidos en sus normas; 
+    
+    III.  Otorgar certificados de conocimientos, títulos, grados, diplomas y reconocimientos académicos; 
+    
+    IV.  Revalidar y establecer equivalencias de estudios del mismo tipo educativo que imparte, realizados en instituciones nacionales y extranjeras; 
+    
+    V.  Incorporar estudios y otorgar o retirar reconocimiento de validez, para fines académicos, a los estudios realizados en planteles particulares que impartan el mismo tipo de enseñanza, con planes y programas equivalentes; 
+    
+    VI.  Contratar y adscribir al personal académico con base en el Estatuto del Personal Académico, que expida; 
+    
+    VII.  Establecer las formas de convocatoria e incorporación de los estudiantes; 
+    
+    VIII.  Formular sus políticas académicas, de investigación, de extensión y difusión del conocimiento y de la cultura; 
+    
+    IX.  Establecer políticas de cooperación y servicio con todos los sectores del país y del extranjero de acuerdo con sus propios fines y programas académicos; 
+    
+    X.  Determinar sus planes y programas de estudio, sus programas de investigación y extensión,  así como las modalidades de los proyectos y actividades de apoyo a las comunidades del  Distrito Federal; 
+    
+    XI.  Establecer las normas y formas de administración de su patrimonio; 
+    
+    XII.  Realizar toda clase de actos jurídicos para el logro de sus fines; 
+    
+    XIII.  Ejercer su presupuesto; y 
+    
+    XIV. Las demás que se deriven de esta Ley, sus estatutos y reglamentos. 
+
+## CAPÍTULO II. DE LA COMUNIDAD UNIVERSITARIA 
+
+Artículo 5.- La Universidad Autónoma de la Ciudad de México está integrada por los estudiantes, el personal académico y el personal administrativo, técnico y manual. 
+
+    I.  Los principios de cooperación y apoyo mutuos deben ser la base de las normas que rijan la Universidad. 
+  
+    II. La comunidad académica está integrada por los estudiantes y el personal académico, y está constituida mediante relaciones de cooperación y apoyo mutuos para impulsar la superación de todos sus integrante
+  
+    III.  Los trabajadores administrativos, técnicos y manuales, así como los responsables administrativos y académico-administrativos, estarán al servicio de la Universidad, del cumplimiento de sus actividades y funciones académicas. 
+  
+    IV. Las funciones de los trabajadores, así como las actividades y atribuciones de los responsables de las diversas áreas académicas y administrativas, serán determinadas por los órganos colegiados correspondientes y estarán siempre supeditados a los mismos y definidas en el Estatuto General Orgánico y los reglamentos respectivos. 
+
+Artículo 6.- Los estudiantes, en tanto que participan en la realización de las funciones académicas, forman parte de la Universidad. Sus derechos y obligaciones serán definidos en los reglamentos correspondientes, conforme a los siguientes principios y disposiciones:
+
+    I. Es interés legítimo de los estudiantes aprender y adquirir una formación integral: científica, humanística y crítica; recibir los apoyos necesarios para dicho propósito; obtener la certificación de la formación adquirida; y participar en el gobierno de la Universidad en los términos que establecen esta Ley y las normas que de ella se deriven; 
+    
+    II. El ingreso de los estudiantes a la Universidad estará sujeto a procedimientos y criterios académicos congruentes con los principios que crearon la Universidad; 
+    
+    III. El ingreso a los programas de docencia de la Universidad que conducen a títulos o grados tendrá como requisitos generales, que el interesado cuente con el certificado de estudios del tipo o nivel anterior al que desee ingresar y que la institución disponga de los recursos necesarios para atenderlo en alguna de sus modalidades de docencia; 
+    
+    IV. Concebida como una institución de servicio, la Universidad brindará a los estudiantes los apoyos académicos necesarios para que tengan éxito en sus estudios. Uno de estos apoyos será un diagnóstico de las condiciones de preparación académica con las cuales los inician, y la indicación acerca de cómo subsanar sus deficiencias; y otro será establecer bibliotecas y audiotecas, las cuales deberán contar con libros de consulta en sistema braille; 
+    
+    V. Todo estudiante de la Universidad podrá inscribirse en cualquier curso que en ella se imparta con dos únicas condiciones: a) que demuestre, de conformidad con los reglamentos aplicables, poseer los conocimientos previos que dicho curso supone y b) que haya cupo en el momento de inscribirse; 
+    
+    VI. Todos los estudiantes tendrán derecho a que, a lo largo de sus estudios, se les practiquen las evaluaciones diagnósticas y formativas necesarias para que conozcan sus avances y carencias, y puedan llevar a cabo las acciones indispensables para lograr los objetivos académicos que se propongan. Los resultados de estas evaluaciones no podrán ser usados para restringir sus derechos, ni los estudiantes podrán usarlos para exigir certificaciones en condiciones distintas a las establecidas en el artículo 14 de esta ley y en los estatutos y reglamentos correspondientes; 
+    
+    VII. Los participantes en actividades de difusión cultural y extensión universitaria, tales como cursos libres, seminarios y talleres, tendrán los derechos, obligaciones y reconocimientos que definan los reglamentos respectivos; 
+    
+    VIII. Es obligación de todos los estudiantes respetar la libertad de expresión, de cátedra y de investigación de todos los universitarios. Las consecuencias del incumplimiento de esta responsabilidad serán definidas en los reglamentos respectivos; 
+    
+    IX. Es obligación de todos los estudiantes hacer uso responsable de los recursos de la Universidad. Por tal motivo deberán abstenerse de toda acción u omisión que signifique un mal uso o desperdicio de esos recursos. Las instancias y mecanismos para determinar el incumplimiento de esta responsabilidad, así como las consecuencias del mismo, serán definidas en los reglamentos correspondientes; 
+    
+    X. Todo estudiante tiene el derecho a participar, de conformidad con lo establecido en esta Ley y en los estatutos y reglamentos que de ésta se deriven, en los órganos colegiados de la Universidad en los que se resuelvan asuntos que afecten sus intereses legítimos y los generales de la Universidad. 
+
+Artículo 7.- El personal académico es parte de la Universidad. Sus derechos y obligaciones estarán establecidos en el Estatuto del Personal Académico y demás reglamentos que se sujetarán a las siguientes disposiciones y principios: 
+
+    I. Es interés legítimo del personal académico desarrollar un trabajo idóneo en relación con los fines de la Universidad; contar con las condiciones para dicho propósito; y recibir la remuneración que determinen los tabuladores de la Universidad; 
+    
+    II. El personal académico de la Universidad deberá desarrollar permanentemente sus conocimientos, habilidades y destrezas; deberá estar al día sobre los adelantos en su área de conocimiento, así como sobre los mejores procedimientos didácticos, y deberá cumplir con las aportaciones que de él se esperen en materia docente, de investigación, difusión y extensión; 
+    
+    III. Las condiciones de ingreso del personal académico interino y definitivo, serán establecidas en el Estatuto del Personal Académico; 
+    
+    IV. Todo el personal académico de tiempo completo de la Universidad debe participar en la docencia, investigación, difusión, divulgación, certificación de conocimientos, cooperación interinstitucional y, en su caso, en la prestación de servicios a la comunidad, de acuerdo con lo dispuesto en esta Ley y en los estatutos y reglamentos que de ella deriven; 
+    
+    V. La distribución de cargas de trabajo del personal académico estará determinada en los programas que aprueben los cuerpos colegiados, los cuales deberán considerar igualmente las obligaciones derivadas de la participación de cada académico en cuerpos colegiados académicos, administrativos o de gobierno institucional; 
+    
+    VI. Es obligación de todo el personal académico respetar la libertad de expresión, de cátedra y de investigación de todos los universitarios. Las consecuencias del incumplimiento de esta responsabilidad serán definidas en el Estatuto del Personal Académico y demás reglamentos
+    
+    VII. ; Todo miembro del personal académico tiene el derecho de participar en los órganos colegiados de la Universidad en los que se resuelvan asuntos que afecten sus intereses legítimos y en los generales de la Universidad, en los términos de esta Ley y de los estatutos y reglamentos que de esta se deriven; 
+    
+    VIII. Todo miembro del personal académico podrá proponer a los órganos colegiados competentes proyectos de investigación, docencia, difusión, extensión y cooperación. La aprobación de estos proyectos dependerá, exclusivamente, de que cumplan los criterios académicos generales establecidos por los órganos competentes, de su pertinencia –en términos del proyecto educativo y cultural de la Universidad–, y de que la institución disponga de los medios necesarios para ejecutarlos. 
+
+[Documento Principal](index.html)
+
+# TÍTULO SEGUNDO. LA AUTONOMÍA ACADÉMICA 
+
+## CAPÍTULO I. DE LA CALIDAD Y RESPONSABILIDAD ACADÉMICA 
+
+Artículo 8.- La autonomía y las libertades de cátedra y de investigación consagradas en el artículo 3o constitucional conllevan, para la Universidad Autónoma de la Ciudad de México el deber de garantizar el mejor nivel en todas sus actividades académicas, y de informar sus resultados a la sociedad a la que sirve. 
+
+Artículo 9.- Los programas académicos de la Universidad que conduzcan a la obtención de títulos y grados deberán cumplir con los requisitos que se exijan para lograr la acreditación que otorguen organismos interinstitucionales universitarios que ejerzan dicha función. 
+
+Artículo 10.- La Universidad debe cumplir con los requerimientos necesarios para lograr su ingreso a asociaciones de instituciones de educación superior nacionales o internacionales que propicien un mejor logro de sus objetivos. 
+
+Artículo 11.- Las actividades docentes, de investigación y desarrollo, difusión y extensión académicas de la Universidad serán conocidas por el Consejo Social Consultivo, cuya composición será definida en el Estatuto General Orgánico. Este Consejo deberá conocer los resultados de las auto evaluaciones que efectúen las diferentes instancias universitarias, y colaborar con ellasproponiendo, con base en dichas auto evaluaciones, acciones que contribuyan tanto al mejoramiento de la calidad y cobertura de los servicios, como a la satisfacción de las necesidades sociales. 
+
+## CAPÍTULO II. DE LA CERTIFICACIÓN ACADÉMICA 
+
+Artículo 12.- Los órganos colegiados que establezca el Consejo Universitario realizarán y dictaminarán sobre los exámenes, pruebas y otras evaluaciones que se apliquen a los estudiantes de la Universidad para la obtención de títulos, grados y certificados, incluidos los de cada curso y ciclo. En dichos órganos colegiados podrá invitarse a participar a examinadores pertenecientes a otras instituciones de educación superior. 
+
+Artículo 13.- Los títulos correspondientes a las profesiones cuyo ejercicio está regulado por las leyes, y los planes de estudio respectivos, deberán satisfacer lo que dichas leyes determinen. Las denominaciones de los grados académicos y títulos de las profesiones no reguladas por las leyes deben expresar: 
+
+    I. El nivel de los estudios realizados, de conformidad con los criterios que establezcan las normas aplicables;
+    II. El campo de conocimiento respectivo; y 
+    III. En su caso, la especialidad o especialidades cursadas por el interesado. 
+
+Artículo 14.- El otorgamiento de certificados, diplomas, títulos, grados y reconocimientos tendrá como condición ineludible y única la demostración de los conocimientos y competencias que dichos instrumentos amparen. 
+
+[Documento Principal](index.html)
+
+# TÍTULO TERCERO. EL GOBIERNO UNIVERSITARIO 
+
+## CAPÍTULO ÚNICO 
+
+Artículo 15.- El máximo órgano de gobierno de la Universidad será el Consejo Universitario, el cual 
+estará constituido de conformidad con lo que establezca el Estatuto General Orgánico. 
+
+Artículo 16.- El Consejo Universitario formulará su propio reglamento, el cual deberá ser aprobado por la mayoría de la representación de cada uno de los dos sectores que lo integran: a) estudiantes y b) personal académico. Este reglamento determinará los procedimientos y requisitos para elegir a los integrantes del Consejo. También los estatutos y los asuntos que afecten directamente los intereses y derechos de los estudiantes y académicos, definidos en los artículos 6° y 7° de esta Ley, deberán ser aprobados por la mayoría de la representación de ambos sectores. 
+
+Artículo 17.- Corresponde al Consejo Universitario: 
+
+      I.  Aprobar y expedir el Estatuto General Orgánico y demás Estatutos, Reglamentos y normas necesarias para el cumplimiento de los fines de la Universidad conforme a esta Ley; 
+      II. Definir en el Estatuto General Orgánico los órganos de gobierno, administración, control y vigilancia de la Universidad; 
+      III. Designar a la persona o personas a cargo de la representación legal de la Universidad, así como aquellas a cargo de la ejecución de las resoluciones del Consejo Universitario; y del seguimiento, evaluación y reporte de las actividades de la Universidad, instancia que deberá rendir un informe anual de las mismas ante el propio Consejo Universitario. 
+      IV. Crear, organizar, integrar o suprimir estructuras docentes, de investigación, difusión y extensión de la cultura, y de cooperación y servicio; 
+      V. Vigilar el cumplimiento de las disposiciones estatutarias y administrativas que expida; 
+      VI. Aprobar y modificar las políticas y planes generales de desarrollo de la institución; 
+      VII. Definir las características y funciones de las entidades académicas, así como las formas de organización y operación de la Universidad; 
+      VIII. Crear, modificar y suprimir unidades académicas, técnicas y administrativas, entre las que necesariamente se establecerá un órgano de contraloría de la Universidad; 
+      IX. Conocer los informes anuales del tesorero y del órgano de contraloría de la Universidad; aprobarlos, si es el caso; y emitir las disposiciones pertinentes; 
+      X. Conocer los estados financieros debidamente auditados por el órgano de contraloría de la Universidad y el despacho externo que se designe conforme a las normas aplicables; aprobarlos, si es el caso, y emitir las disposiciones pertinentes. Una vez aprobados, dichos estados financieros se harán del conocimiento público y estarán a disposición de cualquier persona pública o privada que solicite su consulta de manera fundada y motivada; 
+      XI. Autorizar el proyecto anual de ingresos y el presupuesto de egresos; 
+      XII. Allegarse información y emitir disposiciones conducentes al mejor desarrollo de las actividades académicas en el marco de las atribuciones que le otorgue el Estatuto General Orgánico y demás disposiciones reglamentarias; 
+      XIII. Definir las normas para la elaboración y aprobación de los planes y programas de estudio; 
+      XIV. Determinar las denominaciones de los grados, diplomas y títulos que expida la Universidad y los requisitos académicos para obtenerlos; 
+      XV. Elaborar su reglamento; 
+      XVI. Integrar de entre sus miembros la Comisión de Hacienda, que será responsable del manejo y cuidado del patrimonio universitario; 
+      XVII. Emitir un catálogo de normas de convivencia, y establecer los criterios para la integración de la Comisión de Mediación y Conciliación. Corresponderá a esta Comisión conocer los actos que violen dichas normas, buscar la solución de los conflictos mediante el diálogo y el convencimiento y, en caso necesario, remitir el asunto a las instancias administrativas o judiciales correspondientes; 
+      XVIII. Conocer y resolver los asuntos que se sometan a su consideración y no sean competencia de ninguna otra autoridad; 
+      XIX. Establecer los montos y las características de las remuneraciones y prestaciones del personal académico, de los trabajadores administrativos, técnicos y manuales, y de los responsables administrativos y académico-administrativos;
+      XX. Las demás que esta Ley, el Estatuto General Orgánico y los reglamentos le señalen. 
+
+Artículo 18.- El Estatuto General Orgánico debe ser aprobado al menos por dos terceras partes de los miembros del Consejo Universitario. Podrá ser modificado total o parcialmente con la aprobación de la misma mayoría que para su expedición. Debe garantizar el efectivo cumplimiento de los fines de la Universidad; particularmente debe precisar los criterios y procedimientos para garantizar que: 
+
+    I. En cada órgano colegiado estén debidamente representados quienes tienen interés legítimo en los asuntos que competan a dicho cuerpo; 
+    II. Se garantice el debido cumplimiento de las responsabilidades del personal académico y las sanciones en caso de incumplimiento, incluyendo las condiciones de su separación de la Universidad; 
+    III. Se garantice el debido cumplimiento de las responsabilidades de los estudiantes sin imponer restricciones que sean ajenas al interés académico; 
+    IV. Se garantice que los planes y programas de estudio cumplen con los requisitos para ofrecer una formación integral sólida a los estudiantes; y 
+    V. Se evite toda restricción a los estudios que no tenga plena justificación académica. 
+
+Artículo 19.- El Consejo Universitario debe cuidar, al expedir las normas de su competencia, que en todos los ámbitos de la Universidad puedan expresarse y discutirse sin restricción alguna todos los saberes, las corrientes de opinión, así como las diversas concepciones teóricas, científicas y humanísticas. 
+
+Artículo 20.- La estructura académica de la Universidad que defina el Consejo Universitario en el Estatuto General Orgánico estará compuesta por instancias colegiadas que, además de constituir espacios adecuados para el trabajo interdisciplinario, integren la docencia con la investigación, la difusión, la extensión y la cooperación. 
+
+[Documento Principal](index.html)
+
+# TÍTULO CUARTO DISPOSICIONES ADMINISTRATIVAS 
+
+## CAPÍTULO I. DEL PATRIMONIO DE LA UNIVERSIDAD
+
+
+Artículo 21.- Los inmuebles que formen parte del patrimonio de la Universidad y que estén destinados a sus servicios, serán inalienables e imprescriptibles y sobre ellos no se podrá constituir 
+ningún gravamen. 
+
+Artículo 22.- El patrimonio de la Universidad estará constituido por: 
+
+    I. Los inmuebles y cualquier otro bien que le hayan sido otorgados por el Gobierno del Distrito Federal, por el Gobierno Federal y los que en el futuro adquiera por cualquier título; 
+  
+    II. El efectivo, valores, créditos y otros bienes muebles, así como los equipos y muebles con que cuenta en la actualidad, y los que en el futuro adquiera por cualquier título; 
+  
+    III. Los presupuestos anuales y las aportaciones ordinarias, extraordinarias y específicas que le asignen la Federación y el Gobierno del Distrito Federal, así como las de las delegaciones del  Distrito Federal; 
+    IV. Los intereses, dividendos, rentas y otros rendimientos derivados de sus bienes patrimoniales; 
+    V.  Los productos o frutos que se le otorguen y los de sus trabajos de investigación, desarrollo y experimentación, venta de publicaciones y otros productos de su quehacer académico, así como estudios técnicos y científicos que lleve a cabo la propia Universidad; 
+    VI. Los bienes muebles e inmuebles que se adquieran por compra-venta, donación, legado, herencia o por cualquier otro concepto; 
+    VII. Los legados y donaciones que se le hagan, y los fideicomisos de origen nacional o internacional que en su favor se constituyan; 
+    VIII. El importe de participaciones de impuestos o derechos que se le asignen conforme a las legislaciones Federal y del Distrito Federal; y 
+    IX. El patrimonio que se le asigne de cualquier otra manera legal. 
+
+## CAPÍTULO II. DEL FINANCIAMIENTO PÚBLICO DE LA UNIVERSIDAD 
+
+Artículo 23.- Para garantizar un adecuado desarrollo cualitativo y cuantitativo de la Universidad, y conforme a lo dispuesto en los artículos 3o de la Constitución Política de los Estados Unidos Mexicanos y 9o y 27 de la Ley General de Educación, la Asamblea Legislativa del Distrito Federal asignará anualmente a esta institución, como mínimo para su presupuesto de operación 1241 veces la Unidad de Cuenta de la Ciudad de México vigente por cada estudiante con dedicación ordinaria y sus equivalentes. Se entiende por estudiante con dedicación ordinaria al inscrito en la totalidad de cursos correspondientes al plan de estudios en cada periodo; asimismo, asignará los recursos necesarios para sufragar las inversiones concomitantes.  
+
+Con este fin, la Asamblea Legislativa del Distrito Federal considerará esta asignación como programa prioritario para propósitos presupuestales y el monto del financiamiento nunca será inferior al presupuesto del año previo. 
+
+Artículo 24.- El Gobierno del Distrito Federal aportará los predios que se requieran para las instalaciones de la Universidad, entregándolos en condiciones adecuadas para su funcionamiento. 
+
+Artículo 25.- Los ingresos de la Universidad y los bienes de su propiedad gozarán de las exenciones de las oficinas públicas del gobierno del Distrito Federal que resulten procedentes. 
+
+Artículo 26.- En tanto que institución pública del Estado los servicios educativos que la Universidad proporcione a los miembros de su comunidad no generarán obligación alguna de pago. 
+
+Artículo 27.- La Universidad elaborará anualmente su proyecto de presupuesto de egresos, atendiendo la previsión de ingresos que la Secretaría de Finanzas del Gobierno del Distrito Federal le comunique y las metas establecidas en su plan de desarrollo. 
+
+## CAPÍTULO III. DE LAS RELACIONES LABORALES 
+
+Artículo 28.- Las relaciones laborales entre la Universidad y su personal académico y administrativo estarán sujetas a lo establecido en la Constitución y cumplirán con lo establecido en el apartado “A” del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo. 
+
+## CAPÍTULO IV. RENDICIÓN DE CUENTAS 
+
+Artículo 29.- La cuenta pública del año anterior de la Universidad será revisada por la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal. 
+La Universidad contará con un órgano de control interno denominado Contraloría General, cuyas atribuciones se establecerán en el Estatuto General Orgánico. 
+
+Artículo 30.- La Universidad establecerá sus normas en materia de adquisiciones, bajo los principios de legalidad, transparencia, eficiencia, honradez y utilización óptima de los recursos. 
+
+[Documento Principal](index.html)
+
+
+# TRANSITORIOS 
+
+Primero. El patrimonio, incluyendo todas las obligaciones, derechos y responsabilidades que la Universidad de la Ciudad de México tenga en la actualidad con sus alumnos, profesores, trabajadores y terceros, pasan a la Universidad Autónoma de la Ciudad de México. 
+
+Segundo. Entre la publicación de la presente Ley y la aprobación del Estatuto General Orgánico, los órganos de la Universidad Autónoma de la Ciudad de México serán los mismos con los que cuenta actualmente la Universidad de la Ciudad de México: un Rector, un Consejo Asesor y un Consejo General Interno. 
+
+Tercero. El Consejo Asesor a que se refiere el transitorio que antecede, tendrá las siguientes atribuciones:
+
+    I. Emitir todas las normas provisionales que requiera la Universidad Autónoma de la Ciudad de México y, hasta que entre en funciones el Consejo General Interno, aprobar los planes y programas académicos;
+    II. Determinar la composición del Consejo General Interno y todo lo referente a su integración, la cual deberá ocurrir a más tardar seis meses después de publicada esta Ley; 
+    III. En el caso que, por causas de fuerza mayor, el Rector dejara el cargo, nombrar al Rector sustituto que estaría en funciones hasta la aprobación del Estatuto General Orgánico;
+    IV. Aprobar el reemplazo de alguno de sus integrantes a partir de propuestas que le presente el Rector, asegurando su funcionamiento con un mínimo de siete miembros; 
+    V. Establecer, en colaboración con el Rector y escuchando la opinión del Consejo General Interno, las condiciones y mecanismos para la instalación del primer Consejo Universitario, a más tardar en tres años contados a partir de la publicación de esta Ley; y 
+    VI. El Consejo Asesor permanecerá en ejercicio de sus funciones hasta la aprobación del Estatuto General Orgánico por el primer Consejo Universitario. 
+
+Cuarto. El Consejo General Interno al que se refiere el segundo artículo transitorio tendrá las siguientes atribuciones: 
+
+    I. Establecer las políticas generales y definir las prioridades a las que se sujetará la Universidad Autónoma de la Ciudad de México relativas a la administración general, tomando en consideración las opiniones del Consejo Asesor; 
+    II. Aprobar los programas y presupuestos de la Universidad, así como sus modificaciones; 
+    III. Aprobar los planes y programas de estudio de la Universidad; 
+    IV. Recibir, analizar y aprobar los informes que envíen el Rector y el Consejo Asesor; 
+    V. Expedir las normas o bases generales sobre las que el Rector pueda disponer de los activos fijos de la Universidad, las que deberán apegarse a las leyes aplicables; 
+    VI. Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros de la Universidad; 
+    VII. Aprobar, de acuerdo con las leyes y reglamentos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la Universidad con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles; y 
+    VIII. Nombrar y remover, a propuesta del Rector, a los servidores públicos de la Universidad que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquél y aprobar la fijación de sueldos y prestaciones. 
+
+Quinto. El Rector de la Universidad Autónoma de la Ciudad de México a que se refiere el artículo segundo transitorio de esta Ley tendrá las siguientes atribuciones: 
+
+    I. Administrar y representar legalmente a la Universidad; 
+    II. Ejecutar los acuerdos del Consejo Asesor y del Consejo General Interno a que se refieren estas bases a través de la estructura orgánica de la Universidad; 
+    III. Formular los programas institucionales y presupuestos de la Universidad; 
+    IV. Formular los planes y programas de estudio de la Universidad, sometiéndolos a la aprobación del Consejo General Interno; 
+    V. Formular los programas de organización, reorganización y/o modernización de la Universidad; 
+    VI. Establecer los procedimientos y métodos de trabajo para que las funciones se realicen de manera articulada, congruente y eficaz; 
+    VII. Establecer normas para la administración del personal, recursos financieros, bienes y servicios de la Universidad; 
+    VIII. Proponer al Consejo General Interno procedimientos de evaluación y seguimiento de procesos necesarios para alcanzar las metas u objetivos de la Universidad; 
+    IX. Establecer y mantener un sistema de estadísticas y de las actividades de la Universidad que será público; 
+    X. Presentar al Consejo General Interno el informe de actividades de la Universidad; 
+    XI. Coadyuvar con el Consejo Asesor para establecer las condiciones y mecanismos que lleven a la instalación del primer Consejo Universitario; y 
+    XII. Las demás que sean necesarias para el cumplimiento eficiente de los fines de la Universidad. 
+
+Sexto. Quien ostente el cargo de Rector del organismo descentralizado de la Administración Pública denominado Universidad de la Ciudad de México al momento de la entrada en vigor de esta Ley será el Rector de la Universidad Autónoma de la Ciudad de México en los términos establecidos por los artículos transitorios que anteceden y hasta que el Consejo Universitario establezca los nuevos órganos de gobierno y, en su caso, se haga una nueva designación, en los tiempos y formas que el propio Consejo decida. 
+
+Séptimo. En tanto el Consejo Universitario expide las disposiciones correspondientes, seguirán siendo aplicables, en lo que no se opongan a esta Ley, el Decreto de Creación de la Universidad de la Ciudad de México y su Estatuto Orgánico. Además, quedan sin efecto para la Universidad Autónoma de la Ciudad de México aquellas disposiciones que se opongan al contenido de la presente Ley. 
+
+Octavo. El Gobierno de la Ciudad de México aportará los recursos necesarios para alcanzar una cobertura de diez mil estudiantes de acuerdo con las metas del plan de desarrollo de la Universidad Autónoma de la Ciudad de México. 
+
+Noveno. Esta LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal. 
+
+Décimo. Envíese la presente resolución para su conocimiento y ejecución al Jefe de Gobierno del Distrito Federal. 
+
+Undécimo. Publíquese el presente decreto de Ley en la Gaceta Oficial del Gobierno del Distrito Federal. 
+
+
+**Recinto de la Asamblea Legislativa del Distrito Federal, a los dieciséis días del mes de diciembre del año dos mil cuatro.- POR LA MESA DIRECTIVA.- DIP. SILVIA OLIVA FRAGOSO, PRESIDENTA.- DIP. MIGUEL ÁNGEL SOLARES CHÁVEZ, SECRETARIO.- DIP. CHRISTIAN MARTÍN LUJANO NICOLÁS, SECRETARIO.- (Firmas)**
+
+
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintinueve días del mes de diciembre del dos mil cuatro. 
+
+**EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.-FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.-FIRMA. **
+
+[Documento Principal](index.html)
+
+# CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES 
+
+
+## TRANSITORIOS 
+
+DECRETO POR EL QUE SE REFORMA LA LEY DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 21 DE DICIEMBRE DE 2007. 
+
+PRIMERO.- Remítase al Jefe de Gobierno para su promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión también en el Diario Oficial de la Federación. 
+
+SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. 
+
+[Documento Principal](index.html)
+
+## TRANSITORIOS DEL DECRETO 
+
+POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE CÓDIGOS Y LEYES LOCALES, QUE DETERMINAN SANCIONES Y MULTAS ADMINISTRATIVAS, CONCEPTOS DE PAGO Y MONTOS DE REFERENCIA, PARA SUSTITUIR AL SALARIO MÍNIMO POR LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, DE MANERA INDIVIDUAL O POR MÚLTIPLOS DE ÉSTA, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 28 DE NOVIEMBRE DE 2014. 
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal. 
+
+SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integración del paquete económico correspondiente al ejercicio fiscal 2015 y entrará en vigor junto con dicho paquete, a excepción de lo dispuesto en los artículos SEGUNDO y CUADRAGÉSIMO OCTAVO del presente Decreto relacionado con la materia Electoral, que entrarán en vigor al día siguiente a aquél en que concluya el proceso electoral 2014-2015 del Distrito Federal. 
+TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto. 
+
+CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto. 
+
+**CONSEJERÍA JURÍDICA Y DE SERVICIOS LEGALES**
+
+[Documento Principal](index.html)

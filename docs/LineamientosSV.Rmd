@@ -1,0 +1,125 @@
+---
+title: "LINEAMIENTO DE SESIONES VIRTUALES"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+# Lineamientos para Sesiones Virtuales
+
+LINEAMIENTOS PARA REALIZAR LAS SESIONES VIRTUALES EXTRAORDINARIAS Y DE EMERGENCIA DEL PLENO DEL CONSEJO UNIVERSITARIO
+
+
+## Lineamientos para realizar las sesiones virtuales extraordinarias y de emergencia del Pleno del Consejo Universitario
+
+Las sesiones virtuales extraordinarias y de emergencia se realizarán cuando se suscite alguna causa de fuerza mayor, y se llevarán a cabo con los medios tecnológicos que posibiliten las reuniones en videoconferencia.
+El Pleno del Consejo Universitario podrá ser convocado a Sesión de emergencia para atender asuntos que, por su naturaleza e impacto para la Universidad, ameriten atención inmediata e impostergable o cuando así lo determine el cumplimiento de plazos o términos de otra normativa de la Universidad o externa que nos obligue, la cual deberá estar plenamente fundamentada.
+
+Las Comisiones y la Rectoría podrán presentar puntos informativos, mismos que deberán cumplir los siguientes requisitos:
+
+Solicitar a la Comisión de Organización su inclusión en la propuesta del orden del día en un plazo no mayor a tres días hábiles antes de una sesión extraordinaria; y a más tardar un día antes de la sesión de emergencia. 
+Presentarse en formato electrónico, especificando el tiempo aproximado que se requiere para su exposición y el nombre del vocero o voceros que lo presentarán al Pleno.
+Hacer explícito el título, exposición del asunto y, en su caso, documentos anexos.
+
+El procedimiento para la organización y desarrollo de las sesiones virtuales será el siguiente:
+
+    La Comisión de Organización emitirá y publicará la convocatoria al Pleno del Consejo Universitario para sesionar de manera virtual.
+    
+    La Comisión de Organización convocará preferentemente a reuniones de trabajo a las y los integrantes del Consejo Universitario para hacer una presentación preliminar de las propuestas de punto de acuerdo con el fin de optimizar el tiempo de las sesiones virtuales. Estas sesiones deberán de llevarse a cabo al menos dos días previos a la fecha de la sesión.
+    
+    La Comisión de Organización deberá publicar en los medios institucionales una invitación a la comunidad universitaria para que, si es de su interés, envíe una petición de forma escrita para ser leída en el Foro Universitario.
+    
+    La Comisión de Organización deberá enviar a los miembros del consejo y, en su caso, a invitados proponentes, la liga del acceso al Foro Virtual, preferentemente con al menos 12 horas de anticipación a la cita programada.
+    
+    Para el desarrollo de la sesión, el moderador dará acceso a la plataforma virtual 30 minutos antes de la hora citada. Las y los integrantes del Consejo Universitario se conectarán a la misma y deberán identificarse con su nombre completo.
+    
+    Al momento del registro los consejeros y consejeras se conectarán preferentemente en modo audiovisual. Posteriormente, dependiendo de sus posibilidades de conexión y espacio físico, podrán estar conectados solo por audio.
+    
+    Para el pase de lista, la verificación del quorum será preferentemente de manera audiovisual para garantizar la presencia del consejero o consejera.
+    
+    Se realizará el pase de lista para las y los integrantes del Consejo Universitario con derecho a voto, posteriormente se pasará lista para quienes tienen derecho a voz, con el fin de registrar la asistencia en el acta de acuerdos de la sesión.
+    
+    En el caso que algún consejero o consejera pierda la conexión a la plataforma por cuestiones técnicas, podrá reconectarse sin perder su derecho a voz y voto, no hay restricción de tiempo para reconectarse a la sesión.
+    
+    Cuando la o el Consejera(o) titular se dispense de las sesiones, una vez iniciados sus trabajos, deberá notificarlo por el chat de la plataforma al Moderador antes de retirarse y este deberá enunciarlo al Pleno del Consejo Universitario.
+    
+    Al inicio de la sesión el moderador (anfitrión) deberá de designar dos coanfitriones quienes le ayudarán durante la sesión. Los coanfitriones serán asignados previamente en la sesión de la Comisión de Organización en la que se apruebe la Convocatoria para Sesión Virtual del Pleno del Consejo Universitario.
+    
+    El anfitrión y los coanfitriones se encargarán de dar acceso a las y los consejeros que se identifiquen correctamente. De ser necesario corregirán el nombre de usuario.
+    
+    El anfitrión antes del inicio de la sesión deberá dar acceso a: Radio UACM y a la Coordinación de Comunicación para que la persona designada establezca la conexión a la página de la Universidad y se garantice la difusión de la sesión por los medios de que dispone. Además deberá garantizarse el acceso al Servicio de Estenografía para su registro y posterior difusión.
+    
+    Los proponentes podrán solicitar al anfitrión compartir el vínculo de la sesión para que intervengan las personas que presentarán información adicional o responderán a posibles dudas de las y los consejeros universitarios durante la presentación del punto de acuerdo.
+    
+    A la hora establecida como inicio de la sesión, el moderador dará la bienvenida a la comunidad universitaria conectada a los medios de difusión, página de la Universidad, redes sociales y Radio UACM, para indicar el momento en que se realiza el pase de lista.
+    
+    Las sesiones virtuales del Pleno del Consejo Universitario se sujetarán al artículo 47 del Reglamento del Consejo Universitario.
+    
+    En caso de problemas técnicos que impidan conectarse a tiempo para el pase de lista, las y los integrantes del Consejo Universitario deberán notificar por algún medio dicha situación a cualquier otro integrante presente en la sesión, para que a su vez éste lo haga del conocimiento a la mesa de sesiones. Una vez restablecida su conexión a la sesión, el moderador registrará su asistencia para que se incorpore al Pleno con voz y voto.
+    
+    La convocatoria a la sesión virtual del Consejo Universitario, que se emitirá en la página de la UACM, incluirá una invitación a la comunidad para participar en el Foro Universitario. 
+    
+    Los interesados en participar en el Foro Universitario deberán enviar al correo electrónico: foro.universitario.cu@uacm.edu.mx, el asunto que deseen exponer, la documentación pertinente y aceptar el siguiente aviso de privacidad:
+    
+        En atención a su correo electrónico en el que solicita participar en el Foro Universitario de la sesión del día de XXX de XXXX del XXXX, le expresamos que por acuerdo de la Comisión de Organización, y en apego a lo establecido en la Ley de Protección de Datos Personales en Posesión de sujetos obligados de la Ciudad de México, usted debe incluir el siguiente texto en el asunto de su interés:
+        
+        Otorgo mi consentimiento para que mis datos personales incluidos en el presente escrito, sean leídos y difundidos en el Foro Universitario a realizarse en la sesión virtual del día (XXX de XXXX), en el Pleno del Consejo Universitario; así como su tratamiento conforme a lo señalado en el Aviso de Privacidad correspondiente.
+    
+    Este aviso de privacidad deberá de ser publicado en la página de la Universidad el mismo día que se emita la convocatoria para la Sesión Extraordinaria Virtual del Pleno del Consejo Universitario.
+
+    El Foro Universitario tendrá una duración de hasta 30 minutos al inicio de los trabajos del Pleno del Consejo.
+
+    La lista de participantes al Foro Universitario será leída en el Pleno, posteriormente se dará lectura a cada asunto y no se extenderá más de 30 minutos, como lo contempla el reglamento del Consejo Universitario.
+
+    La lectura de las participaciones de la Comunidad Universitaria se harán con el nombre de la persona responsable de enviar el comunicado, el plantel y el sector al cual pertenece.
+
+    La lectura de los documentos será realizada por dos integrantes de la Comisión de Organización, designados el día de la aprobación de la Convocatoria para Sesión Extraordinaria Virtual del Pleno del Consejo Universitario.
+
+    Todas las participaciones que se hayan recibido se harán del conocimiento de la Comunidad Universitaria por medio de la página del Consejo Universitario.
+
+    Para garantizar el cumplimiento de estos lineamientos el anfitrión y coanfitriones abrirán el micrófono para cada participación y se mantendrá en silencio para los demás participantes. 
+
+    Los coanfitriones en cualquier momento podrán cerrar los micrófonos de las y los presentes en la sesión con el propósito de facilitar la participación de quien tiene la palabra en el momento.
+
+    Las y los integrantes del Consejo pedirán el uso de la palabra por medio del chat de la propia plataforma.
+
+    La lista de participación se determinará a partir de los nombres que estén escritos en el chat integrado a la plataforma donde se realice la sesión.
+    
+    La participación de quien está en uso de la voz será preferentemente en modo audiovisual. 
+    
+    Para solicitar una moción se hará por el chat integrado a la plataforma.
+    
+    Al expresar la moción el orador preferentemente deberá tener encendido su micrófono y cámara.
+    
+    Las votaciones serán mediante pase de lista, el moderador leerá los nombres de las y los Consejeros con derecho a voto y manifestarán el sentido de su voto.
+    
+    En el caso de que se solicite que la votación sea nominal, al momento de ser nombrada o nombrado, además de emitir el sentido de su voto, si así lo considera pertinente, podrá expresar una argumentación al respecto.
+    
+    El registro de las votaciones se llevará a cabo de la siguiente manera: 
+      A favor; En contra; Abstenciones y Ausencias. La ausencia ocurre cuando la o el integrante del Consejo no haya notificado al moderador que se retira de la sesión y: 
+      sigue conectada(o) pero no se encuentra presente en la sesión por cuestiones técnicas o;
+       no se encuentra conectada(o) a la sesión, en este caso se considera ausencia con fines de conformación del quórum.
+     Para el caso de las votaciones secretas, conforme a lo establecido por el Reglamento del Consejo Universitario, corresponde a la designación de funcionario o de nueva(o) Secretario Técnica(o) de la Comisión de Organización, se llevará a cabo mediante alguna de las plataformas existentes que la comisión de Organización determine para este fin.
+
+    La Comisión de Organización deberá de hacer llegar a las y los integrantes del Consejo Universitario un breve listado de instrucciones que faciliten la comprensión y el libre manejo de la plataforma con la que se llevará a cabo la votación.
+
+    Las y los integrantes del Consejo Universitario preferentemente deberán de encender su cámara cada cierto tiempo para hacer del conocimiento del anfitrión y coanfitriones sobre su presencia activa en la sesión.
+
+    En el caso de que la presencia de un(a) consejero(a) sea intermitente por problemas técnicos, seguirá formando parte de la sesión y, por tanto, considerado(a) parte del quorum.
+
+    Las propuestas de modificación o disensos que se formulen durante la discusión de cualquier asunto en el Pleno del Consejo Universitario, deberán ser presentados por escrito a la mesa de sesiones, con la finalidad de ser considerados en la redacción del acuerdo. Bajo ninguna circunstancia se permitirán participaciones adicionales a las señaladas en las rondas definidas en el Reglamento del Consejo Universitario. Si el Pleno no llega a un acuerdo, en los términos de discusión estipulados en el Reglamento, el punto se turnará a las Comisiones correspondientes para su modificación; se tomarán en cuenta las observaciones que se vertieron en la discusión para ser presentado nuevamente en el Pleno a la brevedad.
+
+Dado en la Ciudad de México el día 13 de agosto de 2020.
+
+Consejo Universitario Sexta Legislatura
+
+[Regresar a Documento Principal](index.html)
+

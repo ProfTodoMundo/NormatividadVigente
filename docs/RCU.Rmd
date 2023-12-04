@@ -1,0 +1,648 @@
+---
+title: "REGLAMENTO DEL CONSEJO UNIVERSITARIO"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+Reglamento del Consejo Universitario
+
+GLOSARIO
+
+Para los efectos del presente reglamento, se entiende por:
+
+Comunidad: Estudiantes, personal académico y personal administrativo, técnico y manual de la Universidad Autónoma de la Ciudad de México.
+
+Consejero: Estudiante o Académico, electo por el sector al que pertenece para representarlo ante el Consejo Universitario.
+
+Consejo: El Consejo Universitario de la Universidad Autónoma de la Ciudad de México.
+
+Convocatoria: Aviso por escrito que se entrega a cada uno de los Consejeros en el que se incluye fecha, hora y lugar de la sesión, orden del día y Carpeta en los términos de los Artículos 27 y 31 del presente Reglamento.
+
+Estatuto: Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México.
+
+Ley: Ley de la Universidad Autónoma de la Ciudad de México.
+
+Plantel: Cada uno de los planteles de la Universidad, espacios dedicados de manera preponderante a la formación universitaria, esto es, docencia, investigación y difusión cultural.
+
+Pleno: El Consejo reunido en sesión ordinaria o extraordinaria, actuando válidamente con la asistencia de la mitad más uno de los consejeros de cada sector.
+
+Rector: El Rector de la Universidad Autónoma de la Ciudad de México.
+
+Reglamento: Reglamento del Consejo Universitario.
+
+Representante: Los representantes electos del personal administrativo, técnico y manual de la Universidad en los términos establecidos en el Estatuto General Orgánico.
+
+Universidad: Universidad Autónoma de la Ciudad de México.
+
+TÍTULO PRIMERO DISPOSICIONES GENERALES
+
+Artículo 1.- El Consejo Universitario, en uso de la facultad que le confieren los artículos 16 y 17 Fracción XV, de la Ley de la Universidad Autónoma de la Ciudad de México, expide el presente Reglamento Interno, cuyas normas tienen el carácter de obligatorias para el propio Consejo, así como para sus integrantes.
+
+Artículo 2.- El presente Reglamento tiene por objeto establecer la normatividad que regula la integración, organización y funcionamiento del Consejo.
+
+Artículo 3.- El Consejo ejercerá sus atribuciones de conformidad con la Ley, en concordancia con los principios de cooperación y apoyo mutuo, legalidad, honestidad, imparcialidad, transparencia, equidad y pluralidad, garantizando en todo momento el libre examen y la discusión de las ideas, así como la exclusión de prácticas discriminatorias. Esto con el objeto de coadyuvar al desarrollo de las funciones sustantivas de la Universidad: educar, investigar y difundir la cultura.
+
+Artículo 4.- Conforme a lo dispuesto en el artículo 15 de la Ley, el Consejo Universitario es el máximo órgano de gobierno de la Universidad. Ningún otro órgano de gobierno temporal o permanente de la Universidad podrá limitar sus atribuciones, siendo el Pleno el único facultado para modificar su estructura e integración conforme a la Ley.
+
+Artículo 5.- Lo no previsto por el presente Reglamento será sometido a las consideraciones y disposiciones que al respecto expida el Pleno del Consejo de conformidad con la Ley.
+TÍTULO SEGUNDO DEL CONSEJO UNIVERSITARIO
+Capítulo I De las facultades y atribuciones del Consejo
+
+Artículo 6.- El Consejo es el máximo órgano de gobierno de la Universidad, el cual se regirá de acuerdo con las disposiciones establecidas en la Ley y el presente Reglamento.
+
+Artículo 7.- El Consejo Universitario tiene las facultades y atribuciones establecidas en el Título Tercero de la Ley de la Universidad Autónoma de la Ciudad de México.
+
+Capítulo II De la integración del Consejo
+
+Artículo 8.- El Consejo Universitario, conforme a lo dispuesto en el artículo 16 de la Ley y el Estatuto, estará integrado de manera paritaria por consejeros estudiantes y académicos distribuidos de la siguiente forma:
+
+Dos Consejeros titulares, electos por los estudiantes de cada colegio en cada plantel de la Universidad, cada uno con su respectivo consejero suplente.
+Dos Consejeros titulares electos por el personal académico de cada colegio en cada plantel de la Universidad, cada uno con su respectivo consejero suplente.
+Adicionalmente,
+El Rector forma parte del Consejo con derecho a voz y voto en las sesiones del Pleno, teniendo como responsabilidades las que le confiera el Estatuto y el presente Reglamento.
+
+Los Representantes electos del personal administrativo, técnico y manual tendrán derecho a voz pero sin voto en las sesiones del Pleno, respetando los términos y condiciones de su representación derivados del Estatuto General Orgánico.
+
+Capítulo III De los Consejeros
+
+Artículo 9.- La calidad de Consejero es representativa, honorífica, personal e intransferible.
+Derogada.
+
+Artículo 10.- El mandato de Consejero será efectivo a partir del momento en el que el órgano colegiado electoral entregue su constancia de elección y hasta que se instale el siguiente Consejo.
+
+Artículo 11.- Los Consejeros titulares tendrán derecho a voz y voto dentro de las sesiones del Pleno del Consejo.
+
+Artículo 12.- Los Consejeros suplentes tendrán derecho a voz en las sesiones del Pleno y sólo tendrán derecho a voto en los casos previstos por este Reglamento.
+
+Artículo 13.- Los Consejeros titulares tendrán las siguientes responsabilidades:
+
+Asistir puntualmente a las sesiones del Pleno y de las comisiones en que se encuentren inscritos y permanecer en el desahogo de todos los puntos a tratar.
+Notificar por escrito al Secretario Técnico de la Comisión de Organización, con copia al Consejero suplente respectivo, las ausencias a los trabajos del Pleno cuando menos con dos días hábiles de anticipación.
+En caso de ausencia a una Comisión, se deberá notificar al Secretario Técnico de la misma con un día de anticipación como mínimo.
+Incorporarse a los trabajos de por lo menos una y máximo dos comisiones permanentes, y como máximo una temporal.
+Desarrollar los trabajos que les sean encomendados por el Pleno o en comisiones, en tiempo y forma.
+Mantener comunicación permanente con el Consejero suplente de su fórmula, con el objeto de planificar y realizar el seguimiento de la agenda de trabajo con respecto de la Comunidad y notificar a su suplente cuando no asista a las sesiones del Pleno.
+Mantener comunicación permanente con el sector que representa, consultándoles y recuperando sus propuestas, teniendo la obligación de hacerlas llegar a las instancias conducentes, así como de darle seguimiento hasta su desahogo, informando a quién o quienes suscriben la propuesta, sobre el estado de la misma.
+Presentar un informe anual de actividades por escrito ante el sector que representa y la Comisión de Organización para su conocimiento y difusión en los términos establecidos por el presente Reglamento.
+Derogada.
+
+Artículo 14.- Los Consejeros suplentes tendrán las siguientes responsabilidades:
+
+Incorporarse a los trabajos de por lo menos una y máximo dos comisiones.
+Desarrollar los trabajos que les sean encomendados por las comisiones o por el Pleno, en tiempo y forma.
+En caso de ausentarse de los trabajos de una Comisión, deberá notificarlo al Secretario Técnico de la misma con un día de anticipación.
+Mantener comunicación permanente con el Consejero Titular de su fórmula, con el objeto de planificar y realizar el seguimiento de la agenda de trabajo con respecto de la Comunidad.
+Mantener comunicación permanente con el sector que representa, consultándoles y recuperando sus propuestas, teniendo la obligación de hacerlas llegar a las instancias conducentes, así como de darle seguimiento hasta su desahogo informando a quién o quienes suscriben la propuesta, sobre el estado de la misma.
+Elaborar un informe anual de actividades para ser presentado por escrito ante la Comisión de Organización para su conocimiento y difusión en los términos establecidos por el presente Reglamento.
+
+
+Artículo 15.- Los Consejeros titulares serán dados de baja del Consejo cuando dejen de asistir al Pleno durante tres sesiones ordinarias consecutivas o a cinco ordinarias y extraordinarias no consecutivas en un periodo de seis meses.
+
+Artículo 16.- Cuando los Consejeros Titulares dejen de serlo por renuncia, baja por incumplimiento de responsabilidades, incapacidad total o fallecimiento, serán reemplazados por sus respectivos suplentes, quienes tendrán los mismos derechos y obligaciones que el titular por lo que reste del periodo.
+Si no hubiere suplente que tome la titularidad del cargo, se procederá a convocar a elección extraordinaria, a fin de cubrir la vacante por lo que reste del periodo, en los términos previstos por el presente Reglamento.
+
+Artículo 17.- Los Consejeros Titulares y Suplentes no podrán ser reelectos para el periodo inmediato, quienes en ningún caso podrán ser electos por más de dos periodos.
+
+Artículo 18.- Ningún Consejero estudiantil o académico, titular o suplente, podrá hacer uso de su cargo para promocionarse al interior o el exterior de la Universidad, quedando expresamente prohibida la realización de proselitismo político mientras permanezca en funciones, así como también la obtención de beneficios económicos o incentivos académicos a costa de su nombramiento. 
+
+Capítulo IV De la renovación del Consejo
+
+Artículo 19.- El Consejo Universitario estará en funciones por un periodo máximo de dos años, contados a partir de la fecha de su instalación.
+
+Artículo 20.- Cuando existan vacantes de Consejeros, éstas serán cubiertas con base en convocatorias parciales y extraordinarias emitidas por el órgano electoral designado por el Pleno del Consejo para tal efecto, con una periodicidad de seis meses, o antes si el Pleno así lo decide, de acuerdo con las condiciones establecidas en la Ley y el presente Reglamento.
+TÍTULO TERCERO DE LAS SESIONES EN EL PLENO
+Capítulo I. De los tipos de sesión
+
+
+Artículo 21.- Las sesiones en el Pleno del Consejo serán ordinarias, extraordinarias o permanentes y sólo podrán verificarse en las instalaciones de la Universidad salvo causa de fuerza mayor.
+
+Artículo 22.- Todas las sesiones plenarias del Consejo serán abiertas a los integrantes de la Comunidad, garantizando las condiciones para esto.
+
+Artículo 23.- El Pleno será convocado a Sesión Ordinaria cada dos meses contados a partir de la fecha de su instalación.
+
+Artículo 24.- El Consejo podrá ser convocado a Sesión Extraordinaria para atender asuntos de carácter urgente, cuando así lo disponga el Pleno, o así lo soliciten por escrito ante la Comisión de Organización alguno de los Secretarios Técnicos de las Comisiones, previa entrega del dictamen correspondiente, una cuarta parte de los Consejeros Titulares o el Rector.
+
+Artículo 25.- Siempre se tratará en sesión extraordinaria:
+
+La promulgación y modificación del Estatuto General Orgánico
+El informe anual de la Rectoría.
+El otorgamiento de grados honoríficos y la recepción de visitantes distinguidos.
+
+Artículo 26.- El Pleno se declarará en Sesión Permanente cuando no habiéndose agotado el Orden del Día en una sesión ordinaria o extraordinaria, la mayoría simple de los Consejeros presentes en la sesión acuerde reunirse en fecha inmediata posterior para el desahogo de los asuntos pendientes.
+
+Capítulo II De la integración del Orden del Día y la Convocatoria
+
+Artículo 27.- La Comisión de Organización integrará la Convocatoria, conformada por el Orden del Día y la Carpeta de las sesiones ordinarias y extraordinarias a partir de los Dictámenes, Iniciativas, Propuestas y Asuntos Generales cuya inclusión haya sido solicitada en los términos del presente Reglamento y/o que la Comisión de Organización considere pertinentes.
+
+Artículo 28.- Los Dictámenes de las Comisiones deberán cumplir los siguientes requisitos:
+
+El Dictamen deberá ser entregado en tiempo y forma a la Comisión de Organización para su integración en la Convocatoria, en un plazo no mayor a los once días hábiles antes de la sesión ordinaria o a más tardar seis días hábiles antes de una sesión extraordinaria.
+El Dictamen deberá presentarse en formato electrónico e impreso, especificando el tiempo aproximado que se requiere para su exposición y el nombre del vocero o voceros que lo presentarán al Pleno.
+El Dictamen deberá poseer Título, Exposición de motivos, Fundamento legal, Considerandos, Propuestas de punto de acuerdos, el Resultado de la votación aprobatoria y las firmas al calce de los integrantes de la Comisión presentes durante su aprobación. En su caso, el Dictamen también podrá presentar un Anexo conformado por los puntos de disenso.
+
+Artículo 29.- Los Consejeros, el Rector y los Representantes, podrán presentar iniciativas ante el Pleno a través de la Comisión de Organización que las incorporará en el orden del día conforme le sean turnadas. Dicho documento deberá poseer una exposición de motivos, la propuesta(s) de punto de acuerdo y el nombre y la rúbrica de quien o quienes la suscriben. Las Iniciativas deberán ser expuestas ante el Pleno por el autor(es) de la misma.
+
+Artículo 30.- Cualquier miembro de la Comunidad podrá presentar una Propuesta al Consejo, siempre y cuando la entregue en versión impresa y electrónica a su Consejero, Representantes o directamente a la Comisión de Organización. Dicho documento deberá presentar una explicación general sobre su contenido, en máximo tres cuartillas; la Propuesta integral, así como el nombre y las rúbricas de quien o quienes la suscriben. Los Relatores de la Mesa serán los encargados de dar lectura al documento de presentación de la Propuesta ante el Pleno.
+
+Artículo 31.- La Comisión de Organización deberá hacer llegar en versión electrónica, a los Consejeros Titulares y Suplentes, el Rector y Representantes, la Convocatoria para la reunión del Pleno que incluye fecha, hora y lugar de la sesión, propuesta de Orden del día y la Carpeta conteniendo la Minuta de la sesión anterior, los Dictámenes, Iniciativas, Propuestas y Asuntos Generales que corresponda, cuando menos con diez días hábiles de anticipación al desarrollo de las sesiones ordinarias y cinco días hábiles antes de las sesiones extraordinarias. En los mismos plazos y cuando mucho siete días hábiles antes de las sesiones ordinarias y tres días hábiles antes de las extraordinarias, la Comisión de Organización deberá hacer llegar en versión impresa la Convocatoria y la Carpeta a los Consejeros Titulares y al Rector.
+
+La Comisión de Organización deberá publicar la Convocatoria incluyendo la Carpeta en el sitio del Consejo dentro de la página electrónica de la Universidad de manera simultánea a la distribución de la misma entre los Consejeros, el Rector y Representantes.
+La Comisión de Organización deberá publicar fecha, hora, lugar y Orden del Día de las sesiones ordinarias y extraordinarias del Consejo en los principales estrados de los planteles, cuando menos con tres días hábiles de anticipación.
+
+Capítulo III De la Mesa de Sesiones
+
+Artículo 32.- La Mesa conducirá las sesiones plenarias del Consejo y estará integrada por el Rector como moderador, así como por el Secretario Técnico y cuatro miembros de la Comisión de Organización.
+
+Artículo 33.- En la Mesa de Sesiones, el Moderador tendrá las siguientes atribuciones:
+
+Conducir las sesiones plenarias otorgando el uso de la palabra de manera equitativa y manteniendo el orden de las intervenciones. Para participar en los debates, deberá inscribirse en la lista de oradores.
+Atender o marcar mociones de procedimiento u orden, así como las mociones a los oradores descritas en el presente Reglamento.
+Identificar y resumir las propuestas presentadas a lo largo de la sesión con miras a redactarlas, discutirlas, analizarlas y/o votarlas. También solicitará a quienes suscriben la propuesta que la pasen por escrito a los relatores, para su correcta inclusión.
+
+Artículo 34.- En la Mesa de Sesiones el Secretario Técnico de la Comisión de Organización asumirá el carácter de Asistente del Moderador siendo sus atribuciones:
+
+Pasar la lista de asistencia.
+Verificar el quórum.
+Llevar el registro de las participaciones y de las votaciones.
+Suplir las ausencias del Moderador.
+
+Artículo 35.- La Comisión de Organización elegirá de entre sus miembros dos Relatores para la Mesa de Sesiones, siendo sus atribuciones:
+
+Llevar la Minuta de la sesión del Pleno.
+Elaborar el Acta de Acuerdos de la sesión del Pleno.
+Dar lectura a los documentos turnados a la Mesa para ese efecto.
+Gestionar la publicación del Boletín Bimestral del Consejo Universitario.
+Uno de ellos suplirá al Asistente del Moderador para efectos de pase de lista, verificación del quórum y registro de participaciones cuando éste se encuentre en funciones de Moderador.
+
+Artículo 36.- La Comisión de Organización elegirá de entre sus miembros dos Escrutadores para la Mesa de Sesiones, quienes estarán encargados de realizar el cómputo de las votaciones emitidas durante las sesiones del Pleno, así como de coadyuvar con el Asistente del Moderador en el pase de lista, la verificación del quórum y el registro de las participaciones.
+
+Capítulo IV Sobre el desarrollo de las sesiones
+
+Artículo 37.- Las sesiones del Pleno deberán desarrollarse en el orden siguiente:
+
+Registro de Asistencia.
+Verificación del Quórum.
+Declaración de apertura de la Sesión.
+Foro Universitario.
+Aprobación del Orden del Día.
+Aprobación de la Minuta y el Acta de la sesión anterior.
+Presentación, discusión y en su caso aprobación de los Dictámenes.
+Presentación, y discusión preliminar de las Iniciativas y propuestas.
+Asuntos Generales.
+Declaración de clausura de la sesión.
+
+Artículo 38.- En las sesiones extraordinarias, el Orden del Día deberá integrarse en los mismos términos que lo dispuesto para las sesiones ordinarias salvo que sólo podrán tratarse los asuntos para los que específicamente fueran convocadas y no se contemplarán Asuntos Generales.
+
+Capítulo V. Del registro de asistencias
+
+Artículo 39.- Los Consejeros titulares que lleguen treinta minutos posteriores a la hora citada para la sesión del Pleno, perderán su derecho a voto durante dicha sesión, conservando el derecho a voz. Después de treinta minutos y en ausencia del titular, el Consejero suplente deberá acudir ante la Mesa de Sesiones para adquirir el derecho a voto.
+
+Artículo 40.- La ausencia a las sesiones del Pleno será considerada como falta en los términos del presente Reglamento.
+
+Artículo 41.- Cuando el Consejero titular se dispense de las sesiones una vez iniciados sus trabajos, deberá notificarlo personalmente al Asistente del Moderador antes de retirarse, no siendo intercambiable en este caso el derecho a voto entre el Consejero titular y el Consejero suplente.
+
+Salvo las sesiones permanentes, que podrá ser intercambiable el derecho a voto entre el Consejero titular y el Consejero suplente, pero únicamente al reinicio de la sesión y con antelación a la verificación del quórum.
+
+Capítulo VI De la conformación del Quórum
+
+Artículo 42.- El Quórum mínimo requerido para declarar inaugurados los trabajos del Pleno del Consejo, en primera convocatoria, será de la mitad más uno de los Consejeros estudiantes y de la mitad más uno de los Consejeros académicos.
+
+Artículo 43.- Transcurridos treinta minutos después de la hora señalada en la Convocatoria para la apertura de los trabajos, el Asistente deberá tomar la lista de asistencia de los Consejeros con el objeto de verificar y asentar el Quórum y declarar la legítima apertura de las sesiones.
+
+Artículo 44.- En caso de declararse falta de Quórum, la Comisión de Organización deberá emitir una segunda convocatoria. Siendo el quórum mínimo requerido en segunda Convocatoria de por lo menos un tercio de los Consejeros, garantizando la presencia de un tercio de los Consejeros académicos y un tercio de los Consejeros estudiantiles.
+
+Artículo 45.- De no celebrarse la sesión en segunda convocatoria, el Moderador declarará su clausura, solicitando de manera inmediata a la Comisión de Organización la convocatoria de una sesión extraordinaria en calidad de urgente, para el desahogo de los asuntos pendientes.
+
+
+Capítulo VII. De la apertura, la duración de las sesiones y la aprobación de la Minuta y el Acta de Acuerdos de la sesión anterior
+
+Artículo 46.- Una vez verificado el quórum mínimo requerido, el Moderador declarará formalmente inaugurados los trabajos en el Pleno.
+
+Artículo 47.- Las sesiones del Pleno tendrán una duración de cuatro horas como máximo, al cabo de las cuales el Moderador expondrá al Pleno si se desea continuar, procurando que la duración total de cada sesión no exceda las seis horas de trabajo efectivo. El Pleno se declarará en sesión permanente en los casos previstos por el presente Reglamento, quedando la Comisión de Organización encargada de emitir las notificaciones correspondientes.
+
+Artículo 48.- El Orden del Día integrado por la Comisión de Organización se pondrá a consideración del Pleno y deberá ser validado por la mitad más uno del Pleno después de la declaración de apertura de las sesiones.
+
+Artículo 49.- No se dará lectura a la Minuta y el Acta de Acuerdos de la sesión anterior, salvo que lo solicite explícitamente algún Consejero. El Moderador será el encargado de preguntar al Pleno si existen modificaciones, las cuales deberán inscribirse como observaciones al calce del documento que finalmente se apruebe.
+
+Capítulo VIII. Del Foro Universitario
+
+Artículo 50.- La Comunidad dispondrá de un espacio de hasta 30 minutos al inicio de los trabajos del Pleno del Consejo para expresarse sobre los asuntos de su interés, en el entendido de que los temas tratados no podrán ser resueltos en esa sesión. El Secretario Técnico de la Comisión de Organización turnará los asuntos expuestos a la Comisión correspondiente.
+En caso de que el Pleno considere algún asunto planteado en el Foro como de urgente resolución, éste podrá ser turnado a la Comisión correspondiente contando con el voto de la mitad más uno de los Consejeros presentes.
+
+Capítulo IX. De las Participaciones
+
+Artículo 51.- Los Dictámenes serán expuestos primero en lo general y luego en lo particular y con apego a los tiempos que se precisen en la Convocatoria.
+Los Dictámenes serán presentados por el vocero o voceros nombrados por los integrantes de las Comisiones para ese efecto.
+
+Artículo 52.- La discusión se establecerá por rondas de máximo diez participantes que tendrán un tiempo de hasta tres minutos por participación, con derecho a una réplica de hasta un minuto.
+
+Artículo 53.- El vocero o voceros autorizados para la presentación de Dictámenes e Iniciativas tendrán derecho preferente para ahondar en la explicación o hacer las aclaraciones que se consideren pertinentes, sin necesidad de inscribirse en la lista de oradores.
+Los Relatores de la Mesa estarán encargados de tomar nota sobre las intervenciones relativas a la lectura de las Propuestas de la Comunidad con el objeto de proponer un punto(s) de Acuerdo sobre la posición del Consejo con respecto del asunto que se trate.
+
+Artículo 54.- Durante el desarrollo de la sesión podrán presentarse dos tipos de mociones:
+
+De orden o procedimiento.
+Al orador.
+
+Artículo 55.- Será moción de orden o procedimiento toda proposición que tenga alguno de los siguientes objetivos:
+
+Aplazar la discusión de un asunto pendiente por tiempo determinado o indeterminado.
+Solicitar algún receso durante la sesión.
+Solicitar la resolución sobre un aspecto del debate en lo particular.
+Solicitar se acuerde la suspensión de la sesión.
+Solicitar al Moderador se conmine al orador para que se ajuste al orden cuando se aparte del punto a discusión o su intervención sea ofensiva.
+Pedir la aplicación del Reglamento.
+Emitir propuestas para agilizar el debate o solicitar una votación.
+
+Artículo 56.- Toda Moción de Orden o Procedimiento deberá dirigirse al Moderador, quien la aceptará o la negará. En caso de que la acepte, tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso. De estimarlo conveniente o a solicitud de algún Consejero distinto de aquél a quien se dirige la moción, el Moderador deberá someter a votación del Pleno la moción de orden solicitada, quien sin discusión decidirá su admisión o rechazo.
+
+Artículo 57.- Cualquier Consejero o Representante podrá realizar mociones al orador que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
+
+Artículo 58.- Los integrantes del Consejo tendrán la obligación de velar porque exista una convivencia pacífica y cordial, lo que excluye ataques personales y la utilización de palabras altisonantes, de manera que en caso de incumplirse estas condiciones:
+
+En el primer incidente el involucrado será amonestado por el Moderador.
+En el segundo incidente el involucrado perderá su derecho a voz durante la sesión.
+A petición de alguno de los interesados, el caso podrá ser turnado a la Comisión de Mediación y Conciliación.
+
+Artículo 59.- Después de la primera ronda de participaciones, el Moderador pondrá a consideración del Pleno si el tema se considera suficientemente discutido:
+
+De no haberse agotado la discusión, se abrirá una nueva ronda para plantear otras propuestas o argumentos; posterior a lo cual, el Moderador pondrá a consideración del Pleno, si debe o no continuarse la discusión.
+De continuar la discusión, se dará paso a una tercera y última ronda de hasta tres participaciones a favor y tres en contra, dando preferencia a los Consejeros que no hubieren intervenido en los dos registros anteriores.
+Si el Pleno, después de escuchar a los oradores a favor y en contra, considera que no dispone de los elementos suficientes para decidir mediante votación, el Dictamen será regresado a la Comisión que lo produjo para su ajuste; en caso de tratarse de Iniciativas o Propuestas, quedará al Pleno decidir si el asunto es turnado para su dictaminación a una Comisión Permanente o si existen elementos suficientes para la conformación de una Comisión Temporal.
+
+Capítulo X. De las votaciones
+
+Artículo 60.- Sólo cuando el Pleno, a consulta del Moderador, considere los asuntos bajo análisis suficientemente discutidos, se procederá a las votaciones correspondientes.
+
+Artículo 61.- Las votaciones en el Pleno podrán ser:
+Económicas: Como norma general para la realización de votaciones. Será suficiente con que los escrutadores realicen el conteo de los votos levantados por los Consejeros.
+Nominales: Cuando se trate de esclarecer con mayor precisión una votación económica y/o a petición expresa de algún Consejero. Para ello, los Consejeros deberán expresar en voz alta su nombre completo y el sector que representan, así como el sentido de su voto.
+Secretas: Cuando se trate de nombramientos y sanciones. Las votaciones deberán verificarse mediante papeletas y urnas que garanticen el anonimato de los sufragantes.
+
+Artículo 62.- De acuerdo con lo establecido en el artículo 18 de la Ley, la expedición del Estatuto General Orgánico, así como sus modificaciones deberán ser aprobadas por al menos dos terceras partes de los miembros del Consejo Universitario.
+
+Artículo 63.- De acuerdo con lo establecido en el artículo 16 de la Ley, el Reglamento interno, también los estatutos y las disposiciones que afecten directamente los intereses y derechos de los estudiantes y académicos definidos en los artículos 6 y 7 de la Ley, deberán ser aprobados por la mayoría de la representación de ambos sectores.
+
+Artículo 64.- La aprobación de asuntos de procedimiento y aquellos que no se encuentren considerados en los supuestos anteriores, deberá verificarse por mayoría simple, contando con el voto de la mitad más uno de los Consejeros en el Pleno.
+
+Artículo 65.- Para realizar las votaciones deberá garantizarse que exista y se mantenga el Quórum mínimo requerido, en los términos del presente Reglamento. En ningún caso se tomará en cuenta el voto de los Consejeros ausentes.
+
+Artículo 66.- En caso de empate en las votaciones se realizará una segunda y hasta tercera ronda. De persistir el empate el asunto deberá retornarse a la Comisión de origen o turnarse a una Comisión Temporal, para que en un plazo perentorio proponga un nuevo Dictamen que posibilite la discusión y la toma de decisiones en el Pleno y, en caso de ser necesario, se someterá a consideración de la Comunidad a través de encuestas, consultas y/o referéndum, según proceda en cada caso.
+
+
+Capítulo XI. De los asuntos generales
+
+Artículo 67.- Los Asuntos Generales serán agendados en el Orden del Día de las sesiones ordinarias a iniciativa de los Consejeros, el Rector o Representantes. Las propuestas deberán presentarse cuando menos tres días hábiles antes de las sesiones. Los temas a tratar por este conducto tendrán un carácter meramente informativo.
+
+Capítulo XII. De la minuta de las sesiones y el Acta de Acuerdos
+
+Artículo 68.- De todas las sesiones del Pleno se levantará una Minuta en la que deberán constar:
+
+Fecha, lugar y hora citada para la sesión.
+Lista de asistencia y Quórum.
+Lugar fecha y hora en que se declaró legítimamente abierta la sesión o, en su caso, informe acerca de las condiciones que provocaron que no se verificara su clausura, así como el lugar y fecha de la sesión en segunda convocatoria o en sesión extraordinaria, según corresponda.
+Orden del día aprobado por el Pleno.
+Síntesis de los temas tratados en el Foro Universitario.
+Síntesis sobre la presentación de los Dictámenes, Iniciativas y Propuestas
+Síntesis de las Participaciones
+Acuerdos.
+Asuntos Generales (en el caso de las sesiones ordinarias).
+Lugar, fecha y hora de clausura de la sesión.
+Rúbricas.
+
+Artículo 68.bis- Los acuerdos tomados por el Pleno entrarán en vigor al día natural siguiente de su publicación en la página electrónica del Consejo, salvo en los casos en que éstos determinen algo distinto.
+
+La Comisión de Organización publicará los acuerdos en la página electrónica del Consejo en un plazo máximo de cinco días naturales.
+Los acuerdos del Consejo se publicarán también en los otros dos medios oficiales de la Universidad: página electrónica y Boletín de la Universidad.
+
+Artículo 69.- Las Minutas y las Actas serán aprobadas al inicio de la siguiente sesión ordinaria del Consejo, debiendo estar rubricadas por todos los Consejeros titulares presentes.
+
+Artículo 70.- Una vez aprobadas, la Comisión de Organización deberá verificar que las Minutas y las Actas se encuentren disponibles en el portal del Consejo dentro de la página electrónica de la Universidad, así como en los Archivos del Consejo para su consulta pública.
+
+Artículo 71.- La Comisión de Organización deberá garantizar la calidad en la realización de la versión estenográfica de las sesiones plenarias del Consejo.
+TÍTULO CUARTO. DE LAS COMISIONES
+Capítulo I Previsiones generales
+
+Artículo 72.- Para el ejercicio de sus facultades el Consejo se organizará en Comisiones Permanentes y Temporales, encargadas de conocer, deliberar y emitir dictámenes técnicos sobre los asuntos puestos a su consideración en el marco de sus atribuciones.
+
+Artículo 73.- Las Comisiones Permanentes del Consejo están encargadas de fomentar el cumplimento de las funciones sustantivas de la Universidad: docencia, investigación y difusión de la cultura. Así como también de gestionar aquellos asuntos inherentes a su desarrollo institucional, tales como las actividades de planeación, finanzas y administración, así como de mediación y conciliación.
+
+Artículo 74.- Las Comisiones Temporales serán creadas y conformadas por el Pleno para atender asuntos coyunturales fuera de la competencia de las comisiones permanentes. Su integración deberá validarse con el voto de la mitad más uno de cada uno de los sectores estudiantil y académico del Pleno. Las comisiones temporales se regirán por las mismas normas que las comisiones permanentes y serán disueltas concluido el objeto de su conformación en los plazos que disponga el Pleno del Consejo.
+
+Artículo 75- Las Comisiones del Consejo estarán integradas por Consejeros y Representantes ratificados en el Pleno, garantizándose al menos la presencia de dos consejeros estudiantiles y dos consejeros académicos para el desarrollo de sus trabajos.
+
+Artículo 76.- Son responsabilidades de las Comisiones:
+Elaborar y modificar su agenda de trabajo en el marco de sus atribuciones y presentarla ante la Comisión de Organización para su incorporación a la agenda de actividades del Consejo.
+Consultar y solicitar información a las instancias académicas, académico-administrativas y administrativas de la Universidad relacionadas con los asuntos sometidos a su análisis.
+
+En caso de incumplimiento de los términos para la entrega y recepción de información entre cualesquiera de las partes, se deberá turnar para su conocimiento y trámite ante la Comisión de Mediación y Conciliación.
+Solicitar asesoría técnica interna y/o externa que permita fundamentar la elaboración de los proyectos de Dictamen.
+Las solicitudes de asesoría técnica externa deberán turnarse a la Comisión de Organización para su integración en el presupuesto de egresos del Consejo y su consideración por el Pleno, con al menos treinta días naturales de anticipación, señalando expresamente el tiempo y costo de los servicios.
+En caso de situaciones extraordinarias, el pago de la asesoría externa será gestionado por el titular de la Rectoría.
+
+Presentar Dictámenes debidamente validados por la mitad más uno de los integrantes de la Comisión.
+
+Artículo 77.- En caso de incumplimiento de responsabilidades por parte de las Comisiones, se deberá turnar un punto de acuerdo al Pleno del Consejo a través de la Comisión de Organización.
+
+Corresponderá al Pleno del Consejo deliberar sobre la reestructuración o disolución de las comisiones, contando con el voto de las dos terceras partes de los consejeros asistente a la sesión donde se desahogue el punto.
+
+Artículo 78.- Las Comisiones Permanentes del Consejo son:
+Comisión de Organización.
+Comisión de Asuntos Legislativos.
+Comisión de Mediación y Conciliación.
+De la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria.
+Comisión de Hacienda.
+Comisión de Asuntos Académicos.
+Comisión de Difusión, Extensión y Cooperación Universitaria.
+
+Capítulo II De la Comisión de Organización
+
+Artículo 79.- El Consejo Universitario nombrará una Comisión de Organización durante su primera sesión, para efecto de gestionar la administración y la representación del Consejo, su conformación deberá ser integrada por cuando menos dos consejeros de cada Plantel.
+
+Artículo 80.- El pleno elegirá por votación, de entre los miembros de la Comisión de Organización, a quien deba realizar las funciones de Secretario Técnico de la Comisión de Organización, el cual permanecerá en funciones por el lapso de un año, con posibilidad de ser ratificado por un año más, por el pleno del Consejo. 
+
+Artículo 81.- La Comisión de Organización tendrá las siguientes atribuciones:
+Organizar y coordinar los trabajos del Consejo.
+Proponer y presentar al Pleno para su aprobación el calendario anual de sesiones ordinarias del Consejo.
+Recabar de las distintas instancias del Consejo la información relativa a su agenda de trabajo con el objeto de integrarla, publicarla y mantenerla actualizada en la página electrónica de la Universidad.
+Integrar la propuesta de Programa Operativo Anual del Consejo a partir del gasto corriente, las solicitudes de apoyo que presenten las Comisiones y, en casos excepcionales, los Consejeros en el cumplimiento de sus atribuciones y de acuerdo con las disposiciones que el Pleno emita en este sentido.
+Recibir, turnar y dar seguimiento de las comunicaciones al interior del Consejo para favorecer la articulación de los trabajos entre las Comisiones.
+Recibir, dar respuesta, turnar y dar seguimiento a la correspondencia dirigida al Consejo para favorecer las relaciones de éste con la Comunidad, con respecto de las instancias académicas, académico-administrativas y administrativas de la Universidad, así como con respecto de instituciones y organismos fuera de la Universidad.
+Integrar y emitir la Convocatoria de las sesiones ordinarias del Pleno a partir de los Dictámenes, Iniciativas, Propuestas y Asuntos Generales llegados a la Comisión para su trámite, en los plazos establecidos.
+Recibir y dar trámite a la solicitud de sesiones extraordinarias, integrando la Convocatoria a petición del Pleno, las Comisiones y el Rector
+Llevar a cabo las gestiones administrativas pertinentes para el desarrollo de las sesiones plenarias del Consejo.
+Coordinar los trabajos de la Mesa de Sesiones en las reuniones ordinarias, extraordinarias y permanentes del Consejo.
+Llevar el directorio, la lista de asistencia a las sesiones del Pleno, así como el registro de altas y bajas en el Pleno y en Comisiones.
+Recabar la documentación producida entre las distintas instancias del Consejo, así como establecer y custodiar los Archivos del Consejo.
+Elaborar el informe general de actividades del Consejo, a partir de los informes presentados por las Comisiones, los Consejeros y los representantes.
+Las demás que le confiera el Pleno del Consejo y el presente Reglamento.
+
+Artículo 82.- Por tratarse del órgano de gestión del Consejo, el Secretario Técnico de la Comisión de Organización, además de las funciones inherentes a la Secretaría Técnica, consignadas en el Artículo 91, del presente Reglamento, tendrá las siguientes atribuciones y responsabilidades:
+
+Asistir al Moderador en la Mesa de Sesiones, así como sustituirlo en sus ausencias.
+Presentar anualmente el informe general de actividades del Consejo.
+Presentar informes semestrales sobre los egresos del Consejo ante el Pleno.
+Las demás que le confiera el Pleno y el presente Reglamento.
+
+Punto de Disenso “B” Incorporar nuevo Artículo sobre la Subcomisión para el Seguimiento de los Acuerdos
+Capítulo III. De la Comisión de Asuntos Legislativos
+
+Artículo 83.- Son atribuciones y responsabilidades de la Comisión de Asuntos Legislativos:
+
+Consultar a la Comunidad, elaborar y someter a la consideración del Pleno, el proyecto de Estatuto General Orgánico, así como las iniciativas en materia de adición, derogación y reforma del mismo.
+Elaborar y someter a la consideración del Pleno el Reglamento Interno del Consejo así como sus posteriores adiciones, derogaciones y reformas.
+Conocer, analizar y someter a consideración del Pleno las normas y reglamentos emitidos por todas las instancias académicas, académico-administrativas y administrativas de la Universidad, así como también sus posteriores adiciones, derogaciones y reformas.
+Revisar, verificar y, en su caso, someter a consideración del Pleno las normas y reglamentos emitidos por las distintas instancias del Consejo para su funcionamiento interno, garantizando su concordancia con la Ley, el presente Reglamento y demás normas aplicables.
+Solicitar la asesoría jurídica, interna y/o externa, que respalde la legalidad de las propuestas de dictamen, normas y reglamentos que la Comisión ponga a consideración del Pleno.
+Las demás que el Pleno del Consejo le confiera.
+
+Capítulo IV. De la Comisión de Mediación y Conciliación
+
+Artículo 84.- Son atribuciones y responsabilidades de la Comisión de Mediación y Conciliación:
+Proponer el Catálogo de Normas de convivencia de la Universidad, para su dictaminación a través de la Comisión de Asuntos Legislativos y su aprobación en el Pleno.
+Conocer de los actos que violen la Ley de la UACM, las disposiciones estatutarias, el presente Reglamento, así como el catálogo de normas de convivencia de la Universidad.
+Convocar a las partes involucradas en los actos que infrinjan las disposiciones estatutarias, el presente Reglamento y el catálogo de Normas de Convivencia para que manifiesten por escrito y mediante documentación probatoria lo que a su derecho convenga, buscando en todo momento la solución de los conflictos mediante el diálogo y el mutuo entendimiento.
+Conocer, analizar y en su caso, proponer ante el Pleno la remisión de los asuntos a las instancias administrativas o judiciales correspondientes.
+Las demás que le confiera la Ley y el Pleno del Consejo.
+
+Capítulo V. De la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria
+
+Artículo 85.- Son atribuciones y responsabilidades de la Comisión de Planeación, Desarrollo y Gestión Universitaria:
+
+Fomentar y proponer mecanismos para el desarrollo de procesos solidarios y de cooperación con vistas a la configuración de la planeación y el desarrollo institucional.
+Consultar a la Comunidad, analizar y dictaminar sobre el establecimiento de normas, criterios y procedimientos para la evaluación diagnóstica de las instancias académicas, académico-administrativas y administrativas de la Universidad.
+Conocer, analizar y, en su caso, proponer las políticas generales en concordancia con los principios fundamentales del modelo de la Universidad.
+Analizar, dictaminar y hacer propuestas sobre el establecimiento de normas, criterios y procedimientos para la planeación universitaria a partir de los resultados de los procesos de evaluación diagnóstica correspondientes y en concordancia con las políticas generales de la Universidad.
+Conocer, analizar y, en su caso, proponer el organigrama y los procedimientos institucionales para la planeación en la Universidad.
+Proponer políticas generales y lineamientos para la planeación urbanística y arquitectónica de los espacios requeridos para las actividades universitarias.
+Conocer, analizar y dictaminar la propuesta del Plan Integral de Desarrollo, presentado por la Coordinación de Planeación para su aprobación en el Pleno del Consejo.
+Conocer, analizar y dictaminar el Programa Operativo Anual y el Programa Anual de Trabajo de la Universidad.
+Conocer, analizar y proponer los mecanismos de instrumentación del Plan Integral de Desarrollo en las distintas áreas académicas, académico-administrativas y administrativas de la Universidad.
+Establecer normas, criterios y procedimientos para el seguimiento de los resultados de la aplicación del Plan Integral de Desarrollo de la Universidad.
+Conocer, evaluar y dictaminar los informes anuales de la Rectoría, la Coordinación Académica, las Coordinaciones de Colegio, así como de los Programas, Academias y Centros, en relación a los resultados de la aplicación del Plan Anual de Desarrollo de la Universidad.
+Consultar a la Comunidad, deliberar y dictaminar sobre la creación, modificación o supresión de estructuras académicas, académico–administrativas y administrativas en la Universidad.
+Las demás que le confiera el Pleno del Consejo.
+
+Capítulo VI. De la Comisión de Hacienda
+
+Artículo 86.- Son atribuciones y responsabilidades de la Comisión de Hacienda:
+Supervisar y dar seguimiento al cumplimiento de las funciones de la Tesorería y la Contraloría para el adecuado manejo y cuidado del patrimonio universitario.
+Proponer los mecanismos para la elaboración y presentación de los informes anuales del Tesorero y del órgano de Contraloría.
+Analizar, dictaminar y poner a consideración del Pleno los informes anuales del Tesorero y del órgano de contraloría, así como emitir las disposiciones pertinentes.
+Estudiar y poner a consideración del Pleno los mecanismos actuales para la contratación del despacho externo que audita los estados financieros de la Universidad y, en su caso, proponer mecanismos alternos.
+Proponer al Pleno los mecanismos para la presentación de los estados financieros debidamente auditados por el órgano de Contraloría y el despacho externo.
+Analizar, dictaminar y poner a consideración del Pleno los estados financieros debidamente auditados por el órgano de Contraloría y el despacho externo que se designe conforme a las normas aplicables, así como emitir las disposiciones pertinentes. Una vez aprobados, dichos estados financieros se harán del conocimiento público y estarán a disposición de cualquier persona pública o privada que solicite su consulta de manera fundada y motivada.
+Proponer los mecanismos para la elaboración y presentación de los anteproyectos de egresos de las áreas administrativas y académicas.
+Proponer los mecanismos para la elaboración del proyecto anual de ingresos y el presupuesto de egresos de la Universidad.
+Conocer, analizar, dictaminar y, en su caso, someter a la aprobación del Pleno el proyecto anual de ingresos y el presupuesto de egresos que presente el Rector, así como emitir las disposiciones pertinentes.
+Conocer, analizar, dictaminar y someter a la aprobación del Pleno las modificaciones al presupuesto de egresos de la Universidad.
+Conocer, analizar, proponer y, en su caso, someter a la aprobación del Pleno los ajustes, trasferencias y reasignaciones del presupuesto de egresos de la Universidad.
+Dar seguimiento oportuno al ejercicio del presupuesto.
+Conocer, analizar, dictaminar y someter a la aprobación del Pleno los montos y las características de las remuneraciones y prestaciones del personal académico, de los trabajadores administrativos, técnicos y manuales, y de los representantes administrativos y académico administrativos.
+Las demás que le confiera la Ley y el Pleno del Consejo.
+
+Capítulo VII. De la Comisión de Asuntos Académicos
+
+Artículo 87.- Son atribuciones y responsabilidades de la Comisión de Asuntos Académicos:
+
+Proponer políticas, normas y procedimientos para favorecer la articulación de la docencia, investigación y la cooperación universitaria.
+Dictaminar y proponer normas y criterios para la elaboración, aprobación y seguimiento de los Planes y Programas de Estudio.
+Analizar y dictaminar las propuestas de creación y modificación de los planes y programas de estudio de la Institución.
+Dictaminar y proponer denominaciones y requisitos académicos para la obtención de certificados, diplomas, títulos, grados y reconocimientos.
+Dictaminar y proponer normas y criterios para la revalidación, equivalencias e incorporación de estudios.
+Proponer ante la Comisión de Planeación, Desarrollo y Gestión Institucional la creación, modificación y/o supresión de estructuras, entidades y unidades académicas y académico-administrativas.
+Dictaminar y proponer normas, criterios y procedimientos para la creación de estructuras docentes.
+Proponer en colaboración con la Comisión de Planeación, Desarrollo y Gestión Institucional, políticas generales en relación a la formación docente y profesional del personal académico.
+Analizar y dictaminar propuestas de programas de formación pedagógica y profesional del personal académico.
+Analizar y dictaminar propuestas de mejoramiento en los ámbitos de docencia y aprendizaje, en particular de los espacios de tutoría y asesoría.
+Dictaminar y proponer normas y criterios para el proceso de certificación.
+Proponer políticas, normas y criterios para la creación, modificación y seguimiento de los programas de servicio social, en concordancia con el proyecto educativo de la Universidad.
+Analizar y dictaminar sobre la creación y modificación de los programas de servicio social.
+Dictaminar y proponer normas y criterios para la creación de estructuras de investigación.
+Dictaminar y proponer normas, criterios y procedimientos para la creación, evaluación y seguimiento de proyectos, programas y centros de investigación.
+Dictaminar y proponer criterios, normas y procedimientos para el establecimiento de convenios interinstitucionales de cooperación e intercambio académico.
+Analizar y dictaminar sobre normas, criterios y procedimientos para la organización académica semestral; tales como la configuración de franjas horarias, los procedimientos de inscripción y reinscripción, la asignación de grupos en la Universidad entre otros.
+Dar seguimiento al cumplimiento de normas, criterios y procedimientos para la dictaminación, ingreso y movilidad entre academias y colegios del personal académico de la Universidad.
+Proponer a la Comisión de Asuntos Legislativos normas, criterios y procedimientos para la dictaminación, ingreso y movilidad entre academias, colegios y programas del personal académico de la Universidad para su eventual incorporación al Estatuto del Personal Académico.
+Las demás que le confiera el Pleno del Consejo.
+
+Capítulo VIII De la Comisión de Difusión, Extensión y Cooperación Universitaria
+
+Artículo 88.- Son responsabilidades y atribuciones de la Comisión de Difusión, Extensión y Cooperación Universitaria:
+Conocer, analizar y dictaminar sobre las políticas generales de difusión, extensión, vinculación y cooperación universitaria en el marco de sus relaciones con la docencia e investigación, tanto al interior de la Universidad como al exterior de la misma.
+Conocer, analizar y dictaminar sobre normas, criterios y procedimientos para establecer los convenios en materia de difusión, extensión, vinculación y cooperación establecidos entre las distintas áreas de la Universidad e instituciones, grupos y comunidades al exterior de la misma.
+Conocer y, en su caso, dictaminar sobe los convenios en materia de difusión, extensión, vinculación y cooperación universitaria.
+Consultar a la Comunidad, elaborar y poner a consideración del Pleno las normas, criterios y procedimientos para la organización de actividades, así como para la presentación y aprobación de proyectos en materia de difusión, extensión, vinculación y cooperación universitaria.
+Conocer, analizar y proponer a la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria la creación, organización, reestructuración y supresión de las estructuras de difusión, extensión y cooperación universitaria.
+Consultar a la comunidad, elaborar y poner a consideración del Pleno las normas, criterios y procedimientos para el seguimiento de las actividades, los proyectos y las estructuras de difusión, extensión y cooperación universitaria.
+Las demás que le confiera el Pleno del Consejo
+
+Capítulo IX De las sesiones en Comisión
+
+Artículo 89.- La primera reunión en Comisiones se llevará a cabo a más tardar diez días hábiles después de la fecha de su conformación. Siendo sus integrantes citados por única vez por el Secretario Técnico de la Comisión de Organización cuando menos con cinco días hábiles de anticipación a la fecha propuesta.
+
+Artículo 90.- En su primera reunión, las Comisiones elegirán entre sus integrantes al Secretario Técnico y el Relator, los cuales permanecerán en funciones por el lapso de un año con posibilidad de ser ratificados por un año más.
+
+Artículo 91.- En lo general, son atribuciones y responsabilidades de la Secretaría Técnica de las Comisiones:
+
+Presentar el calendario y agenda de trabajo ante la Comisión para su conocimiento y aprobación, y a la Comisión de Organización para su publicación en la página electrónica del Consejo.
+Elaborar la propuesta de orden del día, a partir de los asuntos pendientes, las comunicaciones habidas y las iniciativas de los integrantes de la Comisión, así como conformar la carpeta con los materiales de apoyo de los asuntos que serán abordados y emitir la Convocatoria en los términos del presente reglamento
+Llevar a cabo las gestiones administrativas necesarias para la celebración de las sesiones y el desarrollo de los trabajos en Comisión.
+Actuar como moderador, llevar la lista de asistencia y verificar el quórum de las sesiones en Comisión.
+Recabar y solicitar de las instancias correspondientes la información que se considere conveniente para el dictamen de los asuntos bajo estudio de la Comisión. Las áreas en un plazo máximo de diez días hábiles deberán responder dicha solicitud. En el caso de que no tuvieran la información deberán proponer alternativas de solución.
+Solicitar a la Comisión de Organización se realicen los trámites correspondientes para la contratación de consultoría externa, previa aprobación del Pleno.
+Resguardar la documentación emanada del funcionamiento de la Comisión, favorecer su consulta por parte de los integrantes de la Comisión, así como emitir copia de los expedientes a la Comisión de Organización para su archivo y/o publicación en la página del Consejo.
+Solicitar a la Comisión de Organización los recursos necesarios para el apoyo de los trabajos de la Comisión, contando con la previa aprobación de sus integrantes.
+Respetar el sentido de los Dictámenes aprobados por la Comisión y hacer entrega de ellos en tiempo y forma ante la Comisión de Organización para su inclusión en la propuesta de orden del día de las sesiones del Pleno.
+Presentar un informe anual sobre el resultado de los trabajos de ésta a la Comisión de Organización para su publicación en la página electrónica del Consejo.
+Hacer entrega formal de los archivos, así como de la agenda de asuntos pendientes a la Secretaría Técnica entrante una vez concluidas sus funciones.
+
+Artículo 92.- Son funciones y responsabilidades del Relator:
+
+Llevar la minuta de las reuniones en Comisión, hacerlas llegar a la Secretaría Técnica para su difusión entre los integrantes de la misma, a más tardar cinco días hábiles posteriores a la reunión.
+Dar lectura de los documentos bajo estudio de la Comisión o que sus integrantes consideren conveniente.
+Redactar el documento final de Dictamen y/o puntos de acuerdo, aprobado por la Comisión, para lo cual el Relator podrá auxiliarse de los miembros de la Comisión que soliciten colaborar en su elaboración. Una vez concluido se entregará al secretario técnico quien lo turnará a toda la Comisión cuando menos un día hábil previo a su entrega oficial a la Comisión de Organización.
+Si fuera el caso, realizar las modificaciones acordadas por el Pleno de la Comisión para la aprobación del Dictamen definitivo.
+Suplir al secretario técnico en caso de ausencia y con la aprobación del pleno de la Comisión.
+
+Artículo 93.- Las Comisiones se reunirán en sesión ordinaria al menos una vez por mes, mientras que las sesiones extraordinarias serán convocadas por la Secretaría Técnica a petición expresa de alguno de los integrantes de la Comisión para el tratamiento de asuntos de urgente resolución.
+
+Artículo 94.- La Convocatoria deberá emitirse por escrito, cuando menos con cinco días hábiles de anticipación en caso de tratarse de una sesión ordinaria, y cuando menos con tres días hábiles de anticipación en caso de tratarse de una sesión extraordinaria. Deberá contener el día, hora y lugar en el que la sesión deba verificarse, la mención de ser ordinaria o extraordinaria, el proyecto de orden del día a tratar y si fuera el caso, los materiales de apoyo de los asuntos propuestos.
+
+Artículo 95.- En caso de no poder asistir a la sesión, los integrantes de las comisiones deberán notificar su ausencia a la Secretaría Técnica con al menos un día de anticipación.
+
+Artículo 96.- Los integrantes de las comisiones serán dados de baja de la Comisión con carácter irrevocable, cuando dejen de asistir a cuatro reuniones consecutivas. La Secretaría Técnica notificará la situación a la Comisión de Organización.
+
+Artículo 97.- Para iniciar las sesiones será necesaria la presencia de la mitad más uno de los integrantes de la Comisión.
+
+Si después de treinta minutos de la hora fijada no se reuniera el quórum requerido, el Secretario Técnico deberá emitir una segunda convocatoria vía electrónica explicitando la fecha y hora acordada por los asistentes a la sesión, en un plazo no menor a los tres días hábiles.
+En segunda convocatoria podrá celebrarse la sesión con un tercio de los integrantes de la comisión, garantizando que haya por lo menos un académico y un estudiante.
+Después de tres convocatorias sin quórum el asunto será turnado a la Comisión de Organización para su consideración al Pleno del Consejo, que en última instancia tendrá la facultad para establecer las medidas pertinentes, sea su reestructuración, tratándose de una Comisión Permanente, o su disolución, en el caso de las Comisiones Temporales.
+
+Artículo 98.- El transcurso de las sesiones en Comisión por cuanto a su apertura, duración, desarrollo, votaciones y clausura deberá hacerse en los mismos términos planteados para las sesiones en el Pleno.
+
+Artículo 99.- De cada sesión en Comisión se levantará una minuta que contendrá, día, fecha, lugar y los asistentes, el orden del día, la lista de asistencia y la verificación de quórum, el seguimiento de acuerdos, el contenido de las participaciones, el resultado de la votación y los acuerdos aprobados.
+
+La minuta de las sesiones se someterá a la Comisión para su aprobación en la sesión subsecuente.
+
+Artículo 100.- Una vez aprobada el acta o minuta por la Comisión, la Secretaría Técnica enviará copia en versión electrónica e impresa a la Comisión de Organización para su publicación en el sitio electrónico del Consejo dentro de la página de la Universidad y su consignación en los Archivos del Consejo.
+Punto de Disenso “B” Incorporar un nuevo Título relativo a la Junta de Seguimiento.
+
+TÍTULO QUINTO PROCEDIMIENTO PARA LA APLICACIÓN DE LAS SANCIONES
+
+Artículo 101.- Los Consejeros y Representantes serán responsables ante el Pleno del Consejo, ante sus representados y la comunidad, por lo que respecta a sus atribuciones y responsabilidades en las formas previstas por este Reglamento.
+
+Artículo 102.- Las sanciones en el caso de incumplimiento de responsabilidades, serán estipuladas de acuerdo con la Ley, el Estatuto y el presente Reglamento.
+
+Artículo 103.- El procedimiento a seguir en caso de incumplimiento de responsabilidades de los miembros del Consejo, cuya sanción no se establezca en el cuerpo del presente Reglamento, deberá verificarse en los siguientes términos:
+
+Mediante escrito fundado, los Consejeros, los Representantes, los Secretarios Técnicos de las Comisiones y la Comunidad Universitaria serán responsables de turnar el caso a la Comisión de Organización.
+La Comisión de Organización notificará al involucrado concediéndole un plazo de diez días hábiles posteriores a la recepción de la notificación para que, si lo estima conveniente, manifieste por escrito lo que a su derecho convenga, así como para reunir y hacer entrega de la documentación correspondiente, si fuere el caso.
+La Comisión de Organización, al recibir respuesta del involucrado o transcurrido el plazo previsto sin haberla recibido, examinará el caso en un plazo no mayor de diez días hábiles y enviará al Pleno una propuesta de dictamen para que éste decida lo conducente mediante votación secreta.
+TÍTULO SEXTO DE LA RENDICIÓN DE CUENTAS Y EL ACCESO A LA INFORMACIÓN
+Capítulo I De la rendición de cuentas
+
+Artículo 104.- Los Consejeros y Representantes elaborarán un reporte anual, el cual se entregará a la Comisión de Organización para su incorporación al Informe General de Actividades del Consejo y consignación para el archivo.
+
+Artículo 105.- Los Secretarios técnicos de las comisiones elaborarán un informe anual que se entregará a la Comisión de Organización para integrarlo al Informe General de Actividades del Consejo y para su consignación en el archivo.
+
+Artículo 106.- Cuando se den por concluidas las funciones de las Comisiones Temporales su Secretario Técnico presentará al Pleno del Consejo un informe detallado sobre las actividades, reuniones y los resultados alcanzados, con copia para la Comisión de Organización incorporarlo al Informe General de Actividades del Consejo y para su consignación en el archivo.
+
+Artículo 107.- La Secretaría Técnica de la Comisión de Organización deberá presentar ante el Pleno un informe anual pormenorizado sobre las actividades de la Comisión de Organización que deberá incorporarse al Informe General de Actividades del Consejo. En caso de que el Pleno le solicite información previa o posterior a la entrega del informe, deberá presentarla en los plazos establecidos por el propio Consejo.
+
+Capítulo II De la Transparencia y el acceso a la Información
+
+Artículo 108.- Se creará un sistema de información y documentación del Consejo de acceso público, mediante el cual todos los miembros de la comunidad universitaria puedan dar seguimiento a los temas de su interés.
+
+Artículo 109.- Los dictámenes de las comisiones y los acuerdos del Consejo deberán ser publicados en el órgano informativo de la Universidad, en la página electrónica del Consejo, así como en los estrados de cada uno de los planteles, a más tardar cinco días después de la sesión respectiva.
+
+TRANSITORIOS
+
+PRIMERO: El presente Reglamento entrará en vigor al momento de su publicación en el Boletín Oficial de la Universidad.
+
+SEGUNDO: A partir de la entrada en vigor del presente reglamento, queda sin efecto el Reglamento del primer Consejo Universitario.
+
+TERCERO: Derogado.
+
+CUARTO: Derogado
+
+QUINTO: Los representantes tienen el derecho de ser convocados a las sesiones plenarias en los mismos términos establecidos para los Consejeros en el presente Reglamento.
+Ante el Consejo, los representantes del personal administrativo, técnico y manual, tendrán las siguientes responsabilidades:
+Asistir puntualmente a las sesiones del Pleno y de las comisiones en que se encuentren inscritos.
+Notificar por escrito al Secretario Técnico de la Comisión de Organización las ausencias a los trabajos del Pleno con cuando menos dos días hábiles de anticipación. La ausencia a las sesiones del Pleno será considerada como falta.
+Incorporarse a los trabajos de por lo menos una y máximo dos comisiones permanentes y como máximo una temporal. 
+En caso de ausencia a una Comisión, se deberá notificar al Secretario Técnico de la misma con un día de anticipación como mínimo
+Desarrollar los trabajos que les sean encomendados por el Pleno o en  comisiones, en tiempo y forma.
+Mantener comunicación permanente con el sector que representa, consultándoles y recuperando sus propuestas, teniendo la obligación de hacerlas llegar a las instancias conducentes, así como de darles seguimiento hasta su desahogo, informando a quien o quienes suscriben la propuesta, sobre el estado de la misma.
+Presentar un informe anual de actividades por escrito ante el Secretario Técnico de la Comisión de Organización  para su conocimiento y difusión en los términos establecidos por el presente Reglamento.
+Cuando los Representantes dejen de serlo por renuncia, baja por incumplimiento de responsabilidades, incapacidad total o fallecimiento, el órgano electoral designado por el Consejo para tal efecto deberá convocar a elección extraordinaria  para cubrir la vacante por lo que reste del periodo.
+Los Representantes no podrán ser reelectos para el siguiente periodo inmediato. 
+Los Representantes en ningún caso podrán ser electos por más de dos periodos.
+
+SEXTO: Derogado .
+
+SÉPTIMO: Derogado.
+
+
+DISENSOS
+
+Punto de Disenso “A”: Derogado.
+
+
+Punto de Disenso “B” Relativo a la instancia que correspondería conformar de manera institucional para el seguimiento de los Acuerdos del Consejo Universitario.
+Propuesta 1. Insertar nuevo artículo en el capítulo correspondiente de la Comisión de Organización.
+Artículo X.- Por tratarse de una tarea prioritaria, el seguimiento de los Acuerdos del Consejo quedará bajo la responsabilidad de una Subcomisión para el Seguimiento de los Acuerdos dentro de la Comisión de Organización, la cual deberá actuar con plena autonomía de la misma y estará integrada por dos profesores y dos estudiantes electos en el Pleno del Consejo, quedando la Subcomisión para el Seguimiento de los Acuerdos con las siguientes atribuciones:
+Recuperar, sistematizar y dar seguimiento a la instrumentación de los Acuerdos del Consejo, presentando un informe semestral sobre el avance en su cumplimiento.
+En casos de desacato por cualquiera de las instancias universitarias, turnar el caso ante la Comisión de Mediación y Conciliación, para su análisis y dictaminación correspondiente. Propuesta 2. Insertar un nuevo título correspondiente al seguimiento de los acuerdos del Consejo.
+
+A. TÍTULO QUINTO. DE LA JUNTA DE SEGUIMIENTO 
+
+Artículo X- El Consejo conformará una Junta de Seguimiento encargada de verificar la ejecución de los Acuerdos en el Pleno, Esta deberá estar integrada por los Secretario Técnicos de la Comisiones Permanentes del Consejo.
+
+Artículo X.- La Junta de Seguimiento deberá sesionar de manera ordinaria al menos cada dos meses contados a partir de la fecha de su instalación.
+
+Artículo X.- Son atribuciones y responsabilidades de la Junta de Seguimiento:
+Recuperar, sistematizar, y planificar la instrumentación de los Acuerdos del Consejo.
+Coadyuvar al cumplimiento de los Acuerdos del Consejo estableciendo mecanismos de colaboración con la Rectoría, las áreas académicas, académico-administrativas y administrativas de la Universidad.
+Conocer, analizar y en su caso turnar ante la Comisión de Mediación y Conciliación los casos de desacato de los Acuerdos del Consejo por parte de las Comisiones del Consejo, así como de las áreas académicas, académico-administrativas y administrativas de la Universidad.
+
+Artículo X.- Los trabajos de la Junta de Seguimiento deberán sujetarse a lo establecido para el caso de las sesiones en Comisión en el presente Reglamento.
+
+B. TÍTULO QUINTO. DE LA JUNTA DE SEGUIMIENTO
+
+Artículo X- El Consejo conformará una Junta de Seguimiento encargada de verificar la ejecución de los Acuerdos en el Pleno, la cual deberá estar integrada por dos consejeros estudiantiles y dos consejeros académicos electos en el Pleno.
+
+Artículo X.- La Junta de Seguimiento deberá sesionar de manera ordinaria al menos cada dos meses contados a partir de la fecha de su instalación.
+
+
+Artículo X.- Son atribuciones y responsabilidades de la Junta de Seguimiento:
+Recuperar, sistematizar, y planificar la instrumentación de los Acuerdos del Consejo.
+Coadyuvar al cumplimiento de los Acuerdos del Consejo estableciendo canales de diálogo con la Rectoría, las áreas académicas, académico-administrativas y administrativas de la Universidad.
+Conocer, analizar y en su caso turnar ante la Comisión de Mediación y Conciliación los casos de desacato de los Acuerdos del Consejo por parte de las Comisiones del Consejo, así como de las áreas académicas, académico-administrativas y administrativas de la Universidad.
+
+Artículo X.- De entre los integrantes de la Junta, el Pleno nombrará a un Coordinador.
+Son responsabilidades y atribuciones del Coordinador de la Junta de Seguimiento:
+Convocar a las reuniones y actuar como Moderador de la mesa de sesiones de la Junta, en los mismos términos que lo establecido para el caso de la Secretaría Técnica de las Comisiones en el artículo X del presente Reglamento.
+Presentar ante el Pleno del Consejo un informe semestral sobre el avance en el cumplimiento de los Acuerdos del Consejo.
+Las demás que le confiera el Pleno del Consejo
+
+Artículo X.- Los integrantes de la Junta deberán nombrar un Secretario en su sesión de instalación, cuyas responsabilidades serán llevar la lista de asistencia, verificar el quórum y elaborar la minuta de las sesiones, etc., en los mismos términos que lo establecido para el caso del Relatoría en el artículo X del presente Reglamento.
+
+
+Punto de Disenso “C” Derogado.
+
+
+Punto de Disenso “D” Derogado.
+
+
+Punto de Disenso “E” Propuesta para incorporar nuevo artículo Transitorio sobre la participación del Sindicato en el Consejo Universitario. § Votos de la Comisión de Asuntos Legislativos 12 votos a favor, 0 votos en contra, 2 abstenciones A los veinticinco días del mes de junio de 2008

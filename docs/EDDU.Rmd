@@ -1,0 +1,272 @@
+---
+title: "ESTATUTO DE LA DEFENSORIA DE LOS DERECHOS UNIVERSITARIO"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+# Estatuto de la Defensoría de los Derechos Universitarios
+
+Estatuto de la Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México
+
+## Exposición de motivos
+
+En la actualidad, los derechos humanos están reconocidos internacionalmente y deben reflejarse en las políticas nacionales. En México, la Comisión Nacional de los Derechos Humanos (CNDH) explica en general que:
+Los Derechos Humanos son el conjunto de prerrogativas sustentadas en la dignidad humana, cuya realización efectiva resulta indispensable para el desarrollo integral de la persona. Este conjunto de prerrogativas se encuentra establecido dentro del orden jurídico nacional, en nuestra Constitución Política, tratados internacionales y las leyes (CNDH, “Qué son los Derechos…”)
+
+	A su vez, Carlos Enrique Arévalo Narváez explica que: 
+    Los Derechos Humanos se encuentran fundamentados en la dignidad de la persona y por tanto, son inherentes a todos los seres humanos, tienen como notas características el ser interrelacionados, interdependientes e indivisibles, pues del desarrollo de uno de ellos se desprenderá el crecimiento de los demás, al igual que como consecuencia de la vulneración a uno de ellos se afecta a los demás.
+    
+	Son entonces los derechos humanos, derechos fundados en la persona, y por tanto, coinciden en eso con el actuar universitario, para el que la persona también resulta ser el elemento esencial (Arévalo, “Los derechos humanos al interior de las universidades” en La vinculación entre los derechos humanos y los derechos universitarios, 25). 
+	
+	Estos dos postulados iniciales fundan la motivación del presente acuerdo bajo la siguiente perspectiva: los derechos humanos son inherentes a las personas, están fundados en su dignidad humana, persiguen su desarrollo integral y están consagrados y constituidos en la legislación nacional. Debe contemplarse que una persona que ingresa a una universidad, sea cual fuere, ya tiene en sí misma la garantía que proporciona el Estado Mexicano de sus derechos humanos que le son irrenunciables e irrevocables. En nuestro caso, y por tal motivo, la pertenencia a la Universidad Autónoma de la Ciudad de México (UACM) no despoja de sus derechos humanos a las personas que componen su comunidad y es obligación institucional reconocerlos y preservar la garantía del ejercicio de tales derechos. La CNDH es muy clara al expresar que:
+    El respeto hacia los derechos humanos de cada persona es un deber de todos. Todas las autoridades en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos consignados en favor del individuo.
+
+	De igual manera, la aplicación de los derechos humanos a la que se encuentran obligadas todas las autoridades se rige por los principios de universalidad, interdependencia, indivisibilidad y progresividad. (CNDH, “Qué son los Derechos…”).
+
+Es obligación y responsabilidad de una institución incluir la promoción y el respeto a los derechos humanos, empezando por la dignidad de las personas y el respeto de sus garantías de igualdad y libertad; continuando con el derecho a la expresión y a la no discriminación, es decir, con los derechos que otorgan todas las leyes del país.
+
+En este sentido, las universidades emiten normas para garantizar estas libertades y otras más como la de pensamiento, de cátedra, de investigación y todas las que regulen las relaciones escolares y académicas; también pactan con sus trabajadores las normas laborales; todo lo anterior, con el principal fin de establecer un sistema de autorregulación, autónomo y democrático. Además, debe contemplarse que una obligación fundamental de una universidad es su proyección y servicio a la sociedad en la que está inserta, por lo que no puede ser omisa a los derechos constitucionales de los que goza el sujeto aún antes de pertenecer a una comunidad universitaria. Bajo esta perspectiva, Arévalo Narváez explica que:
+    […] la Universidad, a través de sus dos actividades centrales de investigación y docencia, se proyecta con una vocación de servicio en los distintos sectores de la sociedad.
+    	No se puede entender la Universidad como una institución social que carezca de una proyección social, la Universidad está al servicio de la sociedad porque la Universidad construye y desarrolla esa sociedad. 
+	
+	La Universidad se encuentra entonces constituida en esencia por la articulación de la singularidad de las personas, con la pluralidad de sus posturas ideológicas o científicas y la diversidad de los saberes. En resumen, conforma una Universalidad, un todo constituido por distintas partes, que libremente interactúan y que están obligadas -para poder coexistir, a hacerlo en un marco de respeto, tolerancia, responsabilidad y amistad. (Arévalo, 27).
+
+	De este modo, las relaciones humanas en una universidad deben estar guiadas por la razón ética pero bajo un principio ético fundamental, es decir, un imperativo categórico: el reconocimiento y respeto recíprocos de los sujetos como tales, en tanto reconocimiento y satisfacción de derechos de cada uno, y cumplimiento de las obligaciones y los derechos de cada uno para con todos los otros sujetos. En un marco universitario, tales relaciones humanas están fundadas también en la irrenunciable responsabilidad social de la institución.
+	
+	Estos imperativos categóricos son los que deben reconocerse y guiar las políticas institucionales de esta Casa de Estudios, ya que solamente así se posibilita el desarrollo pleno de cada ser humano como sujeto racional y autónomo, y así poder cumplir con lo que la Ley de la Universidad señala: a una mayor coincidencia de intereses entre los miembros constitutivos de la institución, corresponderá una mayor posibilidad de conformar un autogobierno eficaz, y de resolver mediante el diálogo y la razón los diferendos y conflictos que surjan de la necesaria y deseable pluralidad de ideas.
+	
+	También nuestra máxima Ley señala como compromiso de esta Universidad el brindar a los estudiantes una formación académica sólida; este propósito exige prestar atención no sólo a los planes y programas de estudio, sino también, y de manera especial, a los métodos de aprendizaje, a las relaciones entre estudiantes y profesores, a los sistemas de evaluación y al clima de convivencia general de la institución.
+	
+	Por todo esto, en el mundo de la academia no puede concebirse ninguna actividad que no sea la búsqueda de la verdad sin coacción, dentro de una política que permita que la manifestación respetuosa de las ideas no sea objeto de limitaciones injustificadas ni censura. Al cumplir con estas funciones sustantivas, la Universidad se constituye en un vehículo de participación en la comunidad que la compone y también de la que la rodea; y sus integrantes y egresados se constituyen en multiplicadores, en el ámbito social, de la formación, consolidación y ejercicio de una cultura en materia de derechos humanos que también son extensivos a las comunidades y sociedades a las que la institución pertenece.
+	
+	Por estos motivos, y retomando a Arévalo Narváez, es importante señalar que: 
+    […] la Universidad, por su naturaleza, se encuentra centrada en la persona y que por lo tanto carecerá de sentido y transformará en inalcanzables sus fines, si no fundamenta cada uno de sus actos en el respeto y la garantía de la dignidad del ser humano. ¿La dignidad de cuáles personas? De todas, no exclusivamente de las que conforman su claustro, pues de hacerlo así, desconociendo su entorno social, creará una burbuja que tarde o temprano estallará. […] la Universidad es un actor social, protagonista del cambio. 
+
+En conclusión, […] los derechos humanos, deben ser considerados la esencia del ejercicio universitario, pues emanan de la naturaleza misma de quien es su razón de ser: la Persona. (Arévalo, 27)
+
+La Universidad, pues, no puede ni debe excluir de su legislación y de su razón de ser la cultura de los derechos humanos. Debe integrarla a sus necesidades, metas y principios básicos, así como su promoción difusión y defensa. No podemos ser omisos a nuestra historia y olvidar que la comunidad de esta Casa de Estudios ha enfrentado embates contra sus derechos y de ello hay que aprender y actuar con responsabilidad. A raíz del conflicto universitario y derivado de la mesa de diálogo que se realizó en las instalaciones Casa Lamm el 6 de octubre de 2012, la Comisión Mixta, convocada en la etapa conocida como “Diálogos de Casa Lamm”, emitió una serie de consideraciones para su solución. Entre ellas, la Comisión Mixta señaló que se requería un proceso integral de creación de un marco jurídico completo en el que debía considerarse el establecimiento de normas de convivencia y de instancias que, como una defensoría de los derechos de los universitarios, pudieran contribuir a la instauración de un régimen interno suficiente y capaz de justiciabilidad.
+
+Dicha Comisión Mixta emitió también una serie de recomendaciones, donde la Quinta de ellas, señaló que esta Universidad debería establecer los mecanismos de defensa de los derechos universitarios a través de una instancia independiente, mediadora y conciliadora que, a través de sus recomendaciones, restituyera los derechos universitarios y los derechos humanos de los miembros de la Universidad cuando éstos fueran violentados. 
+
+Aunado a lo anterior, está la Recomendación emitida por la Comisión de Derechos Humanos del Distrito Federal, del 28 de septiembre de 2012, en la cual instó a la Rectoría y al Consejo Universitario, a reconfigurar a la Defensoría como un órgano independiente al interior de la Universidad, encaminado a la promoción y protección de los derechos humanos de la comunidad universitaria. Además de que es importante y necesario atender la recomendación, debemos recordar que esta reconfiguración partía de la existencia de una Defensoría del Estudiante, la cual se creó a petición de los mismos estudiantes que impulsaron un espacio cuyo propósito fuera atender y dar respuesta a las quejas que ellos presentaran sobre los servicios o los servidores públicos dentro de la Universidad. Con base en lo anterior, la Comisión Mixta recomendó que esta nueva Defensoría, para todos los integrantes de la comunidad, fuera conformada con base en los Principios relativos al Estatuto y Funcionamiento de las Instituciones Nacionales de Protección y Promoción de los Derechos Humanos conocidos también como los Principios de París. 
+
+Por todo lo anterior, la defensoría de los derechos universitarios debe estimular normas de comportamiento dirigidas a procurar el respeto, la armonía y la convivencia entre los miembros que esta comunidad, con la intención de velar por la buena relación de la vida universitaria. Las sugerencias y recomendaciones que se llevan a cabo a través de esta instancia no ha de entenderse como asunción de un espíritu fiscalizador, lo que se debe perseguir es la búsqueda de soluciones justas a los problemas existentes. Con esta propuesta, se pretende que esta Universidad garantice principalmente el goce de los derechos humanos y la protección a los miembros de su comunidad, en su vida universitaria y en sus derechos humanos, de manera tal que éste sea el principio de identidad que una e identifique a la comunidad de la UACM. Además se espera que este espíritu se proyecte fuera de sus muros, donde tanta falta hace la mirada humana y la vigencia de nuestro principio ético normativo: cooperación y apoyo mutuos que más que un ideal debe ser la praxis del mutuo respeto y de la persecución de los fines de la universidad a través de un sentido ético, humano, respetuoso e incluyente.
+
+[Documento Principal](index.html)
+
+
+## Glosario
+
+Para los efectos del presente Estatuto, se entiende por:
+
+    Cargo de dirección y responsabilidad: Rector, coordinadores de área, colegio y plantel, así como los definidos en el EGO.
+    
+    Comunidad Universitaria: estudiantes, personal académico y personal administrativo, técnico y manual de la UACM.
+    
+    Concentración: Principio de procedimiento que implica que la Defensoría deberá buscar atender la queja que se le presente, con un procedimiento lo más corto posible.
+    
+    Consejo Universitario (CU): máximo órgano de gobierno de la UACM.
+    
+    Defensor adjunto: Integrante de la Defensoría de los Derechos Universitarios de la UACM, en los términos en que se le define en el presente Estatuto.
+    
+    Defensor titular: El titular de la Defensoría de los Derechos Universitarios de la UACM.
+    
+    Defensoría: La Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México.
+    
+    Derechos Humanos: Son los derechos básicos y las libertades fundamentales inherentes a todos los seres humanos, inalienables y aplicables en igual medida a todas las personas y parten de que todas y cada una de las personas han nacido libres y con igualdad de dignidad y de derechos. Este conjunto de derechos sustentados en la dignidad humana, cuya realización efectiva resulta indispensable para el desarrollo integral de la persona se encuentra establecido dentro del orden jurídico nacional, en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales y en las leyes. Estos derechos son interrelacionados, interdependientes, indivisibles y progresivos.
+    
+    Derechos Universitarios: Son los derechos que otorga la legislación universitaria.
+    
+    Dictamen: Es un documento emitido por la Defensoría que está dirigido a la autoridad responsable y que es resultado de la investigación que ésta realizó, a petición de algún miembro de la comunidad o autoridad universitarias, cuando éste considera que los servicios, procedimientos, atención, o alguna combinación de éstas, que brinda una instancia universitaria no son adecuados y podrían violentar derechos humanos, universitarios, o ambos. Dicho dictamen permitirá a la defensoría realizar un diagnóstico y a partir de ésta una serie de sugerencias que permitirán a la autoridad responsable realizar una mejora.
+    
+    EGO: Estatuto General Orgánico de la UACM. Documento que garantiza el efectivo cumplimiento de los objetivos de la Universidad, de conformidad con la Ley.
+    
+    Inmediatez: Se refiere a que las quejas que presenten los miembros de la comunidad universitaria deben ser atendidas por la Defensoría en el espacio y en el tiempo más próximos.
+    
+    Ley: Ley de la UACM. Documento que dota a la Universidad de autonomía con base en la fracción VII del Artículo 3 de la Constitución.
+    
+    Pleno del Consejo: El CU reunido en sesión ordinaria o extraordinaria, válidamente constituida con la asistencia de la mitad más uno de los consejeros de cada sector, en primera convocatoria, o con la tercera parte de cada sector, en segunda convocatoria.
+    
+    Principio Pro Persona: Es un derecho plasmado en la Constitución Política de los Estados Unidos Mexicanos y es un principio del ámbito de los derechos humanos que implica que la interpretación jurídica siempre debe buscar el mayor beneficio para el ser humano, es decir, que debe acudirse a la norma más amplia o a la interpretación extensiva cuando se trata de derechos protegidos.
+    
+    Recomendación: Es un pronunciamiento público resultado de la investigación realizada por la Defensoría de los Derechos Universitarios que dirige a la autoridad responsable y contiene la documentación y la verificación de la existencia de conductas violatorias en materia de derechos humanos , universitarios, o ambos. La recomendación contiene una serie de acciones que la autoridad debe implementar para resarcir y reparar el o los daños causados.
+    
+    Rector: El Rector de la UACM.
+    
+    Subsidiariedad: Se refiere a que la Universidad Autónoma de la Ciudad de México (UACM) debe resolver los asuntos en sus instancias competentes, de acuerdo a las atribuciones de éstas. Por tanto, la Defensoría interviene en aquellas cuestiones donde se presuma que la instancia competente no se apegó a sus procedimientos.
+    
+    Sugerencia: Como resultado de la investigación que realice la Defensoría a partir de las consultas o quejas que la comunidad universitaria formule, ésta podrá proponer a las diferentes áreas, funcionarios o personas, ideas que permitan una mejora en servicios, relaciones, procedimientos, y que contribuyan a la construcción de una comunidad que se relacione con base en el conocimiento y respeto de los derechos humanos y universitarios.
+
+[Documento Principal](index.html)
+
+
+# Estatuto de la Defensoría de los Derechos Universitarios
+
+Artículo 1. El presente Estatuto de la Defensoría de los derechos universitarios tiene por objeto garantizar la promoción, protección y defensa de los derechos humanos y universitarios de los integrantes de la comunidad universitaria de la UACM.
+
+Artículo 2. La Defensoría es un órgano de carácter independiente e imparcial cuyo propósito esencial es vigilar y defender los derechos y las libertades de la comunidad universitaria otorgados por la legislación universitaria. Asimismo, es la encargada de emitir opiniones, recomendaciones, propuestas e informes sobre todas las cuestiones relativas a la promoción y protección de los derechos humanos y universitarios.
+
+Artículo 3. La labor de la Defensoría se basará en los principios de: Independencia, Confidencialidad, Informalidad, Igualdad y No discriminación, Pro persona, Pro débil, Inmediatez, Integración y Transversalidad, Perspectiva de Género, Subsidiariedad, Transparencia, Rendición de Cuentas, Debido Proceso y Contradicción.
+
+Artículo 4. La Defensoría:
+
+    I. Es un órgano independiente, es decir, contará con plena libertad en sus actuaciones y el desarrollo de sus funciones sin la intervención de cualquier otro órgano universitario. 
+    II. Rendirán informes ante el Consejo Universitario en los términos que se establecen en el presente Estatuto. 
+    III. Sus integrantes, como funcionarios, estarán sujetos al Marco normativo y en particular a la normatividad en materia de responsabilidades universitarias. 
+    
+Artículo 5. Los procedimientos que realiza la Defensoría deben responder a los principios de inmediatez, por lo que todas las instancias universitarias, incluido el Consejo Universitario, están obligadas a atender de manera prioritaria las solicitudes de información y las peticiones de acciones, en los términos en que ésta lo determine. El Defensor velará, en todo momento, por la protección de la confidencialidad y del debido proceso.
+
+Artículo 6. Para responder al principio de inmediatez, la Defensoría buscará tener los mecanismos eficientes, los medios y el personal adecuados.
+
+Artículo 7. La Defensoría conocerá de oficio o a petición de parte las quejas presentadas por la comunidad universitaria, cuando se presuma que se han violentado los derechos humanos, universitarios o ambos porque: 
+
+    I. Se presuma que las resoluciones de los órganos competentes son contrarias a la legislación universitaria vigente.
+    II. Se presuma que las resoluciones son irrazonables, injustas, inadecuadas o erróneas. 
+    III. Haya omisiones o violaciones a los procedimientos establecidos en la normatividad correspondiente.
+    IV. Se haya violado el derecho de petición.
+
+Artículo 8. La Defensoría tendrá las siguientes atribuciones:
+
+    I. Recibir quejas, preguntas, solicitudes de asesoría e información por parte miembros de la comunidad relacionadas con el ejercicio de sus derechos o la presunción de la violación de los mismos.
+    II. Emitir dictámenes, recomendaciones, propuestas e informes sobre todas las cuestiones relativas a la protección y promoción de los derechos humanos y universitarios.
+    III. Cuando existan condiciones para mediar y conciliar, el Defensor deberá, en primera instancia, usar este proceso. Deberá centrar su actuación en la búsqueda de una solución o un acuerdo puntual.
+    IV. Brindar asesoría a la comunidad universitaria acerca de sus derechos y obligaciones establecidos en la legislación universitaria.
+    V. Asesorar sobre el ejercicio de sus funciones, en materia de derechos humanos y universitarios a todos los órganos de gobierno y de decisión que así lo soliciten.
+    VI. En el ejercicio de sus funciones, el Defensor tendrá plena libertad de realizar las investigaciones necesarias, para lo cual podrá solicitar a cualquier instancia o persona que crea pertinente, información, documentación o acciones. 
+    VII. Como resultado de sus investigaciones, el Defensor podrá proponer a las autoridades e instancias universitarias correspondientes, soluciones, medidas a seguir y modificaciones a la legislación universitaria o a los procedimientos administrativos.
+    VIII. En aquellos casos en los cuales el Defensor considere que la integridad de una persona se encuentra en riesgo, recomendará a la autoridad competente las medidas de protección que considere pertinentes.
+    IX. Informar a los miembros de la comunidad universitaria sobre la legislación universitaria, los procedimientos administrativos y los servicios que brinda la Universidad y, de manera particular, la Defensoría, para el ejercicio y la protección de sus derechos.
+    X. Para la promoción de los derechos humanos y universitarios, el Defensor utilizará los medios de comunicación institucionales. 
+    XI. Para la promoción de los derechos humanos, universitarios, o ambos, el Defensor podrá proponer convenios con otras instituciones de defensa de derechos humanos y/o universitarios. Asimismo podrá participar, en nombre de la Universidad, en organismos externos sobre la materia, tales como sociedades académicas, agrupaciones de organismos similares, organismos no gubernamentales, entre otros.
+
+Artículo 9. De acuerdo con el principio de subsidiaridad, el límite de la Defensoría son los problemas de carácter laboral, y todos aquellos que cuenten con la instancia competente.
+
+Artículo 10. La Defensoría no podrá atender a quienes desempeñen cargos, de dirección y responsabilidad, y deberá remitir el caso inmediatamente a la CDHDF. 
+
+Artículo 11. El CU deberá garantizar de manera permanente los recursos necesarios para el funcionamiento de la Defensoría.
+
+Artículo 12. La Defensoría estará integrada por un el Defensor de derechos universitarios que será su titular. Contará con un defensor adjunto que lo auxiliará y, en su caso, lo representará. Además, contará con un asesor legal y el personal técnico y administrativo que se considere necesario para su buen funcionamiento.
+
+Artículo 13. La Defensoría deberá rendir un informe anual a la Comisión de Mediación y Conciliación y ésta lo presentará junto con el dictamen correspondiente al CU. Dicho informe contendrá los asuntos atendidos y las recomendaciones derivadas de los mismos, además de las propuestas hechas a las autoridades universitarias formuladas con el fin de mejorar servicios, legislación o procedimientos administrativos. También, el Defensor deberá rendir informes especiales en los casos que lo ameriten o cuando el CU lo determine. 
+
+Artículo 14. Los procedimientos de actuación que siga la Defensoría deberá atenerse a los siguientes lineamientos:
+
+    I. Todas las quejas deberán:
+    
+      a) Presentarse por escrito (físico, por correo electrónico, o ambos). En caso necesario, podrá solicitarse apoyo del personal de la propia Defensoría para la redacción de la queja.
+      b) Versar sobre hechos que no excedan el término de los ciento veinte días naturales a partir de que se suscitó el hecho. La Defensoría podrá, en circunstancias excepcionales claramente documentadas, recibir y conocer quejas fuera del tiempo aquí reglado.
+      
+    II. No se dará curso a los anónimos.
+  
+    III. Las actuaciones de la Defensoría seguirán los principios de Inmediatez, Concentración y Rapidez. Si la Defensoría considera rechazar la queja informará al interesado las razones y le dará orientación sobre la instancia competente para atenderlo.
+  
+    IV. Una vez que la Defensoría admita una queja, se pondrá en contacto con el funcionario o persona a la que se atribuya la queja para que, en breve, responda a la situación denunciada. El contacto deberá ser directo para evitar las demoras que representan las comunicaciones por escrito, aunque posteriormente se desarrolle el documento correspondiente.
+  
+    V. La Defensoría procurará llegar a soluciones inmediatas, de manera que se termine rápidamente con la afectación a los derechos del denunciante. 
+  
+    VI. Cuando no sea posible llegar a una solución inmediata, la Defensoría tomará en consideración los informes rendidos, la documentación presentada por los interesados, así como la documentación que la Defensoría pudiera obtener para emitir la recomendación, propuestas pertinentes, o ambas.
+  
+    VII. En virtud de la investigación, la Defensoría solicitará a las instancias acceso a la documentación que requiera. La Defensoría protegerá la confidencialidad o la reserva de los documentos que lo ameriten. Desatender la petición de la Defensoría implicará una responsabilidad universitaria, en este caso la Defensoría deberá turnar el caso ante el Consejero Universitario y la Oficina del Abogado General, quienes determinarán lo conducente.
+  
+    VIII. Después de analizado el asunto, la Defensoría formulará una Sugerencia o Recomendación dirigida al funcionario o dependencia correspondiente.
+  
+    IX. En caso de que la Recomendación no sea aceptada, el funcionario o dependencia deberá presentar su queja por escrito a la Defensoría en un plazo no mayor a cinco días hábiles. No presentar la queja será considerado consentimiento tácito por parte del funcionario o dependencia a la que se dirigió.
+    
+    En caso de aceptarla, el funcionario o dependencia comunicará por escrito a la Defensoría las acciones o medidas que llevará a cabo a partir de la Recomendación. La aceptación vuelve obligatorio el cumplimiento de la Recomendación.
+
+Artículo 15. Como espacio de mediación y conciliación, el procedimiento que siga la Defensoría deberá atenerse a los siguientes lineamientos:
+
+    I. La mediación entre las personas que participen de esta instancia deberá hacerlo de mutuo consentimiento. 
+
+    II. El integrante de la Defensoría tendrá presente que su papel de mediador consiste principalmente en facilitar la comunicación entre las partes.
+
+    III. El diálogo establecido entre las partes será de mutuo respeto; en todo momento se evitará la agresión verbal. El mediador velará por el cumplimiento de las condiciones del diálogo.
+
+    IV. Se podrá disponer de todo el tiempo y de las sesiones que sean necesarias. Con ello se garantizará que las personas que participen tengan el mismo tiempo y las mismas oportunidades de hablar.
+
+Artículo 16. El Defensor titular nombrará a su asesor legal y lo podrá sustituir en cualquier momento mediante una justificación presentada a la Comisión de Mediación y Conciliación del CU.
+
+Artículo 17. Los Defensores se elegirán mediante convocatoria interna y pública, aprobada y emitida por el CU a propuesta de la Comisión de Mediación y Conciliación.
+
+Artículo 18. El Defensor titular y el Defensor adjunto deberán cumplir los siguientes requisitos:
+
+    I. Poseer al menos experiencia comprobable en la defensa, promoción, o ambas, de derechos humanos, universitarios, o ambos, de al menos 10 años, acorde también con una conducta ética y honesta; así como la participación en estudios profesionales, diplomados, seminarios, cursos que demuestren su preparación y compromiso con el tema.
+
+    II. Tener conocimiento y experiencia comprobables en procesos de mediación. 
+
+    III. Presentar su programa de trabajo.
+
+Artículo 19. El procedimiento para la elección del Defensor titular y el Defensor adjunto será el siguiente:
+
+    I. La propuesta de convocatoria será elaborada por la Comisión de Mediación y Conciliación para su aprobación en el Pleno.
+
+    II. La Convocatoria interna y el registro de aspirantes serán del conocimiento público.
+
+    III. Los aspirantes registrados no podrán realizar acciones de propaganda y proselitismo.
+
+    IV. Las propuestas presentadas por los aspirantes deberán ser dadas a conocer a la comunidad por cada uno de los consejeros, con base en la fracción V del artículo 14 del Reglamento del Consejo Universitario.
+
+    V. La Comisión de Mediación y Conciliación del CU presentará ante el Pleno a los aspirantes; para ello, en la Convocatoria propondrá el mecanismo de presentación de los candidatos ante el Pleno del Consejo y el procedimiento a seguir en la sesión.
+    
+    VI. El Pleno del CU podrá declarar desierta la convocatoria, si ninguno de los aspirantes cumple con los requisitos señalados en el artículo 18 del presente Estatuto. En este caso deberá, de forma inmediata, emitir una nueva Convocatoria externa y pública.
+    
+    VII. La elección de los Defensores se hará en sesión extraordinaria del Consejo Universitario, cuyo único punto del orden del día será dicha elección.
+    
+    VIII. El Consejo elegirá al Defensor titular y al Defensor adjunto mediante el voto secreto o nominal y razonado. El sentido del voto estará orientado a partir de la consulta de cada consejero con su comunidad. 
+
+Artículo 20. El Defensor titular y el adjunto durarán en su cargo cuatro años con posibilidad de una sola ratificación por cuatro años más.
+
+Artículo 21. El procedimiento de ratificación del Defensor titular y el Defensor adjunto será el siguiente:
+
+    I. Cada Defensor manifestará a la Comisión de Mediación y Conciliación del CU su interés por ser ratificado en el cargo.
+
+    II. La Comisión de Mediación y Conciliación del CU presentará al Pleno un dictamen de evaluación del desempeño del Defensor titular y el Defensor adjunto fundamentado en los informes que éstos hayan emitido durante su gestión.
+
+    III. El CU abrirá un procedimiento, propuesto por la Comisión de Mediación y Conciliación, y se realizará una votación en los términos del presente reglamento.
+
+Artículo 22. El Defensor titular y el adjunto deberán informar a la Comisión de Mediación y Conciliación, tres meses antes de terminar su período, la intención de ratificarse en el cargo, para que esta comisión inicie el procedimiento correspondiente.
+
+Artículo 23. El Defensor titular y el Defensor adjunto cesarán de su cargo por terminación de su mandato, por renuncia o por revocación por parte del Consejo Universitario en caso de que se acredite: 
+
+    I. Incumplimiento de alguna de las funciones previstas en el presente estatuto.
+
+    II. Ejercicio indebido de manera reiterada de parcialidad, incompetencia o ambas.
+
+    III. Incumplimiento de alguno de los requisitos establecidos por lo que fue designado.
+
+Artículo 24. Los casos de revocación del Defensor titular o el Defensor adjunto se ceñirán a lo dispuesto en el Reglamento de Responsabilidades Universitarias de la Universidad Autónoma de la Ciudad de México.  
+
+    a) para el Defensor titular se hará por acuerdo del Consejo Universitario mediante voto secreto emitido por lo menos por las dos terceras partes de los Consejeros del Pleno. 
+    
+    b) para el Defensor adjunto se hará por acuerdo del Consejo Universitario mediante voto secreto emitido por lo menos por la mitad más uno de los Consejeros del Pleno.
+
+Artículo 25. El asesor legal será cesado de su cargo por terminación del mandato del Defensor titular, o a decisión del Defensor titular. En este último caso el defensor deberá informar del cese a la Comisión de Mediación y Conciliación debidamente fundamentado.
+
+Artículo 26. El Defensor adjunto asumirá las funciones del Defensor titular, de forma temporal, cuando este último se ausente por actividades relacionadas con su cargo o por licencia médica; y, de forma definitiva, por muerte o por cese. En los últimos dos casos, la Comisión de Mediación y Conciliación convocará a la elección de un nuevo Defensor adjunto para concluir el periodo, en los términos del presente Estatuto. Cuando el Defensor adjunto asuma la titularidad definitiva de la Defensoría, lo hará sólo para concluir el período.
+
+[Documento Principal](index.html)
+
+
+## Transitorios
+
+Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en el portal de la Universidad Autónoma de la Ciudad de México.
+
+Segundo. La Defensoría elaborará un proyecto de Reglamento interno junto con la Comisión de Asuntos Legislativos y la de Mediación y Conciliación del CU, para lo cual, recibirán la opinión del Abogado General. La Comisión de Asuntos Legislativos presentará al Pleno del CU para su aprobación el Reglamento. El plazo para presentarlo al Pleno del CU no deberá rebasar los 60 días hábiles contados a partir de su integración.
+
+Tercero. El Defensor titular deberá presentar, en un lapso no mayor a 40 días hábiles, una propuesta para la integración de su equipo de trabajo con base en la estructura propuesta en el presente Estatuto. Esta propuesta deberá contener las funciones y el perfil que incluyan conocimientos en defensa o promoción o ambas, así como en educación en derechos humanos. La propuesta será presentada ante las Comisiones de Hacienda, de Planeación, Gestión y Desarrollo Institucional, y de Mediación y Conciliación del Consejo Universitario.
+Estas Comisiones tendrán un plazo de quince días hábiles para presentar un dictamen al Pleno con el fin de asegurar la infraestructura y el presupuesto para el buen funcionamiento de la Defensoría.
+
+[Documento Principal](index.html)
+
+
+
+**Aprobado por el Pleno del Cuarto Consejo Universitario de la Universidad Autónoma de la Ciudad de México, el 15 de noviembre de 2016.**

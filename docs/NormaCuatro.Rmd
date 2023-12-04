@@ -1,0 +1,298 @@
+---
+title: "NORMA CUATRO"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+# NORMA CUATRO
+
+**Norma aprobada por el Consejo Asesor  en el Boletín 2, de fecha 1 de abril de 2006. **
+
+El Consejo Asesor, con fundamento en los artículos 2, 3, 4, y transitorios tercero fracción I, de la Ley de la Universidad Autónoma de la Ciudad de México y; 
+
+
+## CONSIDERANDO
+
+    Primero. Que conforme a lo dispuesto por los artículos 2, 3 y 4 fracción XI de la Ley de la Universidad Autónoma de la Ciudad de México, la Universidad es un organismo público autónomo del Distrito Federal, por lo que goza de personalidad jurídica y patrimonio propio; tiene la facultad y responsabilidad de gobernarse a sí misma, definir su estructura y las funciones que le correspondan, establecer las normas y formas de administración de dicho patrimonio.
+    
+    Segundo. Que el Consejo Asesor, conforme a lo dispuesto por la Ley de la Universidad Autónoma de la Ciudad de México, tendrá entre otras facultades la de emitir normas provisionales que requiera la Universidad, y en términos del artículo 10 del Decreto por el que se crea el organismo público descentralizado de la administración pública del Distrito Federal, denominado Universidad de la Ciudad de México, y que fue publicado en la Gaceta Oficial del Distrito Federal de fecha 26 de abril de 2001.
+    
+    Tercero. En ejercicio de sus atribuciones, el Consejo Asesor de la Universidad Autónoma de la Ciudad de México modifica, adiciona y deroga diversas disposiciones del Estatuto Orgánico de la Universidad de la Ciudad de México, aprobado por el Consejo de Gobierno el 29 de enero de 2002, con el objeto de definir las atribuciones de las diferentes unidades que forman la estructura de la Universidad como organismo público autónomo, disposición legal que se encuentra vigente en términos de lo dispuesto por el transitorio séptimo de la Ley de la Universidad Autónoma de la Ciudad de México
+
+Por lo expuesto y fundado, hemos tenido a bien expedir el siguiente:
+
+[Regresar a Documento Principal](index.html)
+
+
+## ACUERDO
+
+ÚNICO. SE MODIFICAN: los artículos 9, 10, 11, 12, 12 Bis, 13, 15; 24, 26; SE DEROGAN: los artículos 14, 16, 22, 23, 28; 30 y 36; SE ADICIONAN: los artículos 10-A, 10-B; 10-C, 10-D, 13-A, 13-B, 13-C, 13-D, 13-E, 13-F, 21-A, 21-B, 21-C, 21-D, 21-E, 21-F.
+
+
+# TÍTULO II. DE LA INTEGRACIÓN Y ESTRUCTURA DE LA UNIVERSIDAD
+
+Artículo 9. La Universidad Autónoma de la Ciudad de México está integrada por los estudiantes, el personal académico, y el personal administrativo, técnico y manual.
+
+Artículo 10. En los términos del segundo transitorio de la Ley de la Universidad Autónoma de la Ciudad de México, los órganos de gobierno de la Universidad son el Consejo Asesor, el Consejo General Interno y el Rector, quien podrá delegar sus facultades en los miembros de los órganos de la Universidad, con excepción de aquellas que por disposición legal expresa o determinación del Consejo Asesor le correspondan exclusivamente.
+
+Artículo 10-A. En tanto el Consejo Universitario expide el Estatuto General Orgánico y demás reglamentos y normas necesarias para el cumplimiento de los fines de la Universidad conforme al artículo 17 de la Ley de la Universidad Autónoma de la Ciudad de México, los órganos de administración, control y vigilancia de la Universidad serán:
+
+    1. Secretaría General;
+    2. Tesorería;
+    3. Oficina del Abogado General;
+    4. Contraloría General;
+    5. Coordinación Académica;
+    6. Coordinación de Difusión Cultural y Extensión Universitaria;
+    7. Coordinación de Certificación y Registro;
+    8. Coordinación de Planeación;
+    9. Coordinación de Obras y Conservación;
+    10. Coordinación de Comunicación e Informática;
+    11. Coordinación de Servicios Administrativos;
+    10. Coordinación de Servicios Estudiantiles;
+    11. Coordinaciones de colegio;
+    12. Coordinaciones de plantel.
+
+Artículo 10-B. El Secretario General de la Universidad será designado por el Consejo General Interno a propuesta del Rector, y colaborará con éste en la dirección de la Universidad, y en los asuntos de carácter docente, de administración, planeación, difusión de la cultura y extensión universitaria. Para el cumplimiento de estos objetivos desarrollará las siguientes funciones: 
+
+    1. Cubrir las ausencias del Rector que no excedan de dos meses;
+    2. Coadyuvar en la elaboración del Programa Operativo Anual y del Plan de
+    Desarrollo Institucional;
+    3. Coordinar la eficiente operación y funcionamiento de los planteles;
+    4. Coordinar y supervisar las actividades de las coordinaciones de Servicios
+    Administrativos, de Certificación, de Obras y Conservación, de Comunicación
+    e Informática y de Servicios Estudiantiles, así como del Comité de Protección
+    Civil;
+    5. Apoyar las actividades de difusión cultural y extensión universitaria;
+    6. Apoyar la aplicación de la política laboral y de recursos humanos de la
+    Universidad.
+
+Artículo 10-C. El Tesorero será designado por el Consejo General Interno a propuesta del Rector. Le corresponde ejercer las siguientes funciones y atribuciones.
+
+    1. Administrar eficientemente el trámite de pago, comprobación y registro del ejercicio presupuestal, para el manejo transparente de los recursos, así como cumplir oportunamente con los pagos por servicios y/o bienes adquiridos por la operación de la Universidad Autónoma de la Ciudad de México.
+    2. Establecer y dirigir el sistema de contabilidad;
+    3. Elaborar los Estados Financieros y la Cuenta Pública;
+    4. Dirigir la Caja General;
+    5. Autorizar pagos;
+    6. Administrar los Fondos de Inversión;
+    7. Coadyuvar en la elaboración del presupuesto anual y del Programa Operativo Anual;
+    8. Elaborar propuestas de políticas, normas y procedimientos en materia del ejercicio presupuestal de la Universidad.
+
+Artículo 10-D. El Abogado General será designado por el Consejo General Interno a propuesta del Rector, y tendrá a su cargo las siguientes funciones y atribuciones:
+
+    1. Apoyar la realización de estudios, planeación, dirección, conducción, coordinación y despacho jurídico de la institución;
+    2. Prestar los servicios jurídicos de acuerdo con la competencia de la Universidad y las instrucciones dictadas por el titular;
+    3. Proporcionar asistencia técnica operativa en materia jurídica a las unidades y órganos de la institución, y aportar los elementos necesarios para que se emitan y/o ejecuten los actos administrativos en la materia citada;
+    4. Revisar los anteproyectos de iniciativa de leyes, reglamentos, decretos, acuerdos, órdenes, circulares y demás ordenamientos jurídicos que sean competencia de la Universidad;
+    5. Llevar a cabo estudios jurídicos, asesorar y emitir opiniones respecto de consultas que se le formulen;
+    6. Revisar y sancionar los contratos, convenios, concesiones, permisos, autorizaciones y demás actos jurídicos de los que se deriven derechos y obligaciones para la Universidad;
+    7. Apoyar a las demás áreas que integran la Universidad
+
+Artículo 11. A la Coordinación Académica le corresponde organizar y orientar las actividades académicas, procurando una operación eficaz de los planes y programas autorizados por el Consejo
+General Interno. Para ello debe desarrollar las siguientes funciones:
+
+    1. Coordinar la formulación de proyectos para mejorar programas de estudio y procesos de tutoría, asesoría, certificación y desempeño docente;
+    2. Efectuar el proceso de reclutamiento de candidatos a nuevos profesores, de acuerdo con el desarrollo de los distintos programas de estudio, a fin de incorporarlos a la planta docente, previa dictaminación favorable;
+    3. Propiciar un proceso ágil de inscripción y reinscripción, a fin de que las numerosas instancias participantes desarrollen el trabajo académico de manera coordinada;
+    4. Lograr que las diferentes instancias internas que intervienen en el registro y sorteo de aspirantes a ingresar a las licenciaturas actúen coordinadamente;
+    5. Normar y supervisar las tareas de registro de trámites escolares a cargo de los planteles;
+    6. Impulsar los objetivos y programas de la Universidad a través del desarrollo de propuestas y proyectos de la comunidad universitaria, para la organización y promoción de actividades que apoyen los procesos académicos;
+    7. Programar la adquisición anual de mobiliario, instrumentos e insumos con fines académicos;
+    8. Generar los materiales informativos para la difusión de los cursos que se imparten en la Universidad Autónoma de la Ciudad de México;
+    9. Brindar servicios bibliohemerográficos y de información a la comunidad universitaria con calidad y eficiencia, así como resguardar el acervo que es patrimonio de la institución;
+    En coordinación con las instancias académicas y administrativas correspondientes, proponer y participar en la etapa de selección, para su posterior adquisición, de materiales bibliohemerográficos y de información a fin de que la comunidad universitaria disponga de dichos materiales con suficiencia, calidad y oportunidad.
+
+Artículo 12. A la Coordinación de Difusión Cultural y Extensión Universitaria le corresponde apoyar y coordinar las actividades de difusión, divulgación y extensión que realicen los cuerpos académicos y los estudiantes de la Universidad. Sus principales funciones son:
+
+    1. Diseñar, coordinar y operar el Programa de Difusión Cultural dirigido a la comunidad universitaria y población en general.
+    2. Promover el intercambio y participación de la comunidad universitaria en la creación de propuestas artísticas y culturales de la Universidad Autónoma de la Ciudad de México;
+    3. Realizar actividades académicas planeadas, organizadas, sistematizadas y programadas que no sólo persigan ser complementarias de los programas académicos de la Universidad sino, en los casos en que así lo determine el área competente, impactar en la certificación de conocimientos de esta Universidad;
+    4. Publicar textos de autoría del personal docente de la institución, o de destacados investigadores y escritores nacionales o extranjeros;
+    5. Publicar textos por medio de convenios de coedición;
+    6. Difundir y apoyar las actividades que realiza la Universidad mediante instrumentos de difusión impresos como: carteles, trípticos, volantes, programa de mano, gafetes, mantas, pendones etc.
+
+Artículo 12 Bis. La Coordinación de Certificación y Registro es la responsable de normar y supervisar los procedimientos mediante los cuales la Universidad evalúa los conocimientos de los estudiantes, y de expedir los certificados, diplomas, títulos o grados cuando así corresponda, de acuerdo con los reglamentos correspondientes. Son atribuciones de la Coordinación de Certificación y Registro:
+
+    1. Establecer las normas institucionales en la materia,
+    2. Llevar el registro oficial de las trayectorias estudiantiles;
+    3. Expedir certificados de cursos, de ciclo y de especializaciones, diplomas, títulos profesionales y grados académicos, de conformidad con las disposiciones aplicables en los reglamentos correspondientes;
+    4. Coordinar los procedimientos para la certificación de cursos y exámenes generales de conocimiento;
+    5. Formar una base de datos, y mantenerla actualizada y resguardada;
+    6. Coordinar y supervisar los procedimientos para los procesos de certificación de especializaciones y de obtención de grado de licenciatura, maestría y doctorado de acuerdo con los lineamientos del Reglamento General de Titulación de la Universidad;
+    7. Llevar el registro y control de los documentos expedidos por la Universidad;
+    8. Resguardar la documentación emanada de los procedimientos de certificación y, en los casos de titulación, la que se señala en el reglamento respectivo;
+    9. Realizar los trámites y registros que se requieran ante otras instituciones y entidades educativas;
+    10. Elaborar periódicamente informes sobre el desarrollo y los resultados de los procesos de certificación, y darlos a conocer a la Rectoría y a las instancias académicas y de planeación de la Universidad;
+    11. Informar a los tutores sobre el desempeño de sus tutorados;
+    12. Realizar investigaciones en materia de aprendizaje, evaluación y certificación.
+
+Artículo 13. A la Coordinación de Servicios Administrativos le corresponde coordinar y supervisar la aplicación de las políticas y normas emitidas en materia de recursos humanos y materiales, así como coordinar y supervisar el desarrollo de las actividades administrativas en cada una de las sedes de la Universidad.
+Sus funciones generales son:
+
+    1. Asegurar el ingreso de personal idóneo, tanto profesional como técnico, contratando recursos humanos que cumplan con los perfiles y características de los puestos;
+    2. Prever, supervisar y establecer los requerimientos de adquisiciones, arrendamientos y prestación de servicios solicitados por las diversas áreas.
+    Artículo 13-A. La Coordinación de Planeación es un órgano permanente de apoyo a la Rectoría, encargado de las siguientes funciones:
+    1. Fungir como Secretaría Técnica de la Comisión de Planeación.
+    2. Trazar lineamientos y generar metodologías y herramientas para la formulación e integración del plan institucional de desarrollo;
+    3. Recabar y sistematizar los programas anuales de trabajo, así como los informes trimestrales de avance de los diferentes integrantes del sistema institucional de planeación de la Universidad Autónoma de la Ciudad de México;
+    4. Dar seguimiento y evaluar el Plan Institucional de Desarrollo.
+    5. Construir un sistema de información estadística permanente y continuo;
+    6. Coadyuvar en la elaboración de metodologías de autoevaluación de programas y procesos;
+    7. Analizar los programas de trabajo y sus autoevaluaciones, y valorar los resultados de la operación a nivel institucional;
+    8. Coadyuvar en la elaboración de normas y procedimientos para fortalecer los procesos de gestión.
+    9. Proponer prioridades para la formulación del Programa Operativo Anual;
+    10. Analizar y vigilar que el crecimiento de la planta docente y administrativa esté en correspondencia con los lineamientos que defina la Comisión de Planeación;
+    11. Llevar a cabo un control de ejercicio presupuestal;
+    12. Elaborar los informes institucionales que deban presentarse a las autoridades universitarias, a la Asamblea Legislativa del Distrito Federal y a la sociedad en general.
+
+Artículo 13-B. La Coordinación de Obras y Conservación es un órgano permanente, auxiliar y de apoyo que desempeña las siguientes funciones:
+
+    1. Aplicar las políticas, normas y procedimientos en materia de administración de obra directa y de obra bajo contrato.
+    2. Realizar la conservación de los inmuebles de la Universidad Autónoma de la Ciudad de México;
+    3. Presentar a la Comisión de Planeación los estudios acerca de ampliaciones, adecuaciones y proyectos nuevos necesarios para el desarrollo de la institución;
+    4. Llevar a cabo la supervisión de la obras contratada con terceros;
+    5. Vigilar la aplicación de la normatividad general vigente en el D.F, en las obras que se realicen en la Universidad Autónoma de la Ciudad de México por administración directa o por contratos con terceros.
+
+Artículo 13-C. La Coordinación de Comunicación e Informática es un órgano permanente de apoyo al que le corresponde la instrumentación de las políticas institucionales de comunicación y sistemas informáticos.
+Para cumplir con ese propósito desempeña las siguientes funciones:
+
+    1. Difundir la información oficial que emita la institución;
+    2. Programar anualmente la adquisición y mantenimiento de bienes informáticos de hardware y software.
+    3. Organizar el registro, análisis y sistematización de la información emitida por los medios referente a la institución, y difundirla entre las áreas;
+    4. Mantener actualizado el banco hemerográfico, fototeca, videoteca y grabaciones radiofónicas, así como producciones impresas y electrónicas sobre las actividades de la Universidad Autónoma de la Ciudad de México;
+    5. Establecer y mantener la relación con los medios de comunicación nacionales y extranjeros;
+    6. Desarrollar medios de comunicación internos impresos y electrónicos;
+    7. Proponer e instrumentar, en coordinación con las áreas de la Universidad, la política y el programa anual en materia de uso y aprovechamiento de recursos informáticos;
+    8. Administrar los recursos en materia de informática para satisfacer los requerimientos de la comunidad universitaria;
+    9. Impulsar el mantenimiento y modernización de los programas informáticos y sistemas.
+
+Artículo 13-D. A la Coordinación de Servicios Estudiantiles le corresponde ofrecer servicios de apoyo a los estudiantes. Sus principales funciones son:
+
+    1. Contribuir a que la comunidad estudiantil cuente con la atención extracurricular y los medios necesarios que le permitan ampliar y complementar su desarrollo dentro de un marco social, cívico y cultural adecuado, como complemento de su formación académica; 
+    2. Propiciar espacios de diálogo, reflexión y debate permanentes para los estudiantes.
+    3. Contribuir a mejorar la calidad de la permanencia en la institución y el desempeño académico de los alumnos brindando servicios de orientación educativa, así como apoyos y estímulos al esfuerzo académico;
+    4. Facilitar el desarrollo de actividades deportivas y recreativas de la institución.
+    5. Canalizar a estudiantes a bolsas de trabajo.
+
+Artículo 13-E. A los coordinadores de colegio les corresponde:
+
+    1. Participar en la planeación estratégica de la UACM.
+    2. Promover la articulación y coordinación de las actividades y tareas internas entre sí y con los planes de trabajo de los otros colegios.
+    3. Aprobar las propuestas de los programas de trabajo que deban ser sometidos a la aprobación del Consejo Académico del Colegio.
+    4. Planificar y evaluar las actividades de los integrantes del Colegio.
+    5. Dar licencia a los docentes y al personal de acuerdo con el régimen general establecido al respecto.
+    6. Convocar a reuniones del Consejo Académico por lo menos una vez al mes.
+    7. Presidir las reuniones del Consejo de Colegio.
+    8. Representar al Colegio ante otras instancias de la Universidad Autónoma de la Ciudad de México y ante otras instituciones.
+    9. Presentar un plan de trabajo e informar anualmente de lo realizado al Consejo Académico de Colegio y a la comunidad universitaria.
+Artículo 13-F. A los coordinadores de plantel les corresponde:
+
+    1. Participar en la planeación estratégica de la Universidad Autónoma de la Ciudad de México;
+    2. Articular e integrar las tareas de los colegios, programas y academias con que cuenta el plantel;
+    3. Promover la articulación y coordinación de las actividades internas con los otros planteles; 
+    4. Aprobar las propuestas de los programas de trabajo que deban ser sometidos a la  aprobación del Consejo del Plantel;
+    5. Planificar y evaluar las actividades del plantel;
+    6. Convocar a reuniones del Consejo del Plantel por lo menos una vez al mes;
+    7. Presidir las reuniones del Consejo del Plantel;
+    8. Representar al plantel ante otras instancias de la Universidad Autónoma de la Ciudad de México y ante otras instituciones;
+    9. Presentar un plan de trabajo e informar anualmente de lo realizado al Consejo del Plantel y a la comunidad universitaria;
+    10. Administrar, planificar y organizar el uso de los recursos materiales del plantel, sus espacios físicos e instalaciones;
+    11. Resguardar los recursos materiales del plantel, sus espacios físicos e instalaciones;
+    12. Proponer a los órganos que correspondan las medidas conducentes para el mejor funcionamiento del plantel;
+    13. Aplicar los sistemas de registro aprobados por los consejos académicos de colegio, de las actividades del personal académico;
+    14. Aplicar los sistemas de registro y control del personal técnico y administrativo adscrito al plantel;
+    15. Promover las relaciones del plantel con el entorno social;
+    16. Representar al plantel ante otras instancias de la Universidad Autónoma de la Ciudad de México;
+    17. Presentar un plan de trabajo e informar de lo realizado al consejo de plantel.
+
+Artículo 15. El titular del Órgano de Control Interno será designado por el Consejo General Interno a propuesta del Rector, y le corresponden las funciones establecidas en el artículo 74 de la Ley Orgánica de la Administración Pública del Distrito Federal.
+
+[Regresar a Documento Principal](index.html)
+
+
+# TÍTULO III
+
+## CAPÍTULO II. DE LOS ÓRGANOS ACADÉMICOS
+
+Artículo 21-A. Las actividades docentes y el fomento y coordinación de proyectos colegiados de investigación, difusión, divulgación, extensión y cooperación, disciplinarias e interdisciplinarias, se organizarán en tres colegios:
+
+    I. El Colegio de Ciencia y Tecnología
+    II. El Colegio de Humanidades y Ciencias Sociales
+    III. El Colegio de Ciencias y Humanidades
+
+Artículo 21-B. Son órganos colegiados de carácter académico:
+    I. Los consejos académicos de colegio
+    II. Los consejos de plantel
+
+Artículo 21-C. Los consejos académicos de colegio se integrarán con un representante de los académicos y uno de los estudiantes de cada programa del propio colegio, los cuales serán elegidos por votación directa.
+
+Artículo 21-D. Corresponde a los consejos académicos de colegio:
+
+    1. Elaborar la propuesta de reglamento interno necesario para su funcionamiento, y presentarla a las instancias competentes para su aprobación.
+    2. Elaborar y someter ante las instancias y en los tiempos correspondientes el proyecto de presupuesto anual que garantice el funcionamiento y desarrollo académico del colegio.
+    3. Establecer las normas que garanticen el seguimiento del trabajo docente, de investigación, difusión, divulgación, extensión y cooperación que sean responsabilidad del colegio, y que aseguren que se siguen los lineamientos establecidos en la Ley de la Universidad Autónoma de la Ciudad de México.
+    4. Crear espacios que permitan el trabajo colectivo.
+    5. Participar en la asignación interna de los recursos presupuestales aprobados para el colegio por el Consejo General Interno.
+    6. Establecer las normas para la integración de comisiones dictaminadoras de los concursos de oposición del Colegio.
+    7. Decidir los términos en los que deberán emitirse las convocatorias para concurso de oposición.
+    8. Establecer la política de titulación y servicio social en los ámbitos de trabajo del colegio.
+    9. Evaluar el informe anual presentado por la coordinación del colegio.
+
+Artículo 21-E. Los consejos de plantel se integrarán con un representante de los estudiantes y uno de los académicos de cada colegio presente en el plantel, y un representante de los trabajadores administrativos del mismo, los cuales serán elegidos por votación directa. 
+
+Artículo 21-F. Es competencia del consejo de plantel:
+
+    1. Elaborar la propuesta de reglamento interno, necesario para su funcionamiento, y presentarla a las instancias competentes para su aprobación;
+    2. Crear espacios que permitan el trabajo colectivo;
+    3. Elaborar y someter ante las instancias y en los tiempos correspondientes el proyecto de presupuesto anual que garantice el funcionamiento del plantel;
+    4. Participar en la asignación interna de los recursos presupuestales aprobados para el Plantel por el Consejo General Interno;
+    5. Evaluar y aprobar las demandas de espacio e infraestructura presentadas por los estudiantes, administrativos y académicos;
+    6. Establecer un comité de resolución de conflictos con autoridad para tomar decisiones y, de ser necesario, canalizar a las instancias pertinentes;
+    7. Evaluar el informe anual presentado por la Coordinación del Plantel.
+
+[Regresar a Documento Principal](index.html)
+
+
+# TÍTULO IV. DE LOS ÓRGANOS DE GOBIERNO
+
+## CAPÍTULO II. DEL CONSEJO ASESOR
+
+Artículo 24. El Consejo Asesor está integrado por reconocidos académicos e intelectuales de la Ciudad de México, designados para tal fin por el Jefe de Gobierno del Distrito Federal, y tienen las funciones y atribuciones que establecen el Decreto de Creación de la Universidad y el segundo transitorio de la Ley de la UACM.
+
+## CAPÍTULO III. DEL CONSEJO GENERAL INTERNO
+
+Artículo 26. La integración del Consejo General Interno obedece a lo establecido por el tercer transitorio, inciso II, de la Ley de la Universidad Autónoma de la Ciudad de México, y sus facultades son las que establece el cuarto transitorio de la misma Ley.
+
+[Regresar a Documento Principal](index.html)
+
+
+# TRANSITORIOS
+
+PRIMERO. El presente acuerdo se expide sin perjuicio de los actos celebrados con anterioridad a la vigencia del mismo.
+SEGUNDO. El presente acuerdo y las demás disposiciones que del mismo emanen estarán vigentes hasta en tanto no se apruebe el Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México, en términos de lo dispuesto por el artículo 18 de la Ley de la Universidad Autónoma de la Ciudad de México.
+TERCERO. El presente acuerdo entrará en vigor el día hábil siguiente a su publicación en el Boletín de la Universidad Autónoma de la Ciudad de México.
+
+
+**En la Ciudad de México, Distrito Federal a los 30 días del mes de marzo de dos mil seis.**
+
+    Mtra. Cristina Barros
+    Dra. Elena Beristáin Díaz
+    Mtra. Mónica Díaz Pontones
+    Dra. Esther Orozco Orozco
+    Lic. Enrique González Pedrero
+    Dr. Enrique Leff Zimmerman
+    Dr. Luis de la Peña
+    Dr. Luis Villoro
+    Ing. Manuel Pérez Rocha
+
+[Regresar a Documento Principal](index.html)
+

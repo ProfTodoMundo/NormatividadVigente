@@ -1,0 +1,1116 @@
+---
+title: "Estatuto General Organico"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+# Estatuto General Orgánico
+
+**La UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO**
+
+Con fundamento en el artículo 17, fracción I de la Ley de la Universidad Autónoma de la Ciudad de México, el primer Consejo Universitario tras haber aprobado en lo general y particular, el dictamen respectivo, acuerda expedir el Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México.
+
+**ACUERDO**
+
+El primer Consejo Universitario expide el Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México, en los siguientes términos:
+
+
+**ESTATUTO GENERAL ORGÁNICO DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO**
+
+## Exposición de motivos
+
+La Universidad Autónoma de la Ciudad de México es un organismo público autónomo del Distrito Federal, dotado de personalidad jurídica y patrimonio propio, que tiene la atribución constitucional de organizarse de la forma que más le convenga para el cumplimiento de sus funciones sustantivas.  
+
+De acuerdo con la Ley de la Universidad Autónoma de la Ciudad de México, el primer Consejo Universitario es la instancia encargada de expedir el Estatuto General Orgánico, que será el instrumento normativo que definirá, entre otros, las estructuras docentes, de investigación, de cooperación, de difusión y extensión de la cultura, así como los órganos de gobierno, administración, control y vigilancia de la Universidad. 
+
+Por la importancia de este instrumento normativo en la regulación de las actividades universitarias, el primer Consejo Universitario, a través de la Comisión de Asuntos Legislativos, promovió mecanismos de participación y consulta con la comunidad en dos fases, de acuerdo con lo establecido en los artículos 18 y 19 de la Ley de la UACM, que incluyeron tanto la recepción de propuestas como la presentación de avances en los planteles y sedes de la Universidad.  
+
+En la primera fase, efectuada de mediados de 2008 a febrero de 2009, la Comisión de Asuntos Legislativos recibió 17 propuestas parciales y completas de Estatuto General Orgánico y de asuntos relacionados con él, y recuperó los resolutivos relativos con el Estatuto emanados del Congreso Universitario organizado por el Consejo General Interno, los cuales sirvieron como el insumo principal para la elaboración de un primer proyecto estatutario. 
+
+El 20 de marzo de 2009 esta primera versión fue dada a conocer a la comunidad en foros realizados en las sedes de la Universidad. En estos espacios se solicitó a la Comisión de Asuntos Legislativos la apertura de un plazo mayor de discusión y análisis, a efecto de revisar varios de los puntos incluidos en este documento. Esta solicitud derivó en la realización de una segunda fase de consulta y la reelaboración de la propuesta. 
+
+En la segunda fase, la Comisión de Asuntos Legislativos abrió un nuevo plazo para la recepción de propuestas de la comunidad universitaria, atendiendo lo solicitado por la comunidad. Se recibieron diversos documentos de comentarios y observaciones al proyecto, 7 nuevas propuestas parciales y totales de Estatuto, y 4 documentos complementarios a esta norma. 
+
+La Comisión acordó estructurar una metodología centrada en la identificación de los consensos y disensos de las propuestas que fueron remitidas en las dos fases. Se elaboró un documento cualitativo con esta información, el cual fue presentado en las sedes y planteles, y que una vez discutido en estos espacios, sirvió como base para la elaboración del presente documento.
+
+Para concluir este proceso, a partir del 13 de noviembre de 2009, la Comisión de Asuntos Legislativos sometió a consideración del Pleno del primer Consejo Universitario, el dictamen final. Durante once reuniones de la Sesión extraordinaria y permanente del Pleno del Consejo, convocada para tal efecto, se efectuaron importantes discusiones que derivaron en la  aprobación general y  particular  del Estatuto General Orgánico.
+
+A lo largo del articulado del presente documento normativo,  se ratifica el carácter autónomo de la Universidad, el principio de colegialidad en la toma de decisiones y la importancia central de los procesos autogestivos como base para garantizar el cumplimiento de los fines sustantivos de la Universidad.
+
+**Nada humano me es ajeno.**
+
+
+Para efectos del presente Estatuto se entiende por: 
+    
+    Constitución: Constitución Política de los Estados Unidos Mexicanos.
+    
+    Constitucional: de la Constitución Política de los Estados Unidos Mexicanos.
+    
+    Universidad: Universidad Autónoma de la Ciudad de México.
+    
+    UACM: Universidad Autónoma de la Ciudad de México.
+    
+    Ley: Ley de la Universidad Autónoma de la Ciudad de México.
+    
+    Estatuto: Estatuto General Orgánico de la Universidad. 
+    
+    Consejo: Consejo Universitario.
+    
+    Comisión de Hacienda: Comisión de Hacienda del Consejo Universitario.
+    
+    Comisión de Planeación: Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del Consejo Universitario.
+    
+    Académicos: personal académico de la Universidad 
+    
+    Estudiantes: estudiantes de la Universidad
+    
+    Personal Administrativo: personal administrativo técnico y manual de la Universidad
+    
+    Contraloría: Contraloría General
+    
+    Comunidad: Comunidad Universitaria conformada por estudiantes, académicos y personal administrativo, técnico y manual,  de conformidad con la Ley de la Universidad Autónoma de la Ciudad de México.
+    
+    Comunidad Académica: estudiantes y académicos, de conformidad con la Ley de la Universidad Autónoma de la Ciudad de México.
+
+
+
+ESTATUTO GENERAL ORGÁNICO DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO
+
+[Regresar a Documento Principal](index.html)
+
+
+
+
+# TÍTULO I. DISPOSICIONES GENERALES 
+
+
+
+## CAPÍTULO I. NATURALEZA Y CONTENIDO DEL ESTATUTO
+
+
+Artículo 1. El presente Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México es de orden público. Tiene por objeto garantizar el efectivo cumplimiento de los fines de la Universidad, de conformidad con la Ley.
+
+Artículo 2. El Consejo deberá de resolver lo no previsto por este Estatuto bajo el marco de la legalidad, la transparencia, la eficiencia, la honradez y la utilización óptima de los recursos para bien de la Universidad y su comunidad en conjunto.
+
+
+## CAPÍTULO II. PERSONALIDAD, FUNCIONES Y ATRIBUCIONES DE LA UNIVERSIDAD
+
+
+Artículo 3. La Universidad es un organismo público autónomo del Distrito Federal, por lo que goza de personalidad jurídica y patrimonio propio, de conformidad con sus  atribuciones  establecidas en la Ley y demás normatividad aplicable.
+
+
+Artículo 4. Las funciones fundamentales de la Universidad establecidas en la Ley, son las de docencia, investigación y difusión de la cultura, extensión y cooperación universitaria, de acuerdo con el artículo tercero constitucional, la Ley y demás normatividad aplicable, respetando las libertades de estudio, cátedra e investigación, así como de libre examen y discusión de las ideas.
+
+
+Artículo 5. La autonomía de la Universidad tiene su sustento legal en el artículo 3º, fracción VII, de la Constitución Política de los Estados Unidos Mexicanos y en la Ley, y se ejerce al:
+
+    I. Elegir y remover libremente a sus representantes y titulares del gobierno e instancias académicas y administrativas;
+    
+    II. Determinar libremente el desarrollo de sus actividades docentes, de investigación, difusión, divulgación, certificación de conocimientos, extensión, cooperación interinstitucional y prestación de servicios a la comunidad, así como generar los mecanismos de ingreso y permanencia de su personal académico y administrativo y el ingreso y egreso de sus estudiantes;
+    
+    III. Gestionar y administrar libremente su patrimonio;
+    
+    IV. Expedir, por medio del Consejo, la normatividad que regule su organización y funcionamiento.  
+
+
+Artículo 6. La Universidad garantizará en todo momento que los servicios educativos que ofrezca serán sin costo para los miembros de su Comunidad. Además, está plenamente abierta a cualquier persona, independientemente de su condición económica o cualquier otra particularidad social, de conformidad con la normatividad aplicable.
+
+
+Artículo 7. La Comunidad Universitaria tiene el derecho y la responsabilidad de gobernarse a sí misma, en virtud de la autonomía que le otorga la Ley de la Universidad. Bajo dicho principio, la Comunidad Universitaria dará lugar a la realización de los fines educativos, de investigación, de difusión de la cultura y de cooperación, de acuerdo con las actividades sustantivas emanadas de esta  Ley considerando en todo momento los principios contenidos en ésta y su exposición de motivos.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+# TÍTULO II. DE LA ESTRUCTURA ACADÉMICA
+
+
+Artículo 8. Los órganos e instancias académicas estarán compuestos como instancias colegiadas para garantizar el trabajo interdisciplinario, de docencia, de investigación, difusión, extensión y cooperación universitaria, de conformidad con el artículo 20 de la Ley y demás normatividad aplicable.
+
+
+Artículo 9. Para el mejor desarrollo de las actividades  de docencia, investigación, difusión, extensión y cooperación universitaria, la Universidad creará los órganos, coordinaciones, áreas o programas específicos definidos en la normatividad emitida para tal efecto.
+
+
+Artículo 10. Los órganos e instancias académicas tendrán la responsabilidad de conducirse con base en los principios universitarios, las políticas generales de la institución y la normatividad aplicable.
+
+
+Artículo 11. Los órganos e instancias académicas tendrán la responsabilidad de atender en todo momento las necesidades académicas; así mismo, tendrán el derecho y la responsabilidad de participar ampliamente en la planeación universitaria y de atender el desarrollo de los planes aprobados para el buen funcionamiento y cumplimiento de los fines de la Universidad.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+# TÍTULO III. DEL CONSEJO UNIVERSITARIO
+
+
+## CAPÍTULO I. DE SU NATURALEZA Y ATRIBUCIONES
+
+
+Artículo 12. El máximo órgano de gobierno de la Universidad es el Consejo Universitario, como lo establece el Artículo 15 de la Ley.
+
+
+Artículo 13. El ámbito de competencia del Consejo, como órgano resolutivo de carácter legislativo, es la elaboración y aprobación de normas, disposiciones generales, planes de desarrollo, planes y programas académicos y políticas institucionales.
+
+
+Artículo 14. Además de las atribuciones que le  concede el artículo 17 de la Ley, al Consejo  le corresponde: 
+
+    I. Expedir y derogar las normas y disposiciones generales encaminadas a la mejor organización y funcionamiento académico y administrativo de la Universidad, desarrollando mecanismos de discusión amplia en la Comunidad Universitaria.
+    
+    II. Emitir las convocatorias para la conformación de los órganos de gobierno y los órganos  académicos establecidos en el presente Estatuto. 
+    
+    III. Elaborar y aprobar el Reglamento General de los Consejos de Plantel.
+    
+    IV. Revocar de conformidad con los procedimientos y la normatividad aplicable, los nombramientos de los funcionarios que haya designado.
+    
+    V. Convocar al Congreso General Universitario, como instancia que debe constituirse cada cinco años o antes de ser necesario, con el propósito de que la Comunidad elabore propuestas relacionadas con la política y los planes generales de desarrollo de la Universidad.
+    
+    VI. Las demás que la Ley, el presente Estatuto y demás reglamentos le confieran y que sean necesarias para el cumplimiento de los fines de la Universidad.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+## CAPÍTULO II. DE SU INTEGRACIÓN
+
+
+Artículo 15. El Consejo estará constituido por la representación de los sectores que conforman la  Comunidad Académica.
+
+    I. Paritariamente entre estudiantes y académicos con voz y voto. 
+    
+    II. La representación de estudiantes y académicos será por plantel y colegio.
+
+
+Artículo 16. El Consejo estará integrado por:
+
+    I. Dos  consejeros estudiantes, con sus suplentes, por cada colegio por  plantel.
+    
+    II. Dos  consejeros del personal académico, con sus suplentes, por cada colegio por  plantel.
+
+
+Artículo 17. Los trabajadores administrativos, técnicos y manuales contarán con un representante con voz por cada plantel y uno por el resto de las sedes.
+
+
+Artículo 18. El Rector forma parte del Consejo con voz y voto.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+## CAPÍTULO III. DE LOS REQUISITOS Y FORMAS DE ELECCIÓN 
+
+
+Artículo 19. Para formar parte del Consejo se requiere:
+
+    I. Estudiantes
+    
+      a) Ser estudiante de tiempo completo en la Universidad.
+      b) Haber estado inscrito en la Universidad como mínimo dos semestres anteriores y consecutivos al momento en que se emita la convocatoria para la elección del cargo.
+      c) Estar inscrito en el plantel y colegio al que represente.
+    
+    
+    II. Personal Académico
+    
+      a) Dedicación de tiempo completo. 
+      b) Contar con dictaminación favorable.
+      c)Tener un año de antigüedad en el plantel al que represente.
+      d) Estar adscrito al plantel y colegio al que represente.
+    
+    
+    III. Personal administrativo, técnico y manual.
+    
+      a) Ser trabajador de base.
+      b) Tener un año de antigüedad en la Universidad.
+      c) Estar adscrito al plantel o sede.
+
+
+Artículo 20. El Consejo se renovará totalmente cada dos años.
+
+
+Artículo 21. Los representantes al Consejo serán electos mediante un proceso que garantice la pluralidad entre los integrantes de la Comunidad, de conformidad con la normatividad emitida para tal efecto. Las elecciones se realizarán mediante el principio de votación universal, directa, libre y secreta.
+
+
+Artículo 22. De conformidad con  los artículos 15 y 16 de la Ley, las condiciones generales para elegir a los integrantes del Consejo se encuentran definidos en el presente Estatuto y el reglamento del Consejo.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+## CAPÍTULO IV. DE SU REVOCACIÓN
+
+
+Artículo 23. Los consejeros y representantes durarán en su cargo dos años y podrán ser revocados de conformidad con lo dispuesto en el reglamento del Consejo.
+
+
+
+# TÍTULO IV. DE LOS CONSEJOS DE PLANTEL 
+
+
+## CAPÍTULO I. DE SU NATURALEZA Y ATRIBUCIONES
+
+
+Artículo 24.- Los consejos de plantel son órganos de gobierno locales encargados de dar especificidad a las políticas generales de la Universidad en el plantel, de conformidad con la Ley, el presente Estatuto y los lineamientos y normatividad aplicables.
+  
+
+Artículo 25.- Los consejos de plantel tienen las siguientes atribuciones: 
+    
+    I. Coordinar y gestionar los asuntos académicos y académico-administrativos en el plantel;
+    
+    II. Crear espacios que permitan el trabajo colectivo;  
+    
+    III. Elaborar propuestas para la planeación del plantel y cooperar en la planeación institucional de la Universidad, de conformidad con la normatividad emitida para tal efecto;
+    
+    IV. Dar seguimiento al ejercicio del presupuesto asignado al plantel y, en caso necesario, turnar las posibles inconsistencias en su aplicación a las instancias correspondientes;
+    
+    V. Definir criterios y lineamientos para la administración, planeación y organización del uso de los recursos materiales, espacios físicos, instalaciones y gestión académico-administrativa, de conformidad con la normatividad aplicable;
+    
+    VI. Dar seguimiento al trabajo docente, de investigación, difusión, divulgación, extensión y cooperación, de conformidad con la normatividad aplicable;
+    
+    VII. Conocer y, en su caso, dar el trámite que corresponda a los problemas y dificultades académicas y académico-administrativas que afecten el funcionamiento del plantel; 
+    
+    VIII. Promover la vinculación del plantel con el entorno social en el marco de las actividades  sustantivas de la Universidad;
+    
+    IX. Emitir lineamientos complementarios de funcionamiento,  que sean necesarios para el desempeño de sus atribuciones  y  no contravengan el Reglamento General  de los Consejos de Plantel;
+    
+    X. Las demás que el presente Estatuto y demás normas le confieran y sean necesarias para el buen funcionamiento del plantel.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+## CAPÍTULO II. DE SU INTEGRACIÓN
+
+
+Artículo 26. Cada consejo de plantel estará integrado por:
+
+  I. Estudiantes  con voz y voto 
+    a) Cuatro de cada colegio en el plantel, garantizando la pluralidad en la representación.
+  
+  II. Personal Académico con voz y voto
+    a) Cuatro de cada colegio en el plantel, garantizando la pluralidad en la representación.
+  
+  III. Trabajadores administrativos, técnicos y manuales con voz
+    a) Tres representantes elegidos por su sector en el plantel.
+
+
+
+## CAPÍTULO III. DE LOS REQUISITOS Y FORMAS DE ELECCIÓN 
+
+
+Artículo 27. Los requisitos de los estudiantes y del personal académico que integren los consejos de plantel serán los mismos que los establecidos para el Consejo. 
+
+
+Artículo 28. Los representantes a los consejos de plantel serán electos mediante un proceso que garantice la pluralidad entre los integrantes de la Comunidad, de conformidad con la normatividad emitida para tal efecto. Las elecciones se realizarán mediante el principio de votación universal, directa, libre y secreta.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+# TITULO V. DE LOS ÓRGANOS DE CONTROL, VIGILANCIA Y SEGUIMIENTO
+
+
+## CAPÍTULO I. DE LA COMISIÓN DE HACIENDA DEL CONSEJO UNIVERSITARIO
+
+
+Artículo 29. De conformidad con el artículo 17 fracción XVI de la Ley, corresponde al Consejo Universitario integrar de entre sus miembros la Comisión de Hacienda, que será responsable del manejo y cuidado del patrimonio universitario.  
+
+
+Artículo 30. Son atribuciones y responsabilidades de la Comisión de Hacienda, en lo general:
+
+    I. La elaboración de propuestas de normatividad y políticas, así como la definición de lineamientos y procedimientos acerca de cualquier asunto relacionado con la elaboración, administración, seguimiento y control del proyecto anual de ingresos y el presupuesto de egresos de la Universidad, así como para el manejo y cuidado del patrimonio universitario, de conformidad con lo establecido al respecto por la Ley.
+    
+    II. Las demás que el presente Estatuto, el reglamento del Consejo y el Pleno del Consejo le confieren. 
+
+
+
+## CAPÍTULO II. DE LA CONTRALORÍA GENERAL
+
+
+Artículo 31. De conformidad con lo dispuesto por los artículos 29 y 30 de la Ley, la Universidad, para cumplir con la obligación de rendir cuentas respecto al manejo de su patrimonio, contará con un órgano de control interno denominado Contraloría General.
+
+
+Artículo 32. La Contraloría General es un órgano de control, vigilancia y fiscalización administrativa de la Universidad y es independiente en lo funcional y operativo de los órganos de gobierno y administración de la misma, de conformidad con el presente Estatuto y demás normatividad aplicable.
+
+
+Artículo 33. El Contralor General es el encargado de supervisar y auditar el ejercicio del patrimonio de la Universidad, el cual se encuentra determinado en los artículos 21 y 22 de la Ley.
+
+Para ser Contralor General se requiere:
+
+    I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+    
+    II. Tener título y cédula profesional y al menos cinco años de experiencia comprobable en las áreas económica, contable, jurídica o administrativa, de conformidad con lo que establezca el Consejo;
+    
+    III. No tener impedimento legal para ejercer el cargo;
+    
+    IV. En su caso, no haber sido destituido o inhabilitado de la función pública;
+    
+    V. No haber tenido en los cinco años anteriores, el cargo de coordinador, titular o encargado de algún área académica, administrativa o académico- administrativa de la Universidad.
+     
+
+Artículo 34. La designación del Contralor General se llevará a cabo mediante convocatoria pública emitida por el Consejo, que garantice al mejor  candidato. Para ello instalará una comisión técnica que evaluará a los candidatos y presentará el dictamen al Pleno del Consejo. 
+
+
+Artículo 35. El Contralor General será designado y nombrado por el Consejo, en sesión extraordinaria con quórum de las dos terceras partes del Consejo y una votación de cuando menos la mitad más uno de los votos emitidos, por un periodo de seis años sin ratificación.
+
+
+Artículo 36. Son facultades y responsabilidades del Contralor General:
+
+    I. Realizar la función de fiscalización del ejercicio del gasto de la Universidad y su congruencia con el presupuesto autorizado por la Asamblea Legislativa del Distrito Federal para el ejercicio correspondiente, así como fondos federales que le sean asignados;
+    II. Efectuar las auditorías pertinentes, así como aquellas que se le soliciten de conformidad con la normatividad aplicable, estableciendo las bases generales para la realización de las mismas;
+    III. Proponer a la Comisión de Hacienda la contratación del despacho de auditores externos, de acuerdo con el artículo 17 fracción X de la Ley y normatividad aplicable;
+    IV. Desarrollar anualmente el programa de control interno para cada una de las áreas de la Universidad, y evaluar su cumplimiento de conformidad con la normatividad vigente y respetando las instancias correspondientes, siendo la última instancia de control interno la Contraloría General;
+    V. Dar seguimiento a las observaciones y recomendaciones que formule la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, hasta su total cumplimiento, y para el caso de los fondos federales, las que emita la Auditoría Superior de la Federación;
+    VI. Formar parte de los distintos comités que se conformen dentro de la Universidad, de conformidad con la normatividad aplicable;
+    VII. Verificar que los procedimientos que en las diversas materias realice la Universidad se ajusten a las normas institucionales vigentes;
+    VIII. Conocer y resolver las inconformidades que se encuentren previstas en las normas institucionales vigentes;
+    IX. Conocer y resolver los asuntos relacionados con el procedimiento administrativo disciplinario local y federal, incluida la Ley Federal de Responsabilidades de los Servidores públicos y demás normatividad aplicable a la Universidad; Suspendida por acuerdo UACM/CU-3/EX-06/038/13 de fecha 11 de abril de 2013.
+    X. Verificar que se dé cumplimiento, de acuerdo con las normas vigentes, a las obligaciones de pago contraídas por la Universidad;
+    XI. Verificar que las actas de entrega-recepción que realice el personal de la Universidad sean acordes con las normas vigentes aplicables a la institución;
+    XII. Elaborar el padrón del personal de la Universidad obligado a presentar declaración de situación patrimonial, y carta de no inhabilitación, con base en la información que proporcione la instancia competente que se haga cargo de los Servicios Administrativos;
+    XIII. Solicitar, de acuerdo con la naturaleza de sus atribuciones,  información y documentación a las diversas áreas de la Universidad, así como a cualquier autoridad de la administración pública federal, local y/o municipal, proveedores, contratistas y prestadores de servicio, cuando lo estime conveniente;
+    XIV. Cotejar los documentos relacionados con el desempeño de sus atribuciones;
+    XV. Vigilar que en las normas institucionales se promueva la transparencia, legalidad, honestidad, racionalidad, responsabilidad y eficiencia en el ejercicio de la aplicación de los recursos que formen parte del patrimonio de la Universidad;
+    XVI. Vigilar que la Universidad cumpla con las disposiciones de las leyes de transparencia y acceso a la información pública;
+    XVII. Elaborar y proponer las normas y lineamientos que regulen los actos de la Contraloría General, para su aprobación por el Consejo;
+    XVIII. Delegar al personal a su cargo las facultades relativas a la realización de auditorías, formulación de observaciones, seguimiento para la solución de recomendaciones, asistencia y participación en comités y subcomités, realización de inspecciones del correcto ejercicio y aplicación de recursos asignados a la Universidad en el presupuesto de egresos;
+    XIX. Rendir un informe anual al Consejo, de conformidad a lo establecido en el artículo 17 fracción IX de la Ley, que contendrá al menos los resultados, observaciones y recomendaciones de las auditorías y programas de control interno realizados, así como el resultado del cumplimiento de las recomendaciones de las instancias externas de auditoría;
+    XX. Las demás que el presente Estatuto, el Consejo y otras normatividades aplicables señalen.
+
+
+Artículo 37. El Contralor General podrá ser revocado de su cargo cuando se acredite que:
+
+    I. Incumple con alguna de las funciones que para su cargo se han previsto en el presente Estatuto de conformidad con la normatividad emitida para tal efecto y demás normatividad aplicable.
+    
+    II. Se acredite que incurrió en responsabilidad civil, administrativa o penal durante su encargo.
+
+
+Artículo 38. Cuando el Contralor General deje de serlo por renuncia, baja por incumplimiento de responsabilidades, incapacidad total o fallecimiento, será reemplazado por un encargado interino designado por el Consejo hasta concluir por lo que reste del periodo o lo establecido en la normatividad emitida para tal efecto y demás normatividad aplicable.
+
+[Regresar a Documento Principal](index.html)
+
+
+
+## CAPÍTULO III. DEL CONSEJO SOCIAL CONSULTIVO
+
+
+Artículo 39. De conformidad con el artículo 11 de la Ley, el Consejo Social Consultivo será la instancia que conocerá las autoevaluaciones de las actividades docentes, de investigación y desarrollo, difusión y extensión académicas de la Universidad, para hacer recomendaciones al Consejo que contribuyan tanto al mejoramiento de la calidad y cobertura de los servicios, como a la satisfacción de las necesidades sociales.
+
+
+Artículo 40. El Consejo Social Consultivo se conformará por:
+
+    I. Tres académicos de distintas instituciones públicas de educación superior presentes en el Distrito Federal.
+    
+    II. Un representante elegido por cada Consejo de Plantel proveniente de las comunidades, pueblos u organizaciones sociales con las que la Universidad establezca relaciones de colaboración.
+    
+    III. Tres egresados de la Universidad de diferentes áreas del conocimiento. 
+
+
+Artículo 41.- El Consejo Social Consultivo será renovado cada cuatro años, garantizando que la convocatoria no coincida con la elección de los órganos de gobierno.
+
+
+Artículo 42.- Las propuestas que emita el Consejo Social Consultivo serán de carácter público.
+
+
+Artículo 43.- El Consejo Social Consultivo contará con una secretaría técnica definida en los términos establecidos por el Consejo Universitario.
+
+ 
+Artículo 44. La integración y designación del Consejo Social Consultivo, se hará en los términos que establezca el Consejo en el reglamento respectivo.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+# TÍTULO VI. DEL  RECTOR 
+
+
+## CAPÍTULO I. DE SU NATURALEZA Y ATRIBUCIONES
+
+
+Artículo 45. El Rector es el representante legal y responsable general de la administración de la Universidad.
+
+
+Artículo 46. La duración del cargo de Rector será de cuatro años a partir de la fecha de su nombramiento, sin posibilidad de renovación del cargo.
+
+
+Artículo 47. El Rector de la Universidad tendrá las siguientes atribuciones:
+
+    I. Coordinar y supervisar la administración de la Universidad y representarla legalmente;
+    II. Ejecutar los acuerdos del Consejo por medio de la estructura orgánica de la Universidad;
+    III. Presentar el proyecto anual de ingresos y el presupuesto de egresos, integrados de conformidad con los reglamentos de planeación y presupuesto,  para su análisis y aprobación  en el Pleno del Consejo, como lo establece la fracción XI del artículo 17 de la Ley;
+    IV. Coordinar y ejecutar programas de organización y reorganización de la gestión administrativa de la Universidad y establecer los procedimientos y métodos de trabajo para que las funciones se realicen de manera articulada, congruente y eficaz;
+    V. Establecer procedimientos para la administración del personal, los recursos financieros, bienes y servicios, de conformidad con las normas y disposiciones aplicables;
+    VI. Proponer al Consejo los mecanismos de evaluación y seguimiento de los procesos de gestión a su cargo;
+    VII. Establecer y mantener un sistema de información de la gestión administrativa y del trabajo académico de la Universidad que será público;
+    VIII. Presentar al Consejo el informe anual de actividades de la Universidad;
+    IX. Designar a los titulares de las áreas a su cargo, con excepción de las instancias que en el presente Estatuto se señalen;
+    X. Coordinar la vinculación interinstitucional; 
+    XI. Las demás que el presente Estatuto y las normas aplicables le confieran para el cumplimiento de los fines de la Universidad.
+
+
+## CAPÍTULO II. DE LOS REQUISITOS DE ELEGIBILIDAD 
+
+
+Artículo 48. El Rector de la Universidad deberá cumplir los siguientes requisitos:
+
+    I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles.  
+    II. Poseer al menos el grado de Maestría. 
+    III. Haber desempeñado cargos de gestión académica en instituciones de educación superior.
+    IV. Estar comprometido con la universidad pública, con el conocimiento científico y humanístico, y en particular, con la construcción del proyecto educativo y social de la Universidad.
+    V. Tener experiencia académica mínima de 5 años. 
+    VI. No ser ministro de ningún culto religioso en el momento de su designación.
+    VII. No ocupar en el momento de su designación algún cargo de dirigente de partido político, ni ser parte del Ejército.
+
+[Regresar a Documento Principal](index.html)
+
+
+
+
+## CAPÍTULO III. DE LA FORMA DE ELECCIÓN
+
+
+Artículo 49. El procedimiento para la elección del Rector será el siguiente:
+
+    I. El Consejo emitirá la convocatoria para la elección de Rector e instalará al Colegio Electoral encargado de organizar y vigilar el proceso de elección, conforme a la convocatoria.
+   
+    II. El registro de aspirantes se hará de conformidad con los requisitos establecidos en el Estatuto y en los plazos señalados en la convocatoria.
+   
+    III. La convocatoria, el registro de aspirantes y el desarrollo de la elección serán del conocimiento público.
+    IV. Los aspirantes registrados no podrán realizar acciones de propaganda y proselitismo, solamente podrán difundir sus programas de trabajo en los términos que establezca la convocatoria. El Colegio Electoral garantizará que dichas propuestas sean amplia y cabalmente conocidas por la comunidad.
+    V. El Colegio Electoral, tomando como base el registro de aspirantes, realizará una consulta de preferencias por sector, colegio, sede y plantel, de carácter público y general; a partir de esta consulta el Colegio Electoral definirá la terna de aspirantes que se presentará al Consejo. En caso de que el número de registro de aspirantes sea menor o igual a tres, el Colegio Electoral presentará las propuestas inscritas al Consejo.
+    VI. El Consejo, a partir de la terna que presente el Colegio Electoral, designará como Rector a quien obtenga las dos terceras partes de los votos de los consejeros.
+    VII. En caso de que en la primera votación ningún candidato haya obtenido la mayoría calificada, se llevarán a cabo votaciones subsecuentes con los dos candidatos de mayor votación de la primera, hasta alcanzar la mayoría calificada. Si después de cinco votaciones consecutivas no hubiera candidato que obtenga la mayoría calificada, el Consejo designará rector al candidato que obtenga la mayoría simple de los votos efectuados en la sexta votación.
+    VIII. Todas las votaciones serán nominales.
+
+## CAPÍTULO IV. DE SU REVOCACIÓN Y REEMPLAZO 
+
+Artículo 50. El Rector será revocado de su cargo cuando: 
+
+    I. Se acredite de conformidad con la normatividad aplicable que ha ejercido sus atribuciones o empleado los bienes de la Universidad indebidamente. 
+    
+    II. Incumpla con alguno de los requisitos establecidos para ser designado. 
+    
+    III. Se acredite que ha incurrido en responsabilidad civil, administrativa y penal durante su encargo.
+
+
+Artículo 51. Cuando el Rector deje de serlo por renuncia, baja por incumplimiento de responsabilidades, incapacidad total o fallecimiento, será reemplazado por un encargado interino designado por el Consejo por lo que reste del periodo, de conformidad con la normatividad aplicable.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+
+# TÍTULO VII. DE LAS COORDINACIONES DE PLANTEL
+
+
+## CAPÍTULO I. DE SU NATURALEZA Y ATRIBUCIONES
+
+
+Artículo 52. El coordinador del plantel ejerce un cargo ejecutivo en el ámbito de sus funciones y de los acuerdos emitidos por el consejo de plantel.
+
+El carácter de coordinador del plantel lo compromete destinar tiempo completo en el cumplimiento eficiente del cargo.
+
+No deberá asumir actividades que sean incompatibles con sus obligaciones y responsabilidades como coordinador.
+
+
+Artículo 53. El coordinador del plantel entrará en funciones a partir de su designación por el consejo del plantel.
+
+La duración en el cargo de coordinador del plantel será de 2 años.
+
+
+Artículo 54. Las obligaciones y atribuciones del coordinador del plantel son:
+
+    I. Integrar junto con el consejo de plantel, en un plazo no mayor de tres meses a partir de la fecha de su designación, el programa de trabajo para el periodo por el cual fue electo, de conformidad con la normatividad aplicable;
+    
+    II. Representar al consejo de plantel en  las instancias de planeación de la Universidad, de conformidad con la normatividad aplicable;
+    
+    III. Promover, coordinar y dar seguimiento a las actividades internas y las efectuadas con los otros planteles de la Universidad;
+    
+    IV. Gestionar y dar seguimiento a los recursos necesarios para el funcionamiento de las actividades del plantel, de conformidad con el programa de plantel;
+    
+    V. Gestionar y  ejecutar  lo acordado por el consejo del plantel para que sea llevado a cabo de manera eficiente y expedita, de conformidad con la normatividad establecida para tal efecto;
+    
+    VI. Convocar en caso necesario a reunión del consejo  del plantel; 
+    
+    VII. Asistir a las reuniones del consejo de plantel que convoque este mismo órgano;
+    
+    VIII. Ser responsable del resguardo de los recursos materiales del plantel, sus espacios físicos e instalaciones; 
+    
+    IX. Proponer para su aprobación por el consejo de plantel,  medidas conducentes para el mejor funcionamiento del plantel; 
+    
+    X. Verificar que se cumplan los servicios académicos y académico- administrativos programados para el plantel;
+    
+    XI. Presentar anualmente un Informe de sus actividades ante el consejo de plantel;
+    
+    XII. Coordinarse con las áreas responsables de apoyo y servicios administrativos del plantel para garantizar el funcionamiento;
+    
+    XIII. Proponer al consejo de plantel las asignaciones de profesores para cubrir la oferta académica del mismo cuando éstos no tengan carga académica completa, de acuerdo con su formación y perfil profesional, y de conformidad con lo establecido en el presente Estatuto y el Estatuto del Personal Académico;
+    
+    XIV. Facilitar en tiempo y forma toda la información bajo su responsabilidad que el consejo de plantel o cualquier miembro de la comunidad solicite para cumplir con el buen funcionamiento del plantel;
+    
+    XV. Todas las demás que establezcan los reglamentos y normatividades aplicables
+
+
+Artículo 55. El coordinador de plantel tiene voz y voto en el consejo de plantel.
+
+
+
+[Regresar a Documento Principal](index.html)
+
+
+## CAPÍTULO II. DE LOS REQUISITOS Y FORMAS DE ELECCIÓN 
+
+
+Artículo 56. El coordinador del plantel será electo en votación universal, directa, secreta y ponderada por estudiantes, académicos y administrativos de la comunidad del plantel:
+
+Cuarenta y cinco por ciento académicos, repartidos en tres partes iguales para cada colegio; 
+
+Cuarenta y cinco por ciento estudiantes, repartidos en tres partes iguales para cada colegio, y
+
+Diez por ciento para el personal administrativo, técnico y manual.
+
+
+Artículo 57. Los requisitos para ser coordinador de plantel son:
+
+Ser profesor investigador de tiempo completo, dictaminado favorablemente. 
+
+Contar, cuando menos, con un año de antigüedad en el plantel.
+  
+No ser consejero de plantel.
+
+Inscribirse como candidato a título personal.
+
+
+
+## CAPÍTULO III. DE SU REVOCACIÓN Y REEMPLAZO
+
+
+Artículo 58. El coordinador del plantel podrá ser revocado de su cargo cuando se acredite  que:
+
+Ha incumplido con sus obligaciones o se ha excedido en sus atribuciones, contraviniendo las que para su cargo se han previsto en el presente Estatuto, de conformidad con la normatividad correspondiente. 
+
+Se acredite que ha incurrido en responsabilidad civil, administrativa y penal durante su encargo.
+
+
+Artículo 59. Cuando el coordinador del plantel deje de serlo por renuncia, revocación del cargo, incapacidad total o fallecimiento, será reemplazado por un encargado interino que designará el consejo del plantel hasta que se lleve a cabo el procedimiento establecido para una nueva elección, que habrá de realizarse en un plazo máximo de seis meses, de conformidad con la normatividad aplicable.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+# TÍTULO VIII. DE LA ESTRUCTURA ADMINISTRATIVA
+
+
+## CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRAL
+
+
+Artículo 60. Los órganos e instancias administrativas de la Universidad tendrán la responsabilidad de conducirse con base en los principios universitarios, las políticas generales de la institución y la normatividad aplicable.
+
+
+Artículo 61. Los órganos e instancias administrativas de la Universidad tendrán la responsabilidad de atender en todo momento las necesidades académicas para el buen funcionamiento y cumplimiento de los fines de la Universidad.
+
+
+Artículo 62. El Tesorero será designado y nombrado por el Consejo a partir de una terna propuesta por el  Rector, de conformidad con la normatividad emitida para tal efecto.
+
+
+Artículo 63.  El Abogado General será designado y nombrado por el Consejo a partir de una terna propuesta por el  Rector, de conformidad con la normatividad emitida para tal efecto.
+
+
+Del Tesorero
+
+
+Artículo 64. Para garantizar el buen ejercicio del presupuesto, estados financieros y patrimonio universitario, la Universidad cuenta con una instancia administrativa y contable denominada Tesorería.
+
+
+Artículo 65. La Tesorería, para el buen desempeño de sus tareas, contará con áreas específicas encargadas de las operaciones presupuestales, pagos, contabilidad y finanzas, sistemas de registro, entre otras que se requieran. 
+
+
+Artículo 66. El cargo de Tesorero es incompatible con cargos o nombramientos representativos o administrativos, tanto de la Universidad, como de los sectores público, social o privado.
+
+
+Artículo 67. Los requisitos para ser Tesorero serán los siguientes:
+
+Ser mexicano en ejercicio pleno de sus derechos políticos y civiles.
+
+Poseer título de Licenciado en Contaduría, Administración o áreas afines.
+
+Tener por lo menos cinco años de experiencia en el ejercicio de su profesión.
+ 
+   En su caso, no haber sido destituido o inhabilitado de la función pública.
+
+
+Artículo 68.  Al Tesorero le corresponde ejercer las siguientes funciones y atribuciones:
+
+Administrar eficientemente el trámite de pago, comprobación y registro del ejercicio presupuestal, para el manejo transparente de los recursos, así como cumplir oportunamente con los pagos por servicios y/o bienes adquiridos por la operación de la Universidad.
+
+Establecer y dirigir un sistema eficiente de contabilidad.
+
+Elaborar los Estados Financieros y la Cuenta Pública. 
+
+Dirigir la Caja General.
+
+Autorizar pagos de conformidad con las regulaciones aplicables.
+
+Administrar los fondos de inversión, informando trimestralmente de los intereses bancarios a la Comisión de Hacienda del Consejo.
+
+Proponer al Consejo las condiciones por las que se requiera disponer de una inversión y si los fondos para depósito se dirigen a tasas de interés, a fondos de inversión, a fideicomisos.
+
+Colaborar, con las instancias correspondientes, en la elaboración del presupuesto anual de ingresos y egresos y del programa operativo anual.
+
+Elaborar propuestas, para someter a la aprobación del Consejo, de políticas, normas y procedimientos en materia del ejercicio presupuestal.
+
+Autorizar las solicitudes de administración de fondos del presupuesto de la Universidad, conforme al calendario y montos autorizados.
+
+Participar junto con el Rector en actos de representación de la Universidad, ante autoridades externas a la institución, en materia presupuestal, fiscal y contable.
+
+Garantizar la solvencia y liquidez de la Universidad a través de los criterios establecidos por el Consejo.
+
+Supervisar la emisión de los estados de situación presupuestal.
+
+
+Suscribir mancomunadamente cheques con el Jefe de Pagos, Contabilidad y Finanzas, además de títulos de crédito y documentos propios para el manejo de fondos y valores.
+
+Comunicar al Abogado General de la Universidad sobre cualquier conflicto jurídico, en el ámbito de su competencia, informando al Consejo, así como a las demás instancias y autoridades competentes.
+
+Rendir anualmente un informe de labores para su aprobación en el Consejo y ante la comunidad universitaria, así como  hacer llegar en un plazo no mayor de 10 días hábiles toda la información que le sea requerida por el Consejo.
+
+Las demás que el presente Estatuto, el Consejo y demás normatividad dispongan para el buen desempeño de sus responsabilidades.
+
+
+Artículo 69. El Tesorero podrá ser revocado de su cargo cuando se acredite que:
+
+Incumple con alguna de las funciones que para su cargo se han previsto en el presente Estatuto de conformidad con la normatividad emitida para tal efecto.
+
+Se acredite que ha incurrido en responsabilidad civil, administrativa y penal durante su encargo.
+
+
+Artículo 70. Cuando el Tesorero deje de serlo por renuncia, baja por incumplimiento de responsabilidades, incapacidad total o fallecimiento, será reemplazado por un encargado interino designado por el Consejo hasta concluir por lo que reste del periodo o lo establecido en la normatividad emitida para tal efecto y demás normatividad aplicable.
+	
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+
+Del Abogado General
+
+Artículo 71. La Oficina del Abogado General es la instancia encargada de dar los servicios jurídicos que requiera la Universidad.  
+
+
+Artículo 72. Las atribuciones del Abogado General son:
+
+Representar a la Universidad, previo mandato que le otorgue el Rector, en asuntos judiciales, laborales y administrativos.
+
+Atender las resoluciones que pronuncien autoridades jurisdiccionales en asuntos judiciales, laborales y administrativos, en los que la Universidad intervenga.
+ 
+Asesorar jurídicamente a los órganos de gobierno, de administración y cualquier otra instancia de la Universidad.
+
+Revisar y sancionar convenios y contratos sobre diversos actos jurídicos y juicios en que la universidad intervenga y,  en su caso, formularlos.
+
+Revisar y emitir opinión técnica de los anteproyectos de leyes, reglamentos, decretos, acuerdos, órdenes, circulares y demás ordenamientos jurídicos que sean competencia de la Universidad.
+
+Llevar el registro de las leyes, reglamentos, acuerdos, convenios, contratos, circulares, y demás instrumentos que se relacionen con el funcionamiento de la Universidad.
+
+Verificar que en la Universidad se dé cumplimiento a la legislación relativa a la transparencia y acceso a la información pública federal y local, la administrativa y fiscal, así como a la legislación conexa.
+
+Compilar y divulgar las leyes, reglamentos, decretos y acuerdos que sean de la competencia de la Universidad.
+
+Dar a conocer y vigilar el cumplimiento del marco jurídico de la Universidad.
+
+Asesorar a los titulares o miembros de los órganos e instancias de la Universidad en materia legal y de consulta sobre interpretación y aplicación de las legislaciones de la Federación, del Distrito Federal y Universitaria.
+
+Llevar a cabo estudios jurídicos, asesorar y emitir opiniones con respecto a las consultas que  le formulen las diversas áreas de la Universidad;
+
+Rendir anualmente un informe de labores para su aprobación en el Consejo y ante la comunidad universitaria, así como hacer llegar en un plazo no mayor de 10 días hábiles toda la información que le sea requerida por el Consejo. 
+
+Detentar el poder de dominio de los bienes de la Universidad, en los términos  y con las restricciones que establezca la normatividad aplicable.
+
+Emitir opinión para efectos administrativos acerca de la interpretación de las disposiciones contenidas en las normas y reglamentaciones que se deriven de la Ley y demás normatividad aplicable.
+
+Las demás que le sean conferidas por el presente Estatuto, el Consejo, el Rector y otras normas aplicables.
+
+
+
+Artículo 73. El cargo de Abogado General es incompatible con cargos o nombramientos representativos o administrativos, tanto de la Universidad, como de los sectores público, social o privado.
+
+
+Artículo 74. Los requisitos para ser Abogado General serán los siguientes:
+
+Ser mexicano en ejercicio de sus derechos.
+
+Poseer título de Licenciado en Derecho, con cédula profesional y preferentemente con un posgrado en Derecho.
+
+Tener por lo menos cinco años de experiencia comprobada en el ejercicio de su profesión.
+ 
+En su caso, no haber sido destituido o inhabilitado de la función pública.
+
+
+Artículo 75. El Abogado General podrá ser revocado de su cargo cuando se acredite que:
+
+Incumple con alguna de las funciones que para su cargo se han previsto en el presente Estatuto de conformidad con la normatividad emitida para tal efecto y demás normatividad aplicable.
+
+Se acredite que ha incurrido en responsabilidad civil, administrativa y penal durante su encargo.
+
+
+Artículo 76. Cuando el Abogado General deje de serlo por renuncia, baja por incumplimiento de responsabilidades, incapacidad total o fallecimiento, será reemplazado por un encargado interino designado por el Consejo hasta concluir por lo que reste del periodo o lo establecido en la normatividad emitida para tal efecto y demás normatividad aplicable.
+
+
+
+
+[Regresar a Documento Principal](index.html)
+
+
+# TÍTULO IX. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DE LA COMUNIDAD UNIVERSITARIA
+
+
+
+## CAPÍTULO I. DE LOS DERECHOS GENERALES DE LOS UNIVERSITARIOS
+
+
+Artículo 77. Los integrantes de la Comunidad tendrán los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos. Cualquier acto de discriminación debida al origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, o el estado civil, será considerado como falta grave de conformidad con la normatividad emitida para tal efecto.
+
+
+Artículo 78.  Los integrantes de la Comunidad tienen derecho a la protección de su salud física y psicológica. Los integrantes de la comunidad universitaria tienen derecho a un ambiente adecuado para su desarrollo y bienestar integral en las instalaciones de la Universidad.
+
+
+Artículo 79. Los integrantes de la Comunidad podrán ejercer el derecho a la manifestación de las ideas según lo establecen los artículos 6 y 7 de la Constitución.
+
+
+Artículo 80. Los integrantes de la Comunidad tendrán derecho a la información que deberá ser respetado por las instancias  y funcionarios de la Universidad, en la medida en que no violen derechos a la privacidad individual protegidos por el Estado.
+
+
+Artículo 81. Los integrantes de la Comunidad tienen derecho al ejercicio de petición, siempre que se formulen las demandas por escrito, de manera pacífica y respetuosa, y ningún funcionario de la Universidad puede oponerse a esto. Los integrantes de la Comunidad Universitaria tienen derecho a recibir respuesta por escrito por parte de la instancia  competente de la Universidad  y a quien se haya dirigido la demanda, en un término que no exceda los diez días naturales una vez recibida la petición; no se podrán alegar en la justificación de la negativa a dar como respuesta razones de confidencialidad, más allá de las que indiquen en su caso las normas de transparencia y acceso a la información pública vigentes en el Distrito Federal. 
+
+
+Artículo 82. Los integrantes de la Comunidad tienen derecho de asociarse y/o  reunirse pacíficamente y ninguna instancia o funcionario podrá oponerse o coartar este derecho.
+
+En caso de que se realicen asambleas o reuniones que tengan por objeto hacer una petición o presentar una protesta por algún acto a una instancia o funcionario, los integrantes de la Comunidad tienen derecho a que las instancias de autoridad  garanticen su integridad física, así como del patrimonio de la Universidad,  siempre que éstas ocurran dentro del recinto de algunos de los planteles o de las oficinas que integran la Universidad.  
+
+
+Artículo 83. Los integrantes de la Comunidad tienen derecho a que se respete la garantía constitucional para que ninguna de las disposiciones tenga efecto retroactivo en perjuicio del personal académico,  administrativo, o de los estudiantes. 
+
+
+Artículo 84. Los integrantes de la Comunidad tienen derecho a la convivencia en paz y a recibir un trato respetuoso. Cualquier violación a estos principios deberá ser tratada específicamente y normarse de manera correspondiente, en las normas de convivencia universitaria, en el Estatuto del Personal Académico, en el Estatuto del Personal Administrativo, y en el Estatuto de los Estudiantes, que se implementarán para  tal efecto. 
+
+
+Artículo 85. El personal académico, administrativo y los estudiantes tienen derecho a un trato justo y humano, y no podrá ejercerse ningún tipo de coacción física o psicológica contra ningún integrante de la Comunidad.
+
+
+Artículo 86. Los derechos universitarios derivados de las funciones y actividades universitarias son irrenunciables.
+
+
+Artículo 87. La Comunidad tiene derecho y obligación de conocer el proyecto educativo de la Universidad.
+
+
+Artículo 88. Es obligación de los integrantes de la comunidad universitaria conducirse en estricto apego a las disposiciones y normas establecidas para garantizar la no violencia, el uso responsable del patrimonio, de las instalaciones y de los recursos de la Universidad.
+
+[Regresar a Documento Principal](index.html)
+
+
+
+
+## CAPÍTULO II. DE LOS ESTUDIANTES
+
+
+Artículo 89. Son estudiantes todos aquellos que ingresen y permanezcan en la Universidad de acuerdo con las disposiciones determinadas en el Estatuto de los Estudiantes, en apego a lo establecido en el artículo 6 de la Ley y el presente Estatuto.  
+
+
+Artículo 90. Los derechos y obligaciones de los estudiantes se definirán en el Estatuto de los Estudiantes que sea aprobado por el Consejo, de conformidad con la Ley y el presente Estatuto. 
+
+
+Artículo 91. Todas las disposiciones del presente Estatuto y demás normatividad que favorezcan a los estudiantes  son irrenunciables.
+
+
+Artículo 92. Los estudiantes tendrán derecho a participar en los órganos colegiados y de gobierno en los que tengan interés legítimo, de conformidad con la fracción I del artículo 18 de la Ley.
+
+Artículo 93. Los estudiantes gozan del derecho a recibir educación superior, en el sentido que indica el artículo 3 constitucional y el artículo 26 de la Ley.
+
+
+Artículo 94. Los estudiantes tienen  derecho y obligación de conocer oportunamente los planes  y programas de estudio que ofrece la Universidad. Se deberá garantizar su participación en la creación,  revisión y  modificación de los mismos, de conformidad con la normatividad emitida para tal efecto.
+
+
+Artículo 95. Los estudiantes de la Universidad tienen derecho a asesoría, tutoría, apoyo efectivo y reconocimiento por parte de las instancias académicas y administrativas de la Universidad para el desarrollo de su formación académica, esto implica, entre otros, el derecho a beneficiarse de los convenios académicos de la Universidad con otras instituciones.
+
+
+Artículo 96. Los estudiantes inscritos en la Universidad tienen derecho a contar con los recursos e infraestructura para su desarrollo integral tales como laboratorios, comedores universitarios subsidiados, materiales biblio-hemerográficos, instalaciones para actividades académicas, culturales y deportivas, servicios médicos, de orientación vocacional y apoyo psicopedagógico, entre otros; que tendrán que ser garantizados por la Universidad.
+
+
+Artículo 97. Los estudiantes tendrán derecho a recibir una beca por parte de la Universidad, de conformidad con el Reglamento del Sistema de Becas de la Universidad Autónoma de la Ciudad de México y el presupuesto anual aprobado por el Consejo para tal fin.
+
+
+Artículo 98. Los estudiantes tienen derecho a conocer las formas y calendario para evaluaciones y certificaciones.
+
+
+Artículo 99. Los estudiantes tienen derecho a que se les reconozcan su autoría, coautoría y participación en invenciones, obras literarias, artísticas y académicas realizadas en la Universidad de conformidad con lo que establecen la normatividad vigente emitida para tal efecto.
+
+Artículo 100. En  el Estatuto de los Estudiantes deberán establecerse los derechos que se tengan a regalías, derivadas de su participación en trabajos académicos en la Universidad.
+
+Artículo 101. Los estudiantes tienen derecho a recibir una oferta académica suficiente de conformidad a la planeación académica correspondiente y los planes y programas de estudio.
+
+Artículo 102. Los estudiantes tienen la obligación de hacer uso responsable de los recursos  y patrimonio de la Universidad.
+
+Artículo 103. Los estudiantes tienen la obligación de respetar y cumplir las normas y reglamentos que rigen la vida académica de la Universidad.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+## CAPÍTULO III. DEL PERSONAL ACADÉMICO
+
+
+Artículo 104. Los derechos y obligaciones del personal académico se establecen en el Estatuto del Personal Académico, y están sujetos a las disposiciones y principios que indica el artículo 7 de la Ley, de la Ley Federal del Trabajo, el  Contrato Colectivo de Trabajo, y  demás normatividad aplicable.
+
+
+Artículo 105. El personal académico está integrado por profesores- investigadores de tiempo completo o medio tiempo y  otras figuras que se establecen en el Estatuto del Personal Académico. 
+
+
+Artículo 106. Todo profesor investigador, de acuerdo a la fracción IV del artículo 7 de la Ley, deberá participar en la docencia, investigación, difusión, divulgación, certificación de conocimientos, cooperación interinstitucional y, en su caso, en la prestación de servicios a la sociedad.
+
+
+Artículo 107. En el Estatuto del Personal Académico se definen los procedimientos de ingreso, permanencia y separación de  la Universidad, de conformidad con la normatividad aplicable.
+
+
+Artículo 108. Los profesores investigadores de tiempo completo no podrán tener un contrato de más de ocho horas a la semana en otra institución. De incurrir en esta falta,  serán separados laboralmente de la Universidad, de conformidad con la normatividad aplicable. 
+
+
+Artículo 109. Los profesores investigadores de medio tiempo no podrán tener un contrato de más de veinte horas a la semana en otra institución.  De incurrir en esta falta se separará laboralmente de la Universidad, de conformidad con la normatividad aplicable. 
+
+
+Artículo 110. El Personal Académico tendrá derecho a ejercer la libertad de cátedra,  investigación,  producción y difusión del conocimiento y desarrollar su formación académica.
+
+
+Artículo 111. El personal académico tendrá el derecho de estar adscrito a un plantel, de conformidad con el Contrato Colectivo de Trabajo.
+
+La movilidad del Personal Académico estará en función de la oferta académica de los planteles. 
+
+Los cambios de adscripción se harán de conformidad con el Contrato Colectivo de Trabajo, el Estatuto de Personal Académico y demás normatividad aplicable.
+
+
+Artículo 112. Todas las disposiciones del presente Estatuto, el Estatuto del Personal Académico y demás normatividad que favorezcan al personal académico son irrenunciables.
+
+
+Artículo 113. El personal académico de la Universidad tiene derecho al apoyo efectivo y reconocimiento por parte de las instancias académicas y administrativas, para el desarrollo de las actividades relativas al artículo 106 del presente Estatuto, de conformidad con el Contrato Colectivo de Trabajo y el Estatuto del Personal Académico.
+
+
+
+## CAPÍTULO IV. DEL PERSONAL ADMINISTRATIVO, TÉCNICO Y MANUAL
+
+
+Artículo 114. Los derechos y obligaciones del personal administrativo, técnico y manual estarán definidos en el Estatuto del Personal Administrativo. Dichos derechos y obligaciones serán de conformidad con la fracciones III y IV del artículo 5 de la Ley, el Contrato Colectivo de Trabajo  y demás normatividad aplicable.
+
+
+Artículo 115. Todas las disposiciones del presente Estatuto, el Estatuto del Personal Administrativo y demás normatividad aplicable que favorezcan al Personal Administrativo, técnico y manual son irrenunciables. 
+
+
+
+## CAPÍTULO V. DE LAS INSTANCIAS DE VIGILANCIA DE LOS DERECHOS UNIVERSITARIOS
+
+
+Artículo 116. La Comisión de Mediación y Conciliación del Consejo vigilará el cumplimiento de las Normas de Convivencia emitidas por el propio Consejo de acuerdo a la fracción XVII del artículo 17 de la Ley. 
+
+
+Artículo 117.  La Defensoría de los Derechos Universitarios es la encargada de emitir y dar seguimiento a las recomendaciones  relativas a la violación de los derechos universitarios que canalice a la Comisión de Mediación y Conciliación del Consejo y otros órganos e instancias  correspondientes para su resolución.
+
+La conformación y funcionamiento de esta instancia estará definida por el Consejo, a efecto de garantizar su independencia de los órganos de gobierno y administrativos de la Universidad, de conformidad con la normatividad  emitida para tal efecto.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+# TÍTULO X. DE LA PLANEACIÓN Y PATRIMONIO UNIVERSITARIOS
+
+
+## CAPÍTULO I. DE LA PLANEACIÓN UNIVERSITARIA
+
+
+Artículo 118. La operación y crecimiento de la Universidad, el desarrollo de infraestructura y equipamiento, el ingreso de estudiantes y la contratación de trabajadores académicos, administrativos, técnicos y manuales, así como las adquisiciones, arrendamientos y contratación de servicios responderán a los procesos de planeación y programación institucional en los términos contenidos en este Estatuto, la Norma de Planeación y demás normatividad aplicable.
+
+
+Artículo 119. Los mecanismos de coordinación y operación del Sistema de Planeación Universitaria estarán especificados en la Norma de Planeación que deberá emitir el Consejo, bajo los siguientes lineamientos: 
+
+Organizar el Sistema de Planeación Universitaria, definiendo sus mecanismos generales de coordinación y operación.
+
+Definir las estrategias y lineamientos que orienten la formulación del Plan Integral de Desarrollo.
+
+Fortalecer el trabajo de las entidades académicas, órganos colegiados y dependencias administrativas de la Universidad y su participación en el proceso de planeación institucional.
+
+Establecer estrategias encaminadas a mejorar la gestión y fortalecer la operación de la Universidad para alcanzar sus propósitos. 
+
+
+Artículo 120. La Norma de Planeación deberá procurar una eficiente coordinación entre las diferentes instancias académicas y administrativas de la Universidad, a partir de los recursos humanos y materiales, la programación de presupuesto y las demás que se deriven.
+
+
+Artículo 121. El Plan Integral de Desarrollo se conformará a partir de los planes, programas y proyectos de cada una de las instancias académicas y administrativas, planteles, sedes y otras que sean definidas en el marco del presente estatuto, mediante los procedimientos que se establezcan en la Norma de Planeación.
+
+
+
+## CAPÍTULO II. DE LA ADMINISTRACIÓN, PROGRAMACIÓN Y PRESUPUESTO
+
+
+Artículo 122. Los ingresos ordinarios los constituyen las asignaciones aprobadas por la Asamblea Legislativa del Distrito Federal en los términos del Artículo 23 de la Ley, así como las demás asignaciones regularizables que acuerden las autoridades locales y federales.
+
+
+Artículo 123. Son ingresos extraordinarios los no incluidos como ingresos ordinarios en el presupuesto universitario. Los ingresos extraordinarios se regularán de acuerdo con lo establecido en el Reglamento de Ingresos Extraordinarios, bajo la supervisión de la Tesorería, la Comisión de Hacienda y la Contraloría General. 
+
+
+Artículo 124. El aprovechamiento y disposición de los bienes objeto de donaciones y legados a la Universidad deberán apegarse al Reglamento de Donaciones y Legados, las normas internas de la universidad y demás leyes aplicables.
+
+
+Artículo 125. La administración de fondos deberá realizarse dentro de los límites establecidos en los calendarios financieros, de acuerdo con la disponibilidad de recursos y de conformidad con la normatividad aplicable.
+
+Artículo 126. La planeación, programación y ejercicio del gasto deberán ser congruentes con la planeación, los programas y prioridades institucionales y coadyuvarán al fortalecimiento de las funciones sustantivas, de docencia, investigación, difusión cultural, extensión y cooperación de la Universidad. En consecuencia, las erogaciones deberán estar plenamente justificadas y sujetas al dictamen aprobatorio de los órganos colegiados  competentes.
+
+
+Artículo 127. La elaboración del Presupuesto de Ingresos y Egresos de la Universidad deberá satisfacer los siguientes requisitos:
+
+Responderá al Plan Integral de Desarrollo de la Universidad.
+
+Estará fundamentado en costos actualizados.
+
+Se formulará por programas de actividades académicas.
+
+Se clasificará de acuerdo con los diferentes ramos de la administración universitaria, y las entidades y dependencias que la integran.
+
+Deberá cumplir, en tiempo y forma, con los criterios y requisitos establecidos por el Consejo, la Tesorería y demás instancias competentes.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+
+## CAPÍTULO III. DEL CONTROL PATRIMONIAL Y FINANCIERO
+
+
+Artículo  128. El control y evaluación del ejercicio del presupuesto será tarea fundamental de la Contraloría General, atendiendo a las normas reguladoras de la planeación, programación presupuestaria y ejercicio del gasto, dictadas por las instancias universitarias competentes.
+
+
+Artículo 129. Los bienes muebles de la Universidad estarán bajo la responsabilidad y control de las instancias administrativas de cada plantel y sede, que mantendrán riguroso inventario de los mismos. Los usuarios serán corresponsables del buen uso, mantenimiento y conservación de los bienes muebles que utilicen para la realización de sus actividades, en los términos de la normatividad aplicable.
+
+
+Artículo 130. De conformidad con las particularidades técnicas de los bienes a adquirir, se formarán los Comités de Compras y Adquisiciones que sean necesarios de acuerdo con la normatividad aplicable,  y serán éstos los encargados de regular la idoneidad técnica de los lineamientos y procedimientos para las adquisiciones de bienes y servicios, en sus ámbitos específicos de funcionamiento.
+
+
+[Regresar a Documento Principal](index.html)
+
+
+# TRANSITORIOS
+
+
+Primero. El presente Estatuto entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial de la Universidad.
+
+
+Segundo. A partir de la entrada en vigor del presente Estatuto, queda sin efecto el Estatuto Orgánico de la Universidad de la Ciudad de México y demás normatividad que se oponga al presente Estatuto. 
+ 
+
+Tercero. Una vez que el segundo Consejo entre en funciones, en un plazo no mayor a dos meses, deberá designar al Tesorero, Abogado General y Contralor General, de conformidad con lo establecido en el presente Estatuto.
+
+
+Cuarto. El segundo Consejo convocará al Congreso General Universitario con el fin de discutir amplia, plural y democráticamente, sobre la estructura académica y administrativa que mejor convenga para el cumplimiento de los fines de la Universidad.
+
+El Congreso General Universitario deberá ser convocado en un plazo no mayor a dos meses después de la instalación del segundo Consejo.
+
+La instalación del Congreso General Universitario deberá realizarse en un plazo no mayor a tres meses después de emitida la convocatoria.
+
+Las propuestas emanadas del Congreso General Universitario deberán ser presentadas al Consejo para su discusión y  en su caso aprobación, en un plazo no mayor a doce  meses a partir de la instalación del Congreso. 
+
+En su caso, el Consejo deberá integrar las propuestas que hayan sido aprobadas al Estatuto General Orgánico y a la normatividad correspondiente.
+
+Quinto. Con el propósito de garantizar el cumplimiento de las funciones de la Universidad sobre la base de la estructura de gobierno establecida en este Estatuto, el Rector deberá presentar al Consejo, en un plazo no mayor a seis meses después de haber tomado posesión de su cargo, una propuesta de reorganización administrativa en la que: 
+
+Se contemplen mecanismos de participación del sector administrativo en sus fases diagnóstica, de análisis, de diseño e implementación de propuestas y evaluación. 
+
+Se defina la redistribución, descentralización y desconcentración de atribuciones de las áreas generales, de apoyo académico, administrativo y de servicios para ponerlas al servicio de los consejos de plantel.
+
+Se apliquen las medidas administrativas que no se opongan al presente Estatuto aprobadas por el Primer Consejo Universitario durante su gestión.
+
+
+Sexto. En tanto se aprueba la estructura académica en los términos establecidos en el transitorio  cuarto del presente Estatuto, la Universidad para realizar sus actividades docentes, así como de coordinación de proyectos de investigación, divulgación, extensión y cooperación, disciplinarias e interdisciplinarias, continuará con la estructura de los Colegios de Ciencia y Tecnología, Humanidades y Ciencias Sociales, y Ciencias y Humanidades.
+
+
+Séptimo. Los titulares de los colegios de Humanidades y Ciencias Sociales, y Ciencias y Humanidades que resultaron electos a través de los procesos definidos por su Colegio, estarán en funciones por un tiempo no mayor a dos años en los términos de la convocatoria emitida por su colegio o antes si se establece la nueva estructura académica.
+
+El titular del Colegio de Ciencia y Tecnología podrá ser  electo de conformidad en los términos que defina su  Colegio; su duración en el cargo será de dos años a partir de su elección o antes si se establece la nueva estructura académica.
+
+
+Octavo. Los coordinadores de plantel que actualmente están en funciones a la entrada en vigor del presente Estatuto, lo estarán hasta la designación de los coordinadores de plantel de conformidad a lo establecido en el presente Estatuto.
+
+En el caso de los encargados de despacho de las coordinaciones de los planteles Del Valle y Cuautepec, que fueron electos por su comunidad, serán nombrados como coordinadores de plantel con las atribuciones establecidas para el cargo por el presente Estatuto, de conformidad con la normatividad aplicable.
+
+En el caso de los planteles Casa Libertad, San Lorenzo Tezonco y Centro Histórico deberá proceder  lo establecido en el presente Estatuto.
+
+Noveno. En tanto entra en vigor la nueva estructura académica, las academias como órganos colegiados de la Universidad, se organizarán por plantel para garantizar el eficiente cumplimiento de sus tareas de docencia, investigación, divulgación, extensión y cooperación.
+Los Centros y Programas operarán conforme lo hacen actualmente, en tanto se defina la estructura académica en el Congreso Universitario.
+
+
+Décimo. En tanto entra en vigor la nueva estructura académica, para garantizar el eficiente cumplimiento de tareas de los colegios, éstos podrán constituir los órganos colegiados con carácter resolutivo denominados Consejos de Colegio, en lo que no se oponga al Estatuto y de conformidad con los términos que cada Colegio defina.
+
+
+Décimo primero. En tanto no se modifiquen las estructuras académica y administrativa, seguirán vigentes las actuales en lo que no se oponga al presente Estatuto. 
+
+
+Décimo segundo. En tanto entra en vigor la nueva estructura académica y administrativa, estarán en funcionamiento las instancias administrativas y de apoyo académico previstas en la Norma Número Cuatro, en lo que no se opongan al presente Estatuto. 
+
+
+La única excepción es la actual Coordinación de Comunicación e Informática, que será sustituida por dos coordinaciones: la Coordinación de Comunicación y la Coordinación de Informática y Telecomunicaciones, con las atribuciones y responsabilidades respectivas emanadas de la coordinación de origen. En tanto se define la estructura administrativa en el Estatuto, el Consejo establecerá la estructura operativa transitoria y la designación de los titulares de estas coordinaciones.
+
+
+Décimo tercero. El Consejo emitirá simultáneamente las convocatorias para la elección del Consejo y de los consejos de plantel, de conformidad con el número de integrantes y los requisitos respectivos previstos en el presente Estatuto.
+
+Décimo cuarto. El Reglamento General de los Consejos de Plantel deberá ser aprobado a más tardar dos meses posteriores a la instalación de estos consejos. 
+
+
+Décimo quinto. El Estatuto del Personal Académico, el Estatuto del Estudiante Universitario y el Estatuto del Personal Administrativo serán elaborados por el  Segundo Consejo Universitario, a más tardar en dos años a partir de la publicación del presente Estatuto.
+
+
+Décimo sexto. El Consejo, en un plazo no mayor de seis meses a partir de la entrada en vigor del presente Estatuto, aprobará  la normatividad relativa a la conformación, atribuciones  y funcionamiento de la Defensoría de los Derechos Universitarios.
+
+
+Décimo séptimo. Una vez conformada e instalada la Defensoría de los Derechos Universitarios desaparecerá la Defensoría del Estudiante. 
+
+Los asuntos pendientes de la Defensoría del Estudiante serán  atendidos por la Defensoría de los Derechos Universitarios.
+
+
+Décimo octavo. El Consejo, en un plazo no mayor a ocho meses a la aprobación del presente Estatuto,  instalará al Consejo Social Consultivo.
+
+
+Décimo noveno. El Consejo Social Consultivo aprobará su reglamento de funcionamiento, en un plazo no mayor a los tres meses posteriores a su instalación.  
+
+
+Vigésimo. Una vez aprobada la estructura académica y administrativa de la Universidad,  a la que se refiere el transitorio cuarto, el Consejo deberá realizar los ajustes necesarios al Estatuto General Orgánico, de conformidad con la normatividad aplicable.
+
+
+Vigésimo primero. En la sesión de  instalación de  los consejos de plantel, éstos elegirán de entre sus miembros al secretario técnico y aprobarán un calendario de sesiones, en tanto se aprueba el Reglamento General de los Consejos de Plantel.
+
+
+Vigésimo segundo. Una vez instalados los Consejos de Plantel, en un plazo no mayor a 30 días hábiles, deberán emitir la convocatoria para la elección del coordinador de plantel de conformidad con lo establecido en el presente Estatuto.
+
+
+Vigésimo tercero. La administración, atendiendo a las recomendaciones de las Comisiones de Hacienda y Planeación del Consejo, será responsable de alcanzar y garantizar el equilibrio financiero y la viabilidad de las actividades sustantivas de la Universidad de conformidad con la normatividad aplicable.
+
+
+Vigésimo cuarto. El cuidado, buen uso y conservación de los bienes inmuebles de la Universidad deberá establecerse una vez que se defina la estructura administrativa en el presente estatuto, de conformidad con la normatividad aplicable. En tanto se define la estructura administrativa, el resguardo se encuentra a cargo de las instancias establecidas por la normatividad vigente.
+
+
+
+
+
+
+Dado en la Ciudad de México a los diez días del mes de febrero del año dos mil diez,  el primer Consejo Universitario expide el Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México
+
+Integrantes del primer Consejo Universitario
+
+

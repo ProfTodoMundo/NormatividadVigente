@@ -1,0 +1,336 @@
+---
+title: "LINEAMIENTOS PARA LA CREACIÓN DE NUEVAS SEDES"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+LINEAMIENTOS PARA LA CREACIÓN DE NUEVAS SEDES
+
+UACM/CU-6/OR-04/069/19
+El Pleno del Consejo Universitario aprueba los Lineamientos para la Planeación, Creación y Apertura de Nuevas Sedes, Centros Culturales y Planteles Académicos en la Universidad Autónoma de la Ciudad de México.
+
+Anexo.
+GENERALES
+
+El objetivo central de estos lineamientos es que exista un procedimiento claro, operativo y uniforme para la aprobación y apertura de nuevos espacios universitarios. Para tal fin se han clasificado en cuatro tipos:
+
+Centro Cultural: 
+Inmueble que alberga principalmente áreas de extensión y difusión universitaria como galerías, museos, espacios de expresión plástica o artística y donde también se imparten talleres, diplomados, seminarios o conferencias.
+
+Plantel Académico: 
+Inmueble que alberga principalmente las aulas para los estudiantes, los cubículos de profesores investigadores y los laboratorios, donde se imparten los planes y programas académicos de los ciclos y colegios de la universidad.
+
+Sede Administrativa:
+ Inmueble que alberga principalmente áreas administrativas de la Universidad.
+
+Sede Administrativa Central:
+ Inmueble que alberga diversas áreas y coordinaciones administrativas y académico-administrativas de la Universidad.
+
+LINEAMIENTOS GENERALES
+
+Toda propuesta de nueva sede administrativa, centro cultural o plantel académico (en adelante sede, centro o plantel) para su aprobación y ejecución, deberá cumplir con lo previsto en los presentes lineamientos.
+Toda propuesta se deberá presentar en forma de proyecto al Consejo Universitario y se turnará a las comisiones de Planeación Institucional, Desarrollo y Gestión Universitaria, Asuntos Académicos y Hacienda para su estudio y dictamen.
+Toda propuesta deberá ser incluida en el PIDE y en tanto éste no sea aprobado por el Consejo Universitario deberá apegarse a los criterios de la Norma de Planeación. 
+
+Todo proyecto de nueva sede, centro o plantel deberá contar con estudios de factibilidad institucional que incluyan:
+
+Justificación de la necesidad institucional del inmueble a adquirir, rentar o construir.
+Justificación de la ubicación, su factibilidad de comunicación y transporte.
+Características mínimas del área requerida, de construcción, áreas verdes y equipamiento.
+Necesidades de personal, equipamiento, instalaciones específicas y recursos tecnológicos.
+Un proyecto arquitectónico mínimo, ya sea de adaptación, modificación o nueva construcción para cubrir los dos puntos anteriores.
+Un dictamen de protección civil que garantice que el inmueble cumple con los requisitos mínimos de mecánica de suelo, seguridad, sanidad y condiciones dignas de trabajo.
+Un plan de desarrollo institucional a 2, 5 y 10 años.
+Estructura mínima del personal académico, administrativo, técnico y manual, respetando la del proyecto educativo de la UACM y su estructura orgánica.
+Estudio de impacto ambiental. 
+Consulta a la comunidad en los términos que plantea el Convenio 169 de la OIT y el Protocolo de México para la implementación de consultas a Pueblos y Comunidades.
+
+Los diez puntos anteriores serán estudiados, analizados y en su caso dictaminados por la comisión de Planeación Del CU, quien presentará un dictamen final ante el pleno del CU. (ver anexo 1)
+
+Todo proyecto de nuevo Centro Cultural deberá contar además del punto 3, con un estudio de factibilidad de difusión y extensión universitaria que incluya:
+
+Justificación académica del impacto en la zona y función social del nuevo Centro Cultural.
+Estudio mínimo de la zona, de la oferta y demanda cultural.
+Necesidades de construcción y equipamiento específico.
+Necesidades de personal.
+Propuesta de las principales funciones y actividades a realizar.
+Propuesta de integración de la comunidad académica con el centro cultural.
+Plan de trabajo a 2, 5 y 10 años.
+Estructura mínima del personal académico, administrativo, técnico y manual específico requeridos.
+
+Los ocho puntos anteriores serán estudiados, analizados y en su caso dictaminados por la comisión de Asuntos Académicos del CU, quien turnará el dictamen final a la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria para que ésta lo presente al pleno del CU. (ver anexo 3). Dicho dictamen deberá contemplar la opinión por escrito de la Coordinación de Difusión Cultural y Extensión Universitaria.
+
+Todo proyecto de nuevo Plantel Académico deberá contar, adicionalmente del punto 3, con un estudio de factibilidad que incluya:
+
+Justificación académica de los planes y programas académicos que se quieran ofertar. Dicha justificación deberá ser elaborada con la participación de los Colegios y academias que imparten dichos programas, respetando sus formas de participación y órganos colegiados.
+Un estudio de la oferta y la demanda académica de la zona.
+Un estudio mínimo de la zona, micro y macro regional que ubique la demanda laboral y expectativas educativas.
+Necesidades de construcción y equipamiento específicos.
+Una proyección de crecimiento institucional de 2, 5 y 10 años que incluya crecimiento de la matrícula, de la planta docente y de las necesidades materiales y administrativas para el óptimo funcionamiento del plantel.
+En caso de proponerse modificaciones o nuevos planes de estudio, cumplir con lo estipulado en el Reglamento para la modificación o aprobación de programas y planes de estudio de la UACM.
+Estructura mínima de personal académico y administrativo, técnico y manual, respetando la estructura orgánica de la UACM.
+
+Los siete puntos anteriores serán estudiados, analizados y en su caso dictaminados por la comisión de Asuntos Académicos, quién turnara el dictamen final a la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria para que ésta lo presente al pleno del CU (ver anexo 4).
+
+Todo proyecto de nueva Sede, Centro o Plantel deberá contar con un estudio de factibilidad financiera que incluya:
+
+Gasto del proyecto arquitectónico de nueva Sede, Centro o Plantel, ya sea por renta modificación, adecuación o construcción nueva.
+Gasto por equipamiento.
+Gasto por personal académico, administrativo, técnico y manual (desglosado).
+Gasto aproximado del proyecto a 2, 5 y 10 años. 
+Proyección de vida útil del inmueble.
+Plan de financiamiento y proyección de suficiencia presupuestal a 2, 5 y 10 años.
+
+Los seis puntos anteriores serán estudiados, analizados y en su caso dictaminados por la comisión de Hacienda, quien turnará el dictamen final a la comisión de Planeación Del CU para que ésta lo presente al pleno del CU. (ver anexo 2)
+
+Toda propuesta de nueva sede, centro o plantel deberá contar con los tres dictámenes pre aprobados por las comisiones del Consejo Universitario: la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria, la Comisión de Asuntos Académicos y la Comisión de Hacienda, respectivamente. Las cuales turnarán los dictámenes a la Comisión de Planeación, Gestión y Desarrollo Institucional para que ésta los exponga al Pleno del Consejo Universitario para su discusión, modificación y en su caso aprobación e implementación. 
+
+Las Comisiones contarán con 40 días hábiles para emitir su dictamen a partir de la entrega del proyecto con sus respectivos estudios de factibilidad
+
+Ningún proyecto podrá ser implementado sin la aprobación de sus tres dictámenes elaborados por las Comisiones respectivas y aprobados por el Pleno del Consejo Universitario. 
+
+
+Anexo 1
+
+CÉDULA DE ANÁLISIS DEL ESTUDIO DE FACTIBILIDAD INSTITUCIONAL 
+
+Importante: la información que se evalué tendrá que estar sustentada con documentos de validez oficial 
+
+
+Para los fines de la presente cédula, las opciones de valoración respecto de los indicadores tienen los siguientes significados: 
+
+DE ACUERDO. La Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del CU,  debe optar por esta valoración cuando esté totalmente de acuerdo con el indicador; 
+PARCIALMENTE DE ACUERDO. La Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del CU, debe optar por esta valoración cuando encuentre aspectos del indicador que se no se cumplan, pero que la apreciación sea más positiva que negativa; 
+PARCIALMENTE EN DESACUERDO. La Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del CU, debe optar por esta valoración cuando encuentre algunos aspectos del indicador que no se cumplan y resultado de esto la apreciación sea más negativa que positiva; 
+EN DESACUERDO. La Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del CU, debe optar por esta valoración cuando esté totalmente en desacuerdo o casi, con que la propuesta cumpla con el indicador.
+Para todo proyecto de nueva sede, centro o plantel
+
+
+
+
+
+Anexo 2
+
+CÉDULA DE ANÁLISIS DEL ESTUDIO DE FACTIBILIDAD FINANCIERA 
+
+Importante: la información que se evalué tendrá que estar sustentada con documentos de validez oficial 
+
+
+Para los fines de la presente cédula, las opciones de valoración respecto de los indicadores tienen los siguientes significados: 
+
+DE ACUERDO. La Comisión de Hacienda del CU,  debe optar por esta valoración cuando esté totalmente de acuerdo con el indicador; 
+PARCIALMENTE DE ACUERDO. La Comisión de Hacienda del CU, debe optar por esta valoración cuando encuentre aspectos del indicador que se no se cumplan, pero que la apreciación sea más positiva que negativa; 
+PARCIALMENTE EN DESACUERDO. La Comisión de Hacienda del CU, debe optar por esta valoración cuando encuentre algunos aspectos del indicador que no se cumplan y resultado de esto la apreciación sea más negativa que positiva; 
+EN DESACUERDO. La Comisión de Hacienda del CU, debe optar por esta valoración cuando esté totalmente en desacuerdo o casi, con que la propuesta cumpla con el indicador.
+Para todo proyecto de nueva sede, centro o plantel
+
+
+
+
+
+Anexo 3
+
+CÉDULA DE FACTIBILIDAD ACADÉMICA 
+
+Importante: la información que se evalué tendrá que estar sustentada con documentos de validez oficial 
+
+
+Para los fines de la presente cédula, las opciones de valoración respecto de los indicadores tienen los siguientes significados: 
+
+DE ACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando esté totalmente de acuerdo con el indicador; 
+PARCIALMENTE DE ACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando encuentre aspectos del indicador que se no se cumplan, pero que la apreciación sea más positiva que negativa; 
+PARCIALMENTE EN DESACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando encuentre algunos aspectos del indicador que no se cumplan y resultado de esto la apreciación sea más negativa que positiva; 
+EN DESACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando esté totalmente en desacuerdo o casi, con que la propuesta cumpla con el indicador.
+CENTRO CULTURAL
+
+
+
+
+
+Anexo 4
+
+CÉDULA DE ANÁLISIS SOBRE FACTIBILIDAD ACÁDEMICA
+
+Importante: la información que se evalué tendrá que estar sustentada con documentos de validez oficial 
+
+Para los fines de la presente cédula, las opciones de valoración respecto de los indicadores tienen los siguientes significados: 
+
+DE ACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando esté totalmente de acuerdo con el indicador; 
+PARCIALMENTE DE ACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando encuentre aspectos del indicador que se no se cumplan, pero que la apreciación sea más positiva que negativa; 
+PARCIALMENTE EN DESACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando encuentre algunos aspectos del indicador que no se cumplan y resultado de esto la apreciación sea más negativa que positiva; 
+EN DESACUERDO. La Comisión de Asuntos Académicos del CU, debe optar por esta valoración cuando esté totalmente en desacuerdo o casi, con que la propuesta cumpla con el indicador.
+
+PLANTEL ACADÉMICO
+
+
+
+
+
+
+(16 VOTOS A FAVOR, 1 VOTO EN CONTRA Y 0 ABSTENCIONES)
+
+
+UNIDAD DE TRANSPARENCIA
+UACM/CU-6/EX-14/037/20
+Primero.- 
+El Pleno del Consejo Universitario aprueba la creación de la Unidad de Transparencia (UT) de la Universidad Autónoma de la Ciudad de México, la cual es la unidad administrativa receptora de las solicitudes de información. Su función principal es dar trámite y atender solicitudes en materia de transparencia y, por lo tanto, se le considera como el vínculo directo para el acceso a la información entre la Universidad, la comunidad universitaria y el público en general.
+
+Segundo.- 
+Las principales funciones de la UT son:
+Capturar, ordenar, analizar y procesar las solicitudes de información presentadas ante el sujeto obligado.
+Recabar, publicar y actualizar las obligaciones de transparencia a las que se refiere la Ley.
+Proponer al Comité de Transparencia del sujeto obligado, los procedimientos internos que contribuyan a la mayor eficiencia en la atención de solicitudes de acceso a la información.
+Recibir y tramitar las solicitudes de información, así como darles seguimiento hasta la entrega de la misma, haciendo entre tanto el correspondiente resguardo.
+Llevar el registro de las solicitudes de acceso a la información y actualizarlo trimestralmente, así como sus trámites, costos y resultados, haciéndolo del conocimiento del Comité de Transparencia Correspondiente.
+Asesorar y orientar de manera sencilla, comprensible y accesible y accesible a quienes soliciten información sobre:
+La elaboración de solicitudes de información;
+Trámites y procedimientos que deben realizarse para solicitar información; y 
+Las instancias a las que pueda acudir a solicitar orientación, consultas o interponer quejas sobre la prestación del servicio.
+Efectuar las notificaciones correspondientes a los solicitantes.
+Habilitar a las personas servidoras públicas de los sujetos obligados que sean necesarias, para recibir y dar trámites a las solicitudes de acceso a la información.
+Formular el programa anual de capacitación en materia de Acceso a la información y apertura gubernamental, que deberá de ser instrumentado por la propia unidad.
+Apoyar al Comité de Transparencia en el desempeño de sus funciones.
+Establecer procedimientos para asegurarse que, en el caso de información confidencial, ésta se entregue solo a su titular o representante.
+Operar los sistemas digitales que para efecto garanticen el Derecho de Acceso a la Información.
+Fomentar la cultura de la Transparencia.
+Gestionar las solicitudes para el ejercicio de los derechos ARCO.
+Establecer mecanismos para asegurar que los datos personales sólo se entreguen a la persona titular o a su representante debidamente acreditadas.
+Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos ARCO.
+Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos ARCO.
+Asesorar a las áreas del sujeto obligado en materia de protección de dato personales.
+Registrar ante el Instituto los sistemas de datos personales, así como su modificación y supresión.
+Hacer las gestiones necesarias para el manejo, mantenimiento, seguridad y protección de los sistemas de datos personales en posesión del responsable.
+Generar su propia normativa y sus lineamientos de operación, mismos que serán dados a conocer ante el Pleno del Consejo Universitario en un plazo no mayor a 30 días hábiles posteriores a su conformación.
+Promover e implementar políticas tanto de transparencia proactiva como de transparencia focalizada, procurando su accesibilidad.
+Las demás previstas en la Ley y en las disposiciones aplicables en la materia.
+
+Tercero.- 
+Para su funcionamiento, la UT estará conformada por:
+Una persona titular de la UT (nivel 29.5)
+Una persona responsable de transparencia y atención a solicitudes de información (nivel 85.7)
+Una persona responsable de protección de datos personales (nivel 85.7)
+Una persona encargada de Capacitación (nivel 20.5)
+Dos personas asistentes administrativas (nivel 18)
+
+Cuarto.- 
+A excepción de las personas asistentes administrativas, los folios de la UT serán de confianza y podrán ser removidas del cargo si incurren en cualquiera de las faltas consideradas en el Reglamento de Responsabilidades Universitarias, o bien, si el Consejo Universitario o la persona titular del sujeto obligado fundamentan y motivan la pérdida de confianza del personal a cargo debido al incumplimiento de sus obligaciones en materia de transparencia, rendición de cuentas y protección de datos personales. 
+
+Quinto.- 
+La designación de la persona titular de la UT la realizará el Consejo Universitario mediante una terna que será presentada por la persona que ocupe la Rectoría, quien a su vez deberá presentar ante el Pleno la curriculum vitae de quienes aspiren al cargo. Las personas aspirantes deberán demostrar poseer el grado mínimo de licenciatura en administración, derecho o áreas afines, con formación especializada en cursos de transparencia, administración pública y protección de datos personales y experiencia comprobable relacionados con la transparencia, la rendición de cuentas y el acceso a la información pública dentro de organismos públicos y autónomos. Para calificar como aspirante, las personas interesadas deberán presentar un diagnóstico de transparencia de la Universidad y un plan de trabajo proyectado a 4 años para el área. La Rectoría deberá presentar a la brevedad a la Comisión de Organización la terna de las personas aspirantes para que, en un plazo máximo de 10 días hábiles después de aprobado el presente acuerdo, el Pleno del Consejo Universitario elija a quien será la persona titular de la UT de la Universidad. 
+
+Sexto.- 
+La persona titular de la UT entrará en funciones al día hábil siguiente a su designación por parte del Pleno del CU y la duración del encargo será de 4 años contados a partir de la fecha de su nombramiento, mismo que será expedido por la Rectoría en correspondencia con la fecha de designación del Pleno del CU. La Rectoría será también la responsable de informar a todas las áreas sobre dicho nombramiento y, en particular a la Contraloría y a la Oficina del Abogado General, para los fines que haya lugar en el marco de sus atribuciones. 
+
+Séptimo.- 
+Es atribución de la persona titular de la UT dirigir, coordinar y supervisar las actividades de la Unidad de Transparencia mediante el establecimiento del marco de acción, a fin de dar cumplimiento a la normatividad aplicable en materia de transparencia, acceso a la información pública, rendición de cuentas, protección de datos personales, archivos, gobierno abierto y demás normatividad aplicable. Son funciones de la persona titular de la UT: 
+Coordinar la recepción, trámite y atención de solicitudes de acceso a la información pública; así como el acceso, rectificación, cancelación y oposición a datos personales, ingresadas por los medios manuales, correo electrónico y la Plataforma Nacional de Transparencia.
+Coordinar las campañas de difusión de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, entre las áreas administrativas y académicas de la Universidad.
+Coordinar el Comité de Transparencia de la UACM, las acciones que garanticen la capacitación del personal de la Universidad en materia de acceso a la información pública, el ejercicio del derecho a la protección de datos personales y archivos en lo relativo al ámbito de transparencia y protección de datos personales.
+Fungir como Secretario Ejecutivo del Comité de Transparencia de la UACM.
+Organizar reuniones de trabajo, con las diferentes áreas administrativas y académicas de la Universidad; y con el Instituto Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México, en materia de información pública, protección de datos personales, rendición de cuentas, archivos en lo relativo al ámbito de transparencia y protección de datos personales y gobierno abierto.
+Aprobar y firmar los informes correspondientes para ser presentados ante el Consejo Universitario, Rectoría y el Instituto de transparencia.
+Coordinar la publicación y actualización en portal institucional, las obligaciones de transparencia de la información pública de oficio establecida en la Ley.
+Coordinar las acciones relativas al Sistema Institucional de archivos de la UACM y su Comité.
+Coordinar la elaboración del modelo de gestión basado en resultados de la Unidad de Transparencia.
+Coordinar las actividades del personal asignado al área.
+Coordinar la elaboración e integración del Programa Operativo Anual de la Unidad de Transparencia.
+Las demás actividades que le instruya expresamente la normatividad aplicable en materia de transparencia, protección de datos personales y de la Universidad.
+
+Octavo.- 
+La designación de quienes serán responsables de transparencia y solicitudes de información, de protección de datos personales y de quien se encargará de la capacitación, será atribución de la Rectoría, quien a su vez deberá informar de las designaciones al Consejo Universitario, a la Contraloría y a la Oficina del Abogado General para los fines que haya lugar en el marco de sus atribuciones. La duración de los cargos de las personas responsables y de la persona encargada no podrá exceder los 4 años. Estructuralmente, las personas responsables y la persona encargada dependen del titular de la UT.
+
+Noveno.- 
+Es atribución de la persona responsable de transparencia y solicitudes de información atender las solicitudes de información dentro de los plazos establecidos y brindar asesoría, tanto a las áreas de la Universidad como a la comunidad universitaria y a la ciudadanía en general y sus funciones son: 
+Recibir y tramitar las solicitudes de acceso a la información pública, de acceso, rectificación, cancelación y oposición de datos personales presentadas en la Unidad de Transparencia de la UACM, en estricto apego a lo previsto en materia de transparencia, rendición de cuentas y protección de datos personales.
+Llevar a cabo el registro y control de las solicitudes a que se refiere el numeral anterior presentadas a la Universidad, mediante el sistema electrónico INFOMEX.
+Proporcionar orientación y asesoría a las personas en materia de solicitudes de información, de acceso, rectificación, cancelación y oposición de datos personales, así como para la interposición de recursos de revisión.
+Atender y orientar a las áreas administrativas y enlaces de transparencia de la de las diferentes áreas de la Universidad sobre el procedimiento de acceso a la información pública, así como al acceso, rectificación, cancelación y oposición de datos personales.
+Coadyuvar con el Comité de Transparencia de la UACM en el cumplimiento de sus funciones en los términos previstos en materia de transparencia, rendición de cuentas y protección de datos personales y en los lineamientos de dicho Comité.
+Ocupar la Secretaría Ejecutiva del Comité de Archivos de la UACM.
+Solicitar opiniones técnicas de aquellas áreas administrativas que estime convenientes, con el objeto de brindar de mejores elementos para justificar adecuadamente si se clasifica o no, la información como reservada o confidencial.
+Presentar informes e integrar bases estadísticas en el ámbito de su competencia, cuando así lo solicite su superior jerárquico o el Instituto de Transparencia.
+Las demás encomendadas por la persona titular de la UT, así como las derivadas de la normatividad aplicable en la materia.
+
+Décimo.-
+ Es atribución de la persona responsable de datos personales asegurar el cumplimiento de la Ley en materia de protección de datos personales en posesión de la Universidad mediante la correcta aplicación de la normatividad, garantizando el tratamiento lícito de los datos personales y el ejercicio de los derechos de Acceso, Rectificación, Cancelación y Oposición (ARCO) y sus funciones son:
+Fungir como Enlace entre el INFO CDMX en materia de protección de datos personales.
+Auxiliar y orientar a la persona titular que lo requiera con relación al ejercicio del derecho a la protección de datos personales.
+Supervisar y gestionar las solicitudes para el ejercicio de los derechos ARCO.
+Desarrollar mecanismos que aseguren la entrega de los datos personales a la persona titular o a la persona que la represente debidamente acreditada.
+Informar a la persona titular o a quien la representante el monto de los costos a cubrir por la reproducción y envío de los datos personales con base en lo establecido en las disposiciones normativas aplicables.
+Coadyuvar al Comité de Transparencia en los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes del ejercicio de los derechos ARCO y protección de datos personales.
+Coordinar a las personas responsables de sistemas de datos personales al interior de la Universidad para el cumplimiento de la Ley, los Lineamientos y demás normativa aplicable.
+Supervisar que las personas responsables de sistemas de datos personales mantengan actualizada la inscripción de los sistemas bajo su responsabilidad en el registro electrónico creado por INFOCDMX.
+Coordinar las acciones de capacitación del personal al interior de la Universidad en materia de protección de datos personales.
+Asesorar a las personas responsables de sistemas de datos personales en el tratamiento de éstos, conforme a su respectivo ámbito de competencia para determinar la creación, modificación o supresión de los sistemas de datos personales.
+Asesorar a las áreas y personas responsables de sistemas de datos personales respecto de la creación, modificación o supresión de sistemas de datos personales.
+Gestionar la publicación en la Gaceta Oficial de la Ciudad de México la creación, modificación o supresión de los sistemas de datos personales.
+Diseñar y supervisar la actualización de la metodología, criterios e instrumentos de evaluación del cumplimiento de las obligaciones establecidas en materia de protección de datos personales y demás disposiciones aplicables.
+Diseñar y proponer políticas, lineamientos, circulares, criterios, acuerdos, procedimientos y formatos, relacionados con la tutela, el tratamiento, la seguridad y la protección de datos personales en posesión de la Universidad.
+Planear, programar y supervisar el seguimiento y evaluación de las obligaciones de protección de datos personales en posesión de la Universidad.
+Diseñar y supervisar la metodología, criterios e instrumentos de evaluación del registro de los sistemas de datos personales y sus niveles de seguridad en el registro electrónico habilitado por el Instituto.
+Emitir opiniones sobre temas afines a la Ley General de Protección de Datos Personales en posesión de Sujetos Obligados de la Ciudad de México y su Ley local.
+Presentar los proyectos de recomendaciones para el cumplimiento de la Ley con base en las evaluaciones de la observancia de obligaciones en la materia.
+Programar y dirigir la elaboración de estudios y guías en materia de protección de datos personales para la comunidad universitaria.
+Asesorar técnicamente en asuntos de su competencia a quienes sean enlaces de transparencia, áreas administrativas y académicas de la Universidad.
+Diseñar e instrumentar esquemas para incentivar a las áreas administrativas y académicas de la Universidad para realizar mejores prácticas e innovaciones en materia de protección de datos personales.
+Fungir como responsable de los sistemas de datos personales a cargo del área.
+Elaborar y presentar al Instituto un Informe correspondiente sobre las obligaciones previstas en la Ley. 
+
+Décimo primero.- 
+Es atribución de la persona encargada de capacitación establecer estrategias, programas y proyectos de capacitación y educación cívica dirigidos a desarrollar los conocimientos, habilidades y actitudes necesarias en el personal de la Universidad para fomentar una cultura de transparencia y acceso a la información pública, así como en materia de protección de datos personales y archivos, y sus funciones son: 
+Fungir como responsable de capacitación ante el INFO CDMX.
+Participar en la Red de Transparencia y Acceso a la Información Pública de la Ciudad de México. (RETAIP).
+Implementar la formulación, operación y evaluación de los programas y proyectos de Capacitación presencial y a distancia dirigidos a los servidores públicos de la Universidad.
+Dirigir la planeación, ejecución y evaluación del Programa Anual de Capacitación de la Universidad.
+Realizar la planeación de los programas y proyectos de educación cívica en la materia, orientados a la comunidad universitaria.
+Asegurar la capacitación continua y especializada al personal que forme parte del Comité y Unidad de Transparencia.
+Colaborar con el INFO CDMX para elaborar el Programa de la Cultura de la Transparencia y Rendición de Cuentas.
+Cooperar con el INFO CDMX para capacitar y actualizar, de forma permanente, a todas las personas servidoras públicas en materia de Derecho a la Información Pública, gobierno abierto y rendición de cuentas a través de los medios que se consideren pertinentes. 
+Definir los proyectos de capacitación dirigidos a personas estratégicas de las áreas administrativas y académicas, que apoyen en la promoción de la cultura de transparencia y protección de datos personales.
+Coordinar los trabajos de la Red de Transparencia y Acceso a la Información Pública (RETAIP) en los temas relacionados con capacitación, educación,  promoción de la cultura de la transparencia y protección de datos personales.
+Supervisar que la información materia de su competencia se mantenga actualizada en el Portal Institucional.
+Presentar informes en el ámbito de su competencia, cuando así lo solicite el Consejo Universitario o persona superior jerárquica.
+
+Décimo segundo.- 
+Los puestos de las personas asistentes administrativas realizarán las siguientes tareas:
+ Asistir a la persona titular y a las personas responsables del área.
+Organizar y actualizar la agenda de la UT.
+Atender y realizar llamadas telefónicas.
+Organizar y apoyar en las actividades administrativas y secretariales.
+Apoyar en la logística de las reuniones de trabajo que realice la UT. 
+Redactar la documentación requerida de acuerdo a las instrucciones, efectuando las correcciones y revisiones pertinentes.
+Realizar el registro, procesamiento, verificación y archivo de la documentación que ingresa y emana de la UT; administrando la información clasificada y de carácter reservada.
+ Mantener y resguardar el archivo de la UT para su debido control en apego a la normatividad vigente en materia de transparencia, protección de datos personales y archivos del Distrito Federal.
+Informar y dar seguimiento de las actividades en común con otras áreas.
+Realizar y tramitar requisiciones, operación del SIA.
+Gestionar y tramitar la solicitud de vehículos oficiales.
+Recabar y enviar la información relacionada con las incidencias de la UT.
+Prever y solicitar el material de papelería para desarrollar las actividades del área.
+Las demás que le asigne su jefe o jefa inmediata en el ámbito de su competencia.
+
+Al ser personal de base, los puestos estarán sujetos a los procedimientos de designación que determine la Comisión Mixta de Admisión, Evaluación y Escalafón del Personal Administrativo (CMAEEPA).
+
+Décimo tercero.-
+ Se solicita a la Comisión de Hacienda brinde suficiencia presupuestal para la creación de las plazas de confianza y de base descritas en el presente punto de acuerdo y se instruye a la Subdirección de Recursos Humanos para la inclusión de dichas plazas en la plantilla laboral de la Universidad. 
+
+Décimo cuarto.- 
+La UT deberá presentar a la Rectoría una propuesta de organización y los lineamientos de operación del área a más tardar 60 días hábiles después de su conformación.
+
+Décimo quinto.- 
+Una vez designadas las personas a cargo del área, se instruye a la UT a que en un plazo no mayor a 30 días hábiles acuerde con la Contraloría y la Oficina del Abogado General los mecanismos de vinculación y verificación internas conforme a la ley en materia.
+
+Décimo sexto.- 
+Mediante la aprobación del presente acuerdo queda derogado el acuerdo UACM/CU-6/EX-06/018/20 en todos sus términos.
+
+Décimo séptimo.- 
+Infórmese de este acuerdo por todos los medios institucionales.

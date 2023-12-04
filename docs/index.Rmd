@@ -8,7 +8,7 @@ output:
     toc_float: true
     toc_depth: 3
     code_folding: show
-    css: estilos.css
+    css: styles.css
     theme: united  # many options for theme, this one is my favorite.
     highlight: tango  # specifies the syntax highlighting style
 ---
@@ -17,22 +17,34 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# [Ley de la Universidad](LeyUACM.html)
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# [Estatuto General Orgánico](EGO.html)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+# [Reglamento del Consejo Universitario](RCU.html)
 
-```{r cars}
-summary(cars)
-```
+# [Lineamientos para Sesiones Virtuales](LineamientosSV.html)
 
-## Including Plots
+# [Reglamento de Responsabilidades Universitarias](RRUU.html)
 
-You can also embed plots, for example:
+# [Reglamento en Materia Electoral](RME.html)
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+# [Estatuto de la Defensoria de los Derechos Universitarios](EDDU.html)
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+# [Catálogo de Normas de Convivencia](NormasConvivencia.html)
+
+# [Protocolo para Prevenir y Erradicar la Violencia y la Discriminación contra las Mujeres](Protocolo.html)
+
+# [Marco Estructural del Plan Integral de Desarrollo Institucional](PIDE.html)
+
+# [Reglamento de la Defensoría de los Derechos Universitario](RDDU.html)
+
+# [Lineamientos para la Creación de Nuevas Sedes](LineamientosNuevasSedes.html)
+
+# [Unidad de Transparencia](UnidadTransparencia.html)
+
+# [Norma Cuatro](NormaCuatro.html)
+
+# [Norma de Planeación](NormaPlaneacion.html)
+
+# [Norma de Adquisiciones](NormaAdquisiciones.pdf)

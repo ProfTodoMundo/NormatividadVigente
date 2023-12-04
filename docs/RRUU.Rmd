@@ -1,0 +1,335 @@
+---
+title: "REGLAMENTO DE RESPONSABILIDADES UNIVERSITARIAS"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+
+# Reglamento de Responsabilidades Universitarias
+
+Reglamento de responsabilidades universitarias
+UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO
+
+    Índice
+    Exposición de motivos 
+    TÍTULO PRIMERO 
+    De la responsabilidad universitaria 
+    CAPÍTULO PRIMERO 
+    Naturaleza y fines 
+    CAPÍTULO SEGUNDO 
+    Causas de responsabilidad universitaria y sanciones 
+    TÍTULO SEGUNDO 
+    Del procedimiento 
+    CAPÍTULO PRIMERO 
+    Etapa de substanciación del expediente 
+    CAPÍTULO SEGUNDO 
+    Etapa resolutiva 
+    CAPÍTULO TERCERO 
+    Recurso de revisión 
+    Transitorios 
+
+
+## Exposición de motivos
+
+El presente Reglamento se elabora como un instrumento que promueve el cumplimiento efectivo de los fines y las funciones de la Universidad Autónoma de la Ciudad de México descritos en la exposición de motivos de la Ley de la Universidad Autónoma de la Ciudad de México y demás legislación universitaria que buscan poner los conocimientos, de diversa índole y origen, al servicio de las personas y las comunidades, que promueva el desarrollo ético profesional, la realización personal y comunitaria y la vinculación solidaria con los intereses generales de la sociedad.
+
+La sociedad confía en que las actividades de la Universidad resolverán las problemáticas económicas, sociales y políticas que la aquejan. Es por tanto, responsabilidad de la institución proveer a la sociedad la seguridad de que sus integrantes son profesionistas que además de ser altamente calificados son acreedores de esa confianza pues se comportan bajo las más estrictas normas de ética.
+
+El Reglamento tiene como propósito coadyuvar a la regulación de las relaciones de los integrantes de la comunidad universitaria considerando que la norma jurídica es un principio básico de convivencia que fortalece a la institución.
+
+El Tercer Consejo Universitario trabajará en el desarrollo de las medidas legislativas que posibiliten la creación de la defensoría de los derechos universitarios y de los órganos jurisdiccionales pertinentes.
+
+Sus contenidos se organizan en dos títulos con dos y tres capítulos respectivamente, treinta y cuatro artículos y tres artículos transitorios. El Título primero describe el concepto de responsabilidad generada por incumplimiento de atribuciones o funciones y la violación a derechos universitarios, así como las causas de responsabilidades y los sujetos imputables. El Título segundo establece el procedimiento para aplicar sanciones bajo los principios de oralidad, inmediatez, transparencia, certeza y seguridad jurídica, economía procesal, entre otros.
+
+El Reglamento constituye un avance en el fortalecimiento institucional de la Universidad y sus contenidos deberán armonizarse una vez que se cuente con los estatutos y reglamentos que se elaboren como parte del proceso de actualización y cumplimiento de los resolutivos del Primer Congreso General Universitario y la normatividad que de éste surja.
+
+Comisión de Asuntos Legislativos
+Enero, 2013
+
+[Regresar a Documento Principal](index.html)
+
+
+**Reglamento de responsabilidades universitarias **
+UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO
+
+# TÍTULO PRIMERO: De la responsabilidad universitaria 
+
+## CAPÍTULO PRIMERO Naturaleza y fines 
+
+ARTÍCULO 1
+Este Reglamento es de orden público y aplicación general en la Universidad, tiene como fundamento la Ley de la Universidad Autónoma de la Ciudad de México, el Estatuto General Orgánico, el Contrato Colectivo de Trabajo y el Reglamento del Consejo Universitario. Será aplicable hasta en tanto no se modifique la estructura orgánica de la Universidad y la normatividad correspondiente.
+
+ARTÍCULO 2
+Son sujetos de este Reglamento, los universitarios que realicen funciones académico-administrativas, administrativas y de gobierno universitario, de conformidad con lo dispuesto por el artículo 9 de este ordenamiento. No es aplicable a los estudiantes, los académicos y trabajadores administrativos de base.
+ARTÍCULO 3
+Este Reglamento regula los artículos 17 fracción III de la Ley de la Universidad Autónoma de la Ciudad de México, 14 fracción IV, 23, 37, 50, 58, 60, 69, 75, y décimo segundo transitorio del Estatuto General Orgánico, así como los artículos 13, 14, 101, 102 y 103 del Reglamento del Consejo Universitario.
+
+ARTÍCULO 4
+El Reglamento tiene por objeto:
+
+    I. Garantizar el cumplimiento de los fines y funciones de la universidad,
+    II. Fomentar el uso responsable del patrimonio universitario y los recursos humanos, culturales, de conocimiento, financieros y materiales de la Universidad.
+    III. Promover el fortalecimiento institucional de la universidad,
+    IV. Impulsar el goce, acceso efectivo y exigibilidad jurídica de los derechos y las obligaciones de la comunidad universitaria, y 
+    V. Establecer los sujetos de responsabilidad, las responsabilidades universitarias, las instancias competentes y los procedimientos.
+
+ARTÍCULO 5
+Para efectos de este instrumento legal se entenderá por:
+
+    I. Acto de corrupción.- Acción u omisión descrito en el tratado internacional vigente en la materia en el país,
+    II. Amonestación escrita.- Advertencia por escrito formulada por la instancia sancionadora en la que se exhorta al cumplimiento de las obligaciones que surjan por la aplicación de la legislación universitaria. La amonestación puede ser pública o privada.
+    III. Apercibimiento.- Comunicación por escrito de la instancia sancionatoria mediante la cual se hace un llamado o solicitud a alguna de las partes para el cumplimiento de una orden u obligación, de igual modo implica una advertencia sobre las consecuencias ante el incumplimiento de lo solicitado. El apercibimiento puede ser público o privado.
+    IV. Baja.- Limitación definitiva para ejercer las funciones del cargo, puesto o comisión para el que fue elegido.
+    V. Citación.- Acto procesal mediante el cual se hace saber a las partes o terceros y se apercibe para que se presente en determinado lugar para celebrar alguna diligencia.
+    VI. Destitución del puesto.- Limitación definitiva para ejercer las funciones del cargo, puesto o comisión.
+    VII. Inhabilitación.- Prohibición para ejercer las funciones del cargo, puesto o comisión por un periodo determinado.
+    VIII. Emplazamiento.- Acto procesal mediante el cual se somete a jurisdicción al imputado, se notifica, se corre el traslado y se requiere responder a la solicitud presentada.
+    IX. Notificación.- medio de comunicación procesal mediante el cual se hace saber a las partes y demás interesados resoluciones tomadas.
+    X. Rector.- Rector de la Universidad Autónoma de la Ciudad de México.
+    XI. Requerimiento.- Acto procesal mediante el cual se exige a las partes o un tercero la entrega o exhibición de una persona, objeto o documento.
+    XII. Responsabilidad universitaria.- In cumplimiento de las atribuciones, funciones y obligaciones inherentes al cargo, puesto o encargo en materia de gestión académica, académico administrativa, administrativa y de gobierno universitario.
+    XIII. Revocación.- Destitución de una persona del cargo, puesto o comisión para el que fue elegido.
+    XIV. Sanción.- Consecuencia que surge de la violación de una norma jurídica.
+    XV. Suspensión.- Limitación temporal para ejercer las funciones del cargo, puesto o comisión por un periodo determinado.
+    XVI. Trabajador de confianza.- Persona que ejerce funciones en la administración universitaria y es considerado como personal de confianza de conformidad con la Cláusula 10 del Contrato Colectivo de Trabajo 2011-2013.
+    XVII. Trabajador de base.- Persona que ejerce funciones en la administración universitaria y es considerado como personal de base de conformidad con la Cláusula 10 del Contrato Colectivo de Trabajo 2011-2013.
+    XVIII. Universidad.- Universidad Autónoma de la Ciudad de México.
+
+ARTÍCULO 6
+Son instancias competentes para aplicar el presente Reglamento:
+    
+    I. Comisión de substanciación del expediente,
+    II. Comisión resolutiva, y
+    III. Pleno del Consejo Universitario.
+    
+La Comisión de substanciación del expediente estará formada por un consejero universitario integrante de cada una de las comisiones permanentes de Asuntos Legislativos, Asuntos Académicos y Hacienda.
+
+La Comisión resolutiva estará formada por un consejero universitario integrante de cada una de las comisiones permanentes de Organización, Asuntos Legislativos, Asuntos Académicos, Hacienda, Planeación Institucional, Desarrollo y Gestión Universitaria, Difusión, Extensión y Cooperación Universitaria y Mediación y Conciliación.
+
+No podrá incluirse a un mismo consejero universitario en ambas comisiones. Los trabajos de las comisiones deberán realizarse con la presencia de todos sus integrantes. La aprobación de las resoluciones tomadas en comisiones y el Pleno requerirá el voto de la mitad más uno de sus integrantes. 
+
+Las Comisiones y el Pleno deberán informar a la comunidad sobre el avance del procedimiento y sus sesiones serán públicas.
+
+ARTÍCULO 7
+En la aplicación de las disposiciones contenidas en este Reglamento atenderá a los principios de proporcionalidad, economía procesal, transparencia, inmediatez, publicidad, oralidad, debido proceso, certeza y seguridad jurídica para garantizar su efectiva ejecución y respeto a los derechos humanos de la comunidad universitaria.
+
+[Regresar a Documento Principal](index.html)
+
+
+## CAPÍTULO SEGUNDO. Causas de responsabilidad universitaria y sanciones
+
+ARTÍCULO 8
+Incurren en responsabilidad universitaria, el universitario, instancia u órgano imputable que cause un daño o perjuicio a la universidad, la comunidad universitaria o al patrimonio universitario de forma intencional, por error o imprudencia.
+
+ARTÍCULO 9
+Para efectos del Reglamento las responsabilidades universitarias serán imputables a:
+    
+    I. Abogado General,
+    II. Contralor General,
+    III. Coordinador Académico,
+    IV. Coordinador de plantel,
+    V. Coordinador de Comunicación,
+    VI. Coordinador de Informática y Telecomunicaciones,
+    VII. Consejero de plantel,
+    VIII. Consejero universitario,
+    IX. Rector,
+    X. Secretario General,
+    XI. Trabajador de confianza,
+    XII. Tesorero, y
+    XIII. Cualquier persona, instancia u órgano que realice encargo o comisión en materia de gestión académica administrativa, administrativa y de gobierno universitario.
+
+ARTÍCULO 10
+Son causas generales de responsabilidad las siguientes:
+
+    I. Incumplir las atribuciones, funciones y obligaciones previstas en la legislación universitaria,
+    II. Violar, por acción u omisión, las obligaciones establecidas en la Ley de la Universidad, el Estatuto General Orgánico, el Contrato Colectivo de Trabajo, el Reglamento del Consejo Universitario y demás reglamentos, disposiciones y normas aplicables,
+    III. Causar daño al patrimonio de la Universidad,
+    IV. Denostar, estigmatizar, discriminar y cualquier acto que dañe, total o parcialmente, el prestigio de la institución, a los integrantes de la comunidad universitaria por motivos ideológicos, políticos, económicos, de orientación sexual, religiosos, sociales, entre otros previstos por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables en la materia,
+    V. Utilizar bienes del patrimonio universitario para fines distintos a aquellos a que estén destinados,
+    VI. Ejercer indebidamente atribuciones,
+    VII. Realizar actos administrativos contrarios a la Ley de la Universidad o al espíritu emanado de la correspondiente exposición de motivos o incumplan la legislación universitaria,
+    VIII. Obstaculizar, dolosa o culposa, del cumplimiento de las funciones sustantivas de la universidad.
+    IX. Desempeñar ineficazmente el empleo, cargo o comisión asignada,
+    X. Obrar en cumplimiento de una orden emitida por instancia o autoridad competente con o sin formalidades legales que sea contraria a los fines y las funciones de la Universidad, a los derechos universitarios y los procedimientos administrativos previstos por la legislación universitaria,
+    XI. Perturbar o impedir el libre ejercicio de las actividades académicas de cualquier integrante de la comunidad universitaria,
+    XII. Abstenerse de ejercer las funciones del cargo, puesto o comisión asignada,
+    XIII. Violentar o negar el acceso efectivo de los derechos universitarios, entre otros los derechos académicos, político universitarios, de petición, de reunión, de asociación y laborales,
+    XIV. Violentar o negar el acceso efectivo de los derechos universitarios previstos en el artículo 82 del Estatuto General Orgánico,
+    XV. Negarse a recibir peticiones, escritos u oficios y a expedir constancias correlacionadas a éstos, cuando se presenten en el tiempo y forma, por escrito y de manera pacífica, de conformidad con la normatividad aplicable,
+    XVI. No dar traslado de los documentos recibidos a la instancia obligada, dentro del término legal, o demorar en forma injustificada la producción del acto, su comunicación o notificación,
+    XVII. Ejecutar actos jurídicos que no respondan a sus atribuciones,
+    XVIII. Impedir el funcionamiento del Sistema de Planeación Universitaria, así como todas las actividades relacionadas con la administración, programación y presupuesto universitario, de control patrimonial y financiero,
+    XIX. Presentar documentación falsa relacionada con títulos y grados académicos,
+    XX. Realizar algún acto de corrupción,
+    XXI. Falsear documentación oficial emitida por autoridades y órganos universitarios, así como autoridades públicas,
+    XXII. Usurpar atribuciones y profesiones,
+    XXIII. Violentar los derechos humanos y universitarios,
+    XXIV. Realizar actos de nepotismo o toda acción tendiente a favorecer a familiares, directos o indirectos, socios, ex socios, amigos o personas que implique el otorgamiento de dádivas, beneficios políticos o económicos o privilegios.
+    XXV. Violentar las obligaciones de consulta, transparencia y rendición de cuentas, y
+    XXVI. Las demás que se encuentren previstas en la legislación universitaria.
+
+ARTÍCULO 11
+Para efectos del Reglamento, las sanciones aplicables son:
+
+    I. Amonestación escrita,
+    II. Apercibimiento,
+    III. Baja,
+    IV. Suspensión,
+    V. Inhabilitación,
+    VI. Destitución del puesto, y
+    VII. Revocación.
+
+Estas sanciones se aplicarán sin perjuicio de otras establecidas en la legislación universitaria y serán independientes de la responsabilidad penal, civil o administrativa en que pueda incurrir el imputado en los ámbitos local, federal o internacional.
+
+ARTÍCULO 12
+La amonestación escrita y el apercibimiento serán aplicables a los universitarios que ejerzan funciones administrativas, académico-administrativas y de gobierno universitario.
+
+ARTÍCULO 13
+La baja sólo será aplicable a los consejeros universitarios y de plantel, de conformidad con este Reglamento y demás disposiciones aplicables en la materia.
+
+ARTÍCULO 14
+La suspensión, la inhabilitación y la destitución del puesto serán aplicables a los trabajadores de confianza o personas que ejerzan funciones administrativas y académico-administrativas.
+
+ARTÍCULO 15
+La revocación será aplicable en los casos de las fracciones I, II, IV, V, VI, VII, VIII, IX y XI del artículo 9 de este Reglamento.
+
+Para el caso de la revocación de consejeros universitarios se aplicará el procedimiento sancionador previsto en los artículos 101, 102 y 103 con relación a los artículos 13 y 14 del Reglamento del Consejo Universitario. En la ejecución de ese procedimiento se atenderán los principios, las garantías del debido proceso previstas y los contenidos procedimentales aplicables en este Reglamento.
+
+La Comisión de Organización podrá, previo acuerdo con las comisiones de substanciación del expediente y resolutiva, solicitar la atracción del expediente de baja de consejeros para su análisis y resolución con base en el procedimiento previsto en este Reglamento.
+
+ARTÍCULO 16
+Las sanciones previstas en el artículo 11 se determinarán tomando en cuenta los siguientes elementos:
+
+    I. Daño causado,
+    II. Bien jurídico tutelado dañado total o parcialmente,
+    III. Gravedad de la responsabilidad en que se incurra,
+    IV. Circunstancias y los medios de ejecución,
+    V. Incumplimiento sistemático de las atribuciones, funciones u obligaciones,
+    VI. Ocultamiento de información o documentación,
+    VII. Obrar con abuso de la condición jerárquica,
+    VIII. Aprovechamiento de las condiciones de tiempo modo o lugar que dificulten o impidan la defensa de víctimas, ofendidos, terceros,
+    IX. Reincidencia,
+    X. Monto del beneficio, daño o perjuicio económico derivados del incumplimiento de las atribuciones, funciones u obligaciones, y
+    XI. Valor patrimonial afectado.
+
+ARTÍCULO 17
+La instancia resolutiva que aplique las sanciones previstas en este Reglamento deberá fundar y motivar sus decisiones, en ningún caso se impondrán sanciones que atenten contra la integridad física y psicológica de los universitarios.
+
+ARTICULO 18
+No se impondrán las sanciones previstas en el artículo 11 cuando:
+
+    I. Se obre en legítimo ejercicio de un derecho, de una actividad lícita o del estricto cumplimiento de un deber legal.
+    II. Se obre por la necesidad de proteger un derecho propio o ajeno de un peligro actual o inminente, inevitable de otra manera, que el responsable no haya causado intencionalmente o por imprudencia.
+    III. Se compruebe la falta de veracidad de las imputaciones o denuncias efectuadas ante la instancia competente.
+
+[Regresar a Documento Principal](index.html)
+
+
+# TÍTULO SEGUNDO. Del procedimiento
+
+## CAPÍTULO PRIMERO. Etapa de substanciación del expediente
+
+ARTÍCULO 19
+Se presentará solicitud de inicio del procedimiento por algún integrante, grupo u organización de la comunidad universitaria ante la Comisión de Organización del Consejo Universitario.
+
+Toda solicitud se elaborará por escrito en forma pacífica y respetuosa, deberá describir el acto reclamado que constituya los hechos violatorios o de incumplimiento, indicar el sujeto imputable, así como la fundamentación y motivación respectiva.
+
+El solicitante se considerará como coadyuvante en el procedimiento.
+
+ARTÍCULO 20
+La solicitud deberá anexar las siguientes documentales en original para su cotejo y en copia para integrar el expediente:
+
+    I. Identificación oficial del solicitante, que puede ser pasaporte, credencial de elector, licencia de conducir o cédula profesional,
+    II. Identificación que acredite al solicitante como integrante de la comunidad universitaria, que puede ser credencial vigente de la universidad, comprobante de inscripción, tira de materias del semestre vigente o talón de recibo de nómina.
+    III. Documentación base de la acción relativa al hecho violatorio o de incumplimiento. 
+
+ARTÍCULO 21
+
+La Comisión de Organización revisará la solicitud para verificar el cumplimiento de los requisitos de forma y procedibilidad y acreditación de la personalidad e interés jurídico contenidos en los artículos 19 y 20 de este Reglamento y procederá a emitir un auto de admisión o improcedencia. En caso de admisión, la Comisión otorgará un número a la solicitud. Los autos deberán notificarse al imputado, al solicitante, en su caso terceros.
+
+La Comisión de Organización emplazará al imputado para que responda a la solicitud admitida en un plazo de tres días hábiles contados a partir del día siguiente de la notificación. La respuesta será entregada a la Comisión de substanciación del expediente.
+
+La Comisión de Organización dará aviso a los Secretarios Técnicos de las comisiones permanentes del Consejo Universitario sobre el inicio del procedimiento de responsabilidades. Éstas elegirán a sus representantes para integrar las Comisiones de substanciación del expediente y resolutiva, según lo dispuesto por el artículo 6 del reglamento.
+
+ARTÍCULO 22
+La Comisión de Organización emitirá un auto de traslado de la solicitud y la documentación adjunta a la Comisión de substanciación del expediente en un plazo máximo de un día hábil contado a partir de la emisión del auto de admisión.
+
+ARTÍCULO 23
+El Secretario Técnico de la Comisión de Organización o algún integrante de la comisión de organización estarán habilitados para efectuar el emplazamiento de la solicitud. La cédula de notificación deberá firmarse por alguno de ellos e incluir copias de los autos, la solicitud y de la documentación base de la acción presentada. Para el caso de otras notificaciones, el Secretario Técnico de la Comisión podrá habilitar a personal que estime pertinente designar para entregar notificaciones.
+
+ARTÍCULO 24
+Se deberá garantizar que las notificaciones sean conocidas por el imputado, el solicitante y la comunidad universitaria, por lo que éstas serán públicas en los planteles y sedes universitarias, así como publicadas en cualquier medio de comunicación.
+
+ARTÍCULO 25
+La cédula de notificación contendrá la transcripción de la resolución que se notifica, el nombre de la persona que se busca, su domicilio, el número de solicitud y el nombre de la persona con quien se entienda, cuyo nombre deberá estar escrito de puño y letra. La cédula estará firmada por quien notifica y quien reciba la notificación.
+
+ARTÍCULO 26
+La Comisión de substanciación del expediente integrará y analizará la solicitud y los documentos base de la acción, así como la respuesta del imputado y la documentación probatoria correspondiente.
+
+La Comisión podrá requerir información, documentación, citar al imputado, al solicitante y a cualquier persona que considere pertinente para conocer el asunto, para ello elaborará citaciones. La Comisión deberá substanciar el expediente en un plazo no mayor de cinco días hábiles. De considerarlo pertinente, en atención al contenido de las solicitudes y causas de responsabilidad, la Comisión podrá acumular solicitudes bajo el principio de economía procesal.
+
+ARTÍCULO 27
+La Comisión emitirá un auto de acusación o desistimiento de la acusación como resultado de la substanciación del expediente. El auto deberá estar fundado y motivado. En un plazo no mayor a un día hábil, la Comisión solicitará a la Comisión de Organización la notificación del auto antes señalado al imputado, al solicitante, así como la publicación respectiva para informar a la comunidad universitaria. En el mismo plazo trasladará el expediente a la Comisión resolutiva.
+
+[Regresar a Documento Principal](index.html)
+
+
+## CAPÍTULO SEGUNDO. Etapa resolutiva
+
+ARTÍCULO 28
+La Comisión resolutiva recibirá el expediente y emitirá una resolución a través de un dictamen de procedencia o improcedencia que contendrá la sanción impuesta y su ejecución en tiempo y forma.
+
+ARTÍCULO 29
+La Comisión emitirá un auto de inicio de audiencia en la cual solicitará a las partes y terceros el desahogo de pruebas, la presentación de alegatos, conclusiones y dictará su resolución en un plazo de cinco días hábiles. Durante la audiencia se atenderá estrictamente a los principios descritos en el artículo 7 de este Reglamento en particular del debido proceso.
+
+ARTÍCULO 30
+La Comisión resolutiva solicitará se efectúen las notificaciones correspondientes a través de la Comisión de Organización, de igual forma remitirá a la Comisión de Organización un punto de acuerdo informativo que será desahogado en el Pleno del Consejo Universitario, así como el traslado del expediente. La publicación del acuerdo surtirá efectos de notificación para el imputado, el solicitante y terceros.
+
+Al día siguiente de la notificación de la resolución al imputado inicia el plazo para la interposición del recurso de revisión de 5 días hábiles.
+
+[Regresar a Documento Principal](index.html)
+
+
+## CAPÍTULO TERCERO. Recurso de revisión
+
+ARTÍCULO 31
+La resolución emitida por la Comisión resolutiva podrá ser impugnada por el imputado mediante la interposición del recurso de revisión.
+
+El imputado deberá presentar un escrito de agravios, con copia para todos los interesados en el procedimiento de conformidad con el artículo 30 de este Reglamento.
+
+La Comisión de Organización recibirá el escrito de agravios y emitirá un auto de admisión y traslado en un plazo no mayor a un día hábil dirigido al Pleno del Consejo Universitario, de igual modo emitirá en forma inmediata convocatoria urgente para citar al Consejo Universitario.
+
+ARTÍCULO 32
+El Pleno del Consejo Universitario estará facultado para recibir y desahogar el recurso de revisión presentado por el imputado.
+
+ARTÍCULO 33
+El recurso de revisión será desahogado en un plazo no mayor a 10 días hábiles durante una audiencia realizada en una sesión única del Pleno. El Pleno atenderá a los principios descritos en el artículo 7 de este Reglamento, en particular del debido proceso.
+
+ARTÍCULO 34
+El Pleno emitirá un acuerdo relativo a la procedencia o no del recurso de revisión y en su caso modificación del dictamen elaborado por la Comisión resolutiva. 
+
+[Regresar a Documento Principal](index.html)
+
+
+# TRANSITORIOS 
+
+PRIMERO.- Los plazos establecidos por el Reglamento serán improrrogables.
+
+SEGUNDO.- En caso de que surjan modificaciones a la estructura orgánica académica y administrativa y de gobierno universitario en los ámbitos legislativo, ejecutivo o jurisdiccional, así como en el régimen de responsabilidades de los universitarios, de conformidad con lo dispuesto por los resolutivos del Primer Congreso General Universitario y los Estatutos del Personal Académico, del Personal Administrativo y de los Estudiantes, el Consejo Universitario iniciará los trabajos de revisión legislativa del presente Reglamento con el propósito de armonizar las disposiciones normativas de la legislación universitaria.
+
+TERCERO. El Reglamento entrará en vigor al día siguiente de su publicación oficial en la Universidad. En caso de fuerza mayor, el Consejo Universitario establecerá mecanismos para garantizar la difusión y el ejercicio efectivo de los derechos de información y de certeza y seguridad jurídica de la comunidad universitaria en la materia.
+Aprobado por el Pleno del Tercer Consejo Universitario el 24 de Enero de 2013.
+
+
+[Regresar a Documento Principal](index.html)
+

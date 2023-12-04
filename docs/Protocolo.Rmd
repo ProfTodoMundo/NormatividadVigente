@@ -1,0 +1,1295 @@
+---
+title: "PROTOCOLO PARA PREVENIR Y ERRADICAR LA VIOLENCIA Y LA DISCRIMINACION CONTRA LAS MUJERES"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+# Protocolo para Prevenir y erradicar la violencia y la discriminación contra las Mujeres
+
+Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual en la Universidad Autónoma de la Ciudad de México
+
+## Exposición de motivos
+
+La discriminación en todas sus formas, y la violencia en contra de las mujeres, son problemas que atraviesan prácticamente todos los espacios de interacción en nuestras sociedades. En tiempos recientes, en el escenario nacional se han multiplicado las expresiones que exigen el fin de la violencia en contra de las mujeres y, de manera particular, demandan la acción de las instituciones de educación superior para atender y erradicar este problema, como parte de sus obligaciones tanto a nivel nacional como internacional.
+
+El Artículo Primero de la Constitución Política de los Estados Unidos Mexicanos, impone a todas las autoridades, en el ámbito de su respectiva competencia, la obligación de promover, respetar, proteger y garantizar los Derechos Humanos, así como los deberes de prevenir, investigar, sancionar y reparar las violaciones a estos mismos.
+
+En ese sentido, México ha firmado y ratificado acuerdos como la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, CEDAW de 1979, la Declaración de la ONU sobre la eliminación de la violencia contra la mujer de 1993, y la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, también conocida como “Belém do Pará” de 1994. 
+
+A nivel nacional, la Ley General de Víctimas (2013) establece en su artículo 2, que tiene por objeto “establecer y coordinar las acciones y medidas necesarias para promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas; así como implementar los mecanismos para que todas las autoridades, en el ámbito de sus respectivas competencias, cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral”; así como, “garantizar un efectivo ejercicio del derecho de las víctimas a la justicia, en estricto cumplimiento de las reglas del debido proceso”; y “establecer los deberes y obligaciones específicos a cargo de las autoridades y de todo aquel que intervenga en los procedimientos relacionados con las víctimas”.
+
+La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia señala en su artículo 3 que su propósito es garantizar “la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y promover su desarrollo integral y su plena participación en todas las esferas de la vida”, incluida la relativa a las oportunidades laborales y el derecho a la educación. Esta misma Ley mandata a la Secretaría de Educación Pública (SEP), en su sección Quinta, artículo 45, a establecer medidas encaminadas a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres. La SEP forma parte del Sistema Nacional de Igualdad entre Mujeres y Hombres (SNIMH) y del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres (artículo 36 de Ley General de Acceso de las Mujeres a una Vida Libre de Violencia). 
+
+Además, en la última modificación a la Ley Federal del Trabajo de julio de 2019, en el artículo 132, fracción XXXI, se incluye como una de las obligaciones de los patrones, “Implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual”. 
+
+En nuestra legislación interna, la Ley de la Universidad Autónoma de la Ciudad de México establece los principios de cooperación y apoyo mutuo y el Estatuto General Orgánico, en su artículo 77 establece que “los integrantes de la comunidad tendrán los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos”, y añade que “cualquier acto de discriminación debid[o] al origen étnico o nacional, el género, la edad, [la discapacidad], la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, o el estado civil, será considerado como falta grave de conformidad con la normatividad emitida para tal efecto.” El mismo Estatuto, en su artículo 78, dice que “los integrantes de la Comunidad tienen derecho a la protección de su salud física y psicológica, a un ambiente adecuado para su desarrollo y bienestar integral en las instalaciones de la Universidad.”
+
+A lo largo de los dieciocho años de existencia de nuestra Universidad se tienen documentados casos de violencia entre estudiantes, violencia sexual de docentes a estudiantes, de estudiantes a docentes, violaciones sexuales, acoso sexual entre trabajadores, violencia de estudiantes a administrativos, violencia hacia personas con discapacidad, violencia en las inmediaciones de los planteles, e incluso la extrema violencia de los feminicidios cometidos en contra de Martha Karina Torres Jorge, asesinada el 11 de mayo de 2013; de Campira Carmolinga Alanís, asesinada el 31 de diciembre de 2016; de Nancy Lara Bandera, desaparecida el 20 de julio y a quien se encontró asesinada el 23 de julio de 2018; de Lesly Leticia Hernández Moreno, desaparecida el 10 de noviembre de 2018 y a quien se encontró asesinada el 10 de enero de 2019.  Todos estos casos ofenden e indignan de manera gravísima a toda nuestra comunidad y es justamente esa comunidad agraviada la que, desde por lo menos el 2013, ha dado atención y seguimiento a estos casos y ha exigido enérgicamente a las distintas administraciones universitarias que se prevengan, atiendan y reparen los múltiples casos de violencia que ocurren en nuestra comunidad, presentando propuestas de atención, generando espacios de reflexión y actividades de difusión sobre estos temas y convocando a acciones para visibilizar la violencia.
+
+Entre las propuestas generadas desde esos grupos de la comunidad universitaria se encuentran el Protocolo de atención a casos de violencia, acoso u hostigamiento sexual entre la comunidad universitaria de la UACM, elaborado por el Círculo de Estudios de Género de San Lorenzo Tezonco, los Protocolos de primera atención propuestos por distintos grupos en los planteles, y que han implementado con distintos resultados y en diferentes momentos los Consejos de Plantel de San Lorenzo Tezonco, Casa Libertad, Centro Histórico y Cuautepec.
+
+Es necesario reconocer también el trabajo institucional que algunas autoridades universitarias han propuesto, como la Instancia universitaria encargada de conocer y resolver los casos de acoso sexual, abuso sexual, hostigamiento sexual y/u hostigamiento laboral, creada por la Oficina del Abogado General y que atendió diversos casos hasta mediados de 2013. Es de señalar también el Procedimiento de atención a violencia de género en la UACM, desarrollado por la Comisión de Mediación y Conciliación (CMyC) de la Cuarta Legislatura del Consejo Universitario para dar cumplimiento al acuerdo UACM/CU-3/EX11/043/14, y anulado de manera inexplicable, ofensiva, indignante y hasta el momento impune, por la Comisión de Mediación y Conciliación de la Quinta Legislatura.
+
+Por otro lado, del 2013 al 2020, diversas víctimas atendidas a través de los distintos esfuerzos institucionales han solicitado expresamente como medidas de reparación del daño y para garantizar la no repetición de estas conductas, que la Universidad cuente con un Protocolo específico para atender los casos de violencia contra las mujeres.
+
+Como puede observarse, la demanda de contar con procedimientos institucionales claros que prevengan, atiendan, reparen y tiendan a erradicar la violencia en contra de las mujeres en nuestra comunidad, es impostergable, y de acuerdo con nuestra normativa, corresponde al Consejo Universitario aprobar estos procedimientos, que indiquen de manera clara las acciones de prevención, atención, seguimiento y reparación en los casos de presentación de quejas sobre violencia hacia las mujeres; las responsabilidades de todas las autoridades de la Universidad; los recursos para hacer viables esas acciones, la evaluación de las acciones, entre otras.
+
+Este Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual en la Universidad Autónoma de la Ciudad de México aspira a dar respuesta a la demanda histórica de la comunidad universitaria para la atención de los casos de violencia en nuestra institución, pero también en seguimiento a los principios de la Ley de la Universidad, construir estrategias para el cambio de las conductas violentas en contra de las mujeres y para brindar a toda la comunidad universitaria un ambiente libre de violencia y que sea producto de una cultura de la paz.
+
+Es un hecho que, pese a la inaceptable e inmoral conducta de una Comisión de Mediación y Conciliación como la de la Quinta Legislatura, que en lugar de cumplir con sus funciones optó por ignorar el sufrimiento de las víctimas y por promover la impunidad, hoy nuestra Universidad puede reivindicar con orgullo el haber sido pionera en la atención al enorme y alarmante problema de las violencias. Nuestra casa de estudios está a la vanguardia en la creación y aplicación de procedimientos -formales e informales- para erradicar tales prácticas, a partir de nuestra propia legislación y desde la experiencia y el compromiso de todas las personas que se han dedicado al tema. Fuimos la primera institución de educación superior en hacernos cargo de este apremiante asunto. Las violencias, por desgracia, no operan de manera excluyente entre sí, sino que suelen combinarse y reiterarse -con todas las agravantes que esto implica- no solo al interior de nuestras instalaciones, sino también en las inmediaciones de nuestras sedes y planteles, en las familias de donde provienen sus integrantes e incluso en los espacios virtuales a los que hoy se denomina redes sociales. Esta es nuestra realidad. El papel de una universidad va mucho más allá de dotar de instrucción formal al estudiantado; es un deber y un imperativo apoyar a las personas que la integran, no abdicar de su vocación de agente de cambio social, mejorar el entorno y las comunidades en las que se inscribe. 
+
+Es por ello que uno de los elementos fundamentales que se incluyen en el presente Protocolo es lo relativo a la prevención, lo que implica que la Universidad y sus instancias académicas y administrativas se capaciten en materia de derechos humanos y perspectiva de género y que nuestros planes y programas los contemplen. El Comité de Derechos Económicos Sociales y Culturales de las Naciones Unidas ha sido enfático en señalar que “la educación desempeña un papel decisivo en la emancipación de la mujer”, además de que la “adopción de medidas especiales provisionales destinadas a lograr la igualdad de hecho entre hombres y mujeres y de los grupos desfavorecidos no es una violación del derecho de no discriminación en lo que respecta a la educación”, de tal manera que los Estados “tienen la obligación de suprimir los estereotipos sexuales y de otro tipo que impiden acceder a la instrucción a las niñas, las mujeres y otros grupos desfavorecidos”. Consecuentemente, el Estado y sus instituciones tienen el deber de aplicar un enfoque transversal para proteger los derechos humanos, específicamente de las mujeres, a través de la prevención, investigación, sanción y reparación de las violaciones de derechos humanos. 
+
+En ese contexto se ubica la perspectiva de género, que es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones. 
+
+En el ámbito de la prevención, la Relatora Especial sobre la violencia contra la mujer, sus causas y consecuencias de la Comisión de Derechos Humanos de las Naciones Unidas ha señalado que “es especialmente importante apoyar las campañas de aumento de la sensibilización y los programas que cuestionan los estereotipos en cuanto a los sexos y desvincular la masculinidad de los usos opresivos del poder. La utilización en las declaraciones públicas, los medios de información y el material docente, entre otros, de un lenguaje no sexista y basado en los derechos puede desmitificar las "verdades" que se dan por descontado acerca de los conceptos de género y acabar con los tabúes y el silencio en torno a la violencia.” La perspectiva de género no debe de entenderse como una postura ideológica que coloca a un género sobre otro o que pretenda establecer beneficios en favor de uno de ellos, sino como un método de análisis objetivo respecto de las violaciones de derechos humanos, así como un eje de actuación transversal en la actuación de las autoridades del Estado.
+
+Cabe recordar que la Corte Interamericana de Derechos Humanos ha señalado en su jurisprudencia que, las “obligaciones estatales especificadas en el artículo 7 de la Convención de Belém do Pará deben alcanzar todas las esferas de actuación del Estado, transversal y verticalmente, es decir, todos los poderes públicos (legislativo, ejecutivo y judicial), tanto a nivel federal como estadual o local, así como en las esferas privadas. Ello requiere la formulación de normas jurídicas y el diseño de políticas públicas, instituciones y mecanismos destinados a combatir toda forma de violencia contra la mujer, pero también requiere, la adopción y aplicación de medidas para erradicar los prejuicios, los estereotipos y las prácticas que constituyen las causas fundamentales de la violencia por razón de género contra la mujer”.
+
+En ese sentido, aunque tratando otros temas, se ha establecido en Tesis Aislada que tratándose de los “derechos económicos, sociales y culturales, […] son de carácter multidisciplinario, y su vinculación se expande y debe incidir en todo el orden jurídico, acorde al principio que establece la dimensión objetiva de los derechos fundamentales. En este sentido, [una Ley que] al igual que otras que reflejan valores y fines constitucionales que se estiman preferentes, es de naturaleza transversal u horizontal, que se extiende a todas las relaciones sociales que deban ser protegidas y reguladas”. Es decir que, al hablar de transversalidad se hace alusión a un principio o derecho que debe aplicarse a todos los derechos humanos en su sentido operativo, es decir, para analizar el cumplimiento de deberes reforzados en relación con grupos de atención prioritaria como las mujeres.
+
+Para la creación del presente Protocolo la Comisión de Mediación y Conciliación del Sexto Consejo Universitario elaboró un primer borrador y realizó, en sesiones de cuatro horas diarias, dos revisiones participativas con distintas personas integrantes de la comunidad universitaria; del 23 al 27 de septiembre de 2019, la primera y del 11 al 14 de noviembre del mismo año, la segunda. Entre enero y febrero del 2020, durante seis sesiones, se discutió y aprobó el Protocolo con la Comisión de Asuntos Legislativos y el 27 de febrero se publicó en la página de la Universidad, se hizo llegar el documento a la administración, a las distintas áreas y coordinaciones y al SUTUACM. En marzo del 2020, el Pleno del Consejo Universitario aprobó la metodología de discusión del documento con la comunidad universitaria, pero debido a la declaratoria de emergencia sanitaria derivada de la epidemia de COVID-19 no pudo llevarse a cabo en los tiempos aprobados. El 7 de julio de 2020 con el acuerdo UACM/CU-6/EX-11/029/20 se retomaron los trabajos y del 5 al 11 de agosto de 2020 se presentó el Protocolo ante los distintos Consejos de Plantel; del 18 al 11 de septiembre del mismo año se hicieron 4 presentaciones abiertas a la comunidad universitaria y del 14 de septiembre al 5 de octubre se llevaron a cabo once presentaciones tanto matutinas como vespertinas para las comunidades de los distintos planteles y sedes de la Universidad, todo lo anterior vía remota por las condiciones impuestas por la pandemia. Durante esos dos meses de diálogo y escucha, se detectaron las principales preocupaciones, se recibieron propuestas, se consultaron con asesoría especializada y se procesaron para su discusión en el Pleno. 
+
+La Universidad Autónoma de la Ciudad de México tiene la obligación legal, ética y social de comprometerse en su conjunto con erradicar la discriminación y la impunidad. Esto implica que todas sus instancias, autoridades e integrantes trabajen de forma conjunta, decidida y cotidiana para hacer efectivo el derecho a la igualdad en nuestra Universidad. Este Protocolo busca establecer las obligaciones, atribuciones y los mecanismos para lograrlo. 
+
+[Regresar a Documento Principal](index.html)
+
+
+# Título I. Disposiciones generales
+
+## Capítulo I. Disposiciones generales y objeto
+
+Artículo 1.- El presente Protocolo es de observancia general en toda la Universidad Autónoma de la Ciudad de México, incluidas las personas que ocupen los cargos nombrados en el artículo 24 del Catálogo de Normas de Convivencia, y está en concordancia con el artículo 77 del Estatuto General Orgánico que indica que “los integrantes de la comunidad tendrán los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos”, y añade que cualquier acto de discriminación debida al origen étnico o nacional, el género, la edad, la discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, o el estado civil, será considerado como falta grave de conformidad con la normatividad emitida para tal efecto. Asimismo, es una herramienta que busca garantizar el cumplimiento del artículo 78 del mismo Estatuto, el cual indica que “los integrantes de la Comunidad tienen derecho a la protección de su salud física y psicológica, a un ambiente adecuado para su desarrollo y bienestar integral en las instalaciones de la Universidad.” Con este Protocolo, además, se da cumplimiento a lo establecido en los artículos 14 y 46 fracción c del Catálogo de Normas de Convivencia de la UACM
+
+Artículo 2.- El presente Protocolo tiene como objetivos: 
+
+    Establecer los principios y los procedimientos para la atención de las quejas por discriminación, violencia contra las mujeres, acoso y hostigamiento sexual en la Universidad.
+    Definir las atribuciones y obligaciones de las autoridades universitarias para la atención de las demandas de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual en la Universidad, con perspectiva de género y enfoque educativo.
+    Establecer los mecanismos para que las quejas por actos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual sean atendidas conforme a los principios del debido proceso, acceso a la justicia y reparación integral del daño.
+    Definir las acciones para la identificación de los actos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual, así como la reflexión acerca de ellos y la erradicación de los mismos.
+    Promover las bases de una política institucional para el fomento de una cultura de paz que contribuya a formar una comunidad comprometida con la construcción de interacciones que privilegien el diálogo, la cooperación, el respeto y el apoyo mutuo para el logro de la igualdad de género en la Universidad.
+    Establecer los lineamientos generales para el impulso de la investigación, indagación y propuestas de acciones que contribuyan a la reflexión, reconocimiento y erradicación de las acciones de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual en el ámbito universitario.
+    Establecer los mecanismos para la participación de la comunidad universitaria en la implementación y seguimiento de este Protocolo.
+    Definir los mecanismos para la evaluación, la revisión y la actualización de este Protocolo. 
+
+Artículo 3.- El incumplimiento de las obligaciones señaladas en este Protocolo por parte de las autoridades o personal asignado, será investigado y, en su caso, sancionado en los términos definidos en este Protocolo y en la normatividad correspondiente.
+
+Artículo 4.- En este Protocolo se entenderá por:
+
+    Constitución: Constitución Política de los Estados Unidos Mexicanos
+    Contrato Colectivo: el Contrato Colectivo de Trabajo vigente en la Universidad Autónoma de la Ciudad de México
+    Defensoría: Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México
+    Ley: Ley de la Universidad Autónoma de la Ciudad de México
+    Normas de convivencia: Catálogo de Normas de Convivencia de la Universidad Autónoma de la Ciudad de México 
+    Protocolo: Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual en la Universidad Autónoma de la Ciudad de México
+    Unidad de Atención: Unidad de atención de casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual
+    Universidad: Universidad Autónoma de la Ciudad de México
+    Personas usuarias: las partes en el procedimiento que establece el presente Protocolo
+    Unidad de Investigación: la Unidad de Investigación de la Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México
+    Igualdad sustantiva: de acuerdo con la Ley de Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal, en el artículo 5, es el acceso al mismo trato y oportunidades, para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+    Empoderamiento: Empoderamiento de las mujeres, que es, de acuerdo con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia “un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.”
+    Autoridad universitaria: todos/as los/las funcionarios/as universitarios/as, los órganos, las instancias, las unidades y áreas de la Universidad, cualquiera que sea su denominación, que realice encargo o comisión en materia de gestión académica-administrativa, administrativa y de gobierno universitario.
+    Comunidad universitaria: la Ley de la UACM, en el Capítulo II, Comunidad universitaria, en su artículo 5 dice que: “La Universidad Autónoma de la Ciudad de México está integrada por los estudiantes, el personal académico y el personal administrativo, técnico y manual.”, también se entenderá por comunidad universitaria lo definido en el glosario del Catálogo de Normas de Convivencia.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo II. Principios generales de interpretación y de actuación
+
+Artículo 5.- Para la interpretación y la actuación en caso de presentación de quejas, los principios generales son:
+
+    Perspectiva de género: De acuerdo con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia en su artículo 5, fracción IX, “Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.” Uno de los objetivos de esta perspectiva es identificar las relaciones de poder existentes en las relaciones sociales entre hombres y mujeres.
+
+    Respeto, protección y garantía de la dignidad, de la integridad personal y de la libertad. De acuerdo con este principio, las investigaciones relacionadas con el acoso y/u hostigamiento sexual serán conducidas de manera que durante ellas no se revictimice a quien presenta la queja, ya sea desestimando su relato, sometiéndole a interrogatorios innecesarios, estableciendo en su perjuicio cargas probatorias desproporcionadas o ajenas a la naturaleza de los hechos, o confrontándole con la persona presunta agresora. De igual manera, se tenderá a que las reparaciones tengan una finalidad restaurativa de la dignidad e integridad personal.
+
+    La igualdad entre las personas y la no discriminación. El principio de igualdad y el derecho a la no discriminación demandan que las indagaciones relacionadas con la discriminación, la violencia contra las mujeres, el acoso y/o el hostigamiento sexual eviten la perpetuación de relaciones de poder asimétricas, especialmente en perjuicio de personas que, de manera individual o como parte de determinados grupos, se encuentren en situación de vulnerabilidad, por lo que su análisis deberá de ser con perspectiva de género e interseccional, es decir, deberá integrar el conjunto de condiciones, situaciones e identidades, considerando los contextos históricos, sociales, económicos y políticos.  Las indagaciones deben abstenerse de reproducir los estereotipos de género, pues estos imponen a las personas comportamientos y actitudes basados exclusivamente en su identidad sexo-genérica, e inciden negativamente en su acceso a los derechos.
+
+    Principio pro persona: Este protocolo se interpretará de conformidad con la Constitución y con los tratados internacionales de derechos humanos brindando en todo tiempo a las personas la protección más amplia.
+    Presunción de buena fe de la persona que presenta la queja. Esta presunción es el derecho a no ser prejuzgada sobre la veracidad de los hechos presentados ni de sus capacidades ni experiencias. Incluye la presunción de afectación y, en consecuencia, la necesidad de atención inmediata, y la presunción de amplitud de la afectación a las personas próximas al entorno, tanto de la parte que presenta la queja como de la parte presunta agresora.
+    Presunción de inocencia de la persona señalada como agresora. Esta presunción es el derecho a no ser prejuzgada, por lo que la persona contra quien se presenta la queja tiene derecho a ser considerada y tratada como inocente hasta que se demuestre lo contrario.
+
+    Confidencialidad. Se mantendrá la confidencialidad con el fin de proteger la intimidad de las personas y las presunciones de buena fe y de inocencia. Se resguardará cualquier información personal de las personas involucradas en el procedimiento de investigación, dejando abiertos los mínimos datos útiles para aspectos estadísticos o referencias sobre etapas del proceso
+
+    Debida diligencia. Las conductas constitutivas de acoso sexual son violaciones a los derechos humanos frente a las cuales, las autoridades públicas están obligadas a actuar con la debida diligencia, que incluye la prevención, la investigación exhaustiva, la sanción proporcional y la reparación del daño integral.
+
+    Inmediatez. Se refiere a que las quejas denuncias que presenten las y los integrantes de la comunidad universitaria deben ser atendidas por la Unidad de Atención en el espacio y en el tiempo más próximos; es decir, se deben atender de forma pronta y expedita. 
+
+    Independencia e imparcialidad en cada etapa del proceso, desde la presentación de la queja, su registro, la etapa de investigación, sanción y reparación, excluyendo de participar en ello a quienes pudieran haber tenido alguna injerencia en los hechos motivo de la queja, así como de quienes tengan prejuicios y estereotipos discriminatorios en relación con los hechos o personas involucradas.
+
+    Transparencia. Se refiere al derecho que tienen las partes, y sólo las partes, de conocer el estado en el que se encuentra el procedimiento. Es decir, en cualquier momento podrán solicitar vía institucional a la Unidad de Atención la información en torno al avance o estatus del procedimiento, y ésta estará obligada a responder.
+
+    Debido proceso. Es el derecho que tiene toda persona para ejercer su defensa y ser oída, con las debidas oportunidades y dentro de un plazo razonable, previo al reconocimiento o restricción de sus derechos y obligaciones. El debido proceso debe contemplar las formalidades que garantizan una defensa adecuada, es decir:
+      El aviso de inicio del procedimiento y en qué consiste éste. 
+      La oportunidad de ofrecer su punto de vista; o, en su caso, presentar sus pruebas y sus alegatos.
+    Cuando se haya llevado a cabo el procedimiento de la instancia de investigación, una resolución que resuelva las cuestiones debatidas.
+    En caso de que haya una resolución del Consejo de Justicia, tener la oportunidad de reclamarla mediante un recurso ante la Oficina del Abogado General.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo III. Definiciones
+
+Artículo 6.- Las conductas descritas y definidas en este capítulo son contrarias a los principios de convivencia básicos de la Universidad, por lo que -tal y como se establece en el Catálogo de Normas de Convivencia de la Universidad Autónoma de la Ciudad de México- están prohibidas y deben ser prevenidas y erradicadas. En caso de realizarse, deberán ser atendidas, investigadas, sancionadas y reparado el daño que causen, tanto a nivel individual como a la comunidad universitaria.
+
+Artículo 7.- La Ley Federal para Prevenir y Eliminar la Discriminación define la discriminación como “toda distinción, exclusión, restricción o preferencia que por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga como objeto o resultado obstaculizar, restringir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se basan en uno o más de los siguientes motivos: el origen étnico o nacional, el color de la piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o los antecedentes penales o cualquier otro motivo; también se entenderá como discriminación la homofobia, la misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia”.
+
+Artículo 8.- De acuerdo a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (LGAMVLV) en su artículo 5, fracción IV, la violencia contra las mujeres es “cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, tanto en el ámbito privado como en el público”. Tiene como causa y trae como consecuencia la discriminación contra las mujeres y los privilegios masculinos, por ello es indispensable y posible prevenirla y erradicarla. 
+
+Artículo 9.- Hay distintos tipos de violencia contra las mujeres, no son excluyentes entre sí, y pueden ocurrir simultáneamente. La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (LGAMVLV) y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México (LAMVLVCDMX) los definen como: 
+
+    Violencia física. Es cualquier acto que inflige daño no accidental, usando el propio cuerpo o algún tipo de arma u objeto que pueda provocar o no lesiones, ya sean internas, externas o ambas (LGAMVLV, artículo 6, fracción II).
+    Violencia psicoemocional. Toda acción u omisión dirigida a desvalorar, intimidar o controlar acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica (LAMVLVCDMX, artículo 6, fracción I). 
+
+    Violencia sexual. Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso, violación, explotación sexual comercial, trata de personas para la explotación sexual o el uso denigrante de la imagen de la mujer (LAMVLVCDMX, artículo 6, fracción V). Y todos aquellos delitos contra la libertad y la seguridad sexuales y el normal desarrollo psicosexual de las personas.
+
+    Violencia feminicida. Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres (LGAMVLV, artículo 21). 
+
+    Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
+Artículo 10.- Las modalidades de violencia contra las mujeres aluden a los ámbitos de relación en que se presentan, no son excluyentes entre sí y pueden ocurrir simultáneamente. La Ley General y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México (LGAMVLV) las definen como:
+
+    Violencia docente. Conforme a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México (LGAMVLCDMX) en su artículo 7, fracción III, la violencia docente “Es aquella que puede ocurrir cuando se daña la autoestima de las alumnas o maestras con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestros o maestras”. 
+    
+    Violencia laboral: Se ejerce por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, impide su desarrollo y atenta contra la igualdad. Conforme a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en su artículo 11, constituye violencia laboral: “la negativa ilegal a contratar a la Víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género”. Esta modalidad de violencia atenta contra los elementos que constituyen el trabajo digno de acuerdo a la Ley Federal del Trabajo. 
+    
+    Violencia familiar o de pareja: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, en su artículo 7, la define como “el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho”, incluido el noviazgo. Si bien la Universidad no es responsable de este tipo de actos, la violencia familiar o de pareja se incluye en este Protocolo debido a su impacto directo en el acceso al derecho a la educación o al trabajo, por lo que deberá tomarse en cuenta al realizar acciones de prevención. La violencia familiar o de pareja será atendida en los rangos que las personas afectadas soliciten.
+    
+    Violencia en la comunidad: Conforme a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México (LAMVLVCDMX), en su artículo 7, fracción IV, “Es aquella cometida de forma individual o colectiva, que atenta contra su seguridad e integridad personal y que puede ocurrir en el barrio, en los espacios públicos o de uso común, de libre tránsito o en inmuebles públicos, propiciando su discriminación, marginación o exclusión social”.
+    
+    Violencia institucional: Según la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (LGAMVLV, artículo 18) consiste en “actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia”.
+    
+    Violencia digital: De acuerdo con el artículo 7, fracción X, de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia (LAMVLV): “Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias”.
+
+Artículo 11.- En concordancia con los artículos 10 y 13 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia el hostigamiento laboral se entenderá como el ejercicio del poder en una relación de subordinación real de la víctima frente a la persona agresora, en el entorno del trabajo o con motivo de éste. El hostigamiento laboral se puede ejercer en un evento o en una serie de ellos, a través de acciones que atenten contra la autoestima, la salud, la integridad, la libertad o la seguridad de las personas; son, entre otros, la provocación, la presión, la intimidación, la exclusión, el aislamiento, la ridiculización o los ataques verbales o físicos, que pueden realizarse de forma evidente, sutil o discreta, y que ocasionan humillación, frustración, ofensa, miedo, incomodidad y/o estrés en la persona a la que se dirigen o en quienes lo presencian, y que pueden interferir en el rendimiento laboral o generar un ambiente negativo en el trabajo, los cuales se ejercen con el objetivo de intimidar, opacar, aplanar, amedrentar o consumir emocional o intelectualmente a la víctima, con miras a excluirla de la organización o a satisfacer la necesidad, que suele presentar el hostigador, de agredir o controlar o destruir.
+
+Artículo 12.- El acoso sexual se configura a través de actos o comportamientos de índole sexual, en un evento o en una serie de ellos, que atentan contra la autoestima, la salud, la integridad, la libertad y/o la seguridad de las personas; entre otros: contactos físicos indeseados, insinuaciones u observaciones de carácter sexual, exhibición no deseada de genitales, envío de contenidos sexuales y/o pornografía, exigencias sexuales verbales o de hecho en cualquier medio o soporte. 
+En el acoso sexual, si bien no existe una relación de subordinación, hay un ejercicio abusivo de poder que lleva a un estado de indefensión y riesgo para la víctima, es decir, que se presenta entre pares; por ejemplo, entre estudiantes o entre profesores o entre trabajadoras.
+
+Artículo 13.- De acuerdo a los artículos 10 y 13 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia el hostigamiento sexual se configura a través de actos o comportamientos de índole sexual, en un evento o en una serie de ellos, que atentan contra la autoestima, la salud, la integridad, la libertad y/o la seguridad de las personas; son, entre otros: contactos físicos indeseados, insinuaciones u observaciones de carácter sexual, exhibición no deseada de genitales, envío de contenidos sexuales y/o pornografía, exigencias sexuales verbales o de hecho en cualquier medio o soporte. Se diferencia del acoso en que hay una relación de poder que es ejercida por una persona que ostenta un nivel jerárquico superior; por ejemplo, de un académico a un estudiante, de una funcionaria a una académica o a una trabajadora administrativa.
+
+[Regresar a Documento Principal](index.html)
+
+
+# Título II. De las acciones para la prevención y erradicación
+
+## Capítulo I. Obligaciones generales para la prevención
+
+Artículo 14.- El deber de erradicar implica que todas las obligaciones y deberes definidos en este Protocolo se harán garantizando la comprensión de que la violencia contra las mujeres y toda forma de discriminación son actitudes que responden a la jerarquización de las personas, misma que puede ser eliminada con la comprensión y la realización de la igualdad sustantiva.
+
+Artículo 15.- El deber de prevenir conlleva acciones para que las conductas descritas en este Protocolo no se cometan. Asimismo, implica que las acciones de atención e investigación, las sanciones y la reparación del daño, en efecto, impidan que los hechos se repitan.
+
+Para ello, la prevención incluye eliminar los obstáculos institucionales que impidan el acceso de las personas integrantes de la comunidad universitaria al ejercicio de todos sus derechos y libertades en condiciones de igualdad, así como promover la presentación de quejas y la exigencia del cumplimiento de las obligaciones definidas en este Protocolo.
+
+Artículo 16- Las acciones que se refieran en el presente Protocolo a la formación, capacitación y actualización se realizarán de manera permanente, gradual y progresiva, con el objetivo de sensibilizar, capacitar y profesionalizar de acuerdo con lo reglamentado por la Ley de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+Dichas acciones deberán abordar temáticas de perspectiva de género, derechos humanos, derechos humanos de las mujeres, el deber de no discriminar y la prevención de todo tipo y modalidad de violencia que tiene como causa y consecuencia la discriminación, como la violencia contra las mujeres, de manera que quienes reciban dicha formación cumplan con sus obligaciones con la debida diligencia.
+
+Toda acción formativa deberá ser evaluada en términos cualitativos y cuantitativos para medir el cambio en las percepciones y en las prácticas sociales ante la discriminación, la violencia contra las mujeres y la violencia sexual.
+
+Artículo 17.- Todas las autoridades universitarias, incluidos el Consejo Universitario y los consejos de plantel, deberán cumplir con las siguientes obligaciones para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual:
+
+    Formarse y actualizarse en perspectiva de género.
+    
+    Dar a conocer este Protocolo y toda aquella normatividad que garantice la libertad y los derechos de las personas.
+    
+    Operar las resoluciones y medidas de protección que les sean solicitadas con la debida diligencia.
+    
+    Garantizar el acceso a la información sobre qué son la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual.
+    
+    Garantizar la disponibilidad, el acceso, la calidad, la aceptabilidad y la adaptabilidad en las áreas de atención, así como los mecanismos para acceder a la justicia en caso de haber sufrido alguna violación a los derechos señalados en este Protocolo.
+    
+    Detectar si existen grupos de personas que estén en riesgo de ser víctimas de violencia y/o discriminación, y crear medidas y programas específicos para dichos grupos.
+    
+    Identificar y eliminar los prejuicios y estereotipos discriminatorios, así como aquellos prejuicios y estereotipos que sostienen privilegios, con el objetivo de crear nuevas percepciones y prácticas que garanticen la igualdad sustantiva entre hombre y mujeres y entre todas las personas.
+    
+    Garantizar que sus dictámenes, resoluciones y acuerdos salvaguarden la igualdad y los derechos humanos de quienes integran la comunidad universitaria, que no reproduzcan estereotipos discriminatorios y que promuevan la transversalización de la perspectiva de género.
+    
+    Promover espacios de diálogo, basados en la información, sobre las conductas prohibidas en este Protocolo.
+    
+    Promover investigaciones, proyectos y actividades con perspectiva de género y desde los derechos humanos, para garantizar la igualdad y la no discriminación en el ámbito de su competencia.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo II. Obligaciones específicas para la prevención
+
+Artículo 18.- Corresponde al Pleno del Consejo Universitario:
+
+    Recibir y escuchar el informe anual sobre el presente Protocolo por parte de la Defensoría de los Derechos Universitarios y, en su caso, aprobar los ajustes necesarios.
+
+    Investigar y sancionar, en los casos en que así lo establece la normativa aplicable, el incumplimiento de las obligaciones del presente Protocolo.
+
+    Discutir y aprobar los lineamientos e indicadores para la transversalización de la perspectiva de género en los planes y programas de estudio de la Universidad.
+
+Artículo 19.- Corresponde a la Comisión de Mediación y Conciliación del Consejo Universitario:
+
+    Remitir las quejas de discriminación, violencia contra las mujeres, acoso y/u  hostigamiento sexual que sean presentadas ante ella, a la Unidad de Atención de casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual de la Defensoría de los Derechos Universitarios.
+
+    Dictaminar los informes de la Defensoría de los Derechos Universitarios.
+
+    Coordinarse y coadyuvar con las instancias competentes para garantizar una cultura institucional de respeto a los derechos humanos con perspectiva de género.
+
+    Coadyuvar con las instancias universitarias competentes para garantizar que se incluya la perspectiva de género en el diseño y evaluación de la estructura curricular de los planes y programas de estudio.
+
+    Promover y coadyuvar con las instancias universitarias competentes para desarrollar proyectos de investigación que den cuenta de los procesos de cambio relacionados con la desigualdad de género, con el fin de promover la comprensión y los mecanismos que hacen posible la igualdad sustantiva.
+
+Artículo 20.- Corresponde a la Comisión de Asuntos Académicos del Consejo Universitario:
+
+    Elaborar y proponer al pleno del Consejo Universitario, para su discusión y aprobación, los lineamientos e indicadores para la transversalización de la perspectiva de género en los planes y programas de estudio de la Universidad.
+
+    Garantizar que el conocimiento de los derechos humanos con perspectiva de género, así como los elementos para su operación, se incluyan de manera transversal en los procesos de evaluación y aprobación de los programas académicos.
+
+Artículo 21.- Corresponde a la Comisión de Difusión, Extensión y Cooperación Universitaria del Consejo Universitario:
+
+    Colaborar con la Coordinación de Comunicación en el diseño y difusión, a través de los espacios de que disponga en los medios de comunicación, de campañas permanentes con temáticas semestrales a favor de la igualdad y la erradicación de la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual.
+
+    Colaborar con la Coordinación de Difusión Cultural y Extensión Universitaria para que diseñe y difunda, entre la comunidad universitaria, campañas permanentes con temáticas semestrales a favor de la igualdad y la erradicación de la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual, que incluya talleres semestrales relacionados con la promoción de los derechos humanos con perspectiva de género.
+
+Artículo 22.- Corresponde a la Comisión de Hacienda del Consejo Universitario, en el marco de sus atribuciones:
+
+    Verificar que en el presupuesto anual se garanticen los recursos suficientes para operar el presente protocolo.
+    
+    Verificar, en colaboración con la Defensoría de los Derechos Universitarios y la Coordinación de Servicios Estudiantiles, que los recursos asignados se ejerzan conforme a lo establecido en el Programa Institucional de Desarrollo y en atención a las necesidades reales derivadas de la aplicación del presente Protocolo.
+
+Artículo 23.- Corresponde a la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del Consejo Universitario:
+
+    Garantizar que en el PIDE se incluyan las condiciones y recursos humanos, materiales y financieros suficientes para cumplir con las obligaciones de este Protocolo.
+    
+    Garantizar que la asignación de recursos que se realice en la Universidad sostenga acciones de transversalidad en el cumplimiento de las obligaciones de este Protocolo
+    
+    Desarrollar proyectos estratégicos para fortalecer la vinculación entre la Universidad y la sociedad, a partir de los contenidos y principios que establece este Protocolo.
+
+Artículo 24.- Corresponde a la Rectoría:
+
+    Incluir en el Plan Institucional de Desarrollo (PIDE) de la Universidad las condiciones y recursos humanos, materiales y financieros suficientes para cumplir con las obligaciones de este Protocolo.
+
+    Garantizar relaciones laborales y universitarias acordes a la igualdad sustantiva y el principio de no discriminación.
+
+    Garantizar los espacios universitarios para el diálogo y la comprensión de los principios que establece el presente Protocolo, con el objetivo de prevenir interpretaciones restrictivas.
+
+    Gestionar un programa que posibilite que, de forma gradual, todo el personal académico y administrativo, técnico y manual de la Universidad acuda a talleres de perspectiva de género. En una primera fase, estarán obligados a acudir a dichos talleres las coordinaciones de las áreas administrativas y académico-administrativas. En una segunda fase, se extenderá una invitación a las y los trabajadores de las distintas áreas a acudir a dichos talleres. Tras dos años de implementación, las personas que no hayan acudido tendrán la obligación de hacerlo. En una tercera fase, periódicamente se organizarán talleres de actualización sobre el tema.
+
+La Rectoría estará obligada a incluir en su informe anual:
+
+    Cuántos talleres se organizaron.
+
+    Dónde y cuándo se organizaron.
+
+    A qué áreas fueron dirigidos.
+
+    Cuántos trabajadores y cuántas trabajadoras asistieron de manera voluntaria y cuántas y cuántos, en su caso, de forma obligatoria.
+
+    Cuántos trabajadores y cuántas trabajadoras concluyeron los talleres.
+
+Artículo 25.- Corresponde a la Defensoría de los Derechos Universitarios:
+
+    Garantizar la aplicación del presente Protocolo y su funcionamiento, a través de la Unidad de Atención.
+    
+    Supervisar al personal de la Unidad de Atención con acciones que garanticen el cumplimiento de sus perfiles y obligaciones, así como el acceso a sus derechos.
+    
+    Elaborar el instrumento de evaluación del procedimiento por parte de las personas usuarias y entregárselo a la Unidad de Atención para que ésta se encargue de aplicarlo, así como de procesar los resultados.
+    
+    Promover los contenidos y formas de exigibilidad del Protocolo entre la comunidad universitaria.
+    
+    Conformar un Comité de Investigación externo, conformado según lo establecido en el Artículo 131 del presente Protocolo, para que realice una evaluación anual de la Unidad de Atención y del funcionamiento del Protocolo.
+    
+    Realizar, en colaboración con la Unidad de Atención, un informe anual que incluya la evaluación realizada. 
+    
+    Gestionar y/u organizar periódicamente talleres de capacitación y actualización en atención a violencia contra las mujeres, acoso y/u hostigamiento sexual, para todas aquellas autoridades que participan o están obligadas a gestionar el presente Protocolo. Para dar cumplimiento a esta obligación, la Defensoría podrá proponer a la Oficina del Abogado General los convenios que considere pertinentes; deberá contar con la suficiencia presupuestal aprobada por la Comisión de Hacienda del Consejo Universitario y, a mediano plazo, conformar un área de capacitación en la materia.
+    
+    Gestionar y/o organizar los talleres de perspectiva de género que el Consejo Universitario y los consejos de plantel deberán tomar, a más tardar durante el tercer mes de su gestión. Para dar cumplimiento a esta obligación, podrá realizar los convenios que considere pertinentes.
+    
+    Gestionar y/o organizar los talleres de perspectiva de género que el Consejo de Justicia deberá tomar.
+    
+    Impulsar procesos para consolidar la capacitación de las personas integrantes de la comunidad universitaria que estén interesadas en especializarse en Perspectiva de género, no discriminación, y en los contenidos de este Protocolo.
+    
+    Incluir en sus informes:
+    
+    Los resultados de las evaluaciones al Protocolo y a sus procedimientos, realizadas por las personas usuarias.
+    
+    La evaluación realizada por el Comité de Investigación externo.
+    
+    Los resultados de las evaluaciones realizadas por la Unidad de Atención a las organizaciones e instituciones con las que la Universidad tenga convenio, y a las que se les hayan derivado personas afectadas para brindarles atención psicoterapéutica y/o legal.
+    
+    Las acciones realizadas para apoyar, capacitar y actualizar al personal de la Unidad de Atención. 
+    
+    El número de talleres que se realizaron; dónde y cuándo se llevaron a cabo y a quiénes estuvieron dirigidos.
+    
+    El número de personas participantes y el número de quienes concluyeron los talleres.
+    Diseñar y operar programas preventivos y de promoción de los derechos humanos con perspectiva de género, relacionados con las obligaciones y derechos universitarios, y con los contenidos de este Protocolo.
+    
+    En colaboración con la Unidad de Transparencia elaborar un Sistema de Datos Personales, avisos de privacidad y determinar los mecanismos de seguridad para salvaguardar la confidencialidad de los datos generados durante los procedimientos.
+    
+Artículo 26.- Corresponde a la Unidad de Atención de casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual de la Defensoría de los Derechos Universitarios:
+
+    Atender los casos de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual que lleguen de forma directa.
+    
+    Atender los casos de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual que le sean remitidos por la Comisión de Mediación y Conciliación del Consejo Universitario. 
+    
+    Llevar a la Unidad de Investigación los casos y entregar los dictámenes que éste elabore al Consejo de Justicia o a la Oficina del Abogado General, según corresponda.
+    
+    Dar primera atención, contención psicoemocional y asesoría legal a las personas que presenten una queja en el marco del presente Protocolo.
+    
+    Dar acompañamiento legal inicial en caso de que la víctima decida acudir a instancias externas a la Universidad para denunciar.
+    
+    Conformar y coordinar el equipo de orientadoras con acciones que incluyan la convocatoria, el registro de sus integrantes, la garantía para el acceso a sus derechos y el seguimiento para el cumplimiento de sus obligaciones y perfil.
+    
+    Integrar y mantener actualizado el registro de acciones del equipo de facilitadoras y orientadoras.
+    
+    Identificar aquellos casos que no correspondan a la competencia de este Protocolo y canalizarlas al área competente para su atención e investigación.
+    
+    Previa investigación y evaluación, elaborar un directorio de asociaciones e instituciones que se dediquen a brindar atención psicoterapéutica y legal a personas afectadas por la discriminación, la violencia contra las mujeres, el acoso y/o el hostigamiento sexual, con las que la Oficina del Abogado General gestionará que la Universidad firme convenio. 
+    
+    Supervisar, revisar y evaluar la actuación y los informes de las asociaciones o instituciones que se dediquen a brindar atención psicoterapéutica y legal a personas afectadas por las conductas descritas en el presente Protocolo, con las que la Universidad haya firmado convenio. Deberá entregar los resultados de estas evaluaciones a la persona Titular de la Defensoría, para que los incluya en su informe anual.
+    
+    Integrar y mantener actualizado el registro de quejas y procedimientos derivados de este Protocolo, así como las evaluaciones de las personas usuarias.
+
+Artículo 27.- Corresponde a la Oficina del Abogado General:
+
+    Garantizar que los contratos, convenios y demás formas de vinculación que formalice la Universidad aporten a la construcción de un orden social libre de toda discriminación, sustentado en los más altos estándares de derechos humanos.
+    
+    Gestionar los convenios con las asociaciones e instituciones dedicadas a brindar atención psicoterapéutica y legal a personas afectadas por la discriminación, la violencia contra las mujeres, el acoso y/o el hostigamiento sexual, que la Unidad de Atención haya incorporado al directorio correspondiente, y darles seguimiento. 
+    
+    Atender los asuntos jurídicos de su competencia de acuerdo con los más altos estándares de derechos humanos, sin discriminación y con la debida diligencia, garantizando en todo momento el derecho de las mujeres a una vida libre de violencia.
+    
+    Emitir criterios de interpretación de la legislación universitaria vigente bajo el principio de no discriminación y hacerlos accesibles a las autoridades universitarias para facilitar la operación de este Protocolo.
+    
+    Garantizar, en los procesos de definición de las condiciones colectivas en la Universidad, así como en los actos de administración en materia laboral, la inclusión y comprensión de los elementos del trabajo digno y la igualdad sustantiva establecidos en la Ley Federal del Trabajo.
+    
+    Abrir el proceso de junta aclaratoria en los términos que marca el Contrato Colectivo de Trabajo, cuando se le canalice el caso por parte de la Comisión de Justicia y/o de la Unidad de Atención.
+
+Artículo 28.- Corresponde a la Coordinación Académica:
+
+    Impulsar la investigación en cada área de conocimiento para desmontar los estereotipos y prejuicios discriminatorios, así como aquellos que sostengan privilegios, propiciando la comprensión de los principios de diversidad y tolerancia.
+    
+    Garantizar que en los procesos de evaluación y aprobación de los programas académicos se incluya de manera transversal el conocimiento de los derechos humanos con perspectiva de género, así como los elementos para su operación.
+    
+    Garantizar que en la actualización y desarrollo de capacidades del personal académico se incluya el conocimiento de los derechos humanos con perspectiva de género. 
+    
+    Solicitar cada año a los órganos académicos colegiados bibliografía especializada y adecuada en materia de género, para ser incorporada en las bibliotecas y acervos universitarios, con el fin de garantizar el acceso a investigaciones y propuestas relacionadas con este Protocolo.
+    
+    Promover y ofrecer servicios educativos al personal académico de la Universidad, que permitan incorporar los contenidos de este Protocolo como parte de la innovación educativa y el desarrollo académico.
+    
+    Promover los contenidos y formas de exigibilidad del Protocolo entre el personal académico.
+    
+    Promover y fortalecer espacios de diálogo y creación de nuevas prácticas sociales, basadas en los derechos humanos con perspectiva de género, como parte de la difusión de los contenidos de este Protocolo entre el personal académico.
+
+Artículo 29.- Como parte de la Coordinación Académica, corresponde al Programa de Integración:
+
+    Dar a conocer el presente Protocolo entre las y los estudiantes de nuevo ingreso. Deberá entregarlo junto a la Ley de la UACM y el Estatuto General Orgánico.
+    
+    Generar espacios de información, discusión y reflexión en torno a la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual para las y los estudiantes de nuevo ingreso.
+    
+    Promover que los programas académicos de los talleres que lo conforman incluyan la perspectiva de género y temas encaminados a reconocer, visibilizar y erradicar la violencia contra las mujeres, el acoso y el hostigamiento sexual.
+
+Artículo 30.- Como parte de la Coordinación Académica, corresponde al Programa de Servicio Social:
+Garantizar que, en los procesos de Servicio Social que realicen las y los estudiantes de la Universidad, no se realicen actos de discriminación o violencia, y que los proyectos que se realicen consoliden acciones para la igualdad y la no discriminación.
+
+Artículo 31.- Corresponde a las Coordinaciones de Colegio:
+
+    Impulsar la investigación en cada área de conocimiento para desmontar los estereotipos y prejuicios discriminatorios, así como aquellos que sostengan privilegios, propiciando la comprensión de los principios de diversidad y tolerancia.
+
+    Garantizar que, en los procesos de evaluación y aprobación de los programas académicos, se incluya de manera transversal el conocimiento de los derechos humanos con perspectiva de género, así como los elementos para su operación. 
+
+    Garantizar que la calidad educativa en el desarrollo académico incluya los principios y contenidos de operación de los derechos humanos con perspectiva de género.
+
+    Fomentar espacios de diálogo y creación de nuevas prácticas sociales, basadas en los derechos humanos con perspectiva de género, como parte del apoyo educativo para incrementar el rendimiento académico y la formación integral.
+
+    Garantizar que, en la actualización y desarrollo de capacidades del personal académico, se incluya el conocimiento de los derechos humanos con perspectiva de género.
+
+Artículo 32.- Corresponde a los órganos colegiados:
+
+    Garantizar que en los programas de estudio, según su área de conocimiento y temática, sean erradicados los estereotipos discriminatorios, y se incluyan los principios de diversidad y tolerancia.
+    
+    Incluir, en los procesos de elaboración y evaluación de los programas académicos, y de manera transversal, el conocimiento de los derechos humanos con perspectiva de género, así como los elementos para su operación. 
+    
+    Incluir los principios y contenidos de operación de los derechos humanos, con perspectiva de género, en la planeación y desarrollo de los programas académicos.
+
+Artículo 33.- Corresponde a la Comisión de Titulación de cada Colegio:
+
+    Establecer y aplicar, con base en el artículo 10 fracción IV del Reglamento de Titulación, como un criterio de selección de personas externas a la Universidad para la dirección, codirección y lectura de trabajos recepcionales, que no hayan sido separadas o cuya relación laboral no haya sido rescindida, sin responsabilidad de la institución educativa o universidad, incluida la UACM, por las conductas prohibidas en este Protocolo.
+
+Artículo 34.- Corresponde a la Coordinación de Certificación y Registro, a través de su Área de Titulación:
+
+    Verificar que las personas externas a la Universidad que conformen el sínodo de titulación hayan sido aprobadas por la Comisión de Titulación respectiva, respetando que no sean personas que hayan sido separadas o cuya relación laboral haya sido rescindida, sin responsabilidad de la institución educativa o universidad, incluida la UACM, por las conductas prohibidas en este Protocolo. En caso de que no se haya realizado dicha comprobación, notificarlo para que se lleve a cabo el procedimiento correspondiente.
+
+Artículo 35.- Corresponde a la Coordinación de Servicios Administrativos:
+
+    Garantizar que, en la actualización y desarrollo de capacidades del personal administrativo, técnico y manual, se incluyan el conocimiento y las capacidades de operación de los derechos humanos con perspectiva de género.
+
+    Garantizar que, en las gestiones administrativas, se contemplen las metas de transversalización de la igualdad y la no discriminación, así como las condiciones laborales de igualdad sustantiva y trabajo digno.
+
+    Incluir, en los procesos de capacitación y actualización del personal administrativo, técnico y manual, el conocimiento y comprensión para la operación de los contenidos de este Protocolo.
+
+Artículo 36.- Corresponde a la Coordinación de Comunicación:
+
+    Implementar en los espacios de que disponga en los medios de comunicación, campañas permanentes con temáticas semestrales, en torno a la igualdad y a la erradicación de la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual.
+
+    Decidir la duración y los espacios para dicha campaña, en función de su experiencia en torno a las dinámicas de la comunidad universitaria, para garantizar que dicha campaña tenga el mayor alcance posible.
+
+    Garantizar que, en la información que se proporciona a los medios de comunicación y que se difunde entre la comunidad universitaria, se incluyan las acciones y propuestas para consolidar la igualdad sustantiva y para erradicar la discriminación.
+
+    Difundir las acciones de cumplimiento de obligaciones de este Protocolo, garantizando, en los casos en que se haya presentado una queja, el principio de confidencialidad durante los procesos de investigación.
+
+    Garantizar una comunicación social incluyente y no discriminatoria, tanto en contenidos como en formatos y gráficos.
+
+Artículo 37.- Corresponde a la Coordinación de Planeación:
+
+    Garantizar que la planeación de la Universidad incluya las condiciones y recursos humanos, materiales y financieros suficientes para cumplir con las obligaciones de este Protocolo.
+
+    Garantizar que la asignación de recursos que se realice en la Universidad sostenga acciones de transversalidad en el cumplimiento de las obligaciones de este Protocolo
+
+    Desarrollar proyectos estratégicos para fortalecer la vinculación entre la Universidad y la sociedad desde los contenidos y principios que establece este Protocolo.
+
+Artículo 38.- Corresponde a la Tesorería:
+
+    Brindar capacitación permanente y especializada a su personal, y a todo aquel personal que tiene funciones en la definición y operación del presupuesto, sobre los principios de progresividad y no regresión en el cumplimiento de las obligaciones en materia de derechos humanos con perspectiva de género.
+
+    Garantizar la obtención y adecuada gestión de los recursos para la adecuada operación del presente Protocolo.
+
+    Definir y operar los criterios e indicadores para generar información financiera confiable y oportuna para la planeación y toma de decisiones relativas a la operación de las obligaciones definidas en este Protocolo.
+
+Artículo 39.- Corresponde a la Contraloría: 
+
+    Fiscalizar los recursos destinados para el funcionamiento del presente Protocolo.
+
+    En el ámbito de sus atribuciones, verificar la aplicación de los procedimientos establecidos en el presente Protocolo.
+
+    En el ámbito de sus atribuciones, investigar y sancionar el incumplimiento de las responsabilidades establecidas en el presente Protocolo.
+
+Artículo 40.- Corresponde a la Coordinación de Difusión Cultural y Extensión Universitaria:
+
+    Implementar en los espacios de que disponga, entre la comunidad universitaria, campañas permanentes con temáticas semestrales a favor de la igualdad y la erradicación de la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual.
+    
+    Generar y promover proyectos culturales que contribuyan a la comprensión de la discriminación y los privilegios, así como en la consolidación de prácticas sociales basadas en el respeto a los derechos humanos y a la diversidad desde la tolerancia, en la comunidad universitaria y entre las personas integrantes de las comunidades con las cuales se trabaja. 
+    
+    Incluir, en la planificación de su oferta de talleres, acciones que contribuyan a la comprensión de la discriminación y los privilegios, prioritariamente en lo que corresponde a las conductas definidas en este Protocolo, así como a la consolidación de prácticas sociales basadas en el respeto a los derechos humanos y a la diversidad desde la tolerancia. Desde su representación en cada plantel o sede, debe coordinarse con la Defensoría de los Derechos Universitarios para ofertar cada semestre talleres dirigidos a la comunidad universitaria y a las personas integrantes de las comunidades con las cuales se trabaja, sobre perspectiva de género e igualdad y no discriminación. 
+
+Artículo 41.- Corresponde a la Coordinación de Servicios Estudiantiles:
+
+    Promover y fortalecer, previa capacitación por parte de la Defensoría de los Derechos Universitarios, espacios de diálogo y nuevas prácticas sociales basadas en los derechos humanos con perspectiva de género, como parte de la difusión de los contenidos de este Protocolo entre las y los estudiantes.
+
+    Difundir los contenidos de este Protocolo entre las y los estudiantes, previa capacitación por parte de la Defensoría de los Derechos Universitarios. 
+
+    Gestionar, bajo la supervisión de la Defensoría de los Derechos Universitarios, los pagos correspondientes a las asociaciones o instituciones que hayan brindado atención psicoterapéutica y legal a personas afectadas por las conductas prohibidas en el presente Protocolo. 
+
+    Presentar a la Defensoría de los Derechos Universitarios un informe anual detallado de las acciones realizadas para difundir los contenidos del Protocolo, así como de las gestiones realizadas para el pago a las asociaciones o instituciones. Si la defensoría considera que existe alguna irregularidad o incumplimiento deberá de notificar a la Contraloría para que inicie la investigación correspondiente.
+
+Artículo 42.- Corresponde a la Unidad de Transparencia:
+
+    Apoyar a las entidades académicas y demás instancias obligadas a producir información relativa a las obligaciones de este Protocolo en la forma y mecanismos adecuados para hacerla accesible.
+
+    Garantizar el acceso a la información relativa al cumplimiento de las obligaciones definidas en este Protocolo, así como de sus contenidos, en formatos adecuados a los diferentes grupos de población de la comunidad universitaria.
+
+    Verificar el cumplimiento de los lineamientos para proteger datos personales, así como de la aplicación a los criterios específicos en materia de clasificación y conservación de documentos relativos a las acciones de este Protocolo.
+
+    Convocar al comité de transparencia cuando en el marco de las solicitudes de información pública se requiera.
+
+Artículo 43.- Corresponde a las coordinaciones de plantel:
+
+    Dar orientación y canalizar a las personas integrantes de la comunidad universitaria que deseen interponer una queja por motivo de las conductas descritas en el presente Protocolo. 
+
+    Informar a las personas integrantes de la comunidad universitarias acerca de los procesos para resolver los conflictos, del apoyo psicológico que se puede brindar a las personas afectadas y, de ser el caso, sobre la formulación de la quejas.
+
+    Capacitarse de forma apropiada en atención a víctimas, con perspectiva de género.
+
+    Informar y abrir espacios para que la comunidad de su plantel conozca el presente Protocolo y reflexione sobre su contenido.
+
+    Implementar las medidas de protección que estén relacionadas con sus atribuciones.
+
+Artículo 44.- Corresponde a los consejos de plantel:
+
+    Aprobar la oferta académica y verificar que ésta tenga perspectiva de género.
+
+    Conformar, de entre sus integrantes, la Comisión de Mediación y Conciliación del plantel.
+
+    Asignar espacio para la atención de casos de violencia en contra de las mujeres que cumpla con las condiciones requeridas para tal efecto.
+
+    En conjunto con la Coordinación del Plantel, elaborar el Plan de Trabajo del Plantel, con perspectiva de género. 
+
+Artículo 45.- Corresponde a las Comisiones de Mediación y Conciliación de los planteles:
+
+    Dar orientación y canalizar a las personas integrantes de la comunidad universitaria que se les acerquen para interponer una queja con motivo de las conductas descritas en el presente Protocolo.
+    
+    Informar a las personas integrantes de la comunidad universitaria acerca de los procesos para resolver los conflictos, del apoyo psicológico que se puede brindar a las personas afectadas y, de ser el caso, sobre la formulación de la queja.
+    
+    Capacitarse de forma apropiada en atención a víctimas, con perspectiva de género.
+    
+    Informar y abrir espacios para que la comunidad de su plantel conozca el presente Protocolo y reflexione sobre su contenido.
+    
+    Participar en la implementación de las medidas de protección y dar seguimiento a casos en el plantel, en acuerdo con la Unidad de Atención.
+
+Artículo 45.- En congruencia con el presente protocolo, la Coordinación Académica, la subdirección de Recursos Humanos y las coordinaciones de colegio deberán garantizar que no se permita a personas que hayan sido separadas o cuya relación laboral haya sido rescindida por las conductas que señala este protocolo, participar en actividades académicas, de difusión cultural o extensión universitaria, bajo contrato por tiempo y obra determinada, o indeterminada, ni como invitadas.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo III. Del acceso a la información
+
+Artículo 46.- Las autoridades y las personas titulares de las instancias académicas, administrativas, los órganos de gobierno y cualquier otra instancia universitaria que realice acciones relacionadas con este Protocolo deberán establecer los mecanismos y el personal suficiente para garantizar el registro de información necesaria para investigar, evaluar y difundir las acciones realizadas en cumplimiento de este Protocolo, respetando los datos personales y la confidencialidad, en los casos y temporalidad que así se definan. 
+
+Todos los datos que se recaben como parte de los procedimientos establecidos en el presente Protocolo estarán protegidos en estricto apego a la Ley General de Transparencia y Acceso a la Información Pública, a la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y a la legislación en la materia.
+
+La información que se produzca deberá garantizar la comprensión de las situaciones de discriminación, violencia contra las mujeres, hostigamiento y acoso sexual en la Universidad, así como brindar datos útiles y oportunos para la toma de decisiones, a fin de cumplir con las obligaciones definidas en este Protocolo.
+
+Artículo 47.- El acceso a la información que se produzca en relación con la operación de este Protocolo será gratuito.
+
+Se priorizará la difusión de la información en los grupos de atención prioritaria con el objetivo de que puedan participar en la toma de decisiones, de acuerdo con las formas de participación definidas en relación con los procesos de este Protocolo.
+
+Artículo 48.- La Defensoría de los Derechos Universitarios implementará campañas anuales para difundir la información producida cada año, como soporte para la promoción de los derechos y libertades que contempla este Protocolo, así como la promoción de los logros, cambios y decisiones tomadas en relación con su operación.
+
+Las campañas incluirán la información sobre cómo informar y dialogar sobre esta problemática, garantizando la protección de datos personales, así como ante aquellas acciones o prácticas que afectan la dignidad de las personas, especificando siempre que el acto de presentar una queja por sí mismo no es un acto de difamación, calumnia ni ataque al honor.
+
+Artículo 49.- La Universidad, sin divulgar, colaborará con las demás instancias públicas o de educación que soliciten conocer la situación y procesos que se hubieran realizado relativos a los contenidos de este Protocolo, entre los que se incluyen referencias sobre las personas que formen o hayan formado parte de su personal y/o de su estudiantado.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo IV. De la participación de la comunidad universitaria
+
+Artículo 50.- Es un derecho de la comunidad universitaria conocer y exigir el cumplimiento de las obligaciones definidas en este Protocolo.
+Es un deber de toda persona integrante de la comunidad universitaria conocer y respetar las disposiciones de este Protocolo.
+
+Artículo 51.- Toda persona integrante de la comunidad universitaria podrá:
+Expresar sus dudas, exigencias y propuestas ante las autoridades competentes o ante la Defensoría de los Derechos Universitarios. 
+Desarrollar espacios de difusión y diálogo sobre los contenidos de este Protocolo.
+Presentar información y propuestas que busquen ser tomadas en cuenta para el informe elaborado anualmente por la Defensoría de los Derechos Universitarios.
+
+Artículo 52.- Se creará la Red de Orientadoras como un espacio construido desde la comunidad universitaria, para garantizar la accesibilidad en la orientación y para consolidar procesos de solidaridad y compromiso desde toda la comunidad universitaria.
+
+[Regresar a Documento Principal](index.html)
+
+## Capítulo V. De la evaluación
+
+Artículo 53.- Todas las instancias universitarias que diseñen y operen lo señalado en este Protocolo deberán instaurar mecanismos de evaluación de sus acciones, en los que participen las usuarias y usuarios, así como las personas obligadas por las disposiciones de este Protocolo.
+
+Para realizar la evaluación del conjunto de acciones realizadas por la Universidad, cada instancia obligada respecto de este Protocolo presentará anualmente la información para la evaluación, a la Defensoría de los Derechos Universitarios, dentro de los tiempos establecidos para ello y acorde a los indicadores de cumplimiento progresivo de las obligaciones en materia de derechos humanos definidos por la Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, y del derecho de las mujeres a una vida libre de violencia, definidos por el Mecanismo de Seguimiento de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+Artículo 54.- Cada año, la Defensoría de los derechos universitarios presentará ante el Pleno un informe, en donde se incluya al menos la siguiente información:
+
+    Datos cuantitativos y cualitativos sobre las acciones realizadas en cumplimiento de las obligaciones definidas en este Protocolo, desglosando con fines estadísticos la información respecto de, por lo menos, las siguientes condiciones: sexo, orientación sexual, identidad y expresión de género, idioma, etnia, identidad cultural, edad, posición socioeconómica, nacionalidad, sector, colegio —en su caso- y plantel.
+
+    Datos y su análisis sobre los obstáculos, necesidades y omisiones que dificulten el cumplimiento de los objetivos del Protocolo y, a partir de ellos, propuestas para corregir, subsanar o mejorar la situación que se reporta.
+
+    Datos y su análisis de las necesidades del personal responsable de operar el Protocolo, así como de las propuestas para garantizar su profesionalización y la efectividad de su trabajo.
+
+    Registro y análisis de los alcances y necesidades de la formación de la comunidad universitaria en la eliminación de prejuicios y estereotipos discriminatorios y que sustenten privilegios.
+
+    Datos y análisis sobre los cambios de las percepciones, actitudes y prácticas sociales ante la discriminación, la violencia contra las mujeres y la violencia sexual de la comunidad universitaria, con el fin de definir de manera más precisa la programación de actividades de prevención y formación relativas al Protocolo.
+
+[Regresar a Documento Principal](index.html)
+
+
+# Título III. De los procedimientos de actuación
+
+## Capítulo I. Disposiciones generales
+
+Artículo 55.- Las autoridades, los órganos de gobierno y cualquier otra instancia universitaria garantizarán la atención a toda persona de la comunidad universitaria que se vea afectada por la discriminación por cualquier motivo, la violencia contra las mujeres, el acoso y/o el hostigamiento sexual o que presente queja/s de acuerdo con las condiciones definidas en este Protocolo. La atención será multidisciplinaria, orientada por la perspectiva de género y con fines de empoderamiento. La Unidad de Atención creará los modelos y mecanismos de coordinación necesarios para cumplir con lo anterior.
+
+El presente protocolo se aplicará para actos de discriminación, violencia contra las mujeres, hostigamiento y acoso sexual, realizados por:
+
+    Integrantes de la comunidad universitaria, sin importar si estos ocurren dentro o fuera de los espacios e instalaciones universitarias.
+
+    Personas externas a la Universidad en contra de integrantes de la comunidad universitaria, con independencia del lugar donde se cometan.
+
+    Integrantes de la comunidad universitaria que afecten a personas que no pertenezcan a la misma.
+    
+    Tratándose de las personas estudiantes que formen parte del Programa de Educación Superior para Centros de Reinserción Social, este Protocolo deberá ajustarse a los términos del Convenio de Colaboración Interinstitucional para la ejecución de programas de educación superior, investigación, difusión de la cultura y extensión universitaria. Las situaciones que se presenten en el contexto de la pena privativa de la libertad recaerán en las autoridades de la Ciudad de México. Bajo ninguna circunstancia este Protocolo resolverá ninguna situación relacionada con las penas privativas de la libertad a las que se encuentren sujetas las personas estudiantes ni con los procesos disciplinarios en el ámbito penitenciario, así como tampoco en su vida institucional dentro del Centro Penitenciario.
+
+Artículo 56.- Cualquier persona integrante de la comunidad universitaria que considere estar sufriendo discriminación, violencia por ser mujer, acoso y/u hostigamiento sexual, podrá presentar una queja ante la Unidad de Atención. Esta intervendrá mediante la interposición de una queja, ya sea que llegue de forma directa o derivada de alguna instancia universitaria, como la Comisión de Mediación y Conciliación; también podrán presentar queja/s terceras personas que tengan conocimiento de este tipo de hechos, en tanto son conductas u omisiones que afectan los principios básicos de la convivencia universitaria y es deber de todas las personas que la integran garantizar que se respeten. Las quejas anónimas serán atendidas, pues se entiende que hay personas que se sienten en riesgo al quejarse de este tipo de hechos. Sin embargo, se deben tener en cuenta los alcances y límites legales al investigar este tipo de queja. La Unidad de Atención podrá iniciar quejas de oficio en caso de considerarlo pertinente.
+
+Artículo 57.- El desconocimiento de la identidad de la persona agresora no eximirá del inicio del procedimiento de investigación definido en este Protocolo. Se hará el registro, se dará atención a la víctima y, de acuerdo con la investigación, se tomarán medidas para reparar los daños y evitar que el acto se repita.
+
+Artículo 58.- Se presume la buena fe de quien presenta una queja y también se presume la inocencia de la persona que sea señalada como agresora, por lo que será solo a través de la investigación que realice la Unidad de Investigación que se determinarán las responsabilidades, sanciones y reparación del daño.
+
+Artículo 59.- No existe un límite de tiempo para presentar la queja, pero se recomienda que se haga lo antes posible a partir de los hechos, con el fin de proteger la integridad de la comunidad universitaria.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo II. Instancias
+
+Artículo 60.- Las instancias que intervienen en los procedimientos contemplados en el presente Protocolo son:
+Coordinaciones de plantel.
+
+    Consejos de plantel
+
+    Comisiones de Mediación y Conciliación de los consejos de plantel.
+
+    Comisión de Mediación y Conciliación del Consejo Universitario.
+
+    Unidad de Atención de casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual de la Defensoría de los Derechos Universitarios.
+
+    Unidad de Investigación de la Defensoría de los Derechos Universitarios. 
+
+    Comité de Investigación.
+
+    Consejo de Justicia.
+
+    Oficina del Abogado General.
+
+Artículo 61.- Las coordinaciones de plantel y las comisiones de Mediación y Conciliación de los consejos de plantel tienen la responsabilidad de dar orientación y canalizar a las y los integrantes de la comunidad universitaria que deseen interponer una queja por motivo de discriminación, violencia contra las mujeres, acoso y/u el hostigamiento sexual a la Unidad de Atención. También deben informarles acerca de los contenidos del presente Protocolo, del apoyo psicológico que se les puede brindar y, de ser el caso, sobre la formulación de la queja. Para ello, deben recibir capacitación en atención a víctimas, con perspectiva de género.
+
+Artículo 62.- La Comisión de Mediación y Conciliación del Consejo Universitario deberá derivar a la Unidad de Atención los casos que se le presenten o que durante la investigación se haga evidente que son conductas relacionadas con este Protocolo.
+
+Artículo 63.- La Unidad de Atención es la encargada de brindar primera atención a la persona afectada. Está integrada por:
+
+    Un Área de prevención, gestión y análisis de riesgos especializada en atención de casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual, con perspectiva de género. De entre las personas integrantes de esta área, la persona titular de la Defensoría designará a la responsable de la Unidad de Atención.
+
+    Un Área de atención psicológica especializada en casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual, con perspectiva de género. La especialista ubicada en la sede administrativa de García Diego será la responsable del Área de atención psicológica.
+
+    Un Área jurídica especializada en atención de casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual, con perspectiva de género. De preferencia, habrá una persona por plantel. La especialista ubicada en la sede administrativa de García Diego será la responsable del Área jurídica.
+
+    Un integrante por sector de la comunidad universitaria por plantel, previa capacitación por parte de las áreas jurídica, de atención psicológica y de prevención, gestión y análisis de riesgos de la Unidad de Atención. Deberán organizarse de tal manera que ambos turnos queden atendidos.
+
+    Máximo dos integrantes de la comunidad universitaria por sede, previa capacitación por parte de las áreas jurídica, de atención psicológica y de prevención, gestión y análisis de riesgos de la Unidad de Atención. Deberán organizarse de tal manera que ambos turnos queden atendidos.
+
+Artículo 64.- La Unidad de atención estará adscrita a la Defensoría de los Derechos Universitarios y aplicará el procedimiento descrito en este Protocolo con independencia de los demás procedimientos establecidos por dicha Defensoría.
+
+Artículo 65.- La persona Titular de la Defensoría de los Derechos Universitarios nombrará a las personas que integren las áreas de especialización según lo establecido en su Reglamento.
+
+Artículo 66.- El Área de prevención, gestión y análisis de riesgos será la encargada de la primera dirección y supervisión de las actividades de la Unidad de Atención de manera cotidiana. Deberá informar a la persona titular de la Defensoría de los Derechos Universitarios y/o adjunta respecto del funcionamiento, con el fin de que ellas realicen las acciones necesarias conforme a su competencia.
+
+Artículo 67.- Serán requisitos para formar parte del Área jurídica de la Unidad de Atención:
+
+    Licenciatura en Derecho.
+    Experiencia comprobable en litigio de casos de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual.
+    Experiencia comprobable en atención a víctimas.
+    Tener formación comprobable en perspectiva de género.
+    Experiencia en capacitación y/o docencia en atención a casos de violencia contra las mujeres, acoso y/u hostigamiento sexual.
+
+Artículo 68.- Serán requisitos para formar parte del Área de atención psicológica de la Unidad de Atención:
+
+    Licenciatura en Psicología. 
+    Experiencia comprobable en atención y/o contención en casos de violencia contra las mujeres.
+    Experiencia comprobable en atención a víctimas.
+    Tener formación comprobable en perspectiva de género.
+    Experiencia en capacitación y/o docencia en atención a casos de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual.
+
+Artículo 69.- Serán requisitos para formar parte del Área de prevención, gestión y análisis de riesgos de la Unidad de Atención:
+
+    Licenciatura en Psicología, en Trabajo Social, en Sociología, en Antropología, en Ciencias Sociales o áreas afines.
+
+    Experiencia comprobable en atención de casos de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual:
+
+    Formación y experiencia comprobables en análisis de riesgos.
+
+    Experiencia en capacitación y/o docencia en evaluación de riesgos y/o atención de casos de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual.
+
+    Tener formación comprobable en perspectiva de género.
+
+Artículo 70.- Las personas que conformen las áreas jurídicas, de atención psicológica y de prevención, gestión y análisis de riesgos de la Unidad de Atención durarán en su cargo cuatro años. En caso de que la persona titular de la Defensoría de los Derechos Universitarios renueve su periodo, podrá nombrarlas por cuatro años más. 
+
+Artículo 71.- Es facultad de la persona titular de la Defensoría de los Derechos Universitarios destituir a las personas de las áreas jurídica, de atención psicológica y prevención, gestión y análisis de riesgos.
+
+Artículo 72.- La Unidad de Atención convocará a la comunidad universitaria -estudiantes, personal académico y administrativo, técnico y manual- para integrarse a la Unidad de Atención en los términos del Artículo 63.
+
+Artículo 73.- Quienes deseen formar parte de la Unidad de Atención en su plantel o sede, deberán reunir por lo menos los siguientes requisitos:
+
+    Tener adscripción al plantel o sede en donde quiera participar  
+
+    No haber sido sancionado o sancionada por ninguna de las conductas materia de este Protocolo.
+
+    Tener interés en comprender y formarse de manera continua en el deber de no discriminar, en perspectiva de género y en atención a casos de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual.
+
+    De preferencia, tener formación en psicología y/o leyes; y/o tener experiencia, conocimientos y/o formación en materia de derechos humanos, perspectiva de género y/o atención de casos de violencia contra las mujeres.
+
+    Tener disposición para el trabajo en equipo.
+
+    Tener disposición para atender casos en planteles o sedes que no sean los propios cuando así se requiera.
+
+Artículo 74.- La Unidad de Atención, en conjunto con la persona titular de la Defensoría de los Derechos Universitarios y con la persona titular de la Defensoría Adjunta, revisarán que las personas integrantes de la comunidad universitaria que se propongan para formar parte de la Unidad de Atención en su plantel o sede cumplan con los requisitos y, en su caso, las designarán.  Deberán garantizar que en la Unidad de Atención haya más mujeres que hombres o, de no ser posible, que al menos haya paridad de género. 
+
+Artículo 75.- Las personas integrantes de la Unidad de Atención por plantel o sede durarán en su cargo cuatro años y, si así lo desean, podrán solicitar al Área de prevención, gestión y análisis de riesgos mantenerse cuatro años más en funciones, para que ésta lo someta al juicio de la persona titular de la Defensoría de los derechos Universitarios y de la persona titular de la Defensoría Adjunta. Después de cuatro años de haber dejado de formar parte de la Unidad de Atención, las integrantes de la comunidad universitaria que quieran volver a ejercer esas funciones podrán proponerse de nuevo.
+
+Artículo 76.- Las o los estudiantes que formen parte de la Unidad de Atención en su plantel, podrán liberar con ello su servicio social. En ese caso, la Unidad de Atención hará las gestiones pertinentes.
+
+Artículo 77.- A las trabajadoras o trabajadores que formen parte de la Unidad de Atención en su plantel o sede se les tomará en cuenta el tiempo destinado a dicha encomienda como parte de sus funciones laborales. Para ello, las personas del sector académico tendrán una carga de docencia no mayor a seis horas semanales; a las personas del sector administrativo, se les dará en su área de trabajo una carga de 20 horas a la semana; el resto del tiempo lo destinarán a las labores propias de la Unidad de Atención.
+
+Artículo 78.- El Área jurídica de la Unidad de Atención acompañará a las o los integrantes de la comunidad universitaria que decidan libremente acudir a instancias externas para denunciar. El procedimiento en las instancias externas será independiente del que se siga por parte de la Universidad -de carácter administrativo-, para salvaguardar los derechos de la comunidad universitaria.
+
+Artículo 79.- Las actividades de las personas que conformen el Área jurídica de la Unidad de Atención estarán estrictamente circunscritas a orientar y brindar acompañamiento sin que esto signifique, bajo ninguna circunstancia, que tenga la representación legal de la persona atendida. En su caso, deberá canalizar a las personas hacia los organismos o instituciones pertinentes con los que la UACM tenga convenio.
+
+Artículo 80.- El Área de atención psicológica de la Unidad de Atención estará a cargo de dar primera contención a las y los integrantes de la comunidad universitaria que hayan sufrido las conductas descritas en este Protocolo. En casos urgentes o de emergencia, podrán trasladarse al plantel o sede donde haya ocurrido el caso. Para ello, la Universidad proveerá el transporte o los recursos materiales necesarios.
+
+Artículo 81.- Las actividades de las personas que conformen el Área de atención psicológica estarán estrictamente circunscritas a dar la primera atención y/o intervención en crisis sin que esto signifique, bajo ninguna circunstancia, iniciar un proceso psicoterapéutico. En su caso, deberán canalizar a las personas hacia los organismos o instituciones pertinentes con los que la UACM tenga convenio.
+
+Artículo 82.- La Unidad de Investigación de la Defensoría es la instancia encargada de investigar y se conforma por especialistas en casos de violencia y en perspectiva de género.
+
+Artículo 83.- El Consejo de Justicia es la instancia que recibe el dictamen elaborado por la Unidad de Investigación, y es quien decide si hay elementos para sancionar o no y, en su caso, la sanción o las sanciones en términos administrativos en el marco de las Normas de Convivencia. En el caso de las y los estudiantes, es la única instancia encargada de emitir una resolución. En el caso de las y los trabajadores/as, cuando la Unidad de Atención o el Consejo de Justicia consideren que la sanción a la falta podría ser el despido o la suspensión, remitirán el caso a la Oficina del Abogado de General para que ésta abra la junta aclaratoria según lo establecido en el Contrato Colectivo de Trabajo.
+
+Artículo 84.- La Oficina del Abogado General recibirá los casos de trabajadores/as que la Unidad de Atención o el Consejo de Justicia le envíe. En su procedimiento, deberá tomar en cuenta los dictámenes elaborados por la Unidad de Investigación y abrir la junta aclaratoria según lo establecido en el Contrato Colectivo de Trabajo.
+
+Artículo 85.- En todos los casos atendidos bajo los procedimientos marcados en este Protocolo, quedará prohibido encarar o reunir en un mismo espacio a la/s persona/s que presenten la queja y a la/s persona/s señalada/s como agresora/s. En dichos casos no se podrán llevar a cabo procesos de mediación ni de conciliación.
+Lo anterior incluye los casos en que, como parte del procedimiento de atención, se abra la junta aclaratoria. En esos casos se garantizará que las partes involucradas participen activamente; pero se respetará lo establecido en la Ley Federal del Trabajo en el artículo 684E, fracción XII, de no encarar o reunir a las partes, así como lo establecido en el artículo 685 Ter, fracción I de la misma Ley Federal del Trabajo, de no llevar a cabo ningún proceso conciliatorio.
+
+Artículo 86.- Las personas integrantes de la comunidad universitaria pueden apelar la resolución del Consejo de Justicia ante la Oficina del Abogado general. Esta es la última instancia interna a la que la comunidad universitaria puede acudir. Cuando la sanción se establezca por la Oficina del Abogado General, a través de la junta aclaratoria, la instancia de apelación de las y los trabajadores/as es la que marque la Ley Federal del Trabajo.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo III. Obligaciones en el procedimiento
+
+Artículo 87.- Para la actuación en caso de presentación de quejas, son obligaciones en el procedimiento:
+
+    Obligación de respeto.- Brindar a toda persona involucrada en el procedimiento un trato digno y libre de toda discriminación.
+
+    Obligación de guardar confidencialidad.- Las autoridades universitarias y personas involucradas en el proceso de atención y de investigación sólo podrán revelar información a las personas legal y legítimamente involucradas en el caso, en términos de normatividad de transparencia vigente. Cualquier revelación innecesaria puede ser motivo de responsabilidad.
+
+    Obligación de no realizar represalias o actos de hostigamiento.- Ninguna de las partes involucradas en el proceso de atención e investigación serán objeto de intimidación, persecución, discriminación o represalias. En caso de que esto sucediera, deberá integrarse a la investigación en curso como un hecho más. En caso de no haber investigación se iniciará una con el objeto de determinar los daños y las sanciones que correspondan. Estos mismos derechos y diligencias deberán iniciarse si las represalias o actos de hostigamiento se realizan en contra de quien representa, acompaña o es testigo en el caso.
+
+    Obligación de colaborar.- Toda persona integrante de la comunidad universitaria, toda área administrativa o académica y toda autoridad deberá aportar información, datos o colaborar en el procedimiento de investigación cuando sea necesario.
+
+    Obligación de escucha.- Obliga a la Unidad de Atención a escuchar a quienes han sufrido alguna violencia, sus necesidades y sus peticiones, a dialogar con ella/s y acordar las acciones para atenderla/s, así como las posibles medidas para la reparación del daño. En ningún caso se deberá presionar, inducir, coaccionar y/o imponer un procedimiento.
+
+    Obligación de no revictimizar.- Obliga a todas las autoridades a no desestimar el relato de la persona que presente una queja, a no someterla a interrogatorios innecesarios, a no establecer en su perjuicio cargas probatorias desproporcionadas o ajenas a la naturaleza de los hechos, o confrontándole con la persona señalada como agresora.
+
+Artículo 88.- Cuando se acredite la falsedad de las declaraciones, tanto en la presentación de la queja o por personas participantes del proceso de investigación, se investigará como una falta al Catálogo de normas de convivencia y se sancionará atendiendo a la gravedad del asunto. Además, se podrán iniciar las acciones legales a que haya lugar más allá de la Universidad.
+
+## Capítulo IV. Derechos de las víctimas
+
+Artículo 89.- Es derecho de las víctimas decidir la vía o materia jurídica por la cual denunciar los hechos que han afectado sus derechos y libertades, por lo que no se le puede imponer o limitar las vías por las cuales denunciar, de manera previa o paralela a la investigación universitaria.
+
+Las instancias universitarias de atención y/o las autoridades a lo largo del proceso deberán informarle a la persona que el procedimiento que se realice en la Universidad no restringe su derecho a presentar denuncias o querellas ante otras instancias públicas; tampoco suspende los plazos de prescripción que en esas otras opciones se tengan. 
+
+Las víctimas tienen derecho a ser informadas de forma clara, precisa, puntual, veraz, sin prejuicios o juicios de valor, respecto de las alternativas internas y externas para la atención oportuna de su caso. Una vez informada, a solicitud de la persona que presenta la queja, se le brindará la orientación y acompañamiento para interponer las acciones legales a las que haya lugar.
+
+Artículo 90.- Son derechos de las víctimas: 
+
+    La protección de sus datos personales y de identidad desde el momento en que presenta la queja.
+
+    Participar e intervenir en todas las partes del procedimiento a través de sí o de quien las represente.
+
+    Estar acompañadas de otra persona de su elección durante las distintas etapas y procedimientos que se definen en este Protocolo, si así lo desean. Podrán consultar y analizar con su acompañante las decisiones a tomar.
+
+    Recibir atención integral a los daños que sufra como consecuencia de los hechos por los cuales presentan la queja, así como a ser canalizadas a los servicios más adecuados a su situación.
+
+    Solicitar medidas de protección y ser protegida ante actos de intimidación, represalia u hostigamiento para sí y para sus personas cercanas, durante y después de los procedimientos.
+
+    La reparación del daño integral y transformadora.
+
+## Capítulo V. Derechos y obligaciones del personal que opera el Protocolo
+
+Artículo 91.- El personal que opere el Protocolo requiere de conocimiento y prácticas especializadas, con el objetivo de no reproducir la discriminación ni la violencia institucional contra las mujeres, y para trabajar adecuadamente con las personas que sufren algún tipo de violación a derechos que señala este Protocolo. Como elementos mínimos del perfil que se requiere se señalan los siguientes:
+
+    Conocimientos sobre el deber de no discriminar y la obligación de operar desde la perspectiva de género.
+    
+    Conocimientos sobre los contenidos esenciales del derecho a la educación, sus objetivos y fines, de manera que pueda adecuar los estándares del deber de no discriminar a las particularidades del derecho a la educación y la docencia.
+    
+    Conocimientos sobre los diversos tipos de violencia contra las mujeres y de la violencia sexual, particularmente sobre el hostigamiento y el acoso sexual.
+    
+    Conocimiento sobre las dinámicas organizacionales en el ámbito universitario, en específico de la Universidad Autónoma de la Ciudad de México.
+    
+    Experiencia en el trabajo de derechos humanos con perspectiva de género, de manera que sepa cuestionar la neutralidad del derecho, operar las acciones afirmativas e identificar los privilegios con el fin de no reproducirlos.
+    
+    Las demás características que la normatividad vigente y la evaluación de la operación del Protocolo identifique como básicas para el desarrollo del trabajo en discriminación, violencia contra las mujeres y violencia sexual.
+    
+Artículo 92.- Por la especialización que requiere el trabajo de operación de este Protocolo, son derechos de toda persona que lo opere, de manera no limitativa, los siguientes:
+
+    Capacitación y formación permanente y especializada en los contenidos de este Protocolo dentro de los horarios de trabajo.
+
+    Supervisión y contención especializada y oportuna en los contenidos de este Protocolo, pues se reconoce que es un trabajo de alto impacto que tiende a afectar física y mentalmente a la persona. Esta supervisión y contención busca garantizar también la calidad del trabajo necesario para afrontar la discriminación y la violencia que la tienen como causa y consecuencia.
+
+    Límite máximo de casos atendidos por persona para garantizar la calidad en la atención, lo que implicará promover y garantizar contar con los suficientes recursos humanos con el perfil adecuado, en caso de que se rebase el límite establecido por persona operadora, mismo que será establecido por la Unidad de Atención. 
+
+    Medidas de protección en casos de riesgo, mismas que serán definidas por la persona titular de la Defensoría de los Derechos Universitarios, y operadas por la instancia competente.
+
+    Los demás que surjan como producto de la evaluación anual de la operación del presente Protocolo.
+    
+Artículo 93.- Por la centralidad de las problemáticas que atiende este Protocolo para garantizar el patrimonio de la Universidad, son obligaciones del personal y de las personas que lo operan, de manera no limitativa, las siguientes:
+
+    Asistir a la capacitación y formación constante que la Universidad les brinde para consolidar su profesionalización y especialización.
+
+    Acudir a las sesiones y procesos de supervisión y contención que la Universidad les brinde para garantizar la calidad de su trabajo.
+
+    Asumir y actuar conforme a las medidas de protección que se definan en su favor, en aquellos casos o circunstancias que se acuerden.
+
+    Operar de acuerdo con lo establecido en el presente Protocolo.
+
+    Realizar los trámites necesarios para sustentar cualquiera de los procedimientos a su cargo, de acuerdo con los más altos estándares de derechos humanos con perspectiva de género.
+    
+    Las demás que surjan como producto de la evaluación anual de la operación del presente Protocolo.
+
+En casos en que quienes operan el Protocolo incumplan con las obligaciones aquí establecidas, dependiendo de la gravedad de los hechos, se dará una primera posibilidad de supervisión por parte de la persona titular de la Defensoría de los Derechos Universitarios para confirmar la comprensión cabal de sus obligaciones. En caso de reincidencia, se investigará por parte de un Comité de Investigación externo, compuesto según lo establecido en el Artículo 131 del presente Protocolo, gestionado y conformado por la Comisión de Mediación y Conciliación del Consejo Universitario, y se enviará a la Oficina del Abogado General para que se sancione según la gravedad del caso.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo VI. Orientación
+
+Artículo 94.- La Unidad de Atención deberá conformar la Red de Orientadoras, con acciones que incluyan la convocatoria, el registro de sus integrantes, la garantía para el acceso a sus derechos y el seguimiento para el cumplimiento de sus obligaciones y perfil.
+
+Artículo 95.- Las orientadoras promoverán los derechos humanos con perspectiva de género en su plantel o sede, y estarán capacitadas para brindar una primera orientación sobre las acciones y procedimientos que establece este Protocolo.
+
+Artículo 96.- La Red de Orientadoras estará integrada de manera voluntaria por estudiantes, personal académico y personal administrativo, técnico y manual que reúnan por lo menos los siguientes requisitos:
+
+    No haber recibido sanciones por ninguna de las conductas materia de este Protocolo.
+    
+    Tener interés en comprender y formarse en el deber de no discriminar y en perspectiva de género. 
+    
+    Quienes integren la Red de Orientadoras se considerarán personal que opera el Protocolo, en los términos del presente capítulo, para los efectos del capítulo sobre sus derechos y obligaciones.
+
+Artículo 97.- La Red de Orientadoras será coordinada por la responsable de la Unidad de Atención.
+
+Artículo 98.- La orientación tendrá por objeto: 
+    
+    Orientar a las personas sobre las conductas que se consideran como discriminación, violencia contra las mujeres, hostigamiento o acoso sexual.
+    
+    Explicar a las personas los procedimientos previstos en el presente Protocolo y sus alcances, tanto en las sanciones como en la reparación del daño.
+    
+    En esta etapa no se pueden llevar a cabo acciones propias de la investigación. En caso de que se detecten delitos que se persiguen de oficio, se deberá informar a quien solicita la orientación, así como a la Unidad de Atención. 
+    
+    Registrar las orientaciones que se realicen, así como los actos de promoción y enviar la información a la Unidad de Atención para el reporte anual.
+
+Artículo 99.- Son criterios para las acciones de primera orientación: 
+
+    Escuchar con actitud abierta, objetiva y tolerante la problemática planteada por la persona afectada, hasta la profundidad de datos que la persona quiera brindar y siempre con absoluto respeto a los derechos humanos.
+    
+    Identificar los posibles riesgos en que se encuentra la persona afectada y, de ser necesario, comunicarse con la Unidad de Atención. 
+    
+    Valorar inicialmente las alternativas de atención y exponerlas a la persona que solicita la orientación.
+    
+    En todo momento deberá observarse que sea la persona solicitante quien tome sus decisiones de manera libre e informada.
+
+La Defensoría de los Derechos Universitarios garantizará que, dentro de la capacitación que reciban las orientadoras como parte de sus derechos como personal que opera el Protocolo, se incluyan los criterios descritos en este artículo.
+
+Artículo 100.- Podrá solicitar la orientación: 
+
+    Toda persona integrante de la comunidad universitaria que considere haber sido víctima de un acto de discriminación, violencia contra las mujeres, hostigamiento y acoso sexual.
+    
+    Terceras personas que tengan conocimiento de actos definidos en este Protocolo.
+    
+    Toda persona que considere estar cometiendo o haber cometido conductas contrarias a este Protocolo contra una persona integrante de la comunidad universitaria.
+
+Artículo 101.- El contacto para la orientación podrá ser: 
+
+    Presencial
+    
+    Vía telefónica
+    
+    Vía correo electrónico
+    
+    Los datos de contacto de las orientadoras, previo consentimiento, estarán accesibles en los medios que se determinen para ello. 
+
+Artículo 102.- De cada orientación o atención se registrarán sólo datos generales que permitan el registro estadístico y de problemáticas relativas a este Protocolo. Para ellos se solicitarán los siguientes datos:
+
+    Edad
+
+    Sexo, orientación sexual y expresión e identidad de género
+
+    Etnia, identidad cultural
+
+    Idioma
+
+    Nacionalidad
+
+    Sector
+
+    Colegio
+
+    Plantel
+
+    Calidad desde la que solicita la orientación: víctima, tercera persona o probable generador
+
+    Referencia general de la materia por la que se pide atención: discriminación, violencia contra las mujeres, hostigamiento o acoso sexual
+
+Artículo 103.- Dentro de los siguientes 30 días de realizadas las acciones de orientación, las orientadoras enviarán los registros de las acciones a la Unidad de Atención.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo VII. Presentación de quejas
+
+Artículo 104.- Las quejas podrán ser recibidas directamente por la Unidad de Atención o podrán ser turnadas a ésta por la Comisión de Mediación y Conciliación del Consejo Universitario, por las coordinaciones de plantel o la persona responsable de la sede, por las comisiones de Mediación y Conciliación de los consejos de plantel, por la Oficina del Abogado General o por cualquier instancia a la que acuda la persona que presenta la queja. A partir de este momento, se activa el principio de confidencialidad y deberá mantenerse durante todo el proceso y el seguimiento del caso.
+En los casos de las personas estudiantes que formen parte del Programa de Educación Superior para Centros de Reinserción Social, la comunicación entre la persona que presenta la queja y la Unidad de Atención se llevará a cabo a través del propio PESCER, procurando la comunicación inmediata y oportuna. También podrá presentar la queja a través de una persona de su confianza ante la Unidad de Atención.
+
+Artículo 105.- La formalidad de la queja se reconocerá a través del formato que para tal efecto la Unidad de Atención elaborará. Las comisiones de Mediación y Conciliación de los consejos de plantel y las coordinaciones o personas encargadas de los planteles y sedes deberán conocer dicho formato y ayudar, en caso de que la persona afectada lo solicite, al llenado del mismo, siempre atendiendo al principio de confidencialidad.
+
+Artículo 106.- Siempre se acusará de recibida la queja, a quien la presenta, y se le informará del derecho a no sufrir represalias por haberla presentado, así como sobre la obligación de confidencialidad, firmando la carta compromiso para ello.
+
+Artículo 107.- Toda queja o registro de queja deberá contener al menos la siguiente información:
+    Nombre completo de la persona que presenta la queja, y la declaración de si desea resguardo de sus datos personales.
+    
+    Nombre completo de quien ha sufrido alguna de las conductas descritas en el presente Protocolo, y la declaración de si desea el resguardo de su identidad y/o de sus datos personales.
+    
+    Nombre completo de la persona presunta responsable.
+    
+    Tipo de vinculación con la Universidad de la persona que presenta la queja y de la persona que ha sufrido alguna violencia materia de este Protocolo.
+    
+    Tipo de vinculación con la Universidad de la persona presunta responsable.
+    
+    Matrícula o número de empleado/a o número de identificación oficial de la persona que presenta la queja.
+    
+    Edad.
+    
+    Sexo e identidad de género.
+    
+    Teléfono y/o correo electrónico de la persona que presenta la queja para realizar el seguimiento y mantener la comunicación.
+    
+    Breve descripción del hecho, lugar y fecha en el que acontecieron los hechos motivo de la queja.
+    
+    Si se registran personas que podrían rendir testimonio, proporcionar sus nombres completos; si se cuenta con pruebas relacionados con los hechos motivo de la queja, presentar copia de las mismas.
+    
+    Si se identifica la necesidad de establecer medidas de protección, así como aspectos relativos al daño y su reparación. 
+    
+    Firma de la persona que presenta la queja.
+
+La autoridad receptora de la queja brindará el apoyo y el auxilio necesario para que se obtenga el registro de la queja, con la información señalada como mínima en este capítulo. En ningún momento se obstaculizará la presentación de la queja ni se generarán cuestionamientos que responsabilicen a la víctima o minimicen los hechos que se presentan en la queja.
+
+Artículo 106.- Cuando se recabe información directa de quien presenta la queja se tomarán en cuenta los siguientes criterios:
+
+    El lugar deberá ser lo más propicio para realizar la entrevista: que no haya interrupciones o que éstas sean las mínimas; que la atmósfera sea neutral, de manera que se estimule la escucha.
+    
+    Informar sobre el principio de confidencialidad y de protección ante posibles represalias. 
+    
+    Enfatizar que la Universidad condena las conductas referidas en este Protocolo y que actúa para su prevención y erradicación.
+    
+    Reconocer expresamente que presentar una queja por los actos materia de este Protocolo no es tarea fácil, y que se reconoce el aporte de la persona que presenta la queja en la construcción de una cultura de igualdad y no discriminación.
+    
+    Atender con respeto, con empatía y escucha activa. En caso de que las condiciones personales de quien presenta la queja no le permitan expresarse fluidamente, podrá llamarse a la psicóloga de la Unidad de Atención o grabar la entrevista, previo consentimiento escrito de la persona entrevistada, para facilitar el registro.
+    
+    Evitar en todo momento expresiones estereotipadas o prejuicios discriminatorios que tiendan a responsabilizar a la persona de su sufrimiento, que expresen descrédito de su dicho o cuestionen elementos como el tiempo transcurrido para presentar la queja.
+
+Artículo 107.- Cuando se trate de una situación urgente o cuando las orientadoras y/o las autoridades del plantel o sede consideren que así se requiere, deberán contactar de inmediato a la Unidad de Atención en el plantel o sede para que se resuelva la forma más eficaz y expedita para atender. Para ello, la Unidad de Atención en el plantel o sede podrá solicitar el apoyo de las áreas jurídica, psicológica y/o de prevención, gestión y análisis de riesgos. Si así lo decide la persona afectada, se le dará acompañamiento para levantar el acta correspondiente.
+
+Artículo 108.- En caso de que la persona afectada no se encuentre en condiciones para levantar el acta o no desee hacerlo en ese momento, tiene la opción de elaborarla con asesoría de la Unidad de Atención o de forma privada, y entregarla después.
+
+[Regresar a Documento Principal](index.html)
+
+## Capítulo VIII. Primera atención y medidas de protección
+
+Artículo 109.- La Unidad de Atención dará́ acompañamiento durante el proceso a la o las personas afectadas y, de ser necesario, pedirá el apoyo de las comisiones de Mediación y Conciliación de los consejos de plantel, de las coordinaciones o de las personas responsables de los planteles y sedes. También se podrá solicitar asesoría externa.
+
+Artículo 110.- Las medidas de protección son todas aquellas medidas que se puedan tomar en beneficio de las personas víctimas de violencia o en riesgo de serlo con el fin de “salvaguardar su integridad física y psíquica, así como su patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren” (LAMVLVCDMX). Las medidas de protección que se implementen en favor de la persona que presenta la queja no se considerarán sanciones y no afectarán los derechos laborales de la persona a quien se le impongan.
+
+Artículo 111.- La persona Titular de la Defensoría podrá instruir a las instancias pertinentes a que se tomen medidas urgentes de protección a favor de la persona que se encuentre en una situación de vulnerabilidad que ponga en riesgo su integridad física o psicológica. La implementación de éstas no es, en ningún caso, un juicio a priori de la situación, ni constituye una valoración a favor de una u otra persona, sino que se trata de implementar medidas de protección, prevención y contención, como lo señala la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México.
+
+Artículo 112.- Para determinar las medidas de protección se evaluarán los siguientes elementos: 
+
+    Riesgo y condiciones de seguridad de la persona que presenta la queja
+    
+    La situación de vulnerabilidad de la persona que presenta la queja
+    
+    El contexto universitario o social en el que se presentaron los hechos motivo de la queja 
+    
+    La relación de jerarquía y la potencial afectación a los derechos y libertades de la persona que presenta la queja
+    
+    La frecuencia con que ocurrieron los hechos, los espacios en que ocurrieron y el riesgo de interacción entre las personas involucradas
+    
+    La naturaleza de la violencia en relación con:
+    
+    La gravedad del incidente respecto a la persona afectada.
+    
+    La duración de los incidentes.
+    
+    Los antecedentes de los hechos.
+
+Artículo 113.- Las medidas de protección que se definan se operarán de manera inmediata y desde el máximo de los recursos y capacidades institucionales. Son posibles medidas de protección, no limitativas, las siguientes:
+
+    La reubicación de la persona contra quien se levantó la queja en un lugar distinto de trabajo y actividad, siempre y cuando no se ponga en riesgo a la comunidad del lugar donde se pretenda realizar dicha reubicación.
+    
+    El cambio de turno, grupo o plantel cuando sea pertinente y conforme a la situación laboral y administrativa, siempre y cuando no se ponga en riesgo a la comunidad del turno, grupo o plantel donde se pretenda realizar dicho cambio.
+    
+    La garantía del goce de sus derechos universitarios de quien presenta la queja y/o de la persona afectada.
+    
+    La identificación y resguardo de los documentos y objetos de importancia y valor para la garantía y protección de los derechos de quien presenta la queja o de la persona afectada.
+    
+    El apoyo académico y/o laboral para que la persona no vea afectado el desarrollo de sus actividades.
+    
+    El otorgamiento de los datos de contacto efectivos dentro de la Universidad para dar aviso de situaciones de riesgo o violencia, tales como guardias de seguridad, personal jurídico que dé fe de los hechos, entre otros.
+    
+    La atención al riesgo brindando acompañamiento directo ante las instancias públicas competentes para que, en su ámbito de competencia, se proceda a la emisión de medidas de protección en el marco normativo de la materia, con independencia de los procedimientos internos que se inicien en la Universidad.
+    
+    Las medidas de protección podrán hacerse extensivas a favor de otras personas relacionadas con los hechos, acerca de las cuales también se determine que están en riesgo.
+
+Artículo 114.- Las medidas de protección deberán estar enmarcadas en el plan de atención construido y aceptado por la persona afectada.
+
+Artículo 115.- Las medidas de protección durarán en tanto se realice la investigación. La resolución deberá determinar si se extienden o se extinguen.
+
+Artículo 116.- En la atención se deberá, en un primer momento:
+
+    Presentar a la o las integrantes de la Unidad de Atención que estén a cargo del caso.
+
+    Brindar a la persona afectada información suficiente y clara sobre los procedimientos posibles en el marco del presente Protocolo, así como sus alcances.
+
+    Preguntar a la persona afectada qué es lo que espera después de haber presentado la queja. De ninguna manera se debe presionar o forzar a la persona afectada para que siga algún procedimiento. Se deben poner en el centro de esta construcción la palabra, las necesidades, los deseos y las decisiones de la persona afectada. 
+
+    Informar a la persona afectada cuáles son las opciones de procuración de justicia a las que puede recurrir para denunciar. 
+
+Artículo 117.- Se ofrecerá desde la Universidad a la persona afectada lo siguiente:
+
+    De acuerdo con su necesidad prioritaria, un proceso gratuito de acompañamiento en crisis: psicológico, médico y/o legal.
+    
+    Para cumplir lo estipulado en el artículo anterior, se derivará a la persona afectada a una de las asociaciones o instituciones que brindan atención en casos de violencia de género, con quienes la Universidad haya firmado convenio. Dentro de cada convenio se deberá́ haber establecido que la asociación o institución brindará apoyo psicoterapéutico y asesoría legal en caso de ser necesario, y que estará obligada a rendir un informe de seguimiento, mismo que deberá integrarse al expediente del caso, el cual será confidencial. 
+    
+    En caso de requerirse atención médica de urgencia derivado de lesiones que pongan en riesgo la vida o integridad de la persona víctima, incluyendo la salud mental, se deberá ofrecer de manera inmediata la atención de primeros auxilios con el personal médico de la sede o plantel en el que suceda y se hará el registro de dicha atención acorde a los registros forenses pertinentes de atención inicial. 
+    
+    En caso de que dicha violencia ocurra al exterior, en un contexto fuera de la vida universitaria, y la víctima se presente ante la persona responsable de los servicios médicos en la sede o plantel, ésta procederá conforme a los protocolos de salud pública para derivar a las instancias correspondientes.
+    
+    Identificar y fortalecer sus redes de apoyo dentro y fuera de la Universidad, incluyendo personal académico o autoridades, con el fin de garantizar presencia y acompañamiento físico cercano a su persona, siempre respetando la confidencialidad del proceso.
+    
+    Fortalecer la capacidad de la persona afectada de analizar el conflicto y afrontarlo de manera no violenta.
+    
+    Consolidar condiciones de prevención de la conducta motivo de la queja como parte del contexto de cada caso.
+
+Artículo 118.- Se pedirá a la persona afectada que narre los hechos por escrito en el orden en que ocurrieron y, en la medida de lo posible, aporte evidencias tales como videos, fotos, audio, escritos, etc. Si la agresión fue por redes sociales, se solicitarán las capturas de pantalla correspondientes y se recomendará que, con posterioridad, se bloquee a la persona presunta responsable.
+
+Artículo 119.- En toda reunión que se lleve a cabo como parte del proceso, se levantará un acta para documentar, dejar precedente de lo sucedido y dar seguimiento al caso. El acta deberá ser firmada por quienes estén presentes en las reuniones. 
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo IX. Procedimiento de investigación
+
+Artículo 120.- La investigación tiene como objetivo priorizar la reflexión acerca de las conductas que atiende el presente Protocolo, el o los contextos que las posibilitan o promueven, así como las estructuras sociales que las generan.
+
+Artículo 121.- La Unidad de Atención tendrá como máximo cinco días hábiles para notificar a la persona presunta responsable acerca de la queja, y deberá llevar a cabo una reunión con ella. En dicha reunión, las personas integrantes de la Unidad de Atención deberán presentarse y darle a conocer a la persona la obligación de confidencialidad y no represalias. Para ello, la persona presunta responsable firmará una carta compromiso junto a la notificación. Asimismo, la Unidad de Atención, en caso de que se dicten medidas de protección, será la encargada de informar a la persona probable responsable sólo de aquellas que le competen, en pro de la seguridad de la persona beneficiaria de dichas medidas.
+
+Artículo 122.- Se le deberá brindar a la persona presunta responsable información suficiente y clara sobre el objetivo de la reunión, el procedimiento establecido en el presente Protocolo y los alcances del mismo. 
+
+Artículo 123.- La persona presunta responsable deberá dar contestación a los hechos dentro del término de cinco días hábiles contados a partir de la notificación. Deberá ser por escrito, ante las personas integrantes de la Unidad de Atención que lleven el caso, y contener la siguiente información:
+
+    Nombre completo.
+    
+    Contestación de acuerdo a los hechos motivo de la queja.
+    
+    Los medios de prueba con los que sustenta su contestación.
+    
+    Si existe reconocimiento parcial o total de los hechos motivo de la queja y, en su caso, las formas que ofrece para reparar el daño.
+    
+    Firma.
+
+Artículo 124.- Si la persona presunta responsable acepta que realizó los actos, el Consejo de Justicia o la Oficina del Abogado General, según sea el caso, lo tomarán en cuenta al determinar la sanción y/o la persona afectada podrá considerarlo como una de las acciones de reparación del daño.
+
+Artículo 125.- Si la persona presunta responsable no acude a las reuniones convocadas por la Unidad de Atención sin causa justificada, se levantará un acta de hechos y se le citará en una segunda ocasión, de manera personal. Si tampoco se presenta, se levantará una segunda acta de hechos y se tendrán por ciertos los hechos que se le atribuyen.
+
+Artículo 126.- Las integrantes de la Unidad de Atención encargadas del caso deberán estar en comunicación constante con la persona afectada, a fin de conocer su estado emocional e informarle de las acciones realizadas.
+
+Artículo 127.- La Unidad de Atención remitirá el caso a la Unidad de Investigación de la Defensoría.
+
+Artículo 128.- La Unidad de Investigación deberá contar con personas con perfil y experiencia en derechos humanos y con perspectiva de género para hacerse cargo de los casos materia de este Protocolo; se incluirán profesionales con conocimientos en psicología, derecho, trabajo social e investigación social, entre otras disciplinas. 
+
+Artículo 129.- Para ser integrante de la Unidad de Investigación para atender casos materia de este Protocolo se requiere, por lo menos: 
+    
+    No haber sido sancionado por ninguna de las conductas materia de este Protocolo.
+    
+    Ser especialista en el deber de no discriminar y en perspectiva de género.
+    
+    Contar con una experiencia mínima de cinco años en el deber de no discriminar y en perspectiva de género.
+    
+    Contar con experiencia en investigación y trabajo en equipo.
+    
+    Acreditar acompañamiento o litigio en casos de discriminación, violencia contra las mujeres, hostigamiento y/o acoso sexual.
+
+Artículo 130.- Cuando se trate de posibles delitos que se persigan de oficio, la Unidad de Atención deberá informar de manera inmediata a las autoridades correspondientes para su debida investigación en el ámbito penal, sin que ello signifique que se detenga la investigación al interior de la Universidad. 
+
+Artículo 131.- Cuando en la queja presentada estén involucrados hechos de posibles delitos que se persigan de oficio o en casos en que la Unidad de Atención considere de tal gravedad que lo amerite, ésta conformará para cada uno de esos casos un Comité de investigación externo para realizar la investigación conforme a este Protocolo.
+
+Dicho Comité estará compuesto por tres personas especialistas, con perfil y experiencia en derechos humanos y con perspectiva de género. Entre las personas especialistas que integrarán el Comité de Investigación, se incluirán profesionales con conocimientos en psicología, derecho, trabajo social e investigación social, entre otras disciplinas.
+
+Artículo 132.- Para ser integrante del Comité de Investigación es indispensable:
+
+    No formar parte de la comunidad universitaria.
+
+    No haber sido sancionado por ninguna de las conductas materia de este Protocolo.
+
+    Ser especialista en el deber de no discriminar y en perspectiva de género.
+
+    Contar con una experiencia mínima de cinco años en el deber de no discriminar y en perspectiva de género.
+
+    Contar con experiencia en investigación y trabajo en equipo.
+
+    Acreditar acompañamiento o litigio en casos de discriminación, violencia contra las mujeres, hostigamiento o acoso sexual, según sea el caso.
+
+Artículo 133.- La Oficina del Abogado General y la Unidad de Atención integrarán un directorio de personas con quienes la Oficina del Abogado General y la Defensoría de los Derechos Universitarios establecerán un primer acuerdo general sobre las condiciones básicas a cumplir en caso de que se integren en un Comité de Investigación.
+De manera mínima se deberá acordar sobre: 
+
+    Los tiempos para integrarse a un Comité de Investigación, una vez que se haya notificado el inicio del procedimiento correspondiente.
+
+    Las formas y tiempos generales de participación.
+
+    Las necesidades generales para su participación.
+
+    Los principios y etapas generales de investigación, así como el carácter confidencial del procedimiento.
+
+Artículo 134.- La Unidad de Atención valorará los curricula vitarum de quienes formen parte del directorio y los elegirá según las características del caso. 
+
+Artículo 135.- La Unidad de Investigación y/o el Comité de Investigación no prejuzga sobre la veracidad de los hechos motivo de la queja, sino que busca esclarecerlos, y en su caso, confirmarlos. A partir de esta investigación, la Unidad de Atención estará en condiciones de enviar el expediente para su resolución al Consejo de Justicia o, en caso de que la sanción, dada la falta, pueda derivar en separación temporal o definitiva de la Universidad del personal académico o administrativo, técnico y manual, a la Oficina del Abogado General, para que establezcan las sanciones en caso de que la investigación haya dado como resultado que, en efecto, se realizó alguna conducta descrita en el presente Protocolo.
+
+Artículo 136.- La Unidad de Investigación y/o el Comité de Investigación tiene la atribución de investigar y, con los elementos a su alcance, confirmar o señalar si sucedieron o no los hechos motivo de la queja y en su caso, confirmarlos. A partir de esta investigación, la Unidad de Atención estará en condiciones de enviar el expediente para su resolución al Consejo de Justicia o, en caso de que la sanción, dada la falta, pueda derivar en separación temporal o definitiva de la Universidad del personal académico o administrativo, técnico y manual, a la Oficina del Abogado General, para que establezcan las sanciones en caso de que la investigación haya dado como resultado que, en efecto, se realizó alguna conducta descrita en el presente Protocolo.
+
+Artículo 137.- El proceso de investigación deberá asegurar, de acuerdo con los protocolos normativos vigentes y los más altos estándares de derechos humanos, que la persona que presenta la queja tenga la oportunidad de plantear su posición sin riesgos para su integridad y bajo el principio de buena fe. Cabe recordar que el presente Protocolo contempla la derivación a instancias de apoyo psicológico y las medidas precautorias que se requieran. Respecto a la persona presunta responsable, esta instancia también debe asegurarle el ejercicio de su derecho al debido proceso y la defensa de su fama pública hasta que los hechos no se hayan esclarecido, a través de la garantía del principio de confidencialidad. 
+
+Artículo 138.- La recepción de declaraciones de las personas involucradas y testigos/as deberá realizarse por personas especializadas en derechos humanos con perspectiva de género sin conflicto de interés respecto del caso que se investiga.
+
+Artículo 139.- La Unidad de Investigación, o en su caso el Comité de investigación, es la encargada de tomar las declaraciones a las personas involucradas en un contexto que brinde confianza y seguridad a quienes declaran. En todo momento se deberá garantizar la confidencialidad de dicha información con el objetivo de garantizar las presunciones de inocencia y buena fe de las partes involucradas.
+
+Artículo 140.- La Unidad de Investigación —o en su caso el Comité de investigación— podrá recurrir a estadísticas oficiales y otras pruebas documentales que ayuden a comprender el contexto y la situación de las personas involucradas.
+
+Artículo 141.- La Unidad de Atención y la Oficina del Abogado General podrán coadyuvar con la Unidad de Investigación —o en su caso con el Comité de Investigación— para el acopio de cuanta información pueda resultar conveniente para el esclarecimiento de los hechos. El carácter confidencial o reservado de la información no será impedimento para incorporarse como prueba; sin embargo, la Unidad de Investigación y/o el Comité de Investigación deberán manejar esta información bajo estricta confidencialidad y de acuerdo con la normativa vigente de transparencia y acceso a la información.
+
+Artículo 142.- La Unidad de Investigación y/o el Comité de Investigación deben tomar en cuenta la narración de hechos de las personas involucradas, así como las evidencias que aporten (videos, fotos, audio, escritos, capturas de pantalla, etc.).
+
+Artículo 143.- Para determinar la existencia de alguna conducta descrita en este Protocolo, la Unidad de Investigación o el Comité de Investigación deberán considerar el contexto de la persona que presenta la queja, de la relación entre las personas involucradas y de los actos mismos.
+
+Artículo 144.- La Unidad de Investigación y/o el Comité de Investigación deberán ubicar la conducta en lugar y contexto, valorando las circunstancias en las que se encuentra la persona que presenta la queja. Para ello es necesario que distinga las modalidades de la violencia y determine si hay elementos que también den prueba de un continuo de violencia que abarque distintos tipos y modalidades.
+
+Artículo 145.- En relación con el espacio donde ocurran los actos de violencia, la Unidad de Investigación y/o el Comité de Investigación considerarán que puede extenderse más allá de las instalaciones de la Universidad. Por lo tanto, deberán considerar que el entorno de relación entre las personas involucradas no corresponde sólo al espacio físico de un cubículo o un aula, sino a los espacios y situaciones relacionadas con las actividades académicas y laborales (tutorías, asesorías, reuniones de trabajo, traslados, u otras actividades relacionadas con el ámbito académico y de trabajo) esta información deberá tenerse presente para la determinación de la prevalencia de medidas de protección y para la reparación del daño.
+
+Artículo 146.- La Unidad de Investigación y/o el Comité de Investigación deben evaluar correctamente la aceptación de la persona que presenta la queja. Un elemento esencial para configurar la violencia contra las mujeres, el acoso y/o el hostigamiento sexual, es que se trate de conductas indeseadas por parte de la víctima, lo cual no forzosamente implica que ésta adopte una postura contundente de oposición. La falta de oposición inmediata y la manifestación expresa de la negativa por parte de la víctima no debe ser una exigencia prevalente para la configuración de la violencia, el acoso o el hostigamiento, ya que la ausencia de oposición contundente puede deberse al temor a represalias, a la incapacidad real de defensa o a la convicción de que se carece de dicha capacidad. Para determinar que existe aceptación y desestimar, por tanto, la existencia del acoso o del hostigamiento, es necesario que el consentimiento sea expreso e inequívoco.
+
+Artículo 147.- La Unidad de Investigación y/o el Comité de Investigación deberán considerar que la intención de violentar, acosar u hostigar por parte de quien lo hace no es un elemento indispensable para configurar la violencia, pues éstas están normalizadas y son producto de la reproducción de estereotipos que discriminan a personas en situaciones desiguales de poder, como las mujeres o las personas con orientación sexual no heterosexual. Ahora bien, a pesar de la aceptación expresa e indubitable de estas expresiones por parte de la víctima, si las consecuencias de tales hechos afectan sus derechos y libertades, se considerarán como conductas discriminatorias.
+
+Artículo 148.- La Unidad de Investigación y/o el Comité de Investigación están obligados a evaluar la existencia de las relaciones de poder entre las partes involucradas. Para que la investigación, la valoración y la dictaminación de cada caso sean correctas, resulta imprescindible analizar las relaciones de poder formales e informales en los casos materia del presente Protocolo.
+
+Artículo 149.- En casos de hostigamiento sexual, la disparidad en el poder es siempre un elemento sustantivo, pues esta disparidad de poder permite —mas no determina— las conductas que tipifican la violencia, condicionan su impacto y el nivel de resistencia de las víctimas. Por ello, la Unidad de Investigación y/o el Comité de Investigación buscarán siempre responder a la pregunta: ¿quién ejerce el poder?, ya sea éste formal o informal, en cada caso.
+
+Artículo 150.- La pertinencia de señalar las relaciones de poder que pueden dar lugar a abusos, equivale a hacer una presunción de que cualquier disparidad es propensa a generar situaciones ilegítimas de subordinación. Lo anterior no significa dar el abuso por hecho, sino sólo presumir que es factible, e investigar en consecuencia. Es decir, las presunciones deben orientar las investigaciones.
+
+Artículo 151.- Para valorar las pruebas, la Unidad de Investigación y/o el Comité de Investigación deben considerar la mecánica de los actos constitutivos de violencia para valorar la prueba. En su mayoría, los casos de violencia contra las mujeres, el acoso y/o el hostigamiento sexual implican conductas de realización oculta, lo que impone la obligación de atender cuidadosamente la información que proporciona quien acusa y otorgar valor a la prueba indirecta, esto es, a aquella prueba que se refiere a las consecuencias y a lo que prueba la circunstancias señaladas en el dicho de la persona denunciante. La Suprema Corte de Justicia ha establecido mediante jurisprudencia en materia penal que “Tratándose de delitos sexuales, adquiere especial relevancia el dicho de la persona ofendida, por ser este tipo de ilícitos refractarios a prueba directa”. 
+
+Artículo 152.- Una vez terminada la investigación, la Unidad de Investigación —o, en su caso, el Comité de Investigación— entregará a la Unidad de Atención y al Consejo de Justicia o a la Oficina del Abogado General, según sea el caso, un dictamen escrito, donde se deberá incluir:
+
+    Su determinación, fundada y motivada, sobre la existencia o no del o los actos constituyentes de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual. 
+
+    Su determinación, fundada y motivada sobre la existencia o no de los elementos señalados en las fracciones del Artículo 154 y del Artículo 155.
+
+    Deberá resaltar aquellas pruebas que consideró relevantes para tomar su determinación.
+
+    Recomendaciones a la Universidad para que ésta tome medidas que permitan prevenir nuevas acciones, impedir la continuidad de la violencia y/o la repetición del daño. 
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo X. Sanciones y reparación del daño
+
+Artículo 153.- Si el dictamen elaborado por la Unidad de Investigación —o, en su caso, por el Comité de Investigación— determina la existencia de discriminación, violencia contra las mujeres, acoso y/u hostigamiento sexual, se derivará, en el caso de quienes tienen una relación laboral con la Universidad, a la Oficina del Abogado General, para que abra la junta aclaratoria en los términos que marca el Contrato Colectivo de Trabajo; en el caso de las y los estudiantes, se derivará al Consejo de Justicia en los términos marcados por las Normas de Convivencia. La versión pública de dicho dictamen se anexará al expediente de la persona —trabajador/a o estudiante— ante la instancia competente. 
+
+Artículo 154.- Para el establecimiento, tanto de las sanciones como de la reparación del daño, se deberán tomar en cuenta las particularidades de cada caso, gradándolas con un sentido de lógica y equidad, y habiendo escuchado siempre a las partes involucradas. Serán guía los principios pro-persona, de igualdad, no discriminación y proporcionalidad; con perspectiva de género, garantizando que en la Universidad prevalezcan los derechos humanos como eje fundamental de la convivencia.
+Para la gradación se tomarán en cuenta los siguientes elementos: 
+
+    El daño y/o el efecto causado.
+    
+    La gravedad de la acción, omisión o práctica.
+    
+    La existencia o no de represalias durante el proceso de presentación de la queja e investigación.
+    
+    La reiteración de los actos por la misma persona responsable, sea en perjuicio de la misma o diferente persona agraviada.
+    
+    El reconocimiento por parte de la persona presunta responsable de la falta y los daños causados.
+
+Artículo 155.- Las sanciones que pueden imponerse por las faltas señaladas en este Protocolo, en concordancia con los artículos 52 y 53 del Catálogo de Normas de Convivencia, son:
+
+    Amonestación por escrito. La amonestación puede ser pública o privada.
+
+    Apercibimiento. Puede ser público o privado.
+
+    Emisión de un acta circunstanciada.
+
+    Presentación de una disculpa pública.
+
+    Prestación de servicio comunitario.
+
+    Reparar el daño o perjuicio causado a personas. Reparar el daño o perjuicio que se haya ocasionado a la Universidad o a sus bienes.
+
+    Carta compromiso de cambio de conducta.
+
+    Rehabilitación condicionada
+
+    Separación temporal de la Universidad
+
+    Cuando se hayan agotado todas las rutas de resarcimiento de la falta, o cuando la gravedad de la misma sea extrema e irreparable, se sancionará con la separación definitiva de la Universidad.
+
+    En caso de que se sancione con la separación temporal de la Universidad, ésta no podrá exceder el plazo de 6 meses o un semestre, debidamente motivado y de conformidad con la naturaleza de la relación que la persona sancionada tenga con la Universidad. 
+
+    En caso de que se sancione con la separación definitiva de la Universidad, si se trata de una persona trabajadora, se hará con fundamento en la Ley Federal del Trabajo, el Catálogo de Normas de Convivencia, el presente Protocolo y la normatividad aplicable; si se trata de una persona estudiante, se hará con fundamento en el Catálogo de Normas de Convivencia, el presente Protocolo y la normatividad aplicable.
+    
+Artículo 156.- Para la individualización de la sanción, así como para la definición de la reparación del daño, será indispensable tener presente, además de lo establecido en el Artículo 154, que:
+
+    Las conductas prohibidas en este protocolo son graves, ya que atentan contra el reconocimiento de la dignidad, la igualdad y la libertad de las personas.
+    
+    Por su gravedad, es necesario actuar desde el acto más incipiente, con el objetivo de evitar el incremento de los daños y/o la permanencia de prácticas discriminatorias y/o violentas en la comunidad universitaria.
+    
+    La discriminación por cualquier motivo, la violencia contra las mujeres y los actos de hostigamiento y acoso sexual tienen como una de sus características que, cuando no son atendidas adecuadamente desde el primer hecho, se desarrollan en un continuo de violencia que puede combinar tipos y modalidades, ya sea a través de represalias, de la reiteración de los hechos y/o actos u omisiones que sostienen dicha violencia y discriminación. Cuando esto ocurra, para establecer la sanción, deberán tomarse en cuenta y evaluarse los daños de ese continuo y, en su caso, de la combinación de tipos y modalidades de violencia en conjunto y no separados, de acuerdo a las definiciones establecidas en este Protocolo para cada una de las conductas identificadas.
+
+Artículo 157.- Será el Consejo de Justicia el que establezca las sanciones, excepto en los casos donde se hayan derivado a la Oficina del Abogado General y sea ésta quien las establezca.
+
+Artículo 158.- En cumplimiento del artículo 1º Constitucional y de acuerdo con el artículo 1º de la Ley General de Víctimas, la  reparación del daño es la obligación, por parte de quien incurrió en las faltas descritas en este Protocolo y/o, en el ámbito de su competencia, a la Universidad, de restablecer la situación de la o las víctimas, previa a la violación de sus derechos, a través de las medidas de reparación integral que aquí se definen y que se encuentren también en la normatividad en la materia, así como de eliminar los efectos que dicha violación produjo.
+
+Ya que las conductas prohibidas en el presente Protocolo tienen como causa o consecuencia la discriminación, la reparación del daño implicará para la Universidad —de acuerdo con el ámbito y las competencias de sus autoridades— diseñar y operar las medidas de reparación del daño con una vocación transformadora. Se entenderá por vocación transformadora que las medidas de ayuda, protección, asistencia y reparación integral a las que tiene derecho la víctima contribuyan a la eliminación de los esquemas de discriminación y marginación que pudieron ser la causa de los hechos victimizantes, o que se generaron como consecuencia de los hechos victimizantes.
+
+Artículo 159.- La reparación integral del daño comprende el conjunto de medidas de restitución, rehabilitación, satisfacción y garantía de no repetición en las dimensiones individual, colectiva, material, moral y simbólica. Para su aplicación se podrán definir varias de esas medidas, sin que eso se asuma como una duplicidad de reparación. Si bien en la reparación del daño integral, se incluyen las medidas de compensación y/o indemnización, de acuerdo a la legislación nacional la Universidad no tiene competencia para determinar dichas medidas. 
+
+Artículo 160.- Las medidas de reparación del daño, integrales y con vocación transformadora, se determinarán en las resoluciones que dicten el Consejo de Justicia o la Oficina del Abogado General. En los casos en que se consideren pertinentes la compensación y/o indemnización, con base en la investigación realizada, el Consejo de Justicia o la Oficina del Abogado General darán vista a la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México para que ésta dictamine lo conducente sobre esas medidas de reparación del daño. Si la persona afectada quiere acudir a otras instancias establecidas por la legislación de los derechos de las víctimas, podrá hacerlo. 
+
+Artículo 161.- Para la definición de la reparación del daño se valorarán las pretensiones de la/s víctima/s en cada caso concreto, de conformidad con el principio de proporcionalidad. También se considerará el nexo causal entre la discriminación y el daño identificado. Por lo anterior, la Unidad de Investigación y/o el Comité de Investigación deberán allegarse las pruebas que estimen pertinentes, entre otras: solicitar opiniones, dictámenes o peritajes que permitan conocer los perjuicios producidos, sin detrimento de la valoración de las pruebas que las partes, en su caso, ofrezcan; para en su dictamen recomendar las posibles medidas de reparación integral del daño, con vocación transformadora.
+
+Artículo 162.- Las medidas de reparación, impuestas o acordadas, podrán ser una o más de las descritas en este Protocolo y la normatividad vigente en la materia.
+
+Artículo 163.- Las medidas de satisfacción buscan restablecer la dignidad de la víctima. Implican la socialización y registro de la verdad de los hechos, de manera que la víctima constate el restablecimiento de su dignidad en la comunidad y en el entorno social que se afectó por la violación de sus derechos.
+
+Artículo 164.- Además de las medidas que se acuerden entre las partes, la Universidad podrá realizar, entre otras, las siguientes acciones de satisfacción, siempre y cuando la víctima consienta en ello de manera explícita:
+
+    Pronunciamiento por parte de la persona que se encuentra o se reconoce responsable, en donde acepte su responsabilidad en los hechos de discriminación y violencia. Dicho pronunciamiento deberá estar dirigido a la víctima, y siempre con presencia de autoridades universitarias. Puede ser pública o privada, atendiendo a la naturaleza del caso y el impacto causado.
+
+    Fechas de conmemoración a la víctima, señalando sus aportes a la comunidad para consolidarla libre de discriminación y de violencia.
+
+    Registro de los hechos y de los aportes de la víctima para consolidar una universidad libre de discriminación y violencia, en audio, video o escrito, de manera que se pueda utilizar en los procesos de enseñanza, formación y socialización sobre el tema.
+
+    Designación de espacios o lugares en la propia universidad con el nombre de la víctima, con una placa con la semblanza de los hechos y de sus aportes a la comunidad para consolidarla libre de discriminación y violencia, de manera que se construya una memoria positiva de su actuar.
+
+Artículo 165.- Las garantías de no repetición son un conjunto de acciones de carácter positivo encaminadas a evitar violaciones futuras a los derechos y libertades protegidos en este Protocolo por motivos y ámbitos similares a los investigados en la queja, y a corregir estructuralmente los factores que las originan.
+Además de las medidas que se acuerden como parte de la primera atención o como parte del dictamen de la Unidad de Investigación y/o del Comité de Investigación, la Universidad realizará, entre otras, las siguientes acciones para la no repetición de la violación de derechos:
+
+    Revisión y modificación de la normatividad que afecte el pleno reconocimiento o goce de derechos y libertades fundamentales, o para garantizar la operación adecuada de las obligaciones y deberes de las autoridades respecto de lo establecido en este Protocolo.
+    
+    Revisión y fortalecimiento de las áreas encargadas de operar el Protocolo en los lugares donde sucedieron los hechos motivo de la queja.
+    
+    La promoción de los contenidos y la observancia del presente Protocolo y la normatividad relacionada en los medios utilizados por las personas involucradas en las quejas.
+    
+    La capacitación y evaluación de las personas integrantes de las áreas en donde sucedieron los hechos motivo de la queja, sobre los contenidos del presente Protocolo, así como en educación para la paz y la no violencia.
+    
+    La atención psicosocial a las personas integrantes de las áreas en donde sucedieron los hechos motivo de la queja.
+    
+    El diseño y difusión de campañas de concientización en la Universidad, prioritariamente en las áreas donde sucedieron los hechos motivos de la queja, sobre las violaciones a derechos y libertades violentados.
+    
+    La adopción de políticas públicas diseñadas desde los criterios de acciones afirmativas, para garantizar la inclusión y nivelación de los grupos sociales que están siendo afectados por las violaciones a derechos y libertades.
+    
+    El retiro de información, carteles o circulares que inciten o promuevan la discriminación y la violencia.
+
+[Regresar a Documento Principal](index.html)
+
+
+## Capítulo XI. De los recursos
+
+Artículo 166.- Las resoluciones emitidas por el Consejo de Justicia podrán ser impugnadas ante la Oficina del Abogado General. En los casos en que sea la Oficina del Abogado General quien emita la resolución con respecto al personal académico y administrativo, técnico y manual vía la junta aclaratoria, se seguirá el procedimiento acorde a la Ley Federal de Trabajo.
+
+# Transitorios
+
+Primero. Una vez designada la Responsable del Área de atención psicológica, la Defensoría de los Derechos Universitarios tendrá un máximo de 30 días naturales para convocar a la comunidad universitaria a fin de que, quienes cubran el perfil establecido en el Artículo 68 del presente Protocolo, se incorporen al Área de atención psicológica en su sede o plantel. En caso de que no haya una persona que cubra los requisitos, en el corto plazo se planteará la atención por zonas. En ese supuesto, una persona atenderá los planteles Casa Libertad y San Lorenzo Tezonco. Para Centro Histórico, Casa Talavera, Del Valle y Centro Vlady, el área de atención psicológica estará localizada en García Diego y, debido a la ubicación del Plantel Cuautepec, se buscará que una sola persona atienda dicho Plantel. Esto será hasta en tanto la institución garantice que cada plantel o sede cuente con el  área de atención psicológica y jurídica correspondiente.
+
+Segundo. La Defensoría de los Derechos Universitarios deberá garantizar la capacitación de todas las personas que vayan a operar de manera directa el presente Protocolo. Para ello, dispondrá de 45 días hábiles para gestionar o impartir los cursos que considere pertinentes.
+
+Tercero. El presente Protocolo entrará en funcionamiento 45 días hábiles después de haberse aprobado en el Pleno del Consejo Universitario.
+
+Cuarto. Conforme a los artículos 5, 10, 24 y 70 del Reglamento de Servicio y Prácticas Profesionales de la UACM, las personas del sector estudiantil que conformen la Unidad de Atención tendrán la posibilidad, si así lo desean, de liberar el Servicio Social a partir de las actividades que desarrollen en dicha instancia. La Defensoría será la encargada de presentar al Área de Servicio Social el programa correspondiente para su registro.
+
+Quinto. Los casos no resueltos materia de este Protocolo, cuya tramitación haya iniciado con anterioridad a la publicación del presente instrumento en alguna otra instancia universitaria, serán turnados a la Unidad de Atención para su tramitación correspondiente. Los casos materia de este Protocolo que estén siendo atendidos en el momento de la aprobación en el pleno por mecanismos y/o protocolos aprobados en los planteles, se terminarán conforme a dichos procedimientos y las personas responsables harán un informe que entregarán a la Defensoría.
+
+Sexto. Los casos previos a la aprobación del presente Protocolo que se hayan atendido e investigado a través de protocolos institucionales anteriores, que tengan un dictamen y que estén pendientes de resolución o se hayan quedado suspendidos, deberán ser atendidos por la Oficina del Abogado General y, en su caso, por el Consejo de Justicia. En lo que respecta a la reparación integral del daño, se hará efectiva la que haya gestionado la Comisión de Mediación y Conciliación del Consejo Universitario o cualquier otra instancia que haya seguido un mecanismo y/o protocolo. En los casos que todavía no se haya gestionado la reparación integral del daño y el dictamen sea a favor de las víctimas, serán analizados con base en este Protocolo por la Unidad de Investigación de la Defensoría, para que se considere la recomendación de medidas de reparación integral del daño, mismas que serán sometidas a la consideración de la Oficina del Abogado General o al Consejo de Justicia, según corresponda.
+
+Séptimo. Los consejos de plantel llamarán a unas jornadas de reflexión sobre la violencia a la diferencia en un sentido amplio y sobre su normalización.
+
+[Regresar a Documento Principal](index.html)
+
+
+22, 0, 1 y 3 

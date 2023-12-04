@@ -1,0 +1,614 @@
+---
+title: "MARCO ESTRUCTURAL DEL PLAN INTEGRAL DE DESARROLLO INSTITUCIONAL"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+Marco Estructural del Plan Integral de Desarrollo Institucional (PIDE)
+
+
+
+Índice
+
+Presentación
+
+Título I. Antecedentes.
+Institucionalización de la UACM
+Capítulo 1. Creación de la Universidad de la Ciudad de México (año 2001)
+Capítulo 2. Ley de la Universidad Autónoma de le Ciudad de México. Creación de la UACM (año 2005)
+Capítulo 3. Órganos de Gobiernos
+Título II. Marco legal 
+Capítulo 1. Marco normativo de la UACM
+Capítulo 2. Marco normativo del ámbito local
+Capítulo 3. Marco normativo del ámbito federal
+Título III. Contexto de la Educación Superior.
+La UACM como parte del sistema de educación superior de México
+Capítulo 1. El contexto nacional
+Capítulo 2. Financiamiento
+Capítulo 3. El contexto local en el que se fundó la UACM
+Capítulo 4. Comportamiento de la universidades de reciente creación en México
+Capítulo 5. Matrícula. Cobertura
+Capítulo 6. Egreso y titulación
+Capítulo 7. Oferta educativa.
+Ampliación y diversificación de la oferta educativa de nivel licenciatura
+Docencia
+Perfil del docente
+Título IV. Gestión Institucional.
+Financiamiento.
+Capítulo 1. Gasto por estudiante en la UACM y en universidades públicas federales
+Capítulo 2. Evolución del presupuesto en la UACM
+Título V. Identidad institucional
+Título VI. Prospectiva
+Título VII. Objetivos estratégicos
+Título VIII.Ejes institucionales 
+Capítulo 1. Ejes institucionales sustantivos
+Capítulo 2. Ejes institucionales operativos o funcionales
+Capítulo 3. Ejes transversales
+Título IX. Políticas institucionales
+Capítulo 1. Políticas vinculadas a los ejes sustantivos, funcionales y transversales
+Docencia
+Investigación 
+Difusión cultural y extensión universitaria
+Cooperación 
+Autogobierno universitario
+Gestión institucional (académica, académica-administrativa y administrativa)
+Planeación y evaluación institucional
+Ejes transversales 
+
+
+
+PRESENTACIÓN
+
+Desde su creación en 2001 la Universidad de la Ciudad de México surge como un proyecto social de atención a los sectores de población menos atendidos por el sistema de educación superior público de la zona metropolitana de la Ciudad de México, adoptando un sistema de ingreso irrestricto a través de un sorteo y un criterio de localización geográfica de sus planteles en las zonas donde se sitúan grupos sociales excluidos de la posibilidad de acceso a este nivel educativo.
+
+Una educación crítica, científica y humanística centrada en las y los estudiantes, que impulsa un aprendizaje que le permite formarse como un ser autónomo, capaz de afrontar y resolver problemáticas que se le presentarán en su vida profesional, son los principales rasgos de su proyecto educativo.
+
+En la actualidad, la Universidad Autónoma de la Ciudad de México (UACM) cuenta con una normatividad esencial para su funcionamiento, entre ella, el Estatuto General Orgánico (EGO), que es el marco normativo que define los órganos de gobierno, administración, control y vigilancia, así como las formas de elección de sus autoridades; su compromiso es lograr la consolidación y el fortalecimiento a corto, mediano y largo plazos, lo cual será posible a través de un esfuerzo consciente, racional, participativo y ordenado de planeación que dé dirección y sentido a la acción de nuestra  Institución.
+
+El Plan Integral de Desarrollo (PIDE) que se presenta, se basa en la noción de planeación estratégica, que se concibe como un proceso dinámico, transparente y participativo, a través del cual se define la Identidad Institucional o Misión y la Prospectiva o Visión de la institución; además, se analiza su contexto interno y externo, se establecen los objetivos estratégicos, los ejes y las políticas institucionales, y se formulan las estrategias, programas y proyectos que se requieren para alcanzar dichos objetivos.
+
+En la Norma de Planeación de la Universidad, el PIDE se caracteriza como el documento rector formulado por los órganos e instancias académicas y administrativas, para el mejoramiento y reordenación de las actividades sustantivas y adjetivas. El documento que se presenta a continuación forma parte de la primera fase en la que se define el Marco Estructural y se compone de los siguientes apartados:  
+Antecedentes. Se exponen los aspectos básicos del marco institucional de la UACM que fundamenta su creación y situación actual.
+Marco legal. Se describe cuál es el marco normativo que fundamenta el PIDE.
+Contexto. Se expone el entorno de la oferta de educación superior del que la UACM forma parte.
+Identidad institucional. Es el propósito o razón de ser de la institución y se define a partir de los principios que orientan el funcionamiento y desarrollo de la Universidad contenidos en su Ley de Autonomía.
+Prospectiva. Se enuncia como la descripción de lo que la UACM se propone llegar a ser y lograr en un horizonte futuro a mediano y/o largo plazo y tiene la intención de propiciar la continuidad en los procesos de planeación universitaria.
+Objetivos estratégicos. Son los grandes propósitos que formalizan y guían el actuar de la Universidad y que se fundamentan en los principios presentes en la Exposición de Motivos de su Ley.
+Ejes institucionales. Se plantean como un conjunto de componentes estructurales que guían el funcionamiento de la Universidad y que comprenden las funciones sustantivas, operativas o funcionales y transversales.
+Ejes institucionales sustantivos: conjunto de elementos que definen y recrean cotidianamente la identidad de la Universidad: docencia, investigación, difusión, y extensión y cooperación.
+Ejes institucionales operativos o funcionales: conjunto de elementos que posibilitan, organizan y norman los ejes sustantivos institucionales. 
+Ejes institucionales transversales: conjunto de principios que promueven los derechos humanos, la erradicación de la violencia y la discriminación en todas sus formas y que atraviesan y regulan todas las prácticas institucionales tanto de los ejes sustantivos como de los operativos.
+Políticas institucionales. Se definen como las directrices para la toma de decisiones o cursos de acción que den sentido a los objetivos estratégicos; son las orientaciones generales y lineamientos que constituyen un marco dentro del cual deben desarrollarse los esfuerzos y acciones para lograr los fines del proceso de planificación.
+
+La segunda fase del PIDE comprende el Marco operativo cuyos componentes se definen a partir del diagnóstico (análisis FODA) y lo conforman los siguientes elementos: programas institucionales, proyectos, acciones e indicadores de desempeño y evaluación institucional. Dicho Marco será trabajado a partir de una estrategia participativa en la que se involucrará a la comunidad universitaria a partir del primer semestre del 2021 con base en el Marco estructural.
+
+
+TÍTULO I. ANTECEDENTE
+INSTITUCIONALIZACIÓN DE LA UACM
+
+Capítulo 1. Creación de la Universidad de la Ciudad de México (año 2001)
+
+El 26 de abril del 2001 se publicó en la Gaceta Oficial del entonces Distrito Federal, el decreto del Jefe de Gobierno por el que se crea la Universidad de la Ciudad de México como un organismo público descentralizado de la Administración Pública, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Social, con el objeto de impartir educación en el nivel superior, en los términos de los Artículos 1° y 10° de la Ley General de Educación. 
+
+Los principales aspectos considerados en la exposición de motivos para la creación de la Universidad fueron: la necesidad de ampliar las oportunidades de educación superior para las personas que habitan la Ciudad de México y han quedado excluidas de esa oferta educativa, y la exigencia de introducir innovaciones académicas y pedagógicas tendientes a mejorar la calidad y el rendimiento de la educación superior en México. 
+
+En el discurso inaugural de la Universidad de la Ciudad de México, su primer Rector, el Ing. Manuel Pérez Rocha, señaló que “[…] la Universidad se funda con el propósito de integrar a esta urbe una nueva institución cultural de alto nivel académico, decisivamente comprometida con la sociedad mediante el ejercicio de sus funciones de docencia, investigación, extensión, cooperación, difusión y divulgación, fiel a la vocación científica, humanística y crítica que ha guiado a las instituciones auténticamente universitarias.”
+
+Lo esencial de esta propuesta es que “considera a los estudiantes como su razón de ser y como sujetos conscientes, activos y responsables de su propia educación; los demás miembros de la institución -maestros, investigadores, técnicos y trabajadores de servicios- tienen como responsabilidad apoyar a los estudiantes a lograr su mejor educación.”
+
+“Los planes y programas de estudio, los procesos de enseñanza y aprendizaje y los reglamentos deben promover que todos y cada uno de los estudiantes puedan alcanzar los más elevados niveles de formación, a partir de una exigencia efectiva de rigor científico y académico, y tomando en consideración las condiciones específicas y los proyectos de cada educando, para que cada uno se forme una cultura y viva su vida con conciencia y autonomía. Por ello la UCM comprometió su empeño en hacer realidad la frase de Publio Terencio que adoptó como lema: “Nada humano me es ajeno”.
+
+Capítulo 2. Ley de la Universidad Autónoma de la Ciudad de México.
+Creación de la UACM (año 2005)
+
+El 16 de diciembre de 2004, la Asamblea Legislativa del Distrito Federal aprobó por unanimidad la Iniciativa de Ley de Autonomía de la Universidad de la Ciudad de México. Esta iniciativa recogió los resolutivos de las diversas mesas de trabajo, reuniones y coloquios, en los que participó de manera activa la comunidad de la Universidad de la Ciudad de México.
+
+La Ley de la Universidad Autónoma de la Ciudad de México, publicada el 5 de enero de 2005 en la Gaceta Oficial del Distrito Federal, constituye el principal ordenamiento del cual se derivan las disposiciones de regulación interna, y la define como un organismo público autónomo del Distrito Federal, por lo que goza de personalidad jurídica y patrimonio propio; con la facultad y responsabilidad de gobernarse a sí misma, de definir su estructura y las funciones académicas que le correspondan, realizando sus funciones de educar, investigar y difundir la cultura de acuerdo con los principios del Artículo Tercero Constitucional, respetando las libertades de estudio, cátedra e investigación y libre de examen y discusión de las ideas, determinar sus planes y programas, fijar los términos de ingreso, promoción y permanencia de su personal académico. 
+
+Capítulo 3. Órganos de Gobierno
+
+La publicación de la Ley de la UACM sentó las bases para iniciar el proceso de transición hacia un gobierno universitario que garantiza la participación de todos los sectores de la comunidad académica en la construcción de su destino, contando con un gobierno colegiado y una administración central. Este proceso culminó con la instalación del Consejo Universitario, máximo órgano de gobierno, en diciembre de 2007.
+
+
+TÍTULO II. MARCO LEGAL
+
+La Universidad Autónoma de la Ciudad de México es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, que tiene la atribución constitucional de organizarse de la forma que más le convenga para el cumplimiento de sus funciones sustantivas y que sustenta su objeto social y filosofía educativa, en el marco normativo que se describe a continuación.
+
+Capítulo 1. Marco normativo de la UACM
+
+Ley de la Universidad Autónoma de la Ciudad de México (publicada en la Gaceta del D.F. el 5 de enero de 2005). Contiene la exposición de los motivos que le dieron origen y los elementos normativos que la rigen.
+
+Estatuto General Orgánico (aprobado el 10 de febrero de 2010). Tiene por objeto garantizar el efectivo cumplimiento de los fines de la UACM, de conformidad con su Ley.
+
+Reglamento del Consejo Universitario (expedido el 25 de junio de 2008). Normatividad que regula la integración, organización y funcionamiento del Consejo Universitario. 
+
+Norma de Planeación (aprobada por el Consejo Universitario y publicada el 10 de agosto de 2010). Tiene por objeto definir los alcances, objetivos, instrumentos y procesos de la planeación universitaria.
+
+Norma Número Cuatro (aprobada el 30 de marzo de 2006). Tiene por objeto definir las atribuciones de las diferentes unidades que conforman la estructura de la UACM.
+
+Capítulo 2. Marco normativo del ámibito local
+
+Constitución Política de la Ciudad de México. Enmarcado en los Títulos Primero y Segundo se hace referencia a impulsar la sociedad del conocimiento, educación integral e inclusiva, la igualdad de derechos, la no discriminación, la inclusión, la transparencia, la rendición de cuentas y el derecho a la educación, la ciencia y a la innovación tecnológica. Asimismo, en el propio Título Segundo, Capítulo II, Artículo 8, Inciso B, numeral 8, se describen las funciones y atribuciones de la Universidad Autónoma de la Ciudad de México.
+
+Ley de Transparencia y Acceso a la Información Pública de la Ciudad de México. Tiene por objeto transparentar el ejercicio de la función pública, garantizar el efectivo acceso de toda persona a la información pública en posesión de los órganos locales: Ejecutivo, Legislativo, Judicial y Autónomos por ley, así como de cualquier entidad, organismo u organización que reciba recursos públicos del Distrito Federal. 
+
+Ley de Presupuesto y Gasto Eficiente de la Ciudad de México. Tiene por objeto regular y normar las acciones en materia de programación, presupuestación, aprobación, ejercicio, contabilidad gubernamental, emisión de información financiera, control y evaluación de los ingresos y egresos públicos del Distrito Federal.
+
+Ley de Adquisiciones para el Distrito Federal. Regula las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, ejecución, conservación, mantenimiento y control de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza que realice la Administración Pública del Distrito Federal, sus dependencias, órganos desconcentrados, entidades y delegaciones.
+
+Decreto de Presupuesto de Egresos de la Ciudad de México (publicado anualmente en la Gaceta). Expone el ejercicio y control de las erogaciones con cargo al Presupuesto de Egresos de la Ciudad de México para cada ejercicio fiscal.
+
+Capítulo 3. Marco normativo del ámbito federal
+
+Constitución Política de los Estados Unidos Mexicanos. Artículo 3º, donde se establece que corresponde al Estado la rectoría de la educación que será obligatoria, universal, inclusiva, pública, gratuita y laica.
+
+Ley Federal de Transparencia y Acceso a la Información Pública. Tiene como finalidad proveer lo necesario para garantizar el acceso de toda persona a la información en posesión de los Poderes de la Unión, los órganos constitucionales autónomos o con autonomía legal, y cualquier otra entidad federal.
+
+Ley General de Educación. Esta Ley regula la educación que imparte el Estado-Federación, entidades federativas y municipios-, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios. Es de observancia general en toda la República y las disposiciones que contiene son de orden público e interés social. La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
+
+Ley de Ciencia y Tecnología. Regula los apoyos que el Gobierno Federal está obligado a otorgar para impulsar, fortalecer, desarrollar y consolidar la investigación científica, el desarrollo tecnológico y la innovación en general en el país.
+
+TÍTULO III. CONTEXTO DE LA EDUACIÓN SUPERIOR
+La UACM como parte del sistema de educación superior de México
+
+El propósito de este apartado es ubicar a la UACM en el contexto general de desarrollo de la educación superior en México y en particular en el contexto de las Instituciones de Educación Superior (IES) públicas que fueron creadas en las últimas décadas y que poseen características equiparables con las de nuestra Universidad.
+
+Capítulo 1. El contexto nacional
+
+El Sistema de Educación Superior en México creció en el último tercio del siglo pasado (1970-2000) en dos sentidos: crecimiento de instituciones, principalmente privadas y crecimiento de la matrícula que, sin embargo, no ha logrado cubrir la demanda de la población que pretende acceder a este nivel de estudios.
+
+Si bien a partir de 1970, y particularmente en la primera década del 2000, la política pública educativa federal estuvo cediendo espacio a la educación privada en detrimento de la educación pública, en los últimos diez años la primera se ha estabilizado mientras que la pública ha recuperado un porcentaje significativo de matrícula. El crecimiento y diversificación de las instituciones privadas, que intentaron atender la fuerte demanda de estudios en este nivel, no lo logró ya que ha recibido a un número reducido de aspirantes y ofrece una gama muy reducida de opciones de formación (licenciaturas y posgrados).
+
+En los años 90 la política pública del gobierno federal se orientó predominantemente a la creación de universidades tecnológicas, politécnicas e institutos tecnológicos directamente vinculados con las necesidades de satisfacer el campo laboral y mercado de trabajo del sector privado. De las universidades y planteles creados entre los años 1999 y 2006, las universidades tecnológicas y politécnicas representaron el 55%, mientras que las universidades estatales, comunitarias e interculturales representaron el 19% (Gráfica 1)
+Gráfica 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frente a este panorama, en el sexenio actual, se ha implementado una política de apertura de universidades federales (Benito Juárez) y locales (Rosario Castellanos), similar a la de la UACM, con la intención de atender a la población excluida de este nivel educativo.
+
+Capítulo 2. Financiamiento
+
+En los años que van de 2000 a 2017 los principales indicadores de financiamiento de la educación en México, así como las políticas que han definido su trayectoria, han tenido un comportamiento errático y con tendencia decreciente.
+
+Gráfica 2
+
+
+
+
+
+Fuente: SEP, Sistema de Información de la Dirección General de Planeación, Programación y Estadística Educativa. INEGI. Sistema de Cuentas Nacionales de México.
+
+En este rubro la Asociación Nacional de Universidades e Instituciones de Educación Superior (ANUIES) señaló el compromiso del gobierno federal para alcanzar en 2006 una meta de gasto público en educación superior al 1% del Producto Interno Bruto (PIB) que corresponde al promedio de los países de la Organización para la Cooperación y el Desarrollo Económicos (OCDE). Las variaciones del gasto público en educación superior en el lapso que va del año 2000 al 2017 se muestran en la gráfica anterior. Como puede observarse, los niveles históricos han estado por debajo de la meta propuesta, a una distancia considerable.
+
+Capítulo 3. El contexto local en el que se fundó la UACM
+
+En treinta años, de 1970 al 2000, la única institución de educación superior pública que se creó en el Distrito Federal, fue la Universidad Autónoma Metropolitana (UAM, 1974). Diversas investigaciones han resaltado que, entre los principales problemas de la educación superior en la zona, se encuentra el de la excesiva concentración de la matrícula en unas pocas delegaciones y en un reducido número de instituciones de educación superior públicas.
+
+Guadalupe Escamilla señala que en el año 2000 el entonces Distrito Federal tenía 188 IES, incluidas las escuelas normales (ANUIES 2000). En sólo cinco de sus 16 delegaciones se encontraban concentradas el 71% de las instituciones; el restante 30% se distribuía en nueve demarcaciones. 
+
+De acuerdo con la misma fuente, de los 82,783 estudiantes de primer ingreso en el nivel licenciatura del año 2000, 32% se encontraban estudiando en las cinco delegaciones con el mayor número de instituciones educativas (134), mientras que el restante 68% se encontraba distribuido en 54 instituciones principalmente públicas.
+
+Al analizar la concentración de la matrícula en pocas IES públicas, la investigadora señala que, en el año 2000, 54% del primer ingreso de aspirantes a licenciatura se concentró en tres instituciones: Universidad Nacional Autónoma de México (UNAM), Instituto Politécnico Nacional (IPN) y UAM. De 179 IES (sin incluir a las normales), 20 tenían casi la mitad del ingreso (42%), mientras que las 159 restantes tenían el 58%.
+
+En una investigación sobre la oferta y demanda de la educación superior en la Zona Metropolitana de la Ciudad de México, José Blanco se refiere también a la excesiva concentración de demandantes en pocas instituciones: en el año 2003, solamente 4 IES públicas (tres en el Distrito Federal, ahora Ciudad de México, y una en el Estado de México) concentraron 86% de las solicitudes de ingreso de un total de 39 instituciones metropolitanas estudiadas. 
+
+En 2004, se realizó un análisis más refinado en la UACM. El estudio permitió establecer algunas aproximaciones a la demanda de educación superior en el entonces Distrito Federal. Sus conclusiones, aunque contienen datos que requerirían actualización, permiten revisar algunas evidencias respecto de la demanda de educación superior en el entonces Distrito Federal:
+
+La demanda potencial de estudios superiores ha mantenido su crecimiento a partir de 1995. La proyección al año 2010 en el estudio realizado, indicaba que la demanda continuaría creciendo para llegar a casi 119 mil en ese año. Se estimó, también, que la mayor parte de la demanda potencial estaba constituida por las personas egresadas de bachillerato y por las rezagadas que no habían logrado ingresar a ninguna IES en años previos.
+
+De 1983 a 1994 la demanda no atendida (falta de capacidad del sistema de educación superior para atender las solicitudes de ingreso) se incrementó significativamente, llegando a rangos del orden de los 60 mil, entre 1987 y 1994, y descendió con fuerza en los siete años siguientes debido al incremento del primer ingreso a licenciatura y al decremento de personas egresadas del bachillerato. José Blancoobservaba, por su parte, que más de la mitad de las personas solicitantes en 2003 (132 mil) no pudieron ingresar a alguna de las IES incluidas en su estudio, porque no acreditaron el examen de admisión o no alcanzaron lugar.
+
+Las proyecciones al año 2010 del estudio realizado por la UACM (2004) (Gráficas 3 y 4), señalaban que la demanda no atendida de personas recién egresadas de educación media superior (demanda potencial menos primer ingreso a licenciatura), tendería a crecer moderadamente alcanzando valores cercanos a 40 mil estudiantes.
+
+
+Gráfica 3
+
+
+
+Gráfica 4
+
+
+
+
+Capítulo 4. Comportamiento de las universidades de reciente creación en México
+
+La UACM forma parte de la mínima proporción de universidades públicas nacidas en el país en los últimos 20 años. Fue creada bajo la convicción de que la educación es factor esencial para la formación integral del ser humano y, por tanto, no puede limitarse ni a la capacitación técnica, ni al acceso selectivo de aquellos que poseen la capacidad económica para adquirirla en planteles privados. Aspira a brindar a la población joven de la Ciudad de México oportunidades para acceder a una formación científica, humanista y crítica, puesto que constituye una “necesidad imperiosa de todo individuo que desea vivir libre y plenamente, y contribuir a hacer del mundo un espacio digno del hombre”.
+
+Capítulo 5. Matrícula. Cobertura
+
+En la Ciudad de México, la cobertura del nivel licenciatura (18 a 22 años de edad) pasó de 27.5% en 1990 a 49.6% en 2009 y, en los últimos 10 años, llegó al 71.2% de cobertura (Gráfica 5), quedando todavía una proporción importante de población objetivo por cubrir. 
+
+
+Gráfica 5
+
+
+
+
+El esfuerzo desarrollado por la UACM para ampliar la cobertura se muestra en el crecimiento de su matrícula de licenciatura a lo largo de los años desde su inicio hasta el 2019. Creció de 566 a 18,322 estudiantes (Gráfica 6); o sea, se tuvo una tasa de crecimiento de 32 veces el tamaño de la matrícula inicial considerando sus cinco planteles. En ellos la Universidad ha atendido tanto a personas jóvenes recién egresadas del nivel medio superior, como a un porcentaje importante de estudiantes que, por no poder acceder a otras IES públicas o privadas, se han quedado en condición de rezago sin poder ejercer el derecho a la educación. 
+
+
+
+
+Gráfica 6
+
+
+
+Si se compara con otras IES públicas de reciente creación, tales como las Universidades del Caribe en Quintana Roo, del Valle de Ecatepec en el Estado de México, Autónoma Indígena de México en Sinaloa o con el plantel Cuajimalpa de la UAM, puede apreciarse (Gráfica 7 y tabla contigua) que la matrícula de licenciatura de la UACM y su crecimiento, son mucho mayores durante sus primeros años. 
+
+
+Gráfica 7
+
+
+
+
+
+De acuerdo con el ritmo de crecimiento de la matrícula en la UACM es posible proyectarla para el año 2024, lo que nos permite tener elementos de planeación para analizar en dónde queremos crecer: planteles y oferta educativa (licenciaturas y posgrados).
+
+
+Gráfica 8
+
+
+
+
+Capítulo 6. Egreso y titulación
+
+La Universidad ha ido ampliando el número personas egresadas y tituladas en los últimos años, a pesar de que, por las características de nuestro proyecto educativo, quienes estudian en la UACM tienen la posibilidad de avanzar a su ritmo de acuerdo a sus condiciones particulares. Las generaciones recientes tienen un comportamiento de mayor estabilidad en sus estudios y de un avance paulatino. Si bien el número de personas tituladas y con el 100% de créditos aún es reducido, cabe señalar que hay un número similar (casi 4000) de personas egresadas (Gráfica 9).
+
+
+Gráfica 9
+
+
+
+
+Al realizar un comparativo de datos de titulación y egreso de la UACM con otras Universidades cuya antigüedad es similar, encontramos que nuestra institución ha ido avanzando en este rubro, tomando en cuenta que los primeros años de funcionamiento de las instituciones educativas son de ajustes y de cierta estabilización (Gráfica 10). 
+
+
+Gráfica 10
+
+
+Si bien los primeros años de la Universidad fueron de organización interna, atención a la demanda de estudios de nivel superior de la población marginada en la Ciudad de México y zona conurbada, y ajuste en su estructura de gobierno, los últimos ocho años se han centrado en darle prioridad al egreso y titulación de la población estudiantil.
+
+Esto se muestra en el número de personas egresadas y tituladas a la fecha en la institución (alrededor de 4,000) y que en un comparativo con las principales instituciones de educación superior del país, cuya trayectoria es mucho más larga que la de la UACM, nos permite vislumbrar que estamos avanzando en este rubro (Gráfica 11).
+
+
+Gráfica 11
+
+
+
+
+Capítulo 7. Oferta educativa
+
+Ampliación y diversificación de la oferta educativa de nivel licenciatura
+
+En los primeros diez años de funcionamiento de la UACM su oferta educativa fue mayor o igual que otras IES de reciente creación (Gráfica 12).
+
+
+
+
+
+Gráfica 12
+
+
+En los mismos diez primeros años, si consideramos la cobertura en distintas sedes o planteles, la UACM distribuyó su oferta educativa en un mayor número de planteles que las otras IES de reciente creación (Gráfica 13). 
+
+
+Gráfica 13
+
+
+
+La UACM ofrece, en comparación con estas universidades, el mayor número de opciones de estudios de licenciatura y cuenta con la mayor cantidad de planteles. De esta manera se asegura el acceso a estudios universitarios a la población joven de la Ciudad de México en zonas que anteriormente no contaban con oferta educativa de educación superior. La UACM cuenta actualmente con 18 licenciaturas, 7 maestrías y 2 doctorados.
+
+En un análisis realizado recientemente por Erika Álvarez, (2020) profesora del Colegio de Ciencia y Tecnología, se muestra que la atención que presta la Universidad a la población en las alcaldías Gustavo A. Madero, Tláhuac e Iztapalapa, y a los municipios de Ecatepec y Tlalnepantla del Estado de México, es relevante. La matrícula del plantel Cuautepec se compone de 54% de estudiantes que residen en la GAM y el 27% de Ecatepec y Tlalnepantla. La población estudiantil del plantel Casa Libertad tiene su residencia en Iztapalapa (47%) y en el Estado de México: Nezahualcóyotl, Valle de Chalco y Chimalhuacán (35%); finalmente la población estudiantil del plantel San Lorenzo Tezonco reside en Iztapalapa (43%), Tláhuac (17%), Valle de Chalco y Nezahualcóyotl (10%). Las zonas de la Ciudad de México que son menos atendidas por la Universidad son el centro y el poniente. 
+
+No obstante, ha sido muy evidente la insuficiente cobertura de las universidades tanto de manera local como nacional, así como lo manifiesta Ibarrola (2012); Las universidades privadas, que crecieron prácticamente sin control en los últimos 30 años, por una parte, y las nuevas universidades tecnológicas y politécnicas, así como el impulso de la universidad a distancia, no han sido suficientes para dar cabida a una creciente demanda, que se justifica no sólo por quienes lograron su certificado de bachillerato, sino por la escasa tasa de atención al grupo de edad correspondiente en el país. Por otra parte, aunque un gran número de jóvenes se inscribe en las universidades particulares (que las hay de todos los precios), muchos manifiestan de manera colectiva, públicamente, no tener recursos para pagar las universidades privadas y cuestionan la falta de oportunidades en las públicas. 
+
+Docencia.
+
+Una de las funciones sustantivas de las universidades es la docencia. En este sentido es relevante mostrar datos acerca de la composición de la planta académica, su formación y la relación del número de estudiantes por docente, indicador de una atención personalizada en el proceso formativo de la población estudiantil. Un rasgo central del proyecto educativo de la Universidad es la educación centrada en la persona estudiante, lo que implica que esta actividad se realiza en tres ámbitos: el aula, la asesoría y la tutoría. 
+
+En la Gráfica 14 se muestra la relación entre el número de estudiantes y docentes en el 2019 en el Sistema de Educación Superior por sector. Vale la pena aclarar que la planta docente en la mayoría de las instituciones de educación superior es de dedicación de tiempo parcial (de asignatura principalmente), mientras que la UACM cuenta con una planta académica mayoritariamente con dedicación de tiempo completo.
+
+
+
+
+
+
+Gráfica 14
+
+
+
+En la Gráfica 15 se muestra la relación entre matrícula y docentes de tiempo completo en la Universidad. Si bien del 2006 al 2015 se mantiene una relación de aproximadamente 15 estudiantes por docente, en los últimos años esta cifra ha aumentado, dado que la planta académica no ha crecido e incluso ha decrecido frente al crecimiento constante de la matrícula.
+
+
+Gráfica 15
+
+
+
+
+
+
+Gráfica 16
+
+
+Como puede observarse en la Gráfica 16en la que se hace un comparativo con la UNAM, en lo que se refiere al porcentaje de docentes de tiempo completo, es importante resaltar que la UACM es la única institución de educación superior que cuenta con una planta académica de tiempo completo, idea fundacional de su compromiso con la institución. Cabe resaltar también que en los últimos diez años, la planta docente no ha crecido proporcionalmente con respecto al crecimiento de la matrícula, por eso es que la relación de atención a estudiantes ha cambiado significativamente.
+
+Perfil del docente.
+
+La calidad de la formación que ofrece la UACM se sustenta, entre otros factores, en el nivel de preparación de sus docentes. La institución cuenta con una planta académica con un alto grado de preparación como lo muestra la siguiente Gráfica. 
+
+
+
+
+
+
+
+Gráfica 17 
+
+
+
+En comparación con las instituciones públicas más importantes del país, la UACM cuenta con una planta académica calificada, con un porcentaje mayoritario de docentes con estudios de maestría (Gráfica 18).
+
+
+Gráfica 18
+
+
+
+TÍTULO IV. GESTIÓN INSTITUCIONAL
+Financiamiento.
+
+Capítulo 1. Gasto por estudiante en la UACM y en universidades públicas federales
+
+Un dato relevante relacionado con el presupuesto y financiamiento a las universidades públicas es el gasto por estudiante. En la gráfica siguiente se muestra que el presupuesto por estudiante de la UACM es similar al de la UNAM, mientras que en otras universidades públicas es menor. Esto desmiente la información manejada en medios públicos de que la UACM es una universidad cara, si se mide con otro tipo de indicadores.
+
+
+
+Gráfica 19
+
+
+
+
+Capítulo 2. Evolución del presupuesto de la UACM
+
+El presupuesto que se asigna anualmente a la Universidad Autónoma de la Ciudad de México está incluido en el artículo 23 de la Ley que la creó. Éste señala que la Asamblea Legislativa debe asignarle un presupuesto mínimo equivalente a 3.4 salarios mínimos generales anuales vigentes en el entonces Distrito Federal, por cada estudiante con dedicación ordinaria y sus equivalentes, lo que asegura un presupuesto básico para sufragar sus gastos. 
+
+Con este financiamiento la Universidad Autónoma de la Ciudad de México se aproxima al planteamiento señalado por la ANUIES en el sentido de “contar con el financiamiento que asegure su consolidación, que abra posibilidades de expansión y desarrollo cualitativo y que asegure la viabilidad de los programas y proyectos de las IES”.
+
+De acuerdo con su matrícula, el presupuesto de la Universidad creció de manera consistente en los primeros años, pasando de 24,145 millones de pesos para la operación de un solo semestre en 2001, a 705,174 millones de pesos en el año 2009. Sin embargo, entre 2009 y 2014 el presupuesto creció muy poco y en los últimos años se ha mantenido igual, tal como se muestra en la gráfica siguiente.
+
+Gráfica 20
+
+
+
+
+Asimismo, la evolución del costo por estudiante se ha mantenido más o menos constante en los últimos años.
+
+Gráfica 21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A través de este recorrido del contexto en el que se desarrolla la UACM es posible enunciar algunas reflexiones centrales.
+
+Los principios que dieron origen a la Universidad la ubican como una institución de educación superior inédita, tanto desde el punto de vista de la noción de autonomía que la caracteriza, a partir de la cual cuenta con un gobierno universitario colegiado, como por la forma de acceso a la misma, que a diferencia del total de instituciones, no se realiza por examen sino por sorteo. Pone en el centro de su quehacer la formación integral del estudiante y cuenta con una planta académica mayoritariamente de tiempo completo, lo que garantiza la atención puntual a las necesidades de la población estudiantil. Desde su origen cuenta con programas de inclusión como el Programa de Educación Superior en Centros de Reclusión (PESCER) y el Programa Letras Habladas para personas con alguna discapacidad visual, y su población estudiantil, aunque mayoritariamente se encuentra en el rango de edades de quienes acceden a este nivel educativo, ha contado con estudiantes adultos mayores quienes han ejercido su derecho a la educación.
+
+Es importante resaltar que en los 20 años que tiene de funcionamiento, la Universidad ha ampliado su cobertura, convirtiéndose en la primera opción para un porcentaje importante de la población de la Ciudad de México y su zona conurbada. Asimismo, está atendiendo el tema del egreso y titulación de sus estudiantes, considerando que el mismo proyecto educativo permite que avancen a su propio ritmo, de acuerdo a sus condiciones particulares, ofrece opciones de titulación diversificadas, y mantiene su calidad académica.
+
+
+TÍTULO V. IDENTIDAD INSTITUCIONAL
+
+La Universidad Autónoma de la Ciudad de México es una institución de educación superior pública, gratuita e incluyente, cuyos principios, plasmados en la Exposición de motivos de su Ley, son:
+
+Aumentar las oportunidades de educación superior
+Crear un espacio académico autónomo
+Instituir una universidad de carácter público
+Desarrollar un proyecto innovador
+Constituir una comunidad académica
+Garantizar la libertad académica y la pluralidad de pensamiento
+Contribuir al desarrollo cultural, profesional y personal de los estudiantes
+Asegurar un alto nivel en todas sus actividades académicas y la plena confiabilidad de los certificados, títulos y grados otorgados
+Establecer una relación responsable con la sociedad
+
+Estos principios se garantizan con una organización colegiada del gobierno universitario y con una gestión institucional eficiente y eficaz.
+
+Sus funciones sustantivas son la docencia, la investigación, la difusión de la cultura, la extensión y la cooperación, orientadas a proporcionar a sus estudiantes una educación integral: científica, humanística y crítica. Este proyecto educativo innovador y de alto nivel académico pretende formar profesionales propositivos, con compromiso social para contribuir a atender las necesidades imperiosas de la población y ofrecer opciones de solución a las problemáticas de la Ciudad de México y del país.
+
+
+TÍTULO VI. PROSPECTIVA
+
+La Universidad Autónoma de la Ciudad de México se consolidará manteniéndose como una opción de educación superior para la población que ha sido excluida del sistema educativo nacional, de alto nivel académico y con una oferta innovadora, formando personas egresadas con la capacidad para enfrentar y dar solución a las problemáticas sociales de la Ciudad de México principalmente. Asimismo, su forma de organización y gobierno universitario se fortalecerá manteniendo la participación de la comunidad en la toma de decisiones colegiadas, y contando con una administración de los recursos eficiente y transparente. Fortalecerá la infraestructura que permita cumplir con las funciones sustantivas de la institución y la demanda estudiantil que se irá incrementando. Finalmente, consolidará una identidad universitaria orgullosa de sus valores y logros académicos para coadyuvar al desarrollo de la sociedad mexicana.
+
+
+TÍTULO VII. OBJETIVOS ESTRATÉGICOS
+
+Coadyuvar a satisfacer la demanda de servicios educativos de nivel superior en la Ciudad de México, en el marco de una política educativa democrática e incluyente, que responda al principio de ingreso irrestricto y a la posibilidad de que las y los estudiantes avancen a su propio ritmo, de acuerdo a sus circunstancias específicas.
+Asegurar un alto nivel en todas sus actividades académicas y la plena confiabilidad de los certificados, títulos y grados otorgados, contribuyendo al desarrollo cultural y profesional de las personas estudiantes.
+Constituir una comunidad académica autónoma, plural, crítica, democrática, de autocuidado y sustentable.
+Establecer una relación solidaria y de participación con la sociedad, fomentando una cultura de la transparencia y la rendición de cuentas.
+Desarrollar una gestión institucional responsable y eficiente, con relaciones basadas en la cooperación y el apoyo mutuo.
+
+
+TÍTULO VIII. EJES INSTITUCIONALES
+
+Definidos a partir de las funciones sustantivas, operativas o funcionales y transversales de la Universidad.
+Ejes institucionales sustantivos: conjunto de componentes estructurales que definen y reafirman cotidianamente la identidad de la Universidad: docencia, investigación, difusión, extensión y cooperación. 
+Ejes institucionales operativos o funcionales: conjunto de componentes estructurales que posibilitan, organizan y norman los ejes sustantivos institucionales. 
+Ejes institucionales transversales: conjunto de principios que promueven los derechos humanos, la erradicación de la violencia y la discriminación en todas sus formas y que atraviesan y regulan todas las prácticas institucionales tanto de los ejes sustantivos como los operativos.
+
+Capítulo 1. Ejes institucionales sustantivos
+
+Docencia. Actividad que centra sus esfuerzos en propiciar el desarrollo autónomo de sus estudiantes y cuyo rasgo principal es formar comunidad y desarrollar un trabajo colegiado, garantizando la libertad académica y la pluralidad de pensamiento entre todos sus integrantes.
+Investigación. Actividad que se centra en el desarrollo del conocimiento pluri e interdisciplinario, en comunidades académicas que dialogan con la realidad y que aportan soluciones a las principales problemáticas de sectores sociales excluidos.
+Difusión cultural y extensión universitaria. Actividades que promueven la interacción de la Universidad con la comunidad universitaria y con la población cercana a los espacios universitarios, cuyo propósito es que confluyan diversidad de expresiones y debates culturales en las artes, las ciencias y las humanidades y que de ella emanen propuestas y espacios de creación, intercambio, reflexión, debate, apreciación y disfrute de las producciones culturales de la ciudad, el país y otros países, con particular atención a aspectos y expresiones de la cultura urbana y popular y del patrimonio cultural de la Ciudad de México.
+Cooperación. Actividad que se centra en el intercambio de experiencias y saberes de la comunidad universitaria con la población que forma parte del entorno de los espacios universitarios con la intención de beneficiarse mutuamente para el mejoramiento de su vida social y comunitaria.
+
+Capítulo 2. Ejes institucionales operativos o funcionales
+
+Autogobierno universitario. Rasgo característico de la Universidad que se centra en la consolidación de un gobierno eficaz que garantice el cumplimiento de sus fines y se traduzca en un ejercicio de libertad de pensamiento y de respeto a las diferencias.
+Gestión institucional (académica, académico-administrativa y administrativa). Proceso institucional responsable y eficiente, con relaciones basadas en la cooperación y el apoyo mutuo, orientado a garantizar que los proyectos académicos institucionales funcionen y se desarrollen de forma clara y se brinden los servicios de forma eficiente para el beneficio de la comunidad universitaria y para el logro de las finalidades de la Universidad.
+Planeación y evaluación institucional. Procesos de autorregulación para el logro de los objetivos institucionales y para el uso eficiente de los recursos subsidiados por el gobierno local y federal. La planeación y la evaluación favorecen la participación de la comunidad universitaria en la construcción y puesta en marcha de programas y proyectos, permiten la comunicación y coordinación entre entidades académicas, académico-administrativas y administrativas, proporcionan información relevante sobre el desarrollo de la institución y son el instrumento que permite hacer uso de los recursos de manera eficiente y racional. 
+
+Capítulo 3. Ejes transversales
+
+Conjunto de principios que promueven la erradicación de las violencias y todo tipo de discriminaciones a partir del respeto a los derechos humanos y una cultura de la paz promovidos tanto en los ejes institucionales sustantivos como en los operativos o funcionales.
+
+
+TÍTULO IX. POLÍTICAS INSTITUCIONALES
+
+Las políticas institucionales son las directrices para la toma de decisiones o cursos de acción que den sentido a los objetivos estratégicos; son las orientaciones generales y lineamientos que constituyen un marco dentro del cual deben desarrollarse los esfuerzos y acciones concretas para lograr los fines del proceso de planificación.
+
+
+
+Capítulo 1. Políticas vinculadas a los ejes sustantivos, funcionales y transversales
+
+Docencia.
+Promoción y desarrollo de la autonomía en el aprendizaje de los y las estudiantes, con una visión crítica y creativa que involucre su proyecto personal y comunitario. 
+Desarrollo de estrategias y acciones permanentes para fomentar la igualdad de participación de las personas estudiantes e inclusión en sus distintos niveles.  
+Formación y evaluación docente atendiendo y fomentando la función del personal académico como mediador que informa, orienta y estimula los aprendizajes de las personas estudiantes.
+Fortalecimiento, reorganización y crecimiento de la oferta académica de la Universidad a través de la evaluación curricular continua.
+Fortalecimiento y/o reorientación de los programas de posgrado que se identifiquen con el proyecto educativo de la Universidad. 
+
+Investigación
+Promoción de la investigación y la creación artística inter/trans/pluridisciplinaria innovadora, crítica y con responsabilidad social que crea, recrea y construye conocimientos, productos artísticos y tecnologías.
+Creación de estrategias que fomenten una investigación permanente, fundamentalmente colectiva, intercolegiada, vinculada a la docencia y que fortalezca redes interinstitucionales.
+Fortalecimiento de grupos, líneas y programas de investigación que consoliden trabajos de largo aliento, que atiendan problemáticas relevantes y recreen la identidad de la Universidad. 
+Fomento a la investigación sobre problemáticas de la Ciudad de México.
+
+Difusión cultural y extensión universitaria
+Promoción de la difusión de las ciencias, las artes y las humanidades entre las personas integrantes de la comunidad universitaria y en el entorno social, en particular en las comunidades de la Ciudad de México. 
+Impulso de la extensión universitaria con una perspectiva académica y cultural, crítica y plural, que beneficie a las comunidades de la Ciudad de México. 
+Fortalecimiento de la producción editorial con una perspectiva de diversidad, accesibilidad y sustentabilidad. 
+Desarrollo y reforzamiento de plataformas y herramientas de las tecnologías de la información y la comunicación para la realización de las actividades académicas y la divulgación y el resguardo de sus productos.
+
+Cooperación 
+Desarrollo de programas de extensión universitaria, con una perspectiva formativa, académica y cultural, que beneficien a distintos sectores de la Ciudad de México.
+Conformación de programas de vinculación comunitaria que permita la incidencia de los proyectos universitarios en distintos ámbitos y sectores sociales.
+Seguimiento y vinculación con quienes han egresados de la Universidad, que posibiliten el crecimiento de redes de la comunidad universitaria.
+Evaluación continua de los programas de vinculación y extensión.
+
+
+
+Autogobierno universitario
+Fomento de una cultura participativa, responsable, incluyente, democrática, de construcción de consensos, de respeto a las diferencias, privilegiando la mediación y la cultura de la paz en la toma de decisiones. 
+Fortalecimiento de los distintos órganos e instancias académicas, académico-administrativas, administrativas y de gobierno. 
+Fomento de un ejercicio que, desde las distintas instancias del gobierno universitario autónomo, rinda cuentas, use adecuadamente los recursos, respete la legislación, los derechos humanos y los derechos universitarios.
+
+Gestión institucional (académica, académica-administrativa y administrativa)
+Promoción de una cultura de la transparencia, la legalidad y la rendición de cuentas.
+Fortalecimiento de las instancias académicas, académico- administrativas y administrativas para la toma de decisiones acordes a las necesidades sustantivas de la institución. 
+Creación y actualización constante de normativas que permitan el funcionamiento transparente y adecuado del sector administrativo, técnico y manual.
+Creación de un sistema de capacitación constante que posibilite maximizar la calidad de los servicios. 
+Actualización, simplificación, digitalización y consolidación de los procesos de los servicios a la comunidad universitaria.
+Implementación de mecanismos de control y seguimiento a las tareas de gestión institucional.
+
+Planeación y evaluación institucional
+Creación, ampliación y modificación de la legislación y la normatividad (sector académico, sector estudiantil y sector administrativo) para la planeación institucional eficiente.
+Consolidación de los órganos y las instancias de planeación para posibilitar un desarrollo institucional responsable.
+Evaluación y reorganización de los procesos de gestión académica y académico-administrativa.
+Producción de información confiable que posibilite la evaluación y la planeación institucional.
+Promoción de una racionalidad presupuestaria de optimización de los recursos humanos, técnicos y materiales.
+
+Ejes transversales 
+Fomento a una cultura institucional de solución de conflictos a través de la mediación, la cultura de la paz y el diálogo.
+Construcción de una comunidad que procure erradicar todo tipo de violencias con base en el respeto a los derechos humanos y el principio de no discriminación.
+Promoción de la inclusión y la igualdad sustantiva entre la plural y diversa comunidad universitaria.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Referencias
+
+Anuario Estadístico 2018-2019 de la ANUIES
+Anuario Estadístico 2018-2019, UAM.
+Anuario General Estadístico 2018-2019, IPN. 
+Blanco, José. “La nueva demanda de educación superior en México”. Campus Milenio, 30 
+	de septiembre de 2004.
+Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria y Comisión de Asuntos Académicos, Sexta Legislatura, “Análisis sobre la situación de las ingenierías en 
+	el Plantel Centro Histórico”, UACM
+Diario Oficial de la Federación, actualizado el 15 de mayo de 2019.
+Didriksson, Axel y Javier Fuentes. “El financiamiento de la educación superior en México”. 
+	Seminario La educación superior en México, ANUIES, agosto 2005.
+Escamilla, Guadalupe. “Los excesos de la educación superior en el Distrito Federal”, 
+	Revista Mexicana de Orientación Educativa, julio-octubre 2005.
+Evolución del Gasto Social 2003-2010.
+Gaceta Oficial de la Ciudad de México del 23 de febrero de 2018.
+Gaceta Oficial de la Ciudad de México del 5 de febrero de 2017.
+Gaceta Oficial de la Ciudad de México del 6 de mayo de 2016.
+Gaceta Oficial del Distrito Federal del 28 de septiembre de 1998.
+Grupo Técnico de Planeación, “Estimación de la demanda de estudios de licenciatura en 
+	el Distrito Federal”.
+Ibarrola, María de. “Los grandes problemas del sistema educativo mexicano”. Perfiles 
+	Educativos I, vol. XXXIV, número especial, IISUE-UNAM, 2012.
+OCDE, “Panorama de la educación 2007”. Tabla B2.4 (www.oecd.org/edu/eag2007).
+Pérez Rocha, M. Discursos inaugurales de la Universidad de la Ciudad de México. 
+	Talleres de la Universidad Autónoma de la Ciudad de México, 2006.
+Portal de Estadística Universitaria, UNAM.
+Proyecto de Presupuesto de egresos de la Federación 2010 
+Reyes Tépach, M. Prontuario de ingreso y gasto público federal 2005-2008. Cámara de 
+	Diputados, s/a.
+SEP-Integralia, “Planeación, Programación y Rendición de Cuentas del Presupuesto de 
+	las Universidades Públicas en México: Razones, resultados y retos",  2019.
+SEP, Sistema de Información de la Dirección General de Planeación, Programación y 
+	Estadística Educativa. CONAPO. Proyecciones de población.
+SEP, Sistema Nacional de Información Educativa (www.snie.sep.gob.mx).
+Subsecretaría de Educación Superior. SEP. www.ses.sep.gob.mx. Recuperación: 28 de
+	septiembre de 2007.
+Taborga Torrico, Huáscar. Oferta y demanda de licenciatura en la ZMCM. ANUIES, 1998.
+

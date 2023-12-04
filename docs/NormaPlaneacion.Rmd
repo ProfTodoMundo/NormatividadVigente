@@ -1,0 +1,344 @@
+---
+title: "NORMA DE PLANEACION"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+# NORMA DE PLANEACIÓN
+
+Norma aprobada por el Pleno del Consejo Universitario el 10 de agosto de 2010 mediante el acuerdo UACM/CU/EX-16/125/10. 
+
+## FUNDAMENTO LEGAL
+
+Con fundamento en lo dispuesto en los artículos 4, fracciones, I y XI, y 17, fracciones I y VI de la Ley de la Universidad Autónoma de la Ciudad de México; artículos 13 y 14, fracción I, 118 a 121 del Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México; y artículo 85 del Reglamento del Primer Consejo Universitario de la Universidad Autónoma de la Ciudad de México, el Consejo Universitario expide la Norma de Planeación de la Universidad Autónoma de la Ciudad de México, al tenor de la exposición de motivos y considerandos siguientes: 
+
+## EXPOSICIÓN DE MOTIVOS
+
+El presente ordenamiento atiende a un mandato definido en el Título Décimo del Estatuto General Orgánico, en el cual se establece que los procesos de planeación y programación institucional, los mecanismos de coordinación y operación del Sistema de Planeación Universitaria y los procedimientos para conformar el Plan Integral de Desarrollo, estarán definidos en la Norma de Planeación.
+
+El documento está estructurado en tres partes. En el primer título, de las Disposiciones Generales, se definen la naturaleza y alcance de la Norma, el glosario de términos más usados, la caracterización de la planeación universitaria y los responsables de la aplicación y cumplimiento de esta disposición. 
+
+En el título segundo, de los Objetivos de la Planeación, se establecen los principios generales que deberán regir las distintas fases de la planeación, tales como la planeación y desarrollo institucional, planeación académica, programación y presupuestación, control presupuestal, evaluación programática presupuestal, y evaluación institucional.
+
+En el título tercero, del Sistema de Planeación Institucional, se define la parte orgánica de la Norma, que contiene las instancias, instrumentos y mecanismos del Sistema de Planeación Institucional, que permitirán cumplir con los objetivos de la planeación universitaria. En particular, se hace una descripción general del Plan Integral de Desarrollo, de los componentes del presupuesto y del Programa de Evaluación, Control y Seguimiento.    
+
+Dado que la planeación universitaria es un proceso participativo y descentralizado, la Norma es producto de la participación de todas las instancias colegiadas relacionadas con la planeación universitaria. 
+
+Participaron con propuestas para elaborar este ordenamiento, los titulares de la Rectoría, de las coordinaciones Académica, de Planeación, de los colegios y de los planteles, a través de la Comisión de Planeación; los consejeros estudiantiles y académicos de la Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del Consejo Universitario; y los integrantes del Pleno de éste.
+
+
+## CONSIDERANDOS
+
+
+  Que corresponde al Consejo Universitario aprobar y expedir las normas necesarias para el cumplimiento de los fines de la Universidad, conforme a la Ley de la Universidad Autónoma de la Ciudad de México.
+  
+  Que el ámbito de competencia del Consejo Universitario, como órgano resolutivo de carácter legislativo, es la elaboración y aprobación de normas, disposiciones generales, planes de desarrollo, planes y programas académicos y políticas institucionales.
+  
+  Que el Estatuto General Orgánico establece la pertinencia de contar con un ordenamiento de planeación institucional que procure una eficiente coordinación entre las diferentes instancias de la Universidad, a partir de sus recursos humanos y materiales, la programación del presupuesto y las demás que se deriven.
+  
+  Que el Estatuto General Orgánico plantea la organización del Sistema de Planeación Universitaria, definiendo sus mecanismos generales de coordinación, organización y seguimiento.
+  
+  Que el Estatuto General Orgánico señala que deberán definirse estrategias y lineamientos que orienten la formulación del Plan Integral de Desarrollo, el cual deberá estar conformado por los planes, programas y proyectos de cada una de las instancias académicas y administrativas, planteles y sedes. 
+  
+  Que deberán considerarse criterios y mecanismos de autoevaluación que sirvan para que el Consejo Social Consultivo, órgano previsto en la Ley y el Estatuto, cumpla con su función de emitir recomendaciones sobre el desempeño de las funciones sustantivas de la Universidad. 
+
+Dado lo anterior se expide la:
+
+
+[Regresar a Documento Principal](index.html)
+
+# NORMA DE PLANEACIÓN DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+
+Artículo 1.- La presente Norma establece los alcances, objetivos, instrumentos y procesos de la planeación universitaria a que hace referencia el título décimo del Estatuto. 
+
+Artículo 2.- Para efectos de este ordenamiento, se entiende por: 
+
+    Comisión de Planeación.- La Comisión de Planeación de la Universidad Autónoma de la Ciudad de México.
+
+    Comisión de Hacienda.- La Comisión de Hacienda del Consejo Universitario. 
+
+    Comisión de Planeación del Consejo.- La Comisión de Planeación Institucional, Desarrollo y Gestión Universitaria del Consejo Universitario.
+
+    Consejo.- El Consejo Universitario. 
+
+    Coordinación.- La Coordinación de Planeación. 
+
+    Estatuto.- El Estatuto General Orgánico de la Universidad Autónoma de la Ciudad de México. 
+
+    Ley.- La Ley de la Universidad Autónoma de la Ciudad de México. 
+
+    Norma.- La Norma de Planeación de la Universidad Autónoma de la Ciudad de México. 
+
+    PIDE.- El Plan Integral de Desarrollo.
+
+    POA.- El Programa Operativo Anual. 
+
+    Órganos e instancias académicas.- Las que se definen en el Título Segundo del Estatuto.
+
+    Órganos e instancias administrativas.- Las que se definen en el Título Octavo del Estatuto.
+
+    Sistema.- El Sistema de Planeación Universitaria. 
+
+    Universidad.- La Universidad Autónoma de la Ciudad de México. 
+
+Artículo 3.- Entre los ámbitos de competencia de la Norma, están la definición de los procesos de planeación y programación institucional, así como los mecanismos de coordinación y operación del Sistema.
+
+Artículo 4.- Para efectos de esta Norma, se entiende por planeación universitaria al proceso sistemático, participativo, descentralizado y transparente que orienta las acciones de la Universidad a corto, mediano y largo plazo para el cumplimento de sus funciones sustantivas y adjetivas. 
+
+Artículo 5.- Los responsables de la aplicación y cumplimiento de esta disposición son los órganos e instancias que integran el Sistema, definidos en el artículo 14 de la Norma. 
+
+[Regresar a Documento Principal](index.html)
+
+## TÍTULO SEGUNDO. DE LOS OBJETIVOS DE LA PLANEACIÓN UNIVERSITARIA
+
+Artículo 6.- La planeación universitaria prevé la definición de objetivos específicos que deberán cumplirse en los procesos de planeación y desarrollo institucional, planeación académica, programación y presupuestación, control presupuestal, evaluación programática presupuestal y evaluación institucional, todos los cuales deberán estar en plena concordancia con lo definido en el PIDE. 
+
+Artículo 7.- El proceso de planeación y desarrollo institucional debe cumplir los siguientes objetivos específicos:  
+
+    Adecuar la estructura administrativa a los requerimientos y particularidades de la organización académica aprobada por los órganos colegiados.
+
+    Ordenar coherente y sistemáticamente las acciones que se realicen en la Universidad en cumplimiento de los fines señalados en la normatividad aplicable y en el PIDE. 
+
+    Articular los procesos de programación, presupuestación y evaluación para  fortalecer el trabajo de las áreas académicas, órganos colegiados y áreas administrativas de la Universidad, de conformidad con el PIDE. 
+
+    Desarrollar un sistema integral de información, que reúna y presente información confiable, relevante y actualizada de las distintas instancias académicas y administrativas de la Universidad que ayude a la adecuada toma de decisiones.
+
+    Optimizar y transparentar la utilización de los recursos humanos, materiales y financieros de la Universidad.
+
+Artículo 8.- El proceso de planeación académica debe cumplir los siguientes objetivos específicos: 
+
+    Consolidar la planeación en los órganos e instancias académicas, de acuerdo con lo establecido en el PIDE.
+    
+    Integrar los programas y proyectos de los órganos e instancias académicas de la Universidad al PIDE.
+    
+    Elaborar los estudios de pertinencia y factibilidad de los planes de estudio vigentes y de las propuestas de nuevos planes de estudio.  
+    
+    Desarrollar un sistema para la asignación de cargas horarias por parte de las instancias académicas correspondientes de conformidad con lo que establezca el Estatuto del Personal Académico.
+    
+    Elaborar los estudios que permitan la ampliación de matrícula y de la nueva oferta educativa.
+    
+    Desarrollar un programa transparente de ingreso de personal docente y de superación académica y profesional del personal académico de conformidad con lo que establezca el Estatuto del Personal Académico y el Contrato Colectivo de Trabajo.
+
+Artículo 9.- El proceso de programación y presupuestación debe cumplir los siguientes objetivos específicos: 
+
+    Definir los instrumentos de programación y presupuestación para el cumplimiento de las tareas sustantivas y adjetivas de la Universidad, de conformidad con el PIDE.
+    
+    Prever en los programas y proyectos propuestos los recursos financieros necesarios para su ejecución.
+    
+    Integrar el presupuesto de la Universidad por programas, en coordinación con la Tesorería y la Comisión de Hacienda.  
+
+Artículo 10.- El proceso de control presupuestal debe cumplir los siguientes objetivos específicos: 
+
+    Conservar el equilibrio financiero de la Universidad, de conformidad con lo previsto en el PIDE y demás normatividad aplicable. 
+
+    Mejorar la calidad en la aplicación de los recursos canalizándolos a programas prioritarios, de acuerdo a lo establecido en el PIDE. 
+
+    Promover una cultura de optimización del gasto.
+
+    Garantizar el pago de la nómina, los gastos de operación y la ampliación de la infraestructura de la Universidad. 
+
+    Plantear propuestas orientadas a ordenar el gasto corriente, principalmente en actividades de apoyo administrativo, así como optimizar su aplicación.
+
+Artículo 11.- El proceso de evaluación programática presupuestal debe cumplir los siguientes objetivos específicos: 
+
+    Establecer la relación de los costos con las metas alcanzadas de cada uno de los planes, programas y proyectos planteados en el PIDE y el POA.
+    
+    Definir criterios para la corrección de las posibles desviaciones en el avance programático presupuestal. 
+    
+    Contemplar mecanismos para la verificación de las actividades administrativas que respalden el financiamiento y su racionalidad, en función de los planes, programas y proyectos planteados en el PIDE y el POA.
+    
+    Presentar resultados trimestralmente ante el Consejo Universitario y otras instancias pertinentes y hacerlos del conocimiento público a través de la página de la Universidad.
+
+Artículo 12.- El proceso de evaluación institucional debe cumplir los siguientes objetivos específicos: 
+
+    Evaluar todos los procesos que se realizan en la Universidad y plantear propuestas para mejorarlos, de conformidad con lo previsto en el PIDE.
+
+    Desarrollar un programa permanente e integral de autoevaluación y evaluación, interna y externa, de los órganos e instancias académicas y administrativas, que considere la retroalimentación de los resultados.
+
+    Lograr que los programas académicos que conduzcan a la obtención de títulos y grados, cumplan con los requisitos que se exigen para lograr la acreditación que otorgan organismos interinstitucionales universitarios que ejercen dicha función.
+
+
+[Regresar a Documento Principal](index.html)
+
+## TÍTULO TERCERO. DEL SISTEMA
+
+
+Artículo 13.- El Sistema es el conjunto de órganos e instancias, mecanismos e instrumentos, mediante los cuales se definen, norman, articulan, realizan y evalúan los procesos de planeación universitaria. 
+
+Artículo 14.- Los órganos e instancias que integran el Sistema son:
+
+    Los órganos e instancias académicas. 
+        La Coordinación Académica. 
+
+        La Coordinación.
+    Los órganos e instancias administrativas.  
+
+    Los consejos de los planteles. 
+
+    Las coordinaciones de los planteles. 
+
+    El Consejo. 
+
+    La Comisión de Planeación del Consejo. 
+
+    La Comisión de Hacienda. 
+
+    La Comisión de Asuntos Académicos.
+
+    La Comisión de Planeación. 
+
+    La Tesorería.
+
+    El Consejo Social Consultivo. 
+
+Artículo 15.- La integración de los consejos de los planteles, el Consejo Social Consultivo y el Consejo, es de conformidad con lo establecido en los artículos 26, 40 y 15 a 17 del Estatuto, respectivamente. Su funcionamiento estará definido en los reglamentos internos correspondientes. 
+
+Artículo 16.- La integración y el funcionamiento de la Comisión de Hacienda y la Comisión de Planeación del Consejo es de acuerdo con lo que disponga el reglamento interno del Consejo.  
+
+
+Artículo 17.- La Comisión de Planeación está integrada con:
+
+    El Rector o Rectora, quien la presidirá.
+
+    Como miembros permanentes: el Secretario General, el Coordinador Académico, el Coordinador de Planeación, los coordinadores de los planteles y los coordinadores de las instancias académicas vigentes, además de los Secretarios Técnicos de la Comisión de Planeación del Consejo, de la Comisión de Asuntos Académicos y de la Comisión de Hacienda. 
+
+    Como miembros invitados, que participarán en función de los temas a tratar: el Tesorero, el Contralor General y los coordinadores del resto de las instancias administrativas
+
+La forma de operación de este órgano será de conformidad con lo que establezca  el reglamento interno. 
+
+Artículo 18.- Los mecanismos de coordinación y operación de los órganos e instancias que integran el Sistema deben atender los siguientes lineamientos: 
+
+    La Coordinación es responsable de proponer estrategias, proporcionar metodologías e instructivos, brindar asesoría en los procesos de planeación, así como llevar a cabo el control, la evaluación interna y el seguimiento de los planes, programas y proyectos. 
+    
+    Los órganos e instancias académicas son responsables de elaborar, proponer, ejecutar y autoevaluar los planes, programas y proyectos que se desarrollen en los mismos.   
+    
+    Los órganos e instancias administrativas son responsables de elaborar, proponer, ejecutar y autoevaluar los planes, programas y proyectos que se desarrollen en los mismos. 
+    
+    Las coordinaciones de los planteles son responsables de integrar, ejecutar, verificar la ejecución y autoevaluar los planes, programas y proyectos que se desarrollan en el plantel respectivo. 
+    
+    Los consejos de los planteles son responsables de proponer, analizar, aprobar y evaluar los planes, programas y proyectos, en el plantel respectivo.
+    
+    La Comisión de Planeación es responsable de definir estrategias y acciones que deberán ejecutar las instancias administrativas, de verificar la ejecución de éstas, de participar en la formulación del PIDE, y de proponer normas, políticas y lineamientos generales de planeación a la Comisión de Planeación del Consejo. 
+    
+    La Comisión de Planeación del Consejo es responsable de participar en la formulación del PIDE y de analizar y dictaminar propuestas de normas, políticas y lineamientos generales de planeación, que ella misma elabore o que le hagan llegar otras instancias, en los términos del reglamento interno del Consejo.
+    
+    El Consejo es el responsable de aprobar y expedir normas, políticas y lineamientos generales de planeación. 
+
+
+Artículo 19.- Los instrumentos que integran el Sistema son:
+
+    El PIDE.
+    
+    El Presupuesto, conformado por el Proyecto Anual de Ingresos, el Presupuesto de Egresos y el POA. 
+    
+    El Programa de Control, Evaluación y Seguimiento.  
+
+[Regresar a Documento Principal](index.html)
+
+
+## TÍTULO CUARTO. DE LOS INSTRUMENTOS DEL SISTEMA
+
+### Capítulo 1. Del PIDE
+
+
+Artículo 20.- El PIDE es el documento rector que contiene los objetivos estratégicos, las políticas, estrategias, metas, estructura programática programas institucionales, programas, proyectos, acciones e indicadores de desempeño, de los órganos e instancias académicas y administrativas de la Universidad, para el mejoramiento y reordenación de sus actividades sustantivas y adjetivas, de acuerdo con la Identidad Institucional y su Prospectiva.  
+
+Artículo 21.- Los procesos de formulación y actualización del PIDE deben ser participativos, consensuados y transparentes. Serán organizados por la Coordinación y la Comisión de Planeación, con la participación de la Comisión de Planeación del Consejo y de los órganos e instancias académicas y administrativas de la Universidad. 
+
+Artículo 22.- La Comisión de Planeación del Consejo es la responsable de dictaminar la propuesta de PIDE y las propuestas de actualizaciones que presente la Rectoría. 
+
+Artículo 23.- El Consejo aprobará el PIDE dentro de los primeros seis  meses de cada gestión rectoral. Las actualizaciones al PIDE deberán ser realizadas dos veces en cada gestión rectoral, a partir del segundo año de gestión. 
+
+
+[Regresar a Documento Principal](index.html)
+
+### Capítulo 2. Del Presupuesto
+
+
+Artículo 24. El presupuesto de la Universidad está integrado por:
+
+    Proyecto anual de Ingresos: estimación de los ingresos ordinarios, extraordinarios y de los recursos de capital de la Universidad.   
+    
+    Presupuesto de Egresos: erogaciones de los órganos e instancias académicas y administrativas, compuestas por gasto de operación (servicios personales, materiales y suministros, servicios generales y ayudas, transferencias y aportaciones) y gasto de inversión (bienes muebles e inmuebles y obra pública),  detallado por origen, área ejecutora, programa y proyecto. 
+    
+    POA: instrumento que resulta de la integración de los programas operativos anuales de los órganos e instancias académicas y administrativas, que se elaboran a partir de sus necesidades y requerimientos, y que está en concordancia con el PIDE.
+
+Artículo 25. La elaboración del presupuesto de la Universidad debe atender las normas y lineamientos de cada uno de los rubros que lo integran.
+
+Artículo 26.- El proceso para la elaboración del proyecto de presupuesto de egresos iniciará por lo menos dos meses antes a la fecha de la presentación de éste a la Secretaría de Finanzas del Distrito Federal. La Tesorería se encargará de definir los plazos, criterios e instrumentos para ejecutar este proceso. 
+
+Artículo 27.- Una vez que el proyecto de presupuesto haya sido remitido a las autoridades del Distrito Federal, la Tesorería lo turnará a la Comisión de Hacienda  para que inicie su análisis y discusión. 
+
+Artículo 28.- En un plazo no mayor a quince días hábiles siguientes a que las autoridades del Distrito Federal hayan notificado el monto del techo presupuestal aprobado para la Universidad, la Comisión de Hacienda presentará los dictámenes de Proyecto anual de Ingresos y de Presupuesto de Egresos, para aprobación del Pleno del Consejo.
+
+Artículo 29.- En el caso de que la notificación a que se refiere el artículo previo no se efectúe en el año anterior al que se ejercerá el presupuesto, la Comisión de Hacienda, a más tardar en la última sesión del año, presentará para aprobación del Pleno del Consejo, una propuesta de gastos ineludibles para el primer mes del año siguiente, que permita la operación básica mientras no se aprueba el Presupuesto de Egresos.
+ 
+Artículo 30.- Los titulares de las instancias académicas y administrativas, conjuntamente con los órganos académicos, son los responsables del cumplimiento de los objetivos y metas de los planes, programas y proyectos, de realizar las actividades estipuladas en éstos, de autoevaluar semestralmente sus avances y resultados y reportarlos a la Coordinación. 
+
+Artículo 31.- La Coordinación, a través de cada una de las coordinaciones, evaluará el cumplimiento de los objetivos y metas de los programas y proyectos incluidos en el POA.
+
+[Regresar a Documento Principal](index.html)
+
+
+### Capítulo 3. Del Programa de Control, Evaluación y Seguimiento
+
+Artículo 32.- El Programa de Control, Evaluación y Seguimiento, es un instrumento dinámico, técnico, transparente, abierto, participativo y de análisis crítico orientado a valorar y verificar los resultados de los órganos e instancias académicas y administrativas y del PIDE.
+
+Artículo 33.- Las autoevaluaciones de los órganos e instancias que cubran las actividades docentes, de investigación y desarrollo, difusión y extensión académicas de la Universidad se harán del conocimiento del Consejo Social Consultivo, para que éste haga las recomendaciones pertinentes.
+
+Artículo 34.- El principal instrumento para evaluar el desempeño son los indicadores incluidos en el PIDE, entre los cuales estarán por lo menos los siguientes:
+ 
+    Educativos 
+    
+        De investigación 
+        
+        De creación
+        
+        De Difusión de la Cultura
+        
+        De Extensión Universitaria
+        
+        De Cooperación y Vinculación 
+    
+    Financieros
+    
+        Presupuestales
+        
+        Programáticos
+        
+        Administrativos
+        
+        De infraestructura. 
+
+Artículo 35.- Los resultados de las autoevaluaciones y evaluaciones son de carácter público. 
+
+[Regresar a Documento Principal](index.html)
+
+## TRANSITORIOS
+
+Primero.- La presente Norma entrará en vigor al día siguiente de su publicación en el Boletín de la Universidad.
+ 
+Segundo.- Los órganos e instancias académicas a que hace referencia la fracción XI del artículo dos de esta Norma, se definirán según lo dispuesto en el transitorio cuarto del Estatuto; en tanto, estarán en funciones los colegios, las academias, los Centros y Programas y los Consejos de Colegio previstos en los transitorios sexto, séptimo, noveno y décimo del Estatuto, respectivamente.
+
+Tercero.-  Los órganos e instancias administrativas a que hace referencia la fracción XII del artículo dos de esta Norma, se definirán según lo dispuesto en el transitorio cuarto del Estatuto; en tanto, estarán en funciones las instancias administrativas y de apoyo académico previstas en el transitorio décimo segundo del Estatuto. 
+
+Cuarto.- Los coordinadores de las instancias académicas vigentes a que hace referencia la fracción II  del artículo 18 son los titulares de los colegios previstos en el séptimo transitorio del Estatuto.
+
+Quinto.- La operación de la Comisión de Planeación a que se refiere la fracción VII del artículo 15 de esta Norma estará regulada en un reglamento interno de operación aprobado por el propio órgano. Provisionalmente, seguirá vigente, en lo que no se oponga a esta Norma, el Acuerdo para la Constitución de la Comisión de Planeación de la Universidad Autónoma de la Ciudad de México, aprobado por la Rectoría el 16 de mayo de 2006. 
+
+**México, D.F a 10 de agosto de 2010.**
+
+[Regresar a Documento Principal](index.html)

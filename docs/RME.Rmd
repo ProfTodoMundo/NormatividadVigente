@@ -1,0 +1,746 @@
+---
+title: "REGLAMENTO EN MATERIA ELECTORAL"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+
+Reglamento en Materia Electoral
+REGLAMENTO EN MATERIA ELECTORAL DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO 
+ 
+TERCER CONSEJO UNIVERSITARIO 
+UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO 
+Diciembre, 2014 
+ 
+ÍNDICE 
+Exposición de motivos 
+TÍTULO PRIMERO. Disposiciones generales 
+TÍTULO SEGUNDO. Principios rectores de los procedimientos electorales 
+Capítulo I. Certeza 
+Capítulo II. Equidad 
+Capítulo III. Transparencia y máxima publicidad 
+Sección única. Publicidad en materia de actos de difusión 
+Capítulo IV. Legalidad y definitividad 
+Capítulo V. Imparcialidad e Independencia de los órganos colegiados electorales 
+Capítulo VI. Formación democrática de la comunidad universitaria 
+TÍTULO TERCERO. Ámbitos de elecciones universitarias 
+Capítulo I. Consejo Universitario 
+Capítulo II. Rectoría  
+Capítulo III. Consejos de Plantel  
+Capítulo IV. Coordinaciones de Plantel 
+Capítulo V. Consejos Académicos de Colegio 
+Capítulo VI. Coordinaciones de Colegio 
+TÍTULO CUARTO. Órganos colegiados electorales 
+Capítulo I. Colegios electorales 
+Capítulo II. Comités de casilla 
+Capítulo III. Comités de transparencia 
+Capítulo IV. Comités de resolución de apelaciones 
+TÍTULO QUINTO. Emisión de las convocatorias 
+TÍTULO SEXTO. Procesos electorales 
+Capítulo I. Constitución de los órganos colegiados electorales  
+Capítulo II. Fases del proceso electoral 
+Sección primera. Publicación de los padrones electorales  
+Sección segunda. Registro de candidaturas 
+Sección tercera. Actos de difusión 
+Sección cuarta. Jornada electoral 
+Sección quinta. Publicación de las actas electorales 
+Capítulo III. Calificación de las elecciones 
+TÍTULO SÉPTIMO. Garantías del debido proceso y medios de impugnación 
+Capítulo I. Medios de impugnación durante el proceso electoral 
+Sección primera. Solicitud de corrección de padrones electorales 
+Sección segunda. Recurso de inconformidad 
+Sección tercera. Recurso de revisión 
+Capítulo II. Medios de impugnación posteriores al proceso electoral 
+Sección primera. Recurso de apelación 
+Sección segunda. Recurso de reconsideración 
+Capítulo III. Criterios para emitir resoluciones sobre medios de impugnación 
+Capítulo IV. De las sanciones 
+Transitorios 
+Exposición de motivos 
+ 
+La hora histórica que vivimos está marcada por una realidad en la cual las democracias se constituyen como sistemas representativos que funcionan sólo en apariencia y por la permanencia del reto de construirse como verdaderos gobiernos participativos. La participación ciudadana aparece como el “eje normativo” de todas aquellas concepciones que intentan ir más allá de la democracia representativa, pero que difícilmente se cristaliza en una experiencia formal, donde la colectivización de las decisiones, la experiencia deliberativa y la rendición de cuentas sean las prácticas políticas primordiales. 
+ 
+En la exposición de motivos de la Ley de la Universidad Autónoma de la Ciudad de México se establece como fin la construcción de una comunidad académica, cuyo objeto es la procuración de los intereses comunes. Allí, se ha remarcado, los intereses comunes deben estar por encima de los intereses particulares: lo que se traduce en el interés común por el conocimiento, el pensamiento, la ciencia y la cultura. Lo anterior está mediado necesariamente por la construcción de la autonomía y el gobierno universitario, lo que implica, a su vez, que la definición de los órganos colegiados asegure la construcción del bien común. 
+ 
+En el Estatuto General Orgánico se define la naturaleza, atribuciones y algunos elementos en la forma de elección de los cuerpos colegiados de gobierno, y de algunas instancias ejecutivas que se eligen de manera indirecta. Elemento fundamental para establecer un vínculo entre las definiciones orgánicas y los fundamentos legales de la Universidad es la creación de un reglamento o normatividad en materia de los procesos de participación democrática, a los que está llamada la comunidad universitaria.  
+ 
+Por lo tanto, el presente Reglamento, antes que una guía de los procedimientos y procesos electorales que se deben observar como norma de equilibrio, es una declaración de principios en los que se basa la participación democrática (o fines a los que se debe aspirar en una democracia deliberativa) que sirvan como herramientas sólidas para guiar las actuaciones de los responsables de los órganos electorales, los participantes en las elecciones y para solucionar los conflictos en la materia.  
+ 
+En primer lugar este reglamento propone que su fundamento sea una declaración de principios electorales que habrán de servir como guías o fundamentos de los comportamientos y acciones en los procesos de participación electoral. La historia reciente de la UACM como institución nos ha demostrado que cuando no se ha garantizado el cumplimiento de los principios generales del derecho electoral la estabilidad de la comunidad universitaria se ha puesto en peligro. Por lo que dejar a la deriva, carente de principios éticos y filosóficos el dirimir los conflictos derivados de la diferencia de ideas, supone un grave riesgo para la institución.  
+ 
+El marco reglamentario que se expone provee, además de una formulación, a partir de la lectura de las bases fundamentales del derecho electoral, de las fases en los procesos electorales y de los órganos electorales que se hagan responsables de dichos procedimientos, un sistema de herramientas y posibilidades para que cualquier conflicto surgido por la inobservancia de las normas electorales sea resuelto, no por la vía de construir para cada caso una solución política negociada, sino por medio del establecimiento de derechos electorales, como los que fueron fruto de la exigencia del establecimiento y el cumplimiento de un debido proceso, que dicho sea de paso fue lo que marcó el estallamiento del conflicto en agosto de 2012. 
+ 
+Sin embargo, tampoco es suficiente con un marco que equilibre las acciones en los procesos de contienda electoral, nada de lo anterior sería suficiente si no se logra establecer mecanismos que estimulen la participación por lo que éstos serán deseables y  necesarios para contribuir la relación entre representantes y comunidad alcance medios donde se estrechen la vinculación directa y la corresponsabilidad de unos y otros para consolidar la aspiración de que ninguna decisión que tome un órgano colegiado representativo esté al margen de la voluntad de la comunidad. Esa es una tarea legislativa pendiente de materializar.  
+ 
+Desde los primeros procesos electorales para definir órganos de representación colegiada como las del consejo general interno, de 2005, pasando por los procesos para elegir coordinadores de planteles, en 2007, o para elegir coordinadores de colegios, en 2008, hasta los procesos para elegir órganos colegiados, desde la promulgación del Estatuto General Orgánico, en 2010, para no mencionar las elecciones de las representaciones sindicales que cuentan con su propio ámbito de acción, se han venido realizando una innumerable cantidad de procesos electorales en esta Universidad. Cada uno de ellos ha sido parte de un proceso de construcción autónoma y colectiva que, no al margen de diversos conflictos, o quizás gracias a ellos, con este documento llegamos a una codificación tentativamente general, panorámica, determinada por la estructura orgánica de la Universidad y tendiente a coadyuvar con la construcción democrática de la Universidad.  
+ 
+TÍTULO PRIMERO. DISPOSICIONES GENERALES 
+ 
+Artículo 1. El presente Reglamento es de orden público y aplicación general en la Universidad Autónoma de la Ciudad de México regirá los procesos electorales que se celebren en ésta mediante el sufragio universal, libre, directo, personal y secreto, con la finalidad de elegir los representantes ante el Consejo Universitario, Consejos de Plantel, órganos académicos colegiados, Rectoría, Coordinadores de Planteles y Colegios, las demás autoridades y representantes que determinen las normas universitarias. Incluye las garantías al debido proceso y un sistema de medios de impugnación. También se aplicará este Reglamento en la organización y realización de los instrumentos de participación directa que ella consagra, así como cualquier otro proceso electoral, de consulta y  referéndum  que deba realizarse por iniciativa de la comunidad universitaria. 
+ 
+ 
+Artículo 2.  El presente Reglamento tiene su fundamento legal en la Ley de la Universidad Autónoma de la Ciudad de México artículos 4 fracción II, 5, 6 fracción X, 7 fracción VII, 15, 16, 17 fracciones I, V y XX, y 19º; en el Estatuto General Orgánico artículos 2, 12, 14 fracción I, 16, 17, 19, 20, 21, 22, 26, 27, 28, 48, 49, 56, 57, 77, 89 y 92; en los artículos 3, 4, 5, 10, 19, 20, 29, 30, 74 y Capítulo IX del Título Cuarto del Reglamento del Consejo Universitario, en el Reglamento General de Consejos de Plantel y demás normatividad aplicable en la materia. 
+ 
+Artículo 3. Para efectos del cumplimiento de este reglamento y la normatividad universitaria se entenderá por: 
+I. Actos de difusión.- Los actos, la publicidad o las aseveraciones que lleven a cabo los candidatos durante la fase destinada para tales efectos; 
+II. Comunidad.- Comunidad universitaria, conformada por estudiantes, académicos y personal administrativo, técnico y manual de la Universidad; 
+III. Consejo.- Consejo Universitario; 
+
+IV. Convocatoria.- El documento normativo en que se fundamenta todo proceso electoral en la UACM; 
+V. Democracia.- Es una forma de vida a la que aspira toda comunidad educativa que se construye con base en la participación equitativa e incluyente y en el ejercicio del diálogo como prácticas fundamentales para la toma de decisiones respecto del funcionamiento y desarrollo de la propia institución;  
+VI. EGO.- Estatuto General Orgánico de la Universidad; 
+VII. Elector.- Todo miembro de la comunidad con pleno ejercicio de su derecho de ser votante en un proceso electoral determinado; 
+VIII. Fases electorales.- Son las etapas del proceso electoral que establezca una determinada convocatoria electoral; 
+IX. Ley.- Ley de la Universidad Autónoma de la Ciudad de México; 
+X. Medios de impugnación.- Son todos los recursos de que dispone la comunidad universitaria para garantizar la legalidad de los actos, resoluciones y resultados electorales; 
+XI. Órganos electorales.-Son las instancias colegiadas formadas a efectos de organizar procesos electorales o de resolver las controversias derivadas de las impugnaciones que haya a lugar en los mismos; 
+XII. Participación.-Medio establecido por la Ley para lograr la construcción y los fines de la comunidad universitaria; 
+XIII. Recurso de apelación.- Medio de impugnación sobre resoluciones a un elemento del proceso electoral que se puede interponer en segunda instancia; 
+XIV. Recurso de inconformidad.- Medio de impugnación que se puede interponer respecto del registro de una candidatura; 
+XV. Recurso de revisión.- Medio de impugnación a un elemento del proceso electoral que se puede interponer en primera instancia; 
+XVI. Solicitud de corrección a padrones electorales.- Medio de impugnación que se puede presentar respecto de la publicación de padrones electorales preliminares; y 
+XVII. Universidad.- Universidad Autónoma de la Ciudad de México. 
+
+ 
+TÍTULO SEGUNDO. PRINCIPIOS RECTORES DE LOS PROCESOS ELECTORALES 
+ 
+Artículo 4. Los siguientes principios deben comprenderse en su conjunto, como un complemento entre ellos, no de manera aislada, siendo complementarios entre sí. 
+ 
+Capítulo I.  Equidad 
+ 
+Artículo 5. Todo miembro de la comunidad universitaria tiene las prerrogativas constitucionales de votar y ser votado con igualdad de oportunidades en la participación en una contienda electoral para los cargos de representación universitaria, en los términos y requisitos que establece el presente Reglamento y la normatividad de la Universidad. 
+ 
+Artículo 6. Ningún candidato que se postule a un cargo de representación en la Universidad puede obtener una posición ventajosa respecto de los demás candidatos que concurran igualmente a su nominación, entiéndase con ello ocupar un cargo de confianza en la Universidad, o ejercer cualquier cargo de representación pública a nombre de un partido político. 
+ 
+Artículo 7. Está prohibido que exista un desequilibrio marcado en materia de uso de recursos financieros o materiales para actos de campaña, antes y durante los procesos electorales.  
+ 
+Artículo 8. La Universidad, a través de los órganos colegiados electorales, promoverá que la difusión de las campañas se realice con base en criterios equitativos y proporcionales. En las convocatorias se especificarán las medidas que para tales efectos se consideren pertinentes. 
+ 
+Artículo 9. En materia de igualdad en el debate o la contienda electoral la libertad de expresión se entenderá, al igual que todo derecho fundamental, no como un derecho absoluto o ilimitado, sino como un derecho sujeto a responsabilidades, determinado por restricciones, siempre que estén previstas en la Constitución, en las leyes y se expresen como criterios equitativos y proporcionales. 
+ 
+Artículo 10. En todo momento los órganos electorales serán responsables de buscar que en los debates entre candidatos que tengan lugar durante las campañas se emplee un lenguaje respetuoso, y de sancionar inmediatamente las difamaciones a los oponentes.  
+ 
+Artículo 11. La equidad también implica libertad de elección, es decir, garantizar la libertad de acceso a dichas contiendas. Por lo tanto, en todo momento se sancionará la coacción al voto, entendiéndose la coacción como la imposición, la inducción o el condicionamiento al voto, mediante la fuerza o la violencia.  
+ 
+Artículo 12. La violación a los elementos constitutivos del principio de equidad por parte de un integrante de la comunidad es causal de inelegibilidad de un candidato, cuando sean realizados por éste o alguno de sus representantes, siempre que se demuestre que se ha actuado para favorecerlo, en menoscabo del principio de equidad. 
+ 
+Capítulo II.  Certeza 
+ 
+Artículo 13. El principio de certeza electoral se refiere a la necesidad de que todas las acciones que realizan los órganos colegiados electorales se caractericen por su veracidad, claridad y confiabilidad, que estén apegadas a los hechos, a la verdad y que los resultados de dichas acciones sean comprobables y fidedignas. 
+ 
+Artículo 14. El cumplimiento del principio de certeza implica que la preparación, la realización y la calificación de las elecciones deben ser convincentes, generar una situación de absoluta confianza por parte de la comunidad, a efecto de que sus resoluciones estén apegadas a los hechos en todo momento, y no queden vacíos interpretativos ni dudas, que los votos emitidos produzcan un resultado convincente por veraz. 
+ 
+Artículo 15. Todos los participantes y electores estarán en condiciones de conocer, al inicio de todo proceso electoral, las reglas que integran dicho proceso, el calendario en que se efectuará, los términos de su propia actuación, y la de los órganos colegiados electorales.  
+ 
+Artículo 16. El principio de certeza también abarca el principio de objetividad, mencionado en la Constitución Política de los Estados Unidos Mexicanos, el cual obliga a que las normas y mecanismos del proceso electoral estén diseñadas para evitar situaciones conflictivas sobre los actos previos a la jornada electoral, durante su desarrollo y en las etapas posteriores a la misma. 
+ 
+Artículo 17. El principio de certeza no sólo alude a la preparación de los procesos y de confiabilidad de los resultados, también implica la realización periódica, permanente y regular de los procesos que permitan la renovación democrática de los órganos colegiados y órganos ejecutivos. 
+ 
+Capítulo III.  Transparencia y máxima publicidad 
+ 
+Artículo 18. El principio de transparencia está comprendido en el derecho que le otorga el Estatuto General Orgánico, en sus artículos 80 y 81, a obtener información y a ejercer el derecho de petición. Esta prerrogativa jurídica se convierte en una garantía de control sobre las acciones y el funcionamiento de la Universidad y se incorpora a toda materia electoral.  
+ 
+Artículo 19. En consecuencia, la transparencia se define como aquello que nos permite apreciar con nitidez cómo se realiza todo proceso en la Universidad. La publicidad sería el resultado que se desea obtener en todo el funcionamiento público, en función del derecho que se reconoce a todo miembro de la comunidad de disponer de información. Desde el punto de vista electoral, se define como el principio que permite a la comunidad conocer todos los actos de todos los actores involucrados en una contienda electoral. 
+ 
+Artículo 20. Ambos conceptos (transparencia y publicidad) se confunden por su familiaridad. En bastantes ocasiones se han entendido y utilizado como sinónimos. En materia de transparencia, el acento está puesto en el derecho a conocer cómo se hace todo acto público. Por lo tanto, la garantía de transparencia nos debe permitir satisfacer nuestras dudas y, sobre todo, poder examinar toda actuación en materia electoral y de participación en los órganos de gobierno. 
+ 
+Sección única. Publicidad en materia de actos de difusión 
+ 
+Artículo 21. El objetivo de la transparencia electoral es obtener representantes y autoridades legítimas, para ello se consagra el derecho a que los gastos y operaciones de los candidatos sean del dominio público, y se pueda conocer el origen de los recursos empleados por los aspirantes a cargos de elección, a esta aspiración se le denomina máxima publicidad.  
+ 
+Artículo 22. El principio de publicidad implica la rendición de cuentas durante los actos de difusión, la jornada electoral y después de los procesos electorales. Para que tengan utilidad para la transparencia efectiva del financiamiento, dichas rendiciones de cuentas deben indicar: los donantes, los valores recaudados y los gastos efectuados. 
+ 
+Artículo 23. Es absolutamente necesario el reconocimiento de la legitimidad que tienen los miembros de la comunidad para exigir y para impugnar la rendición de cuentas, para promover la responsabilidad por abusos de poder, así como por el uso indebido de los medios de difusión. 
+ 
+Artículo 24. Es una consecuencia del cumplimiento del principio de transparencia la sanción ante la acreditación de uso de recursos de fuentes prohibidas y de gastos arriba del tope permitido por los órganos colegiados electorales. El análisis y la valoración de todo ejercicio de rendición de cuentas serán hechos por un órgano independiente del responsable de la organización del proceso electoral. 
+ 
+Capítulo IV. Legalidad y Definitividad 
+ 
+Artículo 25. El principio de legalidad es la garantía formal de que los órganos electorales competentes, los candidatos y los integrantes de la comunidad actúen en estricto apego a las disposiciones consignadas en la normatividad, a fin de que no se emitan o desplieguen conductas caprichosas o arbitrarias al margen del texto normativo. 
+ 
+Artículo 26. Constituyen el marco legal en materia electoral: la Ley de la UACM, el EGO, el presente reglamento, las convocatorias que se emitan para efecto de llevar a cabo los procesos electorales, y las actuaciones de los órganos electorales debidamente fundadas y motivadas, y redactadas en actas, minutas o resoluciones. 
+ 
+Artículo 27. Todos los participantes y electores podrán conocer, al inicio de todo proceso electoral, las convocatorias que emiten las reglas que integran dicho proceso, el calendario en que se efectuará, los términos de su propia actuación, y las atribuciones o funciones de los órganos electorales.  
+ 
+Artículo 28. Los integrantes de los órganos colegiados electorales competentes están obligados a mantener el estricto cumplimiento de la normatividad vigente. Todas sus actuaciones deberán constar por escrito y estar debidamente motivadas y fundamentadas.  
+ 
+Artículo 29. De manera complementaria al principio de legalidad la constitución mexicana consagra el principio de definitividad, que define al sistema electoral como un edificio construido por diferentes etapas en el que convergen múltiples actos y actores. El cumplimiento de dichas etapas es el resultado de una larga sucesión de medidas e instrumentos, decididas y ejecutadas, unas detrás de otras. En este orden de ideas, cumplir con el principio de la definitividad de las etapas, actos y actividades en cada proceso electoral resulta fundamental.  
+ 
+Artículo 30. Para garantizar el principio de legalidad de los actos y resoluciones electorales, se establece un sistema de medios de impugnación en los términos que señala este reglamento. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los integrantes de la comunidad universitaria a votar, ser votados y de libre asociación, en los términos de la legislación universitaria y nacional aplicables. 
+ 
+Artículo 31. Las elecciones para renovar órganos colegiados, rectoría o coordinaciones en la Universidad Autónoma de la Ciudad de México se constituyen como procesos electorales –no como actos únicos– que comprenden distintos eslabones y que se consolidan mediante la toma de múltiples decisiones. Todas las decisiones y acciones que se van tomando en las etapas del proceso electoral son conocidas y aceptadas (o en su caso impugnadas) por los actores de la contienda. 
+ 
+Artículo 32. Son fases de los procesos electorales en la Universidad Autónoma de la Ciudad de México, en el siguiente orden: 
+I. La publicación de las convocatorias; 
+II. La constitución de los órganos colegiados electorales; 
+III. La publicación de los padrones electorales; 
+IV. El registro de las candidaturas; 
+
+V. Los actos de difusión; 
+VI. Las jornadas electorales; 
+VII. La fase de análisis y resolución de impugnaciones; y 
+VIII. La calificación final de las elecciones. 
+
+ 
+Artículo 33. La calificación final de las elecciones es la fase que cierra el proceso. Cuando los órganos electorales califican unas elecciones éstas adquieren definitividad: se convierten en decisiones tomadas, firmes, irrevocables e inatacables. 
+ 
+Artículo 34. Los órganos electorales denominados colegios electorales son los responsables de hacer la calificación de todo proceso electoral. En caso de que se presenten impugnaciones, deberán emitir la calificación final del proceso electoral hasta en tanto se hayan agotado todos los medios de impugnación que se hayan interpuesto en primera instancia, en tiempo y forma. 
+ 
+Artículo 35. Toda inconformidad, impugnación o apelación a una resolución emitida por un órgano electoral competente que afecte la esfera jurídica de un miembro de la comunidad deberá constar por escrito y estar debidamente fundada y motivada respetando con ello el principio de legalidad. La normatividad electoral debe garantizar la existencia de una instancia para apelaciones a las resoluciones sobre impugnaciones. 
+ 
+Capítulo V. Imparcialidad e independencia de los órganos colegiados electorales 
+ 
+Artículo 36. El principio de imparcialidad significa que, en el desarrollo de sus actividades, todos los órganos colegiados electorales deben reconocer y velar permanentemente por el interés de la comunidad y por los valores fundamentales de la democracia, supeditando a estos, de manera irrestricta, cualquier interés personal o preferencia política.  
+ 
+Artículo 37. El principio de imparcialidad se constituye en una obligación para la Universidad, especialmente para los órganos colegiados electorales encargados de resolver en torno a los medios de impugnación. Esta obligación consiste en juzgar, con ausencia absoluta de designio anticipado o de prevención a favor o en contra de alguno de los implicados. Todos los órganos colegiados electorales estarán mandatados para que en el ejercicio de sus funciones eviten irregularidades, desviaciones o la proclividad en favor de alguno de los candidatos. 
+ 
+Artículo 38. El principio de imparcialidad entraña que en la realización de sus actividades todos los integrantes de dichos órganos colegiados electorales deben brindar trato igual a los distintos participantes en los procesos electorales, excluyendo privilegios y, en general, conduciéndose con desinterés en el marco de la competencia electoral. Debe entenderse también como la voluntad de decidir y juzgar rectamente, con base en la experiencia, en la capacidad profesional y conocimiento sobre lo que está resolviendo. 
+ 
+Artículo 39. El principio de imparcialidad es concomitante al principio de independencia, el cual hace referencia a las garantías y atributos de que disponen los miembros de la comunidad que conforman los órganos colegiados electorales, para que sus procesos de deliberación y toma de decisiones se den con absoluta libertad y respondan única y exclusivamente al marco normativo.  
+ 
+Capítulo VI. Formación democrática de la comunidad universitaria 
+ 
+Artículo 40. Se añade a los principios electorales el de formación en la democracia, entendida como un proceso continuo que se vive en el desarrollo de una comunidad educativa, que opta por la democracia en tanto que permite el libre intercambio de ideas. 
+ 
+Artículo 41. Debe ser elevada al rango de principio general la idea de la democracia entendida como una práctica sujeta al aprendizaje continuo de la comunidad, donde entren en relación sus experiencias, pero también sus facultades de juicio y acción, que le permita tomar conciencia de sí misma e invitarla a ejercer la participación. 
+ 
+Artículo 42. La comunidad, el Consejo Universitario, los Consejos de Plantel y los demás órganos colegiados están en la obligación de fomentar el diagnóstico y la investigación en torno a la democracia como práctica activa, crear espacios de análisis y reflexión sobre las prácticas de participación, así como de capacitación e instrucción para ejercer funciones electorales específicas. 
+ 
+TÍTULO TERCERO. DE LOS ÁMBITOS DE ELECCIONES UNIVERSITARIAS 
+ 
+Artículo 43. Los siguientes son los ámbitos de elección en la Universidad Autónoma de la Ciudad de México: Consejo Universitario, Consejo de Plantel, órganos académicos colegiados, rectoría y coordinaciones.  
+ 
+Artículo 44. Todos los otros órganos de representación por elección que se establezcan deberán cumplir con los preceptos establecidos en el Título Segundo del presente Reglamento, y pasarán a integrar la esfera del presente Título Tercero. 
+ 
+Capítulo I.  
+Consejo Universitario 
+ 
+Artículo 45. La naturaleza y atribuciones del Consejo están definidas en los artículos 15 a 20 de la Ley, y en los artículos 12 a 14 del EGO. 
+ 
+Artículo 46. La integración del Consejo Universitario se establece en el artículo 15 del EGO, y contempla la elección de seis consejeros estudiantes, seis consejeros académicos, y un representante administrativo por plantel, así como de un representante administrativo por las demás sedes.  
+ 
+Artículo 47. El Consejo y los órganos colegiados velarán por el cumplimiento de los plazos establecidos para la emisión de convocatorias parciales y extraordinarias para la elección de vacantes. 
+ 
+Artículo 48. Los requisitos para formar parte del Consejo están establecidos en el artículo 19 del EGO. Los Colegios Electorales verificarán con exhaustividad y apego a los principios rectores electorales, el cumplimiento de dichos requisitos por parte de los candidatos o aspirantes a cargos de elección. 
+ 
+Artículo 49. La renovación del Consejo está establecida en el artículo 20 del EGO y en el artículo 19 del Reglamento del Consejo Universitario. Para su cabal cumplimiento el máximo órgano de gobierno emitirá la convocatoria para su renovación, por lo menos tres meses antes de la fecha de cumplimiento de los dos años de su instalación. 
+ 
+Artículo 50. El artículo 21 del EGO prefigura la existencia de una normatividad específica para efectos electorales, en lo que se refiere al Consejo. Dicha disposición indica que los procesos de elección de consejeros y representantes a este órgano de gobierno deberán cumplir con el principio de votación universal, directa, libre y secreta, y asimismo expresa que los procesos electorales deben garantizar la participación plural de los miembros de la comunidad. 
+ 
+Artículo 51. El Consejo, en tanto máximo órgano de gobierno tiene, en materia electoral, la responsabilidad de emitir las convocatorias para su renovación, las convocatorias parciales y extraordinarias para elección de vacantes, las convocatorias para elección del rector, y las convocatorias para integrar los órganos colegiados electorales y las demás que la normativa universitaria establezca, según los principios rectores electorales. 
+ 
+Artículo 52. Con la finalidad de que el Consejo Universitario cumpla con condiciones mínimas para funcionar con representatividad, deberá contarse con al menos la mitad más uno de cada sector, consejeros estudiantes y consejeros académicos, para su instalación. En prevención de lo anterior, si se diera el caso de que en el desarrollo de una convocatoria de renovación del Consejo, en la fase de registro de candidatos se ocupen menos de dieciséis de los espacios de representación en un sector, el Consejo estará facultado para tomar medidas tendientes a lograr la representación mínima establecida.  
+ 
+Capítulo II. Consejos de Plantel 
+ 
+Artículo 53. La naturaleza y atribuciones de los Consejos de Plantel están definidas en los artículos 24 y 25 del Estatuto General Orgánico, así como en los reglamentos, lineamientos y normatividad que se emita para precisar tales efectos. 
+ 
+Artículo 54. La integración de los consejos de plantel está establecida en el artículo 26 del EGO, y contempla la elección de seis consejeros estudiantes, seis consejeros académicos, y un representante administrativo por plantel. Los órganos colegiados velarán por el cumplimiento de los plazos para la emisión de convocatorias parciales y extraordinarias para la elección de vacantes. 
+ 
+Artículo 55. Los requisitos para formar parte de los Consejos de Plantel están establecidos en los artículos 19, 27 y 28 del Estatuto General Orgánico. Los colegios electorales verificarán con exhaustividad y apego a los principios rectores electorales, el cumplimiento de dichos requisitos por parte de los candidatos o aspirantes a cargos de elección. 
+ 
+Artículo 56. El artículo 28 del Estatuto General Orgánico indica que los procesos de elección de consejeros y representantes de los consejos de plantel deberán cumplir con el principio de votación universal, directa, libre, secreta, personal e intransferible, y asimismo indica que los procesos electorales deben garantizar la subscripción plural de los miembros de la comunidad. 
+ 
+Artículo 57. Los Consejos de Plantel velarán por que su término no exceda de dos años efectivos de labores, contados a partir de su instalación. Para ello, emitirán la convocatoria para su renovación, por lo menos tres meses antes de la fecha de cumplimiento de los dos años de su instalación. En caso de que por fuerza mayor no se puedan cumplir tales plazos las convocatorias emitidas deberán contar con un dictamen de procedencia formulado por la Comisión de Asuntos Legislativos, la cual deberá presentarlo en cinco días hábiles contados a partir del día siguiente de la solicitud. 
+ 
+Artículo 58. Los Consejos de Plantel tendrán, en materia electoral, la responsabilidad de emitir las convocatorias para su renovación, las convocatorias parciales y extraordinarias para elección de vacantes, las convocatorias para elección de las coordinaciones de plantel, y las convocatorias para integrar los órganos colegiados electorales, en el ámbito de su jurisdicción, según los principios rectores electorales. 
+ 
+Capítulo III. Órganos colegiados académicos 
+ 
+Artículo 59. La existencia de órganos e instancias académicas colegiadas está señalada en los artículos 20 de la Ley y 8 del EGO. Su naturaleza y atribuciones,  integración, requisitos y formas de elección, así como la periodicidad de su renovación serán definidos en dicho Estatuto, lo cual quedará incorporado desde su aprobación a la esfera del presente Reglamento. 
+ 
+Artículo 60. El Consejo Universitario emitirá las convocatorias necesarias para constituir los cuerpos académicos colegiados que defina, en cumplimiento del Congreso General Universitario, y en los términos estipulados en el EGO, y en cumplimiento de la demás normatividad aplicable. 
+ 
+Capítulo IV. Rectoría 
+ 
+Artículo 61. La naturaleza y atribuciones del Consejo Universitario están definidas en el artículo QUINTO TRANSITORIO de la Ley, y en los artículos 45 y 47 del EGO. 
+Artículo 62. El Consejo debe emitir la convocatoria para elección de rector,  instalar al colegio electoral respectivo, y elegir por voto nominal al rector. Los requisitos de elegibilidad están establecidos en los artículos 48, y el procedimiento de elección en el artículo 49 del EGO. 
+ 
+Artículo 63. Corresponde al Consejo velar por el cumplimiento de los plazos para la emisión de la convocatoria de elección de rector, en los términos establecidos en el artículo 46 del Estatuto General Orgánico. Para su cabal cumplimiento el máximo órgano de gobierno emitirá la convocatoria para su renovación, por lo menos tres meses antes de la fecha de cumplimiento de los dos años de su instalación. 
+ 
+Artículo 64. Al colegio electoral le corresponde: organizar y vigilar el proceso de elección conforme a la convocatoria, garantizar que la difusión de las propuestas de los candidatos a rectoría se hagan de manera amplia y que éstas sean cabalmente conocidas por la comunidad, y realizar la consulta de preferencias por sector, colegio, sede y plantel, a fin de definir una terna de aspirantes, en caso de que los registrados sean más de tres. 
+ 
+Artículo 65. Dicho colegio electoral presentará al Consejo, las propuestas de aspirantes registrados, en caso de que sean menos de tres, o definirá una terna con base en la consulta de preferencias que lleve a efecto. 
+ 
+Artículo 66. A efecto de cumplir con los principios de certeza, equidad, transparencia y máxima publicidad, legalidad e imparcialidad, el Consejo establecerá en la convocatoria los términos para constituir un comité de impugnaciones que revisará los posibles medios de impugnación que se presenten, en los términos del presente Reglamento. 
+ 
+Capítulo 5. Coordinaciones de Plantel 
+ 
+Artículo 67. La naturaleza y atribuciones de las Coordinaciones de Plantel están definidas en los artículos 52 y 54 del EGO. 
+ 
+Artículo 68. Los consejos de plantel son los órganos de gobierno encargados de designar al coordinador de plantel, en los términos del artículo 53 del EGO. El mismo artículo determina que el término de duración del cargo será de dos años. 
+ 
+Artículo 69. Corresponde a los consejos de plantel emitir las convocatorias para elección de las Coordinaciones de plantel. Para cumplir con los términos establecidos en el Artículo 53 del EGO emitirá la convocatoria para su renovación, por lo menos tres meses antes de la fecha de cumplimiento de los dos años de su instalación. 
+ 
+Artículo 70. Los requisitos y formas de elección de las Coordinaciones de plantel están definidos en los artículos 56 y 57 del EGO.  
+ 
+Artículo 71. A efecto de cumplir con los principios de certeza, equidad, transparencia y máxima publicidad, legalidad e imparcialidad, los consejos de plantel establecerán en la convocatoria los términos para constituir un colegio electoral, que organizará el proceso electoral, y un comité de impugnaciones, que revisará los posibles medios de impugnación que se presenten, en los términos del presente Reglamento. 
+ 
+Capítulo VI. Coordinaciones de Colegio 
+
+Artículo 72. Las Coordinaciones de Colegio deberán promover la participación de su comunidad en la elección de los encargados de éstas. La emisión de convocatorias, entre otros criterios electorales, se ajustará en lo aplicable al presente Reglamento.  
+ 
+TÍTULO CUARTO. ÓRGANOS COLEGIADOS ELECTORALES 
+ 
+Artículo 73. Habrá órganos colegiados que se establecerán para cada proceso electoral. Toda la comunidad está llamada a participar en dichos órganos colegiados y a actuar en congruencia con los principios electorales. 
+ 
+Artículo 74. Los órganos colegiados electorales encargados de cada proceso son: 
+I. Colegio Electoral, encargado de la organización del proceso electoral, desde la publicación de los padrones, hasta la calificación de las elecciones; 
+II. Comité de Casilla, encargados de velar por el correcto desarrollo de la jornada electoral; y 
+III. Comité de Impugnaciones, encargados de analizar, revisar y emitir resoluciones. 
+
+ 
+Artículo 75. En caso necesario, se formarán órganos electorales denominados comités de resolución de apelaciones, o de reconsideraciones, encargados de la revisión en segunda, o tercera, instancias de las resoluciones en torno a medios de impugnación. 
+ 
+Artículo 76. Todos los órganos colegiados electorales designarán, para su funcionamiento, de entre sus miembros a un secretario que tendrá las siguientes funciones:  
+I. Coordinar los trabajos del órgano colegiado electoral respectivo; 
+II. Convocar a los demás miembros a sesiones extraordinarias para el desahogo de los trabajos requeridos; 
+III. Atender la solicitud de convocatoria a sesiones extraordinarias de cualquier integrante; 
+IV. Actuar como moderador en las sesiones de trabajo; 
+V. Resguardar la documentación emanada de su funcionamiento; 
+VI. Presentar los acuerdos, dictámenes y resoluciones elaborados; y 
+VII. Hacer entrega de ellos en tiempo y forma a las instancias respectivas. 
+
+ 
+Artículo 77. Todos los órganos colegiados electorales designarán para su funcionamiento, de entre sus miembros, a un relator que tendrá las siguientes funciones:  
+I. Llevar las minutas de las sesiones;  
+II. Dar lectura a los documentos bajo estudio; y 
+III. Redactar los documentos que se vayan a emitir como acuerdos, dictámenes y resoluciones de los respectivos órganos electorales.  
+
+Artículo 78. El quórum legal para sesionar será de la mitad más uno de los integrantes de los órganos electorales correspondiente. Se requerirá del mismo quórum para la toma legal de acuerdos. 
+ 
+Artículo 79. Los debates para el desahogo de los puntos del orden del día se desarrollarán bajo los principios de tolerancia, respeto y observancia de la legalidad universitaria. 
+ 
+Artículo 80. Todas las actuaciones, minutas, dictámenes y resoluciones de los órganos electorales deberán contar con firma y rúbrica de sus miembros. El hecho de que un miembro de un órgano electoral no quiera firmar una actuación no es causa de nulidad de la misma. El integrante que objete los acuerdos deberá indicar sus razones, de puño y letra y con la debida fundamentación y motivación.  
+ 
+Artículo 81. Las sesiones de los órganos electorales serán públicas. Éstos tendrán la facultad de reunirse las veces, y en los planteles o sedes universitarias, que consideren necesario para observar asuntos o tomar acuerdos relacionados con la organización del proceso electoral. En todo caso, se dará aviso a la comunidad universitaria del lugar y la fecha de sus reuniones, por medio de la página web de la Universidad, y dando aviso a los órganos colegiados respectivos. 
+ 
+Artículo 82. Todas las actuaciones, minutas, dictámenes y resoluciones de los órganos electorales deberán ser publicados oportunamente y conocidos por la comunidad universitaria. La 
+Coordinación de Comunicación deberá garantizar la publicidad de los acuerdos de los órganos electorales en forma expedita y oportuna. 
+ 
+Artículo 83. Todas las instancias académicas y administrativas de la Universidad deberán atender a cualquier requerimiento formulado por los órganos electorales materia de su competencia, a más tardar en dos días hábiles contados a partir del día siguiente de la recepción de la solicitud. 
+ 
+Artículo 84. Los miembros de los órganos colegiados electorales colegiados son responsables de sus actuaciones ante el máximo órgano de gobierno, y serán susceptibles de aplicárseles el reglamento de responsabilidades universitarias que rige para los cargos de representación en la Universidad Autónoma de la Ciudad de México. 
+ 
+Artículo 85. Los miembros de los órganos colegiados electorales deberán ser removidos de sus cargos cuando se demuestre parcialidad en el desempeño de sus funciones o cuando no asistan a tres sesiones consecutivas, sin causa justificable. 
+ 
+Artículo 86. Los integrantes de órganos colegiados electorales que no asistan a tres sesiones continuas o cuatro no consecutivas, sin causa justificada, perderán automáticamente su derecho a participar como miembros integrantes de los mismos.  
+ 
+Artículo 87. El quórum de instalación y funcionamiento de los órganos colegiados electorales se determinará con la presencia de la mayoría simple de los miembros que los integran. Las decisiones que adopten serán con el voto de la mayoría simple de sus integrantes, salvo las excepciones legales establecidas. Las decisiones sólo podrán revocarse con el voto de las dos terceras partes de sus miembros. 
+ 
+Capítulo I. Colegios electorales 
+ 
+Artículo 88. Los órganos denominados colegios electorales serán los responsables de velar por el desarrollo de cada elección, en especial los enumerados en los Capítulos II y III del Título Sexto de este Reglamento. Tendrán competencia durante el término de la elección a que corresponda, y deberán ser constituidos para cada proceso electoral. 
+ 
+Artículo 89. Cada convocatoria determinará los plazos para la constitución de los órganos colegiados electorales, los requisitos para su integración y quórum legal. Para ello, los colegios electorales se constituirán en relación paritaria entre sectores, buscando alcanzar la más amplia representatividad entre las diferentes comunidades (sectores, planteles y colegios, según el caso).  
+ 
+Artículo 90. Una vez constituido el colegio electoral deberá elegir, de común acuerdo, un secretario y un relator. Asimismo deberá elaborar una minuta de dicha sesión de constitución. Esta minuta de constitución, y los acuerdos que allí se tomen, serán enviados a la Comisión de Organización del Consejo para su conocimiento y publicación en la página respectiva.  
+Artículo 91. El secretario y el relator de los colegios electorales de plantel serán los responsables de la integración, resguardo y entrega al Consejo, de toda la documentación, actas y resoluciones que se generen durante el proceso electoral. 
+ 
+Artículo 92. Los colegios electorales tendrán las siguientes atribuciones y facultades: 
+I. Atender en todo momento a lo establecido por la legislación universitaria, aplicable en materia de procesos electorales, y al cumplimiento de los principios rectores electorales; 
+II. Solicitar a la Coordinación Académica, la coordinación de Servicios Administrativos, las Coordinaciones de Plantel y la Secretaría Técnica de la  Comisión de Organización del Consejo Universitario o de los Consejos de Plantel lo que requieran para garantizar el buen cumplimiento de las convocatorias. Estas instancias, a su vez estarán obligadas a proveer lo necesario para la organización general de los procesos electorales indicados, en lo que sea de su competencia; 
+III. Obtener los padrones electorales de las instancias correspondientes, y publicar los padrones preliminares en cada uno de los planteles y sedes, en los espacios que determine para tales efectos; 
+IV. Difundir entre la comunidad de los planteles y sedes, en coadyuvancia con los órganos colegiados, la ubicación de los espacios donde se ubicarán los padrones y las casillas de votación; 
+V. Recibir las solicitudes de correcciones y adiciones a los padrones electorales, en los lugares y horarios que el propio colegio establezca para tales efectos; 
+VI. Informar personalmente acerca de las resoluciones en los casos de quienes soliciten correcciones a los padrones electorales; 
+VII. Publicar el padrón definitivo con las correcciones o adiciones a las que hubiera lugar, por lo menos cinco días hábiles antes de la jornada de elección; 
+VIII. Recibir la documentación para la inscripción de candidaturas, en los espacios y horarios que determine para tales efectos, para ello llenará una cédula de inscripción por cada fórmula o candidatura; 
+IX. Verificar el cumplimiento de los requisitos establecidos en la convocatoria y en su caso otorgar, o negar, el registro oficial de las candidaturas. El otorgamiento o negación del registro de las candidaturas deberá cumplir con el principio de máxima publicidad y deberá ser sancionado en una resolución debidamente fundada y motivada; 
+X. Publicar una resolución fundada y motivada con el listado de las candidaturas que cumplen con los requisitos establecidos. 
+XI. Organizar los eventos y los criterios a través de los cuales se realizarán los actos de difusión de toda contienda electoral. 
+XII. Decidir los lugares en donde se instalarán las casillas electorales; 
+XIII. Integrar los comités de casilla, que atenderán por turnos la atención plena del proceso de votaciones, con miembros del Colegio Electoral y voluntarios de la comunidad universitaria;  
+XIV. Decidir los lugares en donde se instalarán las casillas electorales, considerando que sea en lugares visibles, públicos y concurridos; 
+XV. Generar los paquetes de la jornada electoral, que entregarán a los comités de casilla, mismos que deberán contener: boletas selladas, padrones electorales, tinta indeleble, marcadores, actas de cómputo y escrutinio, papelería en general; 
+XVI. Solicitar la impresión y corte de boletas a la administración central; 
+XVII. Publicar y dar a conocer el lugar y los horarios en que se recibirán los eventuales medios de impugnación, posteriores a cada una de las etapas del proceso electoral: publicación de padrones, registro de candidaturas, actos de difusión de propuestas de trabajo, y jornada electoral; 
+XVIII. Turnar al Comité de Impugnaciones los recursos que haya recibido en los plazos establecidos para tales efectos; 
+XIX. Elaborar actas de hechos que ocurran desde la publicación de padrones, durante el registro de candidaturas, durante los actos de difusión y, naturalmente, durante la jornada electoral;  
+XX. Publicar y emitir una resolución con los resultados finales de todo proceso electoral, lo que se traduce como calificación del proceso; 
+XXI. Publicar y emitir las constancias de elección a los candidatos que resulten electos como consejeros universitarios; y 
+
+XXII. Elaborar un informe general, con base en sus resoluciones, minutas, actas de acuerdos, incluidas las actas de escrutinio entregadas por los Comités de Casilla, en actas de hechos entregadas por terceros, y en los recursos de Impugnación recibidos en los tiempos establecidos, sobre el conjunto de los acontecimientos acaecidos durante las elecciones realizadas. Dicho informe será entregado al órgano que emitiera la convocatoria, a más tardar, cinco días hábiles después de haberse agotado todos los medios de impugnación, y constituirá el documento final con el cual quedará concluido un proceso electoral. 
+
+ 
+Capítulo II. Comités de casilla 
+ 
+Artículo 93. Los Comités de Casilla son los órganos colegiados electorales encargados de instalar las casillas de votación y llevar a cabo el escrutinio de las votaciones. Deberá estar integrado por integrantes del Colegio Electoral, y podrá contar con colaboradores voluntarios, representantes de casilla de los candidatos y observadores. Su composición será determinada por el Colegio Electoral, y será dada a conocer a la comunidad de manera oportuna. 
+ 
+Artículo 94. Las atribuciones de los Comités de casilla se refieren al desarrollo de la jornada electoral, lo cual está descrito en la presente convocatoria, específicamente lo que se refiere a la Sección Cuarta del Capítulo II del Título Sexto, “Jornada Electoral”, del presente Reglamento. 
+ 
+Artículo 95. Los Comités de Casilla tendrán las siguientes funciones: 
+I. Instalar la casilla de votaciones el día de la elección, en el lugar y en los horarios establecidos por el Colegio Electoral; 
+II. Verificar, antes de decretar la apertura de la casilla, que no exista propaganda electoral en las inmediaciones de la casilla, y si fuera el caso, retirarla y guardarla; 
+III. Elaborar el acta de apertura de casilla, antes de lo cual revisará que cuenta con la documentación y materiales necesarios para llevar a cabo la jornada electoral (número exacto de votos impresos, padrones, casillas, urnas, marcadores, plumones, tinta indeleble, etcétera); 
+IV. Contar el número exacto de boletas impresas y validarlas, lo cual dejará sentado por escrito en el acta de apertura; 
+V. Sellar las urnas, antes del inicio de votaciones; 
+VI. Recibir la identificación con la que se presenten los votantes en la casilla, verificar que estos aparezcan en el padrón y marcarlo en el listado correspondiente; 
+VII. Entregar la boleta, para que ésta sea marcada en una mampara y depositada en la urna correspondiente; 
+VIII. Regresar la identificación después de emitidos los sufragios; 
+IX. Elaborar el acta de cierre de la casilla, a la hora establecida. Sólo se permitirá emitir el voto de las personas que ya estén formadas en la fila en ese momento; 
+X. Contar públicamente los sufragios emitidos y levantar un acta de escrutinio con los resultados obtenidos; 
+XI. Asentar en el acta de escrutinio los hechos o incidentes ocurridos durante la jornada, si fuera considerado necesario, o bien hacer referencia a las actas de hechos o incidentes presentadas por terceros; 
+XII. Todas las actas de la jornada electoral (apertura, cierre, escrutinio y de hechos o incidentes) serán elaboradas en el acto y serán entregadas por el secretario del comité de casilla al colegio electoral el día hábil inmediatamente posterior; 
+
+XIII. Publicar los resultados de las votaciones en el lugar de la casilla y en los principales estrados del plantel; 
+XIV. Realizar un reporte y remitirlo al Colegio Electoral, en caso de recibir actas de hechos o incidencias por parte de miembros de la comunidad, o cualquier tipo de actos denunciados durante la jornada electoral, el día hábil inmediatamente posterior; y 
+XV. Resguardar en bolsas de plástico debidamente selladas el contenido de los materiales electorales y entregarlos al correspondiente colegio electoral. 
+
+ 
+Artículo 96. En toda acta emitida durante la jornada electoral, el comité de casilla deberá dejar por asentado los siguientes datos: 
+I. Hora de apertura y de cierre de las votaciones en la casilla respectiva; 
+II. Miembros del comité de casilla presentes en el momento de apertura y de cierre de la casilla; 
+III. Total de votos para cada uno de los candidatos o fórmulas; 
+IV. Total de votos en blanco; 
+V. Total de votos válidos; 
+VI. Total de votos nulos; 
+VII. Total de sufragios emitidos; y 
+VIII. Incidencias presentadas en la jornada electoral. 
+
+ 
+Capítulo III. Comités de impugnaciones 
+ 
+Artículo 97. Los comités de impugnaciones son órganos electorales independientes encargados de revisar y resolver en primera instancia las impugnaciones que se presenten en tiempo y forma. 
+ 
+Artículo 98. Cada convocatoria determinará los plazos para la constitución de los órganos colegiados electorales, los requisitos para su integración y quórum legal. Para ello, los comités de Impugnaciones se constituirán en relación paritaria entre sectores, buscando alcanzar la más amplia representatividad entre las diferentes comunidades (sectores, planteles y colegios, según el caso).  
+ 
+Artículo 99. Los nombramientos o designación de los órganos colegiados electorales, encargados de la toma de decisiones respecto de controversias asentadas a partir de medios de impugnación, se podrá realizar por medio de diversos mecanismos: procesos de elección directa, designación de los órganos de gobierno colegiado, o por medio de procesos que combinen diferentes métodos de designación. 
+ 
+Artículo 100. En el caso de los comités de impugnaciones es necesario reiterar el cumplimiento de la garantía de independencia de sus integrantes. Además, será preferible acreditar experiencia o conocimientos generales en materia electoral o específicos en materia de resolución de controversias electorales, bien sea por la participación en órganos colegiados, o por conocimiento o práctica en la materia electoral en general. 
+ 
+Artículo 101. El Comité de Impugnaciones tendrá las siguientes funciones y atribuciones: 
+I. Atender en todo momento a lo establecido por la legislación universitaria, aplicable en materia de procesos electorales, y al cumplimiento de los principios rectores electorales; 
+II. Elegir un secretario técnico de entre sus miembros, designar las funciones y encomendar los trabajos que se consideren necesarios a sus miembros; 
+
+III. Conocer y resolver sobre todas los recursos de inconformidad y recursos de revisión presentados en tiempo y forma; 
+IV. Efectuar diligencias de pruebas y descargas sobre los medios de impugnación presentados; 
+V. Notificar a los impugnados, a los promoventes y a los terceros afectados del inicio de todo procedimiento. Todas las notificaciones que se realicen en materia de impugnaciones se realizarán por los medios electrónicos que registren los interesados;  
+VI. Desarrollar bajo los principios de tolerancia, respeto y observancia de la legalidad universitaria, los debates para el desahogo de sus sesiones;  
+VII. Analizar las denuncias y el material probatorio presentado, y valorar si existen pruebas suficientes para determinar si en torno a los actos impugnados se atentó contra las disposiciones contenidas en la presente convocatoria o la normatividad universitaria;  
+VIII. Emitir resoluciones, fundadas y motivadas, a la luz del análisis y la valoración de los hechos impugnados, las pruebas aportadas, las diligencias que este órgano electoral determine practicar en desahogo de las impugnaciones, y los términos de la presente convocatoria; 
+IX. Determinar la validez o la invalidez de una votación obtenida, o la validación o invalidación de todo un proceso electoral; y 
+X. Hacer públicas sus resoluciones, a través de la Comisión de Organización del Consejo Universitario. 
+
+ 
+Capítulo IV. Comités de resolución de apelaciones 
+ 
+Artículo 102. En ausencia de un tribunal derivado de la Defensoría de los Derechos Universitarios, el Consejo podrá conformar en todo momento comités de apelaciones, que serán una segunda instancia formada a efectos de conocer y analizar las apelaciones que se presenten a las resoluciones sobre medios de impugnación, y que tendrán como fin la revisión de los procesos y las resoluciones electorales que lleguen a su conocimiento por petición de los demandantes.  
+ 
+Artículo 103. Las actuaciones de estos comités de apelaciones serán, en todo momento, garantes del cumplimiento del debido proceso y estarán fundadas en los principios rectores en materia electoral. Su competencia estará expresada en el Título Séptimo de este Reglamento, “Medios de impugnación”. 
+ 
+Artículo 104. La composición e integración de los comités de apelaciones será ratificada y acordada en el Pleno del Consejo, buscando que en su seno se garantice la mayor pluralidad posible entre sus integrantes. 
+ 
+Artículo 105. Los comités de apelaciones funcionarán de acuerdo con los preceptos señalados para el funcionamiento de las comisiones del Reglamento del Consejo Universitario.  
+ 
+Artículo 106. Los comités de apelaciones tendrán las siguientes atribuciones: 
+I. Allegarse de información y analizar las actuaciones y resoluciones que sean competencia de los órganos electorales colegiados, con el fin de verificar el cumplimiento de la normatividad aplicable;  
+II. Conocer y analizar los recursos de apelación que se presenten sobre la resolución de las impugnaciones en el presente proceso electoral, y emitir dictámenes motivados y fundados, no resolutivos, en torno de los mismos. Para ello, la Comisión Temporal Electoral dispondrá de plazos efectivos para emitir dichos dictámenes y presentarlos con base en el dictamen presentado y en los términos del artículo 16 de la Ley de la Universidad Autónoma de la Ciudad de México (afectación a intereses y derechos de estudiantes y académicos); y 
+
+III. Velar por el cumplimiento a la observancia de los principios rectores electorales: certeza, equidad, transparencia y máxima publicidad, legalidad y definitividad, e imparcialidad de los órganos colegiados electorales. 
+
+ 
+TÍTULO QUINTO. EMISIÓN DE LAS CONVOCATORIAS 
+ 
+Artículo 107. Las convocatorias son instrumentos normativos de pleno derecho que deberán cumplir con el presente Reglamento en todos sus términos, entre éstos los principios rectores en materia electoral, ser aprobadas y emitidas por los órganos colegiados competentes. Las convocatorias deberán estar debidamente fundadas y motivadas. 
+ 
+Artículo 108. Todos los órganos de gobierno responsables de emitir las convocatorias para elecciones velarán por el cumplimiento de los plazos establecidos para la renovación de cada órgano o instancia ejecutiva. 
+ 
+Artículo 109. Todas las convocatorias deberán contener las siguientes partes, divididas en títulos, capítulos o secciones:  
+I. Fundamento legal; 
+II. Alcance de la convocatoria; 
+III. Integración de los órganos colegiados electorales; 
+IV. Proceso de elección; y 
+V. Medios de impugnación. 
+
+ 
+Artículo 110. Toda convocatoria deberá contar con la publicación de un anexo con el calendario electoral, que exprese las fechas límites de cada una de las fases electorales. 
+ 
+Artículo 111. Las convocatorias parciales y extraordinarias para cubrir vacantes en los órganos de gobierno y órganos académicos deberán cumplir con todos los requisitos establecidos en el presente Reglamento. 
+ 
+TÍTULO SEXTO. PROCESOS ELECTORALES 
+ 
+Capítulo I. Integración de los órganos colegiados electorales 
+ 
+Artículo 112. Los órganos correspondientes emitirán, de manera paralela a la emisión de las convocatorias, los avisos para la integración de los órganos electorales, y determinarán su conformación y los requisitos para su integración. 
+ 
+Artículo 113. En materia de recepción de solicitudes para la integración de órganos colegiados electorales se procederá con las siguientes reglas generales: 
+I. Los órganos colegiados encargados de emitir las convocatorias y los avisos de conformación de órganos electorales, deberán informar, en sesión extraordinaria, el nombre y cantidad de solicitudes recibidas por cada órgano, debidamente foliadas, previa verificación de la observancia de los requisitos establecidos por las convocatorias; 
+
+II. En caso de que hubiera un número mayor de solicitudes, se buscará alcanzar la más amplia representatividad entre las diferentes comunidades; 
+III. En caso de que persista un número mayor de solicitudes se procederá a realizar un sorteo por órgano con una urna transparente por cada sector según corresponda; y 
+IV. En caso de que hubiera un número menor de solicitudes en cualquiera de los casos se procederá, con base en padrones electorales por sector, plantel y colegio que para tal efecto se conformen, por alguna de las siguientes vías: 
+a) Procedimiento de rotación.- Que consiste en aplicar el criterio de servicio a la institución, de tal manera que con base en la antigüedad laboral de quienes no hayan formado parte del órgano colegiado electoral se conforme el órgano electoral correspondiente.   
+b) Procedimiento de insaculación.- Que consiste en llevar a cabo un proceso aleatorio de selección de universitarios. La insaculación se realizará mediante la generación de números aleatorios con base en el programa informático correspondiente. En esta circunstancia, salvo en casos de fuerza mayor debidamente fundada y motivada, el cumplimiento de dicha responsabilidad será irrecusable por parte de los miembros de la comunidad, dado el principio de cooperación y apoyo mutuo. 
+
+ 
+La insaculación será organizada por el órgano o instancia que emite la convocatoria respectiva de conformidad con el presente Reglamento. Durante el proceso de insaculación participarán: Contraloría General, Coordinación de Informática y Telecomunicaciones y demás instancias académicas y administrativas de conformidad con sus atribuciones.  
+ 
+Capítulo II. Fases del proceso electoral 
+Sección primera. Publicación de padrones electorales 
+ 
+Artículo 114. Las convocatorias establecerán plazos para la publicación de padrones electorales preliminares y definitivos, plazos para la revisión de los padrones y los medios por los cuales se entregará la solicitud de corrección de los mismos. 
+ 
+Artículo 115. Es responsabilidad de las áreas administrativas revisar y remitir los padrones actualizados a los órganos electorales correspondientes, de conformidad con los plazos publicados en las convocatorias.  
+ 
+Artículo 116. Es responsabilidad de los colegios electorales publicar los padrones electorales preliminares, por lo menos cinco días hábiles después de haberse integrado como tales.  
+ 
+Artículo 117. La comunidad tiene el derecho de interponer solicitudes de corrección de los padrones electorales ante cualquier ausencia o error en los padrones preliminares, ser atendido de forma expedita, y obtener una respuesta de parte de los órganos electorales competentes. 
+ 
+Artículo 118. Es responsabilidad de los colegios electorales llevar a efecto la revisión de los padrones, por parte de los integrantes de la comunidad que eleven en tiempo y forma solicitudes de corrección mediante recursos de inconformidad. 
+ 
+Artículo 119. Los colegios electorales deberán hacer la publicación definitiva de los padrones electorales, por lo menos cinco días hábiles antes de la realización de la jornada electoral, fecha que será establecida en las respectivas convocatorias. 
+ 
+Sección segunda. Registro de candidaturas 
+ 
+Artículo 120. Es un derecho de la comunidad universitaria participar en las convocatorias para elección de cargos de representación e instancias ejecutivas, para lo cual en toda convocatoria se establecerán plazos, lugares, horarios de atención para el registro de candidaturas- 
+ 
+Artículo 121. Entre los requisitos para inscribir candidaturas tiene que estar el demostrar el cumplimiento de los requisitos establecidos en el EGO y la presentación de un plan de trabajo debidamente rubricado y congruente con el proyecto y la legislación universitarios. 
+ 
+Artículo 122. El plazo para registro de candidaturas de los órganos colegiados o de coordinaciones nunca podrá ser menos de cinco días hábiles. Para el caso de registro de candidaturas a Rectoría el plazo nunca podrá ser menor de quince días hábiles. 
+ 
+Artículo 123. En las elecciones de Consejo, Rectoría y coordinaciones siempre existirá una fase para interponer recursos de conformidad ante el registro de una candidatura, la cual no será mayor de tres días hábiles posteriores a la publicación de la resolución que contenga el nombre y número de las candidaturas registradas. 
+ 
+Artículo 124. Los Comités de Impugnaciones serán los facultados para conocer, analizar y resolver los recursos de inconformidad que se presenten en tiempo y forma. El plazo para emitir sus resoluciones no será de menos de tres días hábiles ni mayor de seis días hábiles contados a partir de la recepción de los recursos.  
+ 
+Artículo 125. Después de emitidas las resoluciones sobre recursos de inconformidad el colegio electoral publicará una lista definitiva con las candidaturas registradas. 
+ 
+Artículo 126. Las convocatorias establecerán las fechas en que se deberán llevar a cabo dichos plazos: registro de candidaturas, recepción de recursos de inconformidad, análisis y resolución de los recursos de inconformidad, publicación del registro definitivo de candidaturas.  
+ 
+Sección tercera. Actos de difusión 
+ 
+Artículo 127. En todos los ámbitos de elección en la Universidad se realizarán eventos en los cuales se estimulará el debate y la discusión entre los candidatos. El formato, los espacios los horarios y las modalidades de dichos actos serán definidos por los respectivos colegios electorales. 
+ 
+Artículo 128. Los colegios electorales publicarán en la página web de la universidad la lista definitiva de las candidaturas, junto con los planes de trabajo de todas las candidaturas registradas aceptadas, en igualdad de condiciones, siendo estos los únicos elementos que permanecerán a la vista de los electores después de concluida la fase de difusión. 
+ 
+Artículo 129. Los candidatos registrados podrán iniciar la difusión de sus planes de trabajo en los medios de difusión sólo a partir de la publicación de la lista definitiva de las candidaturas registradas. 
+ 
+Artículo 130. La elaboración y difusión de propaganda electoral, diferente a la difusión de planes de trabajo, es responsabilidad exclusiva de cada candidato. Dichas campañas de publicidad deberán atender a los principios de transparencia y legalidad establecidos en el presente Reglamento. 
+ 
+Artículo 131. En todo proceso electoral existirá un periodo de veda electoral, donde los candidatos estarán impedidos de hacer actos de difusión, el cual será de entre uno y dos días hábiles después de concluida la fase de actos de difusión y antes de la jornada electoral, y terminará en el momento en que concluya la jornada electoral. 
+ 
+Sección cuarta. Jornadas electorales 
+ 
+Artículo 132. El voto es un derecho y un deber de los miembros de la comunidad universitaria. En todas las elecciones los miembros de la comunidad votarán secretamente en cubículos individuales instalados en cada mesa de votación, con tarjetas electorales validadas e impresas en papel que ofrezcan seguridad, las cuales serán entregadas por los comités de casilla a los votantes que se presenten en las mesas de votación.  
+ 
+Artículo 133. Las boletas que se entreguen para emitir el sufragio deberán tener claramente identificados a todos los candidatos, los cuales figurarán en igualdad de condiciones en el espacio de la boleta.  
+ 
+Artículo 134. Aunque no estén contemplados en este reglamento se podrán implementar otros mecanismos de votación, siempre y cuando otorguen más y mejores garantías para el ejercicio universal, libre y secreto de este derecho, previo acuerdo de los órganos de gobierno colegiados responsables de la emisión de las convocatorias. 
+ 
+Artículo 135. En todo momento, durante las jornadas electorales, las autoridades administrativas prestarán plena cooperación y apoyo logístico a la realización de las mismas; atenderán particularmente a brindar en lo posible apoyo a los órganos colegiados electorales, sin necesidad de que medie una petición por escrito. 
+ 
+Sección quinta. Publicación de las actas de la jornada electorales 
+ 
+Artículo 136. La conclusión de la jornada electoral estará determinada por la publicación de las actas de apertura, cierre, escrutinio, y hechos e incidencias, las cuales se mencionan en el Capítulo II. “Comités de casilla” del Título Cuarto “Órganos electorales” del presente Reglamento. 
+ 
+Artículo 137. La publicación de dichas actas se hará al día siguiente de efectuada la jornada electoral. Con su publicación se abre el plazo para la interposición de recursos de revisión, el análisis y resolución de dichas impugnaciones, en los términos establecidos en el Título Séptimo “Garantías del debido proceso y de medios de impugnación” del presente Reglamento. 
+ 
+Capítulo III.  Calificación de las elecciones 
+ 
+Artículo 138. La calificación de un proceso electoral es la actuación por la cual se puede considerar verificada su validez y legalidad. El objetivo es la composición legal del órgano o de la instancia elegida, a través del acto de emisión de constancia a los individuos elegidos. Este acto se consumará en el momento en que sean resueltos todos los medios de impugnación durante un proceso en primera instancia. 
+ 
+Artículo 139. Los órganos colegiados responsables de emitir la calificación de un proceso son los colegios electorales. 
+ 
+TÍTULO SÉPTIMO. GARANTÍAS DEL DEBIDO PROCESO Y MEDIOS DE IMPUGNACIÓN 
+ 
+Artículo 140. Todos los integrantes de la comunidad universitaria tendrán derecho a interponer medios de impugnación durante el proceso electoral, sin menoscabo de sus derechos electorales como electores o candidatos elegibles. 
+Artículo 141. Ningún integrante de la comunidad que haya sido impugnado puede ser sancionado sin juicio previo fundado en disposición anterior al hecho de que se le acusa, ni juzgado por instancias no previstas en este Reglamento.  
+ 
+Artículo 142. Es inviolable la defensa en juicio de toda persona impugnada o afectada por una resolución ante medios de impugnación. Para lo cual, los órganos electorales competentes estarán en la obligación de notificar y llamar a descarga a los miembros de la comunidad que sean directamente impugnados. 
+ 
+Artículo 143. La presunción de inocencia constituye la máxima garantía del impugnado y uno de los pilares del derecho, que permite a toda persona conservar un estado de “no autor” en tanto no se expida una resolución firme. La afirmación que toda persona es inocente mientras no se declare su responsabilidad es una de las más importantes conquistas de los últimos tiempos. 
+ 
+Artículo 144. El presente Reglamento y las convocatorias que de éste se desprendan establecerán plazos para llevar a cabo los medios de impugnación. Se considerarán los siguientes plazos durante los procesos electorales: 
+I. Hasta diez días antes de que se celebre una jornada electoral para interponer solicitudes de corrección a los padrones electorales; 
+II. Dos días hábiles posteriores a la publicación del registro de candidaturas para interponer recursos de inconformidad y cuatro días hábiles para emitir resoluciones; y 
+III. Tres días hábiles posteriores a la jornada electoral para interponer recursos de revisión y seis días hábiles para emitir resoluciones.  
+
+ 
+Artículo 145. En caso de que un órgano electoral no pueda concluir en los plazos definidos deberá emitir una resolución suspensiva y declarar una sesión permanente de trabajo hasta agotar el caso pendiente. 
+ 
+Capítulo I. Medios de impugnación durante el proceso electoral 
+ 
+Artículo 146. Para garantizar la legalidad de los actos, resoluciones y resultados electorales durante todo proceso, podrán interponerse los siguientes medios de impugnación: 
+I. Recurso de solicitud de corrección a los padrones electorales; 
+II. Recurso de inconformidad; y 
+III. Recurso de revisión. 
+
+ 
+Artículo 147. Después de la calificación del proceso electoral, podrá interponerse los siguientes medios de impugnación: 
+I. Recurso de apelación; y 
+II. Recurso de reconsideración. 
+
+ 
+Artículo 148. Las convocatorias deberán definir plazos efectivos para la interposición de cada uno de los medios de impugnación durante el proceso electoral. Los plazos para su interposición no podrán ser de menos de dos días hábiles, ni de más de tres días hábiles, contados a partir de la conclusión de la fase electoral precedente. 
+ 
+Artículo 149. Las convocatorias también establecerán los plazos para su análisis y resolución. Estos plazos no podrán ser de menos de tres días hábiles contados a partir del vencimiento del plazo para interponer recursos, ni de más de seis días hábiles. 
+ 
+Artículo 150. Con excepción de la solicitud de corrección de padrones electorales, todos los recursos o medios de impugnación sobre el proceso de elección y la jornada electoral, deberán ser presentados por escrito a los órganos electorales competentes, en tiempo y forma, y deberán contener los siguientes requisitos: 
+I. Nombre de quién promueve la impugnación, con la debida acreditación como miembros de la comunidad universitaria; 
+II. Acreditar la personalidad de miembro de la comunidad universitaria, dirección, número telefónico y correo electrónico para recibir notificaciones de las impugnaciones, las actuaciones y las resoluciones de los órganos competentes; 
+III. Dejar asentado el domicilio, número telefónico y correo electrónico en donde se notificará a los que promueven los medios de impugnación de las actuaciones y resoluciones de los órganos competentes; 
+IV. Descripción fundada,  clara y concisa de los hechos en que se sustenta la impugnación; 
+V. Señalamiento del área, instancia, órgano o miembro de la comunidad a la que se le imputa la violación de la norma establecida en la convocatoria o la reglamentación universitaria aplicable; 
+VI. Señalamiento del acto impugnado: qué se impugna, a quién se impugna, y los motivos o el razonamiento que vincule todo lo anterior; y 
+VII. Las pruebas que acrediten los hechos y apoyen sus razonamientos. 
+
+ 
+Sección primera. Solicitud de corrección de padrones electorales 
+ 
+Artículo 151. La solicitud de corrección de los padrones electorales podrá ser presentada por cualquier miembro de la comunidad universitaria, ante el Colegio Electoral, en caso de que los padrones electorales provisionales contengan errores u omisiones que afecten los derechos de cualquier elector o de la comunidad. 
+ 
+Artículo 152. Para elevar una solicitud de corrección del padrón basta con dirigir una nota por escrito al Colegio Electoral, enunciando el error observado, e indicando el nombre y domicilio para recibir notificaciones al promovente, hasta diez días hábiles anteriores a la jornada electoral. 
+ 
+Artículo 153. El Colegio Electoral tendrá plena competencia para incluir o excluir a un miembro de la comunidad que haya sido injustamente excluidos o incluidos en los padrones electorales, a la luz de la información presentada en las solicitudes, y de la información que le sea provista por las instancias académicas o administrativas competentes. 
+ 
+Sección segunda. Recurso de inconformidad 
+ 
+Artículo 154. Los recursos de inconformidad podrán ser presentados en los tiempos definidos por la convocatoria respectiva, por cualquier miembro de la comunidad universitaria, ante el Colegio Electoral, en contra de las candidaturas registradas en el periodo correspondiente. 
+ 
+Artículo 155. El Colegio Electoral respectivo definirá los plazos y lugares para recibir causas de inconformidad, entre ellas, las correspondientes al registro de candidaturas y los actos de difusión. Una vez recibidos dichos recursos los remitirá al comité de impugnaciones respectivo, y lo hará de conocimiento del órgano colegiado que haya emitido la convocatoria. 
+ 
+Artículo 156. El Comité de impugnaciones tendrá la competencia para determinar el cumplimiento o no de los requisitos de elegibilidad de una determinada candidatura, a la luz de la información presentada en los recursos de Inconformidad, y según lo establecido en la convocatoria respectiva y la normatividad aplicable. 
+ 
+Artículo 157. El Comité de Impugnaciones emitirá resoluciones fundadas y motivadas, en torno a los recursos de inconformidad que se presenten sobre el registro de candidaturas. Los plazos no excederán los seis días hábiles después de haber recibido y tenido conocimiento de los recursos de inconformidad. 
+ 
+Sección tercera. Recurso de revisión 
+ 
+Artículo 158. Todo miembro de la comunidad podrá presentar un recurso de revisión ante el colegio electoral, por actos verificados durante los actos de difusión, durante la veda electoral o durante la jornada electoral.  
+ 
+Artículo 159. Los recursos de revisión sobre el proceso de elección y la jornada electoral, deberán ser presentados por escrito al Colegio Electoral respectivo, en los espacios y horarios que defina para tales efectos. 
+ 
+Artículo 160. El plazo límite para presentar recursos de revisión se vence dos días hábiles después de que se hayan publicado las actas correspondientes a la jornada electoral. 
+ 
+Artículo 161. Los recursos de revisión presentados serán remitidos al Comité de Impugnaciones, el cual integrará un expediente por cada uno de los recursos recibidos en tiempo y forma, mismos que deberá analizar cuidadosamente, e instruir en los términos del presente Reglamento y demás normatividad aplicable. 
+ 
+Artículo 162. Los Comités de impugnaciones contarán con dos días hábiles para conocer las impugnaciones y notificar a los aspirantes impugnados por medio del correo electrónico y los teléfonos asentados en el registro de inscripción de la candidatura. 
+ 
+Artículo 163. Los candidatos impugnados o los terceros afectados también contarán con dos días hábiles para presentar sus pruebas de descargo, así como los razonamientos que a su juicio consideren pertinentes, ante el comité de impugnaciones. 
+ 
+Artículo 164. Los Comités de Impugnaciones contarán con otros dos días hábiles para concluir las diligencias, el análisis y la fundamentación de sus Resoluciones en torno a las impugnaciones, de conformidad con los “Criterios para emitir resoluciones sobre recursos de impugnación”, expresados en el Capítulo III del Título Séptimo del presente Reglamento, y la legislación universitaria. 
+ 
+Artículo 165. Los Comités de Impugnaciones enviarán sus resoluciones al respectivo colegio electoral en tiempo y forma. Lo anterior representa la última fase del proceso electoral y a partir de entonces y con base en los acuerdos emitidos el colegio electoral se hará la calificación final del proceso. 
+ 
+Capítulo II. Medios de impugnación posteriores de los procesos electorales 
+ 
+Artículo 166. Aún después de concluidos los procesos electorales es posible interponer un medio de impugnación sobre las resoluciones emitidas por los órganos colegiados electorales competentes. La resolución de estos recursos se remitirá al órgano electoral denominado “Comité de resolución de apelaciones”, el cual revisará las resoluciones emitidas a la luz de los argumentos presentados en los recursos de apelación. 
+ 
+Sección primera. Recurso de apelación 
+ 
+Artículo 167. Una vez concluido los procesos electorales los miembros de la Comunidad tienen un plazo de hasta diez días hábiles para presentar recursos de apelación a las resoluciones sobre impugnaciones en primera instancia, en los términos del presente Reglamento. 
+ 
+Artículo 168. El recurso de apelación podrá ser presentado por cualquier miembro de la comunidad afectado por cualquier resolución del comité de impugnaciones. Deberá presentarse en tiempo y forma ante el Colegio Electoral, y deberá comprender todos los requisitos para la presentación de medios de impugnación. 
+ 
+Artículo 169. Los recursos de apelación serán dirigidos por el colegio electoral a los comités de resolución de apelaciones, que son las instancias competentes para conocer y analizar acerca de tales efectos, así como para emitir resoluciones en segunda instancia, respecto de las resoluciones emitidas por los comités de impugnaciones 
+ 
+Artículo 170. Los Comités de resolución de apelaciones están facultados para solicitar, obtener y analizar la documentación recabada en los expedientes de los órganos electorales, tales como actas, minutas y resoluciones. 
+ 
+Artículo 171. Los Comités de resolución de apelaciones iniciarán la integración y sustanciación de un expediente específico para cada recurso de apelación. Este expediente deberá contener todo lo relacionado con las pruebas que demuestren los actos denunciados, los autos, testimonios y pruebas descargadas en la primera instancia, y nuevas pruebas a las que pueda allegarse. 
+ 
+Artículo 172. Los Comités de resolución de apelaciones estarán facultados para realizar diligencias en aras del desahogo de los recursos de apelación. 
+ 
+Artículo 173. Los Comités de resolución de apelaciones sesionarán de manera pública y abierta a la comunidad, y dejarán constancia por escrito de la fundamentación legal de sus actuaciones, de los hechos analizados, de las valoraciones correspondientes que realicen en torno a esos hechos, y elaborarán un dictamen por cada uno de los recursos de apelación que reciba.  
+ 
+Artículo 174. Los dictámenes de los Comités de resolución de apelaciones podrán declarar procedente o improcedente el recurso de apelación; podrán ratificar o no ratificar la resolución de los Comités de Impugnaciones. En todo momento su actuación será con base en los principios rectores electorales y en aras de lograr una mayor certeza e imparcialidad en un determinado proceso electoral. 
+ 
+Artículo 175. Los dictámenes de los Comités de resolución de apelaciones serán presentados ante el órgano colegiado respectivo, que asumirá en su carácter resolutivo los dictámenes que resuelvan en segunda instancia todo recurso de apelación que haya sido presente en tiempo y forma.  
+ 
+Sección segunda. Recurso de reconsideración 
+ 
+Artículo 176. Se podrán interponer un recurso de reconsideración por parte de los directamente afectados por un dictamen resolutivo emitido ante un recurso de apelación, mediante la interposición de este medio de impugnación, el cual será dirigido al Consejo. 
+ 
+Artículo 177. A partir de la recepción de dichos recursos el Consejo contará con veinte días hábiles para conformará una tercera instancia, que elaborará un nuevo dictamen a la luz de los argumentos y las pruebas vertidas en el recurso de reconsideración. Es posible que para la conformación de esta instancia se vincule a expertos externos que coadyuven en la solución de los problemas planteados. Cualquier resolución que se tome al respecto tendrá carácter definitivo.  
+ 
+Capítulo III. Criterios para emitir resoluciones sobre medios de impugnación 
+ 
+Artículo 178. Los órganos electorales competentes deberán desechar o declarar improcedente un recurso o medio de impugnación cuando: 
+I. Este no se presente por escrito, ni al órgano autoridad correspondiente; 
+II. Incumpla cualquiera de los requisitos previstos en el artículo 150 del presente Reglamento; 
+III. No existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno;  
+IV. Se pretenda impugnar actos o resoluciones que se hubiesen consentido expresamente; y 
+V. Resulte evidentemente frívolo o notoriamente improcedente.  
+
+ 
+Artículo 179. Los órganos electorales competentes deberán declarar procedente un recurso e iniciar la instrucción del caso cuando: 
+I. En efecto se haya verificado que fueron emitidas las resoluciones impugnadas y éstas sean definitivas;  
+II. Los promotores del recurso sean los sujetos en quienes recae la resolución impugnada;  
+III. Los actos reclamados violen algún precepto de la convocatoria respectiva, de este Reglamento, de la legislación universitaria aplicable o de los principios generales del derecho electoral; y 
+IV. Los recursos interpuestos cumplan con los plazos procesales. 
+
+ 
+Artículo 180. Para la resolución de los medios de impugnación previstos en este Reglamento sólo podrán ser ofrecidas y admitidas las pruebas siguientes: pruebas documentales oficiales, pruebas documentales privadas y pruebas técnicas sean visuales o audiovisuales. Podrán ser ofrecidas pruebas testimoniales cuando versen sobre declaraciones recibidas directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho. Las declaraciones deberán acompañarse de la firma de dos testigos. 
+ 
+Artículo 181. Para el caso de publicaciones contenidas en medios informativos como periódicos, redes sociales y fotografías, éstas son aptas para acreditar que los actos realizados fueron hechos en el modo, tiempo y lugar en ellos referidos, pero carecen de eficacia probatoria por sí mismas porque no representan hechos públicos y notorios, aún cuando éstos no sean desmentidos por quien resulte afectado. 
+ 
+Artículo 182. Recibida la documentación a que se refiere el artículo anterior, el órgano electoral competente realizará los actos y ordenará las diligencias que sean necesarias para la sustanciación de los expedientes. 
+ 
+Artículo 183. Los medios de prueba serán valorados por el órgano competente para resolver, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia. 
+ 
+Capítulo IV. Sanciones 
+ 
+Artículo 184. Los electores y los candidatos a ocupar puestos de representación o instancias ejecutivas podrán ser sancionados: 
+I. Con amonestación pública; 
+II. Con una medida conciliadora, reparadora o restitutiva; 
+III. Con la negativa del registro de una candidatura o con la declaración de su inelegibilidad; y 
+IV. Con la anulación de una votación por sector, colegio o plantel. 
+
+ 
+Artículo 185. Las sanciones a que se refiere las fracciones I y II del artículo anterior se impondrán cuando: 
+I. No se cumplan con las obligaciones señaladas en el Título VI y demás disposiciones aplicables del presente Reglamento; 
+II. No se cumplan con las resoluciones o acuerdos de los órganos colegiados electorales; 
+III. Se acepten donativos o aportaciones económicas superiores a los límites señalados en las respectivas convocatorias; 
+IV. Los actores impugnados o los que ejerzan un medio de impugnación no se presenten a rendir declaración en los términos y plazos previstos;  
+
+V. En el desarrollo de una contienda electoral, especialmente en la fase de difusión, no se cumplan las máximas de respeto y tolerancia; y 
+VI. Se incurran en cualquier otra falta de las previstas en este Reglamento. 
+
+ 
+Artículo 186. Los órganos electorales competentes para resolver recursos de inconformidad y recursos de revisión deberán declarar la inelegibilidad de una candidatura, además de los casos contemplados en la normativa aplicable, cuando se demuestre: 
+I. Que un candidato ocupe o sea candidato a un cargo de elección popular u ocupe un cargo en un partido político, en el momento del registro de su candidatura; 
+II. Cuando un candidato haya ejercido un cargo de confianza en la estructura de la administración universitaria, hasta cuatro meses antes de la jornada de elección para la que se está presentando, incluyendo una secretaría técnica de una comisión en algún órgano de gobierno; 
+III. Que un candidato ha calumniado o emitido descalificaciones infundadas en contra de otro candidato o miembro de los órganos colegiados electorales; y 
+IV. Que un candidato entorpezca, o ejerza violencia por sí mismo o por interpósita persona, durante las diferentes fases del proceso electoral. 
+
+ 
+Artículo 187. Los órganos electorales competentes para resolver recursos de revisión declararán procedentes la anulación de una votación por sector, colegio o plantel cuando se demuestre: 
+I. Acarreo de votantes; 
+II. Mostrar boletas fuera de las casillas de votación; 
+III. Hacer votar a no integrantes de la comunidad universitaria; 
+IV. Votaciones de electores sin credencial, copia de la misma, o tira de materias; 
+V. Obstruir el voto de cualquier elector; 
+VI. Presencia de boletas no convalidas, sin folio y rúbrica o prellenadas;  
+VII. Presencia de urnas no selladas, o urnas que sean alteradas antes, durante o después del proceso; 
+VIII. Robo de urnas o materiales electorales; 
+IX. Expulsión de representantes de casilla; 
+X. Dolo en el escrutinio de votos; 
+XI. Apertura de casillas antes de los horarios establecidos; 
+XII. Ejercer violencia física o presión sobre los miembros de los órganos electorales para alterar la votación; 
+XIII. Impedir la presencia de los representantes de casilla durante la jornada; 
+XIV. Insuficiencia del material electoral; 
+XV. Robo o quema de boletas; 
+XVI. Alteración posterior del padrón electoral definitivo; y 
+XVII. Irregularidades en la designación de integrantes del comité de casilla. 
+
+ 
+Artículo 188. Los órganos electorales competentes para analizar recursos de impugnación podrán anular total o parcialmente unas elecciones, para lo cual se requerirá el voto uniforme de todos sus integrantes.  
+ 
+En tal caso, el Colegio Electoral correspondiente dispondrá de un plazo no mayor de diez días hábiles contados a partir de que surta efectos la anulación de una elección, para llamar a la realización de una nueva jornada electoral, total o parcial. 
+ 
+Artículo 189. En todos los casos, los órganos electorales competentes deberán valorar el alcance e impacto de los hechos en los procesos de votación específicos para resolver la procedencia de anulación. 
+ 
+Transitorios 
+ 
+ARTÍCULO PRIMERO.- el Presente Reglamento entrará en vigor al día siguiente de su publicación en los medios institucionales de la Universidad. 
+ 
+ARTÍCULO SEGUNDO.- Quedan derogadas todas las disposiciones en materia electoral universitaria que contravengan el presente Reglamento. 
+ 
+ARTÍCULO TERCERO.- El periodo de duración del cargo del Coordinador de Colegio será de dos años y los requisitos de elegibilidad se incorporarán en la convocatoria. La elección del Coordinador de Colegio considerará la participación de los estudiantes, académicos y personal administrativo adscrito al Colegio con base en el principio de equidad, en tanto se modifique y adicione el EGO vigente en la materia.  

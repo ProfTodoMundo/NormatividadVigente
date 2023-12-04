@@ -1,0 +1,676 @@
+---
+title: "REGLAMENTO DE LA DEFENSORIA DE LOS DERECHOS UNIVERSITARIO"
+date: "2023-12-04"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    css: estilos.css
+    theme: united  # many options for theme, this one is my favorite.
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+# REGLAMENTO DE LA DEFENSORIA DE LOS DERECHOS UNIVERSITARIO
+
+REGLAMENTO DE LA DEFENSORÍA DE LOS DERECHOS UNIVERSITARIOS DE LA UNIVERSIDAD AUTÓNOMA DE LA CIUDAD DE MÉXICO
+
+# TÍTULO I. DISPOSICIONES GENERALES
+
+Artículo 1. El presente ordenamiento tiene por objeto establecer las competencias, organización, requisitos para su integración y los procedimientos que observará la Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México.
+
+Artículo 2. Para los efectos del presente Reglamento, se entiende por:
+
+Amicus curiae: Cuando una persona o institución ajena al litigio y presenta a una Corte o Tribuna, razonamientos en torno a los hechos contenidos en el sometimiento del caso o formula consideraciones jurídicas sobre la materia del proceso, a través de un documento o de un alegato en audiencia. Al documento con dichos razonamientos se le conoce como amicus curiae.
+
+Autoridad universitaria: las personas que sean funcionarias universitarias, los órganos, las instancias, las unidades y áreas de la Universidad, cualquiera que sea su denominación, que realice un encargo o comisión en materia de gestión académico-administrativa, administrativa y/o de gobierno universitario.
+
+Comunidad universitaria: estudiantes, personal académico y personal administrativo, técnico y manual de la Universidad Autónoma de la Ciudad de México.
+
+Defensoría: la Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México.
+
+Estatuto: el Estatuto de la Defensoría de los Derechos Universitarios de la Universidad Autónoma de la Ciudad de México.
+
+Legislación universitaria: conjunto de normas y disposiciones internas de la Universidad Autónoma de la Ciudad de México, para el desarrollo de sus funciones;
+Persona agraviada: aquella persona integrante de la comunidad universitaria cuyos derechos hayan sido vulnerados.
+
+Persona peticionaria: aquella persona integrante de la comunidad universitaria que haya presentado una queja por la afectación de sus derechos o los de otra persona.
+
+PESCER: el Programa de Educación Superior para Centros de Reinserción Social;
+Protocolo: el Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual.
+
+Recomendación: es un pronunciamiento público resultado de la investigación realizada por la Defensoría de los Derechos Universitarios que dirige a la autoridad responsable y contiene la documentación y la verificación de la existencia de conductas violatorias en materia de derechos humanos, universitarios o ambos. La recomendación contiene una serie de acciones que la autoridad debe implementar para reparar el o los daños causados.
+
+Unidad de atención especializada: la Unidad de atención de casos de discriminación, violencia contra las mujeres, acoso y hostigamiento sexual;
+Universidad: la Universidad Autónoma de la Ciudad de México.
+
+Artículo 3. La Defensoría tiene por objeto orientar, apoyar y dar trámite a las quejas presentadas por los integrantes de la comunidad universitaria cuando consideren que se han vulnerado sus derechos universitarios y/o humanos en el ámbito de la competencia de las autoridades de la Universidad.
+
+Asimismo, la Defensoría trabajará en la construcción y difusión de la cultura de los derechos humanos, para lo cual diseñará y aplicará programas de promoción en la materia.
+Podrá, además, trabajar en conjunto con autoridades de la Universidad, de la Ciudad de México, nacionales, internacionales o actores de la sociedad civil, cumpliendo siempre con los requisitos legales para tal efecto.
+
+Las acciones que desempeñe la Defensoría se apegarán al principio pro persona, y la cooperación y el apoyo mutuo, de acuerdo con los más altos estándares jurídicos en la materia, teniendo en cuenta las condiciones materiales que actúan en la Universidad.
+
+Artículo 4. La Defensoría será imparcial e independiente de cualquier órgano e instancia de la Universidad y gozará de plena libertad para ejercer las responsabilidades que le confiere este Reglamento, el Estatuto y el resto de la legislación universitaria, bajo los principios de buena fe, objetividad, independencia, legalidad, oportunidad, equidad, prudencia, conciliación, mediación, eficiencia, disciplina, profesionalismo, honradez, lealtad, integridad y rendición de cuentas.
+
+[Documento Principal](index.html)
+
+# TÍTULO II. DE LA COMPETENCIA
+
+Artículo 5. De conformidad con el Estatuto, la Defensoría será competente para:
+
+Recibir quejas, preguntas, solicitudes de orientación e información por parte de la comunidad universitaria, relacionadas con el ejercicio de sus derechos o cuando se presuma la violación de los mismos;
+Emitir dictámenes, recomendaciones, propuestas e informes sobre todas las cuestiones relativas a la protección y promoción de los derechos humanos y universitarios;
+Cuando existan condiciones para mediar y conciliar, la Defensoría deberá, en primera instancia, usar este proceso. Deberá centrar su actuación en la búsqueda de una solución o un acuerdo puntual;
+Brindar asesoría a la comunidad universitaria acerca de sus derechos y obligaciones establecidos en la legislación universitaria;
+Asesorar sobre el ejercicio de sus funciones, en materia de derechos humanos y universitarios a todos los órganos de gobierno y de decisión que así lo soliciten;
+En el ejercicio de sus funciones, la Defensoría tendrá plena libertad de realizar las investigaciones necesarias, para lo cual podrá solicitar a cualquier instancia o persona que crea pertinente, información, documentación o acciones;
+Como resultado de sus investigaciones, la Defensoría podrá proponer a las autoridades e instancias universitarias correspondientes, soluciones, medidas a seguir y modificaciones a la legislación universitaria o a los procedimientos administrativos;
+En aquellos casos en los cuales la Defensoría considere que la integridad de una persona se encuentra en riesgo, emitirá las medidas de protección que considere pertinentes para que la autoridad universitaria correspondiente las implemente;
+Informar a la comunidad universitaria sobre sus derechos, los procedimientos administrativos y los servicios que brinda la Universidad y, de manera particular, la Defensoría, para el ejercicio y la protección de sus derechos universitarios y/o humanos;
+Para la promoción de los derechos universitarios y humanos, la o el Defensor(a) utilizará los medios de comunicación institucionales y los que de manera particular se establezcan para la Defensoría; 
+Para la promoción de los derechos humanos, universitarios, o ambos, la Defensoría podrá proponer convenios con otras instituciones de defensa de derechos universitarios y/o humanos. Asimismo, podrá participar en organismos externos sobre la materia, tales como sociedades académicas, agrupaciones de organismos similares, organismos no gubernamentales, entre otros;
+Orientar, dirigir y supervisar a la Unidad de atención especializada en la aplicación del Protocolo;
+Presentar amicus curiae ante la Suprema Corte de Justicia de la Nación, la Corte Interamericana de Derechos Humanos u otras autoridades, cuando traten asuntos de importancia en la defensa y promoción de derechos humanos o la Defensoría lo estime conveniente;
+Conmemorar, celebrar o destacar asuntos de importancia en materia de derechos humanos y/o universitarios y;
+Difundir e impulsar, en el ámbito universitario, el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos;
+Las demás que le confiera la legislación universitaria.
+
+Artículo 6. La Defensoría no podrá conocer de asuntos de naturaleza laboral, evaluaciones académicas, procesos electorales, resoluciones disciplinarias o asuntos que puedan ser impugnados por otras vías, que sean de la competencia de la Oficina del Abogado General, de la Contraloría General o alguna otra de las autoridades comprendidas en la legislación universitaria y se encuentren en proceso.
+
+La Defensoría por ningún motivo podrá examinar cuestiones de fondo de asuntos que se desahoguen ante otras autoridades de la Universidad.
+
+Tratándose de casos de violación de derechos universitarios y/o humanos, cuya sanción pudiera ser materia despido conforme a lo dispuesto por el Contrato colectivo de trabajo, se turnarán inmediatamente a la Oficina del Abogado General y/o la Contraloría General para que siga el procedimiento correspondiente.
+
+Tratándose de evaluaciones académicas, la Defensoría únicamente podrá observar el cumplimiento de los criterios y procedimientos establecidos para tal fin.
+
+Artículo 7. Para efectos del artículo 10 del Estatuto, se entenderá por personas que desempeñen cargos de dirección y responsabilidad a las y los integrantes del Consejo Universitario en el ejercicio de sus funciones, así como las y los titulares de la Rectoría, la Secretaría General, Coordinadores de Colegio, Coordinadores de Plantel, Coordinación Académica, Coordinación de Difusión Cultural y Extensión Universitaria, Coordinación de Servicios Estudiantiles, Coordinación de Certificación y Registro, Coordinación de Servicios Administrativos, Coordinación de Obras y Conservación, Coordinación de Planeación, Coordinación de Informática y Telecomunicaciones, Coordinación de Comunicación, Tesorería, Oficina del Abogado General y Contraloría General.
+
+Artículo 8. Tratándose de los estudiantes que formen parte del Programa de Educación Superior para Centros de Reinserción Social, la Defensoría desarrollará sus funciones de acuerdo con el principio de progresividad, teniendo en cuenta las condiciones y recursos disponibles que la Universidad destine a la atención de dicho Programa.
+En todo caso, la labor de la Defensoría respecto del PESCER deberá entenderse en los términos del Convenio de colaboración interinstitucional para la ejecución de programas de educación superior, investigación, difusión de la cultura y extensión universitaria, por lo que la aplicación de los programas de educación deberá comprenderse como parte del Sistema Penitenciario de la Ciudad de México, por lo tanto, la atención de la Defensoría se supeditará a los recursos materiales, humanos, presupuéstales y financieros que tengan asignados para la aplicación del citado Programa y bajo ninguna circunstancia resolverá ninguna situación relacionada con las penas privativas de la libertad a las que se encuentren sujetos las y los estudiantes.
+
+Se entenderá que la Universidad ofrecerá una opción educativa del mismo nivel académico, teniendo como límite las condiciones materiales a las que deben ajustarse las autoridades que participan en la aplicación del Programa. En cualquier caso, la comunicación entre la persona que presenta la queja y la Defensoría, así como las actuaciones que realice la primera, se llevarán a cabo con auxilio del gestor que para tal efecto dispongan las diferentes áreas de la Universidad, procurando la comunicación inmediata y oportuna.
+
+[Documento Principal](index.html)
+
+
+# TÍTULO III. DE LA ORGANIZACIÓN
+
+Artículo 9. La Defensoría se integrará por un(a) Defensor(a) titular, un(a) Defensor(a) adjunto(a) y un(a) Asesor(a) legal. Además, la Defensoría, para el desempeño de sus funciones, se conformará por la Unidad de investigación; la Unidad de resolución y la Unidad de promoción de derechos universitarios y humanos.
+
+Aunado a la estructura anterior, la Unidad de atención especializada señalada en el Protocolo estará adscrita a la Defensoría para su dirección, operación y orientación, sin embargo, el desempeño de sus funciones se ajustará a dicho Protocolo.
+
+Artículo 10. Para el desempeño de sus funciones, la Defensoría contará con el personal profesional, técnico y administrativo necesario, por lo que la Universidad deberá garantizar la suficiencia presupuestaria para su operación.
+
+El personal que integre las Unidades será personal de confianza, nombrado por la o el Defensor(a) titular por un periodo de 4 años, y podrá ser ratificado por otro periodo más en caso de que la o el Defensor(a) titular así lo determine; asimismo podrá ser removido en cualquier momento con el fin de garantizar el cumplimiento de las funciones de la Defensoría. El personal que conforme la Unidad de atención especializada estará a lo dispuesto por el presente artículo. 
+
+Artículo 11. La o el Defensor(a) titular tendrá las siguientes atribuciones:
+
+Representar a la Defensoría ante las autoridades universitarias, de la Ciudad de México, nacionales e internacionales, o actores de la sociedad civil en los ámbitos de su competencia;
+Dirigir, planear y organizar las actividades que realice la Defensoría en la promoción y defensa de los derechos universitarios y/o humanos;
+Coordinar el establecimiento de las políticas generales en materia de derechos humanos que habrá de seguir la Defensoría ante los organismos nacionales e internacionales;
+Coordinar, en conjunto con la o el Defensor(a) adjunto(a), los planes de trabajo, propuestas de colaboración, gestión de convenios y comunicación con el resto de las autoridades universitarias, de la Ciudad de México, nacionales, internacionales y actores de la sociedad civil;
+Proponer a la Oficina del Abogado General, la celebración de convenios que debieran realizarse para el desempeño de las funciones de la Defensoría;
+Proponer, con aprobación de la o el Defensor(a) adjunto(a), a la Comisión de Asuntos Legislativos y la de Mediación y Conciliación del Consejo Universitario, las modificaciones al presente Reglamento;
+Designar, dirigir y coordinar a las personas que integran la Defensoría, así como removerlas de sus cargos, con la debida fundamentación y motivación, si así lo estima conveniente;
+Conocer, supervisar y vigilar el desarrollo de las actividades de las Unidades que integran la Defensoría, conforme a los informes y propuestas que le remitan las y los integrantes de las mismas;
+Solicitar a la autoridad universitaria competente la implementación de medidas de protección cuando fuere necesario;
+Iniciar quejas de oficio de acuerdo con lo dispuesto por el presente Reglamento;
+Emitir las Recomendaciones, propuestas, opiniones e informes, de acuerdo con lo dispuesto en el presente Reglamento;
+Aprobar los acuerdos de conciliación, conclusión y de no responsabilidad, en conjunto con la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal;
+Turnar a la Oficina del Abogado General, la Contraloría General o la autoridad universitaria correspondiente, los expedientes cuando existieran responsabilidades que sean de su competencia;
+Supervisar la operación del Protocolo y la actuación de la Unidad de atención especializada, orientando su actuación y coordinando las acciones que se lleven a cabo;
+Revisar los expedientes que se investiguen en la Unidad de atención especializada para que se turnen a las autoridades universitarias competentes;
+Planear, en conjunto con la o el Defensor(a) adjunto(a), la o el Asesor(a) legal y la Unidad de promoción de derechos universitarios y humanos, las acciones de promoción;
+Coordinar, supervisar y dirigir las actividades de la Unidad de investigación y la Unidad de resolución en el desarrollo de sus funciones;
+Participar en todas las actividades que redunden en la promoción y protección de los derechos universitarios y/o humanos, así como en el fortalecimiento de la Defensoría;
+Suplir al personal que integra la Defensoría en el ejercicio de sus funciones cuando fuera necesario;
+Coordinar el trabajo en conjunto de las y los integrantes de la Defensoría, otorgándoles funciones específicas, de acuerdo con lo dispuesto por el Estatuto y el presente Reglamento y;
+Todas las demás que le confiera el Estatuto, el Reglamento y el resto de la legislación universitaria.
+
+Artículo 12. La o el Defensor(a) adjunto(a) tendrá las siguientes atribuciones:
+
+Representar a la Defensoría ante las autoridades universitarias, de la Ciudad de México, nacionales e internacionales, o actores de la sociedad civil en los ámbitos de su competencia, cuando la o el Defensor(a) titular se encuentre ausente o no pueda cumplir con todas las actividades;
+Atender los requerimientos de la o el Defensor(a) titular;
+Apoyar a la o el Defensor(a) titular en la planeación de las actividades que realice la Defensoría en la promoción y defensa de los derechos universitarios y/o humanos;
+Proponer y coordinar, en conjunto con la o el Defensor(a) titular, las políticas generales en materia de derechos humanos que habrá de seguir la Defensoría ante los organismos nacionales e internacionales;
+Coordinar, en conjunto con la o el Defensor(a) titular, los planes de trabajo, propuestas de colaboración, gestión de convenios y comunicación con los restos de las autoridades universitarias, de la Ciudad de México, nacionales, internacionales y de la sociedad civil;
+Aprobar en conjunto con la o el Defensor(a) titular, las modificaciones al presente Reglamento;
+Conocer, supervisar y vigilar el desarrollo de las actividades de las Unidades que integran la Defensoría, conforme a los informes y propuestas que le remitan las y los integrantes de las mismas;
+Revisar las Recomendaciones, propuestas, opiniones e informes de la Defensoría, de acuerdo con lo dispuesto en el presente Reglamento;
+Aprobar los acuerdos de conciliación, conclusión y de no responsabilidad, en conjunto con la o el Defensor(a) titular) y la o el Asesor(a) legal;
+Revisar en conjunto con la o el Defensor(a) titular, los expedientes que se turnen a la Oficina del Abogado General, la Contraloría General o la autoridad universitaria correspondiente, cuando existieran responsabilidades que sean de su competencia;
+Supervisar en conjunto con la o el Defensor(a) titular, la operación del Protocolo y la actuación de la Unidad de atención especializada, orientando su actuación y coordinando las acciones que se lleven a cabo, así como los expedientes que se turnen a las autoridades universitarias competentes;
+Planear y proponer, en conjunto con la o el Defensor(a) adjunto, la o el Asesor(a) legal y la Unidad de promoción de derechos universitarios y humanos, las acciones de promoción de derechos universitarios y/o humanos;
+Supervisar las actividades de la Unidad de investigación y la Unidad de resolución en el desarrollo de sus funciones;
+Participar en todas las actividades que redunden en la promoción y protección de los derechos universitarios y/o humanos, así como en el fortalecimiento de la Defensoría;
+Coordinar el trabajo en conjunto de las y los integrantes de la Defensoría, otorgándoles funciones específicas, de acuerdo con lo dispuesto por el Estatuto y el presente Reglamento;
+Suplir al personal que integra la Defensoría en el ejercicio de sus funciones cuando fuera necesario;
+En general, representar y suplir a la o el Defensor(a) titular cuando se encuentre ausente y/o impedido(a) para actuar y;
+Todas las demás que le confiera el Estatuto, el Reglamento y el resto de la legislación universitaria.
+
+Artículo 13. La o el Asesor(a) legal tendrá las siguientes atribuciones:
+
+Auxiliar a la o el Defensor(a) titular y la o el Defensor(a) adjunto(a) y, en general a la Defensoría; en la aplicación de la legislación universitaria, local, nacional e internacional, en los proyectos de conciliación y de recomendación presentados para su aprobación, así como cualquier otro que se le solicite;
+Estudiar y formular las propuestas de modificaciones, observaciones y consideraciones que estime convenientes respecto de los proyectos de Recomendación;
+Formular proyectos de modificaciones a la legislación universitaria que, a juicio de la Defensoría, redunden en una mejor protección de los derechos universitarios y/o humanos, para su promoción ante las autoridades universitarias;
+Recibir y atender las solicitudes de información pública, de ejercicio de los derechos de acceso, rectificación, cancelación y oposición, así como, recursos de revisión, en coordinación con la Unidad de Transparencia de la Universidad;
+Representar a la Defensoría ante las diferentes autoridades de la Ciudad de México y de la misma Universidad, de acuerdo con lo dispuesto por el presente Reglamento;
+Brindar la orientación a la comunidad universitaria en el ejercicio de sus derechos, de acuerdo con lo dispuesto en el presente Reglamento;
+Brindar apoyo y asesoría jurídica a la o el Defensor(a) titular y la o el Defensor(a) adjunto(a) y a las Unidades que integran la Defensoría en el ejercicio de sus funciones;
+Coadyuvar con las autoridades universitarias en los procedimientos donde pudiera verse involucrada la Defensoría y/o los intereses de la comunidad universitaria en relación con sus funciones;
+Revisar la motivación y fundamentación legal de la documentación oficial de la Defensoría;
+Brindar asesoría a la Unidad de atención especializada en la aplicación del Protocolo y el desempeño de sus funciones;
+Trabajar con el resto de las y los integrantes de la Defensoría con el fin de promover y proteger los derechos universitarios y humanos; y
+El asesor legal podrá realizar otras actividades dentro del marco de las atribuciones de la Defensoría, que determine la o el Defensor(a) titular, la o el Defensor(a) adjunto(a), debido a la carga de trabajo, por ausencia de otro de sus integrantes o por causas de fuerza mayor.
+
+Artículo 14. Para ocupar el cargo de Asesor(a) legal se requiere:
+
+Ser mexicana(o) o contar con permiso para laborar en caso de ser extranjera(o);
+Ser abogada(o) titulada(o) o su homóloga(o) en caso de ser extranjera(o), con validación de las autoridades nacionales;
+Poseer experiencia en derechos humanos de al menos cinco años en leyes federales, leyes locales y sistema interamericano y universal de derechos humanos;
+Poseer experiencia en litigio de al menos cinco años;
+No tener pleito vigente de cualquier naturaleza con la Universidad;
+No haber establecido negocios directos o indirectos ni tener relación de parentesco con alguna autoridad de la Universidad;
+No tener ninguno de los impedimentos señalados en el Código de Procedimientos Civiles de la Ciudad de México que pudieran comprometer su imparcialidad y objetividad; y
+Conocer el modelo educativo de la Universidad.
+
+Artículo 15. La Unidad de investigación tendrá las siguientes facultades:
+
+Realizar visitas o inspecciones en los lugares que estén relacionados con los hechos motivo de la investigación;
+Solicitar los informes a las autoridades universitarias involucradas en los procedimientos de investigación que se inicien en la Defensoría, para su debida integración y resolución;
+Solicitar informes a las autoridades que, aunque no estén involucradas directamente como responsables, puedan ofrecer datos que ayuden a esclarecer los casos que se investigan;
+Solicitar la comparecencia de las autoridades universitarias a las que se imputen violaciones a los derechos universitarios y/o humanos y de aquellos que tengan relación con los hechos motivo de la queja;
+Citar a las personas que deban comparecer ante la Defensoría;
+Entrevistar a los testigos presenciales sobre los hechos motivo de la investigación, y realizar las diligencias de inspección ocular, auditiva y de identificación cuando el caso lo amerite;
+Participar en los procedimientos de Conciliación informando a la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal del estado del expediente, los hechos motivo de la queja y demás situaciones que resulten relevantes para agotar dicho procedimiento;
+Someter a la consideración de la Unidad de resolución, la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal, los expedientes que deban concluirse;
+Incluir dentro de su estructura y homologar, en la medida de lo posible, la actuación de la Unidad de atención especializada, específicamente al personal de investigación que integre la misma, de acuerdo con lo dispuesto en el Protocolo;
+Trabajar con el resto de las y los integrantes de la Defensoría con el fin de promover y proteger los derechos universitarios y humanos; y 
+La Unidad de investigación podrá realizar otras actividades dentro del marco de las atribuciones de la Defensoría, que determine la o el Defensor(a) titular, la o el Defensor(a) adjunto(a), debido a la carga de trabajo, por ausencia de otro de sus integrantes o por causas de fuerza mayor.
+
+Artículo 16. Para integrar la Unidad de investigación se requiere:
+
+Ser mexicana(o) o contar con permiso para laborar en caso de ser extranjera(o);
+Tener formación profesional en derecho, preferentemente;
+Tener preferentemente una trayectoria demostrable en el campo del litigio y/o derechos humanos de al menos tres años;
+Tener capacitación y/o formación en derechos humanos y perspectiva de género;
+No tener pleito vigente de cualquier naturaleza con la Universidad;
+No haber establecido negocios directos o indirectos con alguna autoridad o cualquier persona que tenga un cargo en la Universidad;
+No tener relación de parentesco con alguna autoridad de la Universidad, y;
+No tener ninguno de los impedimentos señalados en el Código de Procedimientos Civiles de la Ciudad de México que pudieran comprometer su imparcialidad y objetividad.
+
+Artículo 17. La Unidad de resolución tendrá las siguientes atribuciones:
+
+Revisar los expedientes que le turne la Unidad de investigación para su estudio;
+Devolver a la Unidad de investigación los expedientes que le haya turnado cuando de su análisis advierta que la investigación no se haya concluido puesto que no se abordaron líneas de violaciones de derechos universitarios y/o humanos o porque las actuaciones que obran en el expediente resulten insuficientes;
+Recibir y estudiar los expedientes que la Unidad de investigación le turne por estimar que deban concluirse;
+Participar en la creación de estándares de derechos humanos con el fin de que la Defensoría los utilice en el cumplimiento de sus funciones;
+Elaborar los proyectos de Recomendación de acuerdo a lo dispuesto en el presente Reglamento;
+Revisar, a petición de la Unidad de atención especializada, los expedientes que se investiguen de acuerdo con lo dispuesto en el Protocolo, para que se agote el procedimiento establecido en el mismo;
+Informar a la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal, de la posible responsabilidad de alguna autoridad universitaria, cuando esta no fuera de competencia de la Defensoría, para que, en su caso, turnen la Recomendación y/o el expediente a la Oficina del Abogado General y/o la Contraloría General o la autoridad universitaria competente;
+Elaborar las opiniones, propuestas e informes especiales, así como coadyuvar con la o el Defensor(a) titular y la o el Defensor(a) adjunto(a) en la formulación de su informe anual;
+Dar seguimiento a las Recomendaciones que hayan sido emitidas, calificar su aceptación y cumplimiento;
+Informar a la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal sobre el estado de cumplimiento y aceptación de las recomendaciones para que, en su caso, se remitan a la Oficina del Abogado General y/o la Contraloría General o la autoridad universitaria competente;
+Trabajar con el resto de las y los integrantes de la Defensoría con el fin de promover y proteger los derechos universitarios y humanos; y
+La Unidad de resolución podrá realizar otras actividades dentro del marco de las atribuciones de la Defensoría, que determine la o el Defensor(a) titular, la o el Defensor(a) adjunto(a), debido a la carga de trabajo, por ausencia de otro de sus integrantes o por causas de fuerza mayor.
+
+Artículo 18. Para integrar la Unidad de resolución se requiere:
+
+Ser mexicana(o) o contar con permiso para laborar en caso de ser extranjera(o);
+Ser abogada(o) titulada(o) o su homóloga(o) en caso de ser extranjera(o), con validación de las autoridades nacionales;
+Tener experiencia de al menos tres años en materia de derechos humanos, análisis de legislación, tramitación y resolución de procedimientos;
+No tener pleito vigente de cualquier naturaleza con la Universidad;
+No haber establecido negocios directos o indirectos con alguna autoridad o con cualquier persona que tenga un cargo en la Universidad;
+No tener relación de parentesco con alguna autoridad de la Universidad; y
+No tener ninguno de los impedimentos señalados en el Código de Procedimientos Civiles de la Ciudad de México que pudieran comprometer su imparcialidad y objetividad.
+
+Artículo 19. La Unidad de promoción de derechos universitarios y humanos tendrá las siguientes atribuciones:
+
+Realizar actividades y campañas de promoción de derechos universitarios y humanos, en los diversos planteles de la Universidad. Para ello creará una agenda con los elementos a promover y/o conmemorar, así como con las actividades y eventos a tomar en cuenta por la Defensoría y el resto de las autoridades universitarias;
+Promover con las instancias universitarias, las autoridades de la Ciudad de México, nacionales, internacionales y con las organizaciones de la sociedad civil, el análisis, la reflexión y la concientización de los derechos humanos;
+Coadyuvar con otros actores en la promoción de los derechos universitarios y humanos, con especial énfasis en aquellos grupos en situación de vulnerabilidad por origen étnico o nacional, género, edad, situación de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana, así como en la promoción del derecho a la no discriminación en la Universidad; 
+Promover y coadyuvar en las actividades de carácter cultural relacionadas con la temática de derechos universitarios y humanos dirigida a los diversos sectores de la comunidad universitaria;
+Promover el estudio y la enseñanza de los derechos humanos en la Universidad;
+Proponer estrategias de articulación, directrices y criterios para la promoción activa de los derechos universitarios y humanos, dirigidas prioritariamente a la capacitación y profesionalización de la comunidad universitaria;
+Promover vínculos con instituciones académicas a fin de fortalecer el desarrollo de los derechos universitarios y humanos, así como con diversas instancias nacionales e internacionales y con las organizaciones de la sociedad civil, para la obtención de mejores resultados;
+Articular con otras autoridades universitarias la implementación de acciones integrales y transversales para la promoción y defensa de los derechos universitarios y humanos;
+Proponer a la o el Defensor(a) titular y la o el Defensor(a) adjunto(a), otorgar un reconocimiento a las personas de la comunidad universitaria que, por su labor o sus acciones, ameriten ser distinguidas mediante las opiniones que emite la Defensoría según el artículo 93 del presente Reglamento;
+Coadyuvar con la o el Defensor(a) titular y la o el Defensor(a) adjunto(a) en la formulación de su informe anual;
+Trabajar con el resto de las y los integrantes de la Defensoría con el fin de promover y proteger los derechos universitarios y humanos; y
+La Unidad de promoción podrá realizar otras actividades dentro del marco de las atribuciones de la Defensoría, que determine la o el Defensor(a) titular, la o el Defensor(a) adjunto(a), debido a la carga de trabajo, por ausencia de otro de sus integrantes o por causas de fuerza mayor.
+
+Artículo 20. Para integrar la Unidad de promoción de derechos universitarios y humanos se requiere:
+
+Ser mexicana(o) o contar con permiso para laborar en caso de ser extranjera(o);
+Tener formación en ciencias sociales y/o humanidades, titulada(o) o su homóloga(o) en caso de ser extranjera(o), con validación de las autoridades nacionales;
+Tener experiencia de al menos tres años en materia de derechos humanos, actividades de promoción y difusión, diseño de contenidos de materiales audiovisuales y/o planeación de eventos;
+Tener conocimiento en perspectiva de género, situaciones contextuales de violencia y análisis de información;
+No tener pleito vigente de cualquier naturaleza con la Universidad;
+No haber establecido negocios directos o indirectos con alguna autoridad o cualquier persona que tenga un cargo en la Universidad;
+No tener relación de parentesco con alguna autoridad de la Universidad; y
+No tener ninguno de los impedimentos señalados en el Código de Procedimientos Civiles de la Ciudad de México que pudieran comprometer su imparcialidad y objetividad.
+
+Artículo 21. Las atribuciones y los requisitos para integrar la Unidad de atención especializada estarán a lo dispuesto en el Protocolo. El nombramiento del personal que integre dicha Unidad estará a cargo de la o el Defensor(a) titular.
+
+Artículo 22. El personal de la Defensoría prestará sus servicios conforme a los principios de buena fe, gratuidad, concentración, rapidez, legalidad, honradez, lealtad, objetividad, imparcialidad, eficiencia, eficacia y transparencia.
+
+En su actuación buscará la igualdad sustantiva entre las personas. Para ello aplicará políticas de equidad de género, de no discriminación, y de respeto e integración de personas en situación de vulnerabilidad por discriminación.
+
+Así también, en el desempeño de sus funciones, optimizará al máximo los recursos, materiales, tecnológicos y presupuestales que le sean asignados, promoviendo una cultura de respeto y protección al derecho humano a un medio ambiente sano.
+
+Artículo 23. Los cargos o nombramientos del personal de la Defensoría son incompatibles con cargos o nombramientos representativos o administrativos del sector público; es incompatible también con cualquier otra tarea o actividad que les impida el desempeño de su función.
+
+Sin embargo, no es incompatible con la docencia o la investigación. Tampoco es incompatible con pertenecer a asociaciones científicas, artísticas o culturales privadas.
+
+Artículo 24. En caso de reelección de la o el Defensor(a) titular, podrá ratificar al personal que integre las Unidades de la Defensoría por un periodo de cuatro años más.
+
+[Documento Principal](index.html)
+
+
+# TÍTULO IV. DEL PROCEDIMIENTO DE QUEJA
+
+Artículo 25. La Defensoría es competente para conocer de las quejas que formule algún integrante de la comunidad universitaria cuando considere violado un derecho universitario y/o humano por actos u omisiones de alguna de las autoridades de la Universidad, que sean contrarios a la legislación universitaria, cuando emitan una resolución que contravenga sus derechos, sean irrazonables, injustos, inadecuados o erróneos, haya omisiones en los procedimientos o se hayan dejado sin respuesta las solicitudes respectivas dentro de un plazo razonable, tomando en cuenta los términos establecidos por la legislación universitaria.
+
+Artículo 26. Tratándose de los procedimientos relacionados con los casos de discriminación y/o violencia sexual o de género, se estará a lo dispuesto por el Protocolo, por lo que en la tramitación de tales procedimientos no podrá recurrirse al procedimiento ordinario de queja de la Defensoría.
+
+Artículo 27. El término para presentar una queja será de ciento veinte días naturales a partir de que se suscitó el hecho. La Defensoría podrá, en circunstancias excepcionales claramente documentadas, recibir y conocer quejas fuera del tiempo aquí reglado cuando se trate de violaciones graves.
+
+Artículo 28. La Defensoría, en la tramitación de sus procedimientos de queja señalará siempre como responsables por la violación de derechos universitarios y/o humanos, a las autoridades universitarias o personas que ostenten un cargo en la Universidad. En todo caso, la Defensoría podrá recomendar el inicio de los procedimientos alternativos de responsabilidad establecidos en la legislación universitaria.
+
+Artículo 29. Los términos y los plazos que se mencionan en el Estatuto y en este Reglamento para la tramitación de las quejas se entenderán como días hábiles, salvo manifestación expresa. La Defensoría desarrollará sus funciones atendiendo a lo dispuesto por el calendario de actividades que emita la Universidad, así como la suspensión de plazos y días inhábiles que ésta determine.
+
+El cómputo de los plazos iniciará al día siguiente de que se reciba la notificación correspondiente. En los casos de comunicación por correo electrónico, el plazo se computará al día siguiente de la recepción del mismo.
+
+La comunicación que realice la Defensoría se llevará a cabo exclusivamente por las vías oficiales con las que cuenta la Universidad.
+
+Artículo 30. Los procedimientos que se sigan ante la Defensoría deberán ser sencillos y breves, para ello se evitarán los trámites innecesarios, salvo los establecidos en el Estatuto y en el presente Reglamento.
+
+Se procurará la comunicación inmediata con la persona que presenta la queja y con las autoridades de la Universidad, sea ésta personal, telefónica, por correo electrónico o por cualquier otro medio, a efecto de allegarse los elementos suficientes para determinar la competencia de la Defensoría.
+
+Artículo 31. Cuando de la presentación de una queja la Defensoría tenga conocimiento de la comisión de actos posiblemente constitutivos de delito al interior de la Universidad, turnará el expediente a la Oficina del Abogado General y/o a la Contraloría General o a la autoridad universitaria competente, para que, en el ámbito de su competencia, inicien las acciones legales correspondientes.
+
+La Defensoría dará orientación y/o acompañamiento inicial a las y los integrantes de la comunidad universitaria cuando, con motivo de las actividades inherentes a sus funciones académicas o administrativas, asistan ante las autoridades de la Ciudad de México o nacionales en materia de derechos humanos y/o penal. No obstante, la Defensoría no actuará como representante legal en dichos procedimientos o juicios del orden privado, sino que se limitará a brindar la orientación para que las y los integrantes de la comunidad universitaria inicien las acciones que a su derecho convengan. 
+
+Artículo 32. Los datos personales recabados en el ejercicio de las funciones de esta Defensoría, serán tratados e incorporados al sistema de datos personales creado para dicha finalidad, con el objetivo de salvaguardar la integridad y seguridad de los mismos, lo anterior, de conformidad con lo previsto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México. Lo anterior, sin perjuicio de las consideraciones que en casos se puedan formular a través de las recomendaciones, propuestas e informes.
+
+Cuando ingrese solicitud de acceso a la información pública o de derechos de acceso, rectificación, cancelación y oposición de datos personales, en la que se requiera acceso a los expedientes que obran en los archivos de está Defensoría, se le dará trámite según lo establecido en las Leyes aplicables en materia de transparencia y protección de datos personales.
+
+Cuando se solicite el acceso a copias de información que obre dentro de los expedientes tramitados ante la Defensoría por una persona que hubiere tenido la calidad de agraviada en dicho expediente o alguna autoridad de local o nacional, podrá otorgársele ésta previo acuerdo de la o el Defensor(a) titular. 
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO I. DE LA ADMISIÓN
+
+Artículo 33. Las quejas y peticiones podrán presentarse por escrito, mediante documento físico o archivo electrónico, en la oficina o dirección electrónica de la Defensoría. En caso de ser necesario, el personal de la Defensoría auxiliará a las personas en la redacción de sus quejas.
+
+Las quejas deberán contener, al menos, los siguientes datos:
+
+Nombre completo de la persona que presenta la queja y/o persona peticionaria;
+Matrícula o número de trabajador;
+Sector, colegio y plantel;
+Medios de contacto como teléfono y/o correo electrónico;
+La autoridad a quien se le imputen los hechos;
+Derechos que estime violentados, de ser posible;
+Descripción de los hechos y documentos probatorios de contar con ellos; y
+Firma autógrafa, en su caso.
+Una vez que la Defensoría reciba una queja procederá a iniciar un expediente. Se le asignará un número y se agregarán a la queja todas las actuaciones iniciando con el acuerdo de calificación. En el acuerdo de calificación se asentará la fecha de recepción de la queja y los datos generales de la misma. Todas las actuaciones que se agreguen al expediente serán foliadas.
+
+Cuando el hecho motivo de la queja pueda ser resuelto de manera expedita, mediante la comunicación inmediata de la Defensoría con la autoridad universitaria señalada como responsable, se procurará evitar formalidades innecesarias y resolver el caso por esta vía. La actuación que se lleve a cabo y la solución que se haya presentado deberán asentarse e incluirse en el expediente.
+
+En cualquier caso, la Defensoría deberá recabar los datos siguientes, con el fin de mantener un registro de las personas que acuden a ella:
+
+Edad;
+Identidad genérica; y 
+Si se identifica como perteneciente a algún pueblo o comunidad indígena.
+
+Artículo 34. La Defensoría podrá iniciar quejas de oficio, cuando tenga conocimiento de actos u omisiones que violen derechos universitarios y/o humanos o bien cuando exista una reiteración de actos de la misma naturaleza atribuidos a una misma autoridad universitaria.
+
+Se considerará como anónima una queja que no contenga el nombre o no esté firmada, y en este supuesto no se le podrá dar trámite; sin embargo, en casos excepcionales, cuando existan violaciones graves, la Defensoría, con acuerdo de la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal, sí les dará trámite.
+
+Artículo 35. La Defensoría determinará si es competente para conocer de la queja, dentro de los cinco días hábiles siguientes a su recepción. En caso de ser competente asentará dicha circunstancia en el acuerdo de calificación y lo notificará a la persona que presenta la queja o peticionaria.
+
+De no tener competencia, notificará la determinación por escrito mediante documento físico o archivo electrónico debidamente fundado y motivado, a la persona que presenta la queja o peticionaria y le brindará, en su caso, la orientación correspondiente sobre el ejercicio de sus derechos mediante la asistencia de la o el Asesor(a) legal. Tal situación se asentará en el acuerdo de calificación.
+
+Artículo 36. Cuando la queja se presente por medio de archivo electrónico, se hará la prevención a la persona que presenta la queja para que comparezca a ratificarla dentro de los cinco días hábiles siguientes a la notificación de la misma, señalándole que de no comparecer se tendrá el asunto como concluido por falta de interés.
+
+En casos excepcionales, cuando la persona que presenta la queja tenga dificultades para trasladarse a las instalaciones de la Defensoría, se ampliará el plazo para la ratificación.
+
+Lo señalado en el párrafo anterior no se aplicará a las personas privadas de la libertad que sean parte de la comunidad universitaria mediante el PESCER, en cuyo caso, la Defensoría, mediante el gestor con el que cuentan las diferentes áreas, presentará y ratificará las quejas además de establecer comunicación con la persona que presenta la queja. En caso de que la persona que presenta la queja no ratifique la queja, lo informará por escrito a la Defensoría o bien, el gestor podrá indicar la negativa de la persona que presenta la queja a ratificarla, por lo que se tendrá por concluida la queja por falta de interés.
+
+En los casos de quejas de oficio, la Defensoría tratará de localizar a las personas agraviadas mediante las vías de comunicación de que disponga, de acuerdo con las posibilidades materiales de la misma. Una vez localizada la persona agraviada, la Defensoría asentará sus datos de identificación y le notificará la tramitación de la queja. En su caso, podrá acordar la tramitación de la queja sin la existencia de una persona agraviada y las resoluciones que tome serán sin la consideración de la misma.
+
+Tratándose de quejas anónimas, la Defensoría deberá mantener los datos de identificación de la persona que presenta la queja en estricta reserva, los cuales le serán invariablemente solicitados con el único fin de tenerla ubicada y poder de esta forma realizar las gestiones necesarias para la preservación de sus derechos. En caso de que la Defensoría determine que no existen amenazas reales a la integridad de la persona que presenta la queja, dará tramitación común a la queja. Si con motivo de mantener la reserva durante la investigación, la actuación de la Defensoría se ve imposibilitada, se dará por concluido el procedimiento, debiéndose exponer en el acuerdo de conclusión las razones por las que no fue posible la continuación de ésta.
+
+Artículo 37. En todos los casos, la Defensoría elaborará un acuerdo de calificación, el cual se emitirá en alguno de los siguientes sentidos:
+
+Determinar la presunta existencia de la violación a los derechos universitarios y/o humanos. Tratándose de los casos en los que se actualice la competencia de la Unidad de atención especializada, se estará a lo dispuesto al Protocolo, en cuyo caso el acuerdo de calificación señalará lo conducente;
+Determinar la incompetencia de la Defensoría y orientar jurídicamente a la persona que presenta la queja para que, si así lo considera conveniente, haga valer sus derechos ante la autoridad competente;
+Determinar como pendiente, cuando la queja sea poco clara, confusa o imprecisa. Se entenderá que la queja es poco clara, confusa o imprecisa cuando exista la imposibilidad de saber cuál es la presunta violación o a quién se le imputan los hechos, y;
+Determinar la improcedencia por encontrarse en alguno de los supuestos que establece el Estatuto, este Reglamento o la legislación universitaria, ya sea porque haya transcurrido el plazo a que se refiere el artículo 14 del Estatuto o bien porque se actualice cualquier otro supuesto de improcedencia.
+
+Artículo 38. De recibirse dos o más quejas por los mismos o semejantes actos u omisiones que se atribuyan a la misma autoridad o servidor público, o bien una queja en la que figuren colectivamente varias personas que presenta quejas, se acordará su acumulación en un solo expediente. Igualmente procederá la acumulación de quejas en los casos en que sea estrictamente necesaria para no dividir la investigación correspondiente.
+
+Artículo 39. Una vez aceptada la queja y la Defensoría considere que la integridad de una persona se encuentre en peligro, podrá solicitar a la autoridad competente que implemente medidas de protección con el fin de evitar cualquier afectación a tal derecho.
+
+Las medidas de protección son aquellas que, sin juzgar sobre la veracidad de los hechos motivo de la queja, se recomienden a la autoridad universitaria responsable para evitar la consumación irreparable de la violación al derecho a la integridad personal, la producción de daños de difícil reparación o cuando la Defensoría lo estime conveniente. Las autoridades universitarias a quienes se haya solicitado una medida de protección contarán con un plazo máximo de cinco días para notificar a la Defensoría si dicha medida ha sido aplicada.
+
+Artículo 40. Las medidas de protección se solicitarán cuando la naturaleza del caso lo amerite, por un plazo de treinta días, el cual podrá ser prorrogado por el tiempo que resulte necesario; en este caso se notificará tres días antes de que culmine el plazo anterior a la autoridad universitaria a la que se hubieren solicitado.
+
+En caso de que se determine que no existe riesgo a la integridad de una persona, la Defensoría podrá solicitar la conclusión de la implementación de medidas de protección anticipadamente.
+
+Artículo 41. Una vez hecha la calificación se iniciará el procedimiento de investigación y de ser el caso se procederá a notificar a la autoridad universitaria y se le solicitará que rinda el informe que corresponda.
+
+La petición del informe deberá incluir los cuestionamientos particulares a los que deberá dar respuesta, requiriéndole que anexe al informe las pruebas que acrediten su dicho.
+
+Artículo 42. La Defensoría declarará sobreseído el expediente, cuando:
+
+La persona que presenta la queja se desista de la acción interpuesta.
+La persona que presenta la queja deje de actuar injustificadamente por más de sesenta días hábiles, durante el procedimiento.
+Cuando la autoridad universitaria haya restituido, por propia voluntad, el derecho violado o acto reclamado.
+Cuando el conflicto se haya solucionado por la vía de la conciliación.
+De las constancias que obren en el expediente se aprecie claramente que no existe el acto violatorio de los derechos universitarios y/o humanos.
+
+Tratándose de violaciones graves de derechos humanos y/o universitarios, la Defensoría podrá continuar con la investigación y en su caso emitir las recomendaciones que considere conducentes para el caso.
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO II. DE LA MEDIACIÓN Y CONCILIACIÓN
+
+Artículo 43. La Defensoría, cuando existan condiciones para ello, deberá optar por los procedimientos de mediación o conciliación, procurando que exista un acuerdo específico entre las partes con el cual se solucione el conflicto. Estos procedimientos serán competencia exclusiva de la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el asesor(a) legal.
+
+Artículo 44. Los procedimientos de mediación o conciliación que lleve a cabo la Defensoría se apegarán en todo momento a los siguientes principios:
+
+Las personas que participen de esta instancia deberán hacerlo de mutuo consentimiento;
+El integrante de la Defensoría tendrá presente que su papel de mediador consiste principalmente en facilitar la comunicación entre las partes;
+El diálogo establecido entre las partes será de mutuo respeto; en todo momento se evitará la agresión verbal y/o física. El mediador velará por el cumplimiento de las condiciones del diálogo y;
+Se podrá disponer de todo el tiempo y de las sesiones que sean necesarias. Con ello se garantizará que las personas que participen tengan el mismo tiempo y las mismas oportunidades de hablar.
+En caso de conciliación, se seguirán los mismos principios, sin que se encuentren en el mismo espacio, material o virtual, por lo que será la persona mediadora quien realice las funciones.
+
+Artículo 45. La conciliación es una de las formas en las que se puede concluir un procedimiento de queja hasta antes de la emisión de una Recomendación. Consiste en un acuerdo entre las partes, signado ante la presencia de la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal.
+
+Para que surta sus efectos y se pueda dar por concluido el procedimiento de investigación, deberá haber aceptación expresa de la persona que presenta la queja y constancia fehaciente de que la autoridad universitaria ha cumplido con lo acordado. Para tal efecto, la autoridad universitaria deberá remitir a la Defensoría, dentro de los quince días hábiles siguientes al acuerdo conciliatorio, las constancias con las que acredite haber dado cumplimiento. Dicho plazo podrá ser ampliado cuando así lo requiera la naturaleza del asunto.
+
+La mediación y conciliación no procederá tratándose de procedimientos de investigación que versen sobre violaciones graves a los derechos universitarios y/o humanos.
+
+Artículo 46. Para efectos del artículo anterior, se considerarán violaciones graves a los derechos universitarios y/o humanos, los actos u omisiones que impliquen ataques al derecho a la vida, a la integridad personal, a la libertad, a la seguridad.
+
+También se considerarán violaciones graves las señaladas en el Protocolo y el Catálogo de Normas de Convivencia, pero su tramitación estará a lo dispuesto por dichos instrumentos.
+
+Artículo 47. Los procedimientos de mediación y conciliación se desahogarán de la siguiente manera:
+
+La Defensoría informará a la persona que presenta la queja sobre la posibilidad de llevar a cabo los procedimientos de mediación y conciliación, solicitándole que señale los criterios que estime pertinentes señalar en el acuerdo de conciliación. La persona que presenta la queja podrá hacer llegar su acuerdo de conciliación o, en caso de ser necesario, podrá acudir a la Defensoría para que la auxilie en la redacción del mismo. La Defensoría explicará los alcances e implicaciones de ese convenio a la persona que presenta la queja.
+Una vez que la Defensoría cuente con el acuerdo de conciliación, lo enviará a la autoridad universitaria para su estudio o en su caso formule objeciones al mismo.
+La Defensoría citará a las partes para que se presenten y en su caso manifiesten si aceptan la propuesta de convenio conciliatorio o bien se hagan las modificaciones que de común acuerdo acepten. En todo momento la Defensoría actuará como mediadora, procurando el diálogo continuo, respetuoso y organizado, con el fin de que ambas partes manifiesten sus argumentos y puedan llegar a un acuerdo específico que posibilite la solución del caso. Si las partes aceptan el convenio conciliatorio procederán a su firma ante la o el Defensor(a) titular, la o el Defensor(a) adjunto(a) y la o el Asesor(a) legal. En caso de acordar modificaciones, la Defensoría citará en fecha posterior a las partes a fin de firmar el documento.
+
+Artículo 48. En cualquier momento alguna de las partes podrá manifestar su negativa de conciliar, por lo que en ese momento la Defensoría continuará con el procedimiento ordinario de la queja.
+
+Si la autoridad universitaria no respondiera sobre sus observaciones o aceptación del acuerdo de conciliación dentro de los diez días siguientes a su recepción, la Defensoría continuará con el procedimiento ordinario de la queja.
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO III. DE LA INVESTIGACIÓN
+
+Artículo 49. La Defensoría se sujetará en la búsqueda de evidencias y en la recepción, admisión, desahogo y valoración de las pruebas a lo establecido en la norma más favorable, así como a los principios de la lógica, la experiencia y de la legalidad, con el único fin de allegarse de elementos que generen convicción respecto a los hechos materia de la investigación.
+
+Serán admitidas toda clase de pruebas, excepto aquellas que vayan en contra del orden jurídico.
+
+Artículo 50. La Defensoría tendrá la mayor libertad para solicitar los elementos de prueba que considere necesarios y que estén relacionados con el caso concreto, tanto a la persona que presenta la queja como a las autoridades universitarias.
+
+El personal de la Defensoría podrá presentarse en cualquier instalación de la Universidad para comprobar datos, hechos o circunstancias relacionadas con la queja. Las autoridades universitarias deberán proporcionar la información que se les solicite y dar acceso a los documentos y a los lugares que se señalen.
+
+Si la autoridad se niega a colaborar en los términos a los que se refiere el párrafo que antecede, se levantará acta circunstanciada de los hechos para, en su caso, formular la denuncia ante las autoridades universitarias competentes.
+
+Artículo 51. Una vez que la Defensoría haya admitido la queja y hecho la primera solicitud de información a la autoridad universitaria señalada como responsable, ésta contará con un plazo de diez días hábiles para rendir su informe. La Defensoría procurará tener relación personal y directa con las partes, a fin de reducir el tiempo de trámite.
+
+La Defensoría podrá solicitar cuantos informes sean necesarios a la autoridad universitaria señalada como responsable, asimismo podrá solicitar información a otras autoridades como colaboradoras, cuando estas tengan o puedan tener información relacionada con la queja.
+
+Artículo 52. En caso de que la autoridad universitaria no rinda los informes que se le soliciten, la Defensoría podrá apercibirla de que, en caso de continuar con su omisión, se tendrán por ciertos los hechos que se le atribuyen.
+
+Artículo 53. Durante el desarrollo de sus diligencias, la Defensoría levantará acta circunstanciada donde asienten los hechos, objetos y dichos de personas para documentar los elementos pertinentes del caso, así como circunstancias que pudieran abonarse a los elementos probatorios.
+
+Asimismo, se realizarán actas circunstanciadas en la comparecencia ante la Defensoría de personas que presentan la queja, testigos y autoridades que se presenten a hacer manifestaciones orales. Tratándose de documentos digitales como discos compactos, memorias USB o correos electrónicos, se realizará acta circunstanciada de su recepción y contenido.
+
+Todas las actas circunstanciadas se agregarán al expediente correspondiente.
+
+Artículo 54. La Defensoría podrá documentar hechos que no pertenecen a un caso en específico pero que pudieran constituir violaciones a derechos universitarios y/o humanos atribuibles a autoridades universitarias.
+
+Artículo 55. La Defensoría podrá realizar dictámenes en materia de derechos humanos respecto de servicios, procedimientos, legislación, actos, inmuebles y, en general, hechos u objetos que observe.
+
+Estos dictámenes solo tendrán validez al interior de la Universidad y estarán relacionados con los procedimientos que se ventilen ante la Defensoría.
+
+Artículo 56. Los procedimientos de investigación podrán concluir mediante acuerdo debidamente fundado y motivado. Las causas por las que se puede concluir un expediente son las siguientes:
+
+Por haberse solucionado durante el trámite;
+Por incompetencia. En este caso se deberá orientar jurídicamente a la persona que presenta la queja;
+Por tratarse de hechos no violatorios de derechos universitarios y/o humanos;
+Por improcedencia, en los términos especificados en el Estatuto y en el presente Reglamento;
+Por desistimiento de la persona que presenta la queja, debidamente ratificado ante la Defensoría;
+Por falta de interés de la persona que presenta la queja en los términos especificados en el presente Reglamento;
+Por cumplimiento de las medidas conciliatorias, acordadas con la autoridad y la persona que presenta la queja;
+Por haberse enviado a la autoridad universitaria señalada como responsable un acuerdo de no responsabilidad;
+Por haberse emitido una Recomendación. En este caso quedará abierto el expediente exclusivamente para los efectos del seguimiento;
+Por no existir elementos suficientes para acreditar la violación a los derechos universitarios y/o humanos;
+Por no haberse identificado a la autoridad que cometió la violación;
+Por imposibilidad para continuar con la investigación y para proteger a la persona que presenta la queja.
+
+Artículo 57. Concluido el procedimiento de investigación, si de la misma no se desprenden elementos de convicción para tener por acreditadas las presuntas violaciones a los derechos universitarios y/o humanos, la Defensoría emitirá el Acuerdo de no responsabilidad que corresponda para el caso en particular.
+
+Artículo 58. Los Acuerdos de no responsabilidad serán notificados a la persona que presenta la queja y a las autoridades universitarias a quienes que vayan dirigidos. Contendrán los actos materia de la queja, las labores generales de investigación que se hayan realizado y la manifestación de no existencia de responsabilidad por tales hechos en particular.
+
+Artículo 59. En los casos en que la persona que presenta la queja solicite expresamente la reapertura del procedimiento de investigación o en los que se reciban aportaciones, informes o documentos después de que se haya acordado la conclusión del expediente, la Unidad de investigación analizará el asunto y presentará un proyecto de acuerdo al Defensor(a) titular, Defensor(a) adjunto(a) y Asesor(a) legal para reabrir o para negar su reapertura. Se exceptuará de lo anterior, los procedimientos que se hayan concluido a través de una Recomendación.
+
+La determinación correspondiente se hará del conocimiento de la persona que presente la queja. Si se determina la reapertura del expediente, esta circunstancia además se hará del conocimiento de la autoridad universitaria señalada como presuntamente responsable.
+
+Artículo 60. Cuando no sea posible llegar a una solución inmediata, la Defensoría tomará en consideración los informes rendidos, la documentación presentada por las personas interesadas, así como la documentación que la Defensoría pudiera obtener para emitir una Recomendación, hacer propuestas pertinentes o ambas.
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO IV. DE LA RECOMENDACIÓN
+
+Artículo 61. Concluida la investigación, si existen elementos que generen convicción en el sentido de que existe violación a los derechos universitarios y/o humanos, la Unidad de resolución elaborará el proyecto de Recomendación que corresponda.
+
+Artículo 62. La Defensoría notificará a la persona que presenta la queja y a la autoridad responsable que la investigación ha concluido y que se elaborará una Recomendación.
+
+Artículo 63. Las Recomendaciones contendrán, como mínimo, los elementos siguientes:
+
+Nombre de la persona que presenta la queja, siempre y cuando obre de manera expresa su consentimiento para su publicidad;
+La autoridad responsable, número de expediente, plantel y fecha;
+Relatoría de los hechos;
+Competencia de la Defensoría para realizar y concluir la investigación;
+Procedimiento de Investigación;
+Relación de las evidencias recabadas;
+Fundamentación y motivación;
+Posicionamiento de la Defensoría frente al tipo de violaciones del caso; y 
+Los puntos recomendatorios concretos que incluyan la reparación integral del daño.
+
+Artículo 64. Una vez que la Unidad de resolución haya elaborado el proyecto de Recomendación, lo turnará al Defensor(a) titular, Defensor(a) adjunto(a) y Asesor(a) legal, para que, en su caso, hagan las observaciones correspondientes a fin de que la Unidad de resolución los solvente.
+
+Una vez que se hayan atendido las observaciones y hecho las modificaciones necesarias, la Unidad de resolución volverá a turnar el proyecto de Recomendación al Defensor(a) titular, Defensor(a) adjunto(a) y Asesor(a) legal para que hagan una nueva revisión. Se harán tantas revisiones sean necesarias hasta que el proyecto de Recomendación sea óptimo.
+
+Aprobado el proyecto de Recomendación, será firmado por la o el Defensor(a) titular para su emisión.
+
+Artículo 65. Una vez que la Recomendación haya sido firmada por la o el Defensor(a) titular, se notificará de inmediato a la persona que presente la queja y a la autoridad universitaria a la que vaya dirigida.
+
+Lo anterior, sin perjuicio de poder turnar el expediente a la Oficina del Abogado General, la Contraloría General o la autoridad universitaria competente, cuando se desprendieran responsabilidades que son materia de estas.
+
+Artículo 66. La Defensoría hará pública la Recomendación que haya emitido mediante los canales de difusión oficiales con los que cuente la Universidad, con la debida protección de los datos personales.
+
+Artículo 67. La autoridad universitaria a quien se haya dirigido una Recomendación, dispondrá de un plazo de diez días hábiles para responder si la acepta o no.
+
+En caso de no aceptación, la respuesta se deberá hacer del conocimiento de la opinión pública.
+
+Una vez que la autoridad universitaria haya notificado a la Defensoría de la aceptación de la Recomendación dispondrá de un plazo de diez días a fin de enviar las pruebas de su cumplimiento.
+
+Cuando a juicio de la autoridad universitaria recomendada sea insuficiente el plazo para el envío de las pruebas de cumplimiento al que se refiere el párrafo anterior, lo expondrá de manera razonada a la Defensoría y hará una propuesta de fecha límite para probar el cumplimiento total de la Recomendación.
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO V. DEL SEGUIMIENTO
+
+Artículo 68. La Defensoría deberá dar seguimiento a las Recomendaciones aceptadas por las autoridades universitarias, a efecto de tener control sobre su cumplimiento y contar así con indicadores para la rendición de sus Informes.
+
+Artículo 69. La Unidad de resolución calificará la Recomendación de acuerdo a su aceptación y cumplimiento.
+
+La aceptación será calificada como:
+
+Aceptada totalmente, cuando todos los puntos recomendatorios hayan sido aceptados;
+Aceptada parcialmente, cuando sólo algunos puntos recomendatorios hayan sido aceptados;
+No aceptada cuando ningún punto recomendatorio haya sido aceptado.
+
+El cumplimiento será calificado como:
+
+Cumplida, cuando el cumplimiento se haya realizado en los términos emitidos;
+Incumplida, cuando se haya determinado que la autoridad no cumplió con lo aceptado. El incumplimiento podrá ser total cuando no se haya cumplido ninguno de los puntos recomendatorios, o parcial cuando no se hayan cumplido uno o varios de los puntos recomendatorios.
+
+Artículo 70. En caso de que una autoridad universitaria no haya aceptado una Recomendación o la haya incumplido sin que medie causa fundada y motivada, la Defensoría podrá dar vista a la Oficina del Abogado General y/o a la Contraloría General o la autoridad universitaria competente, a efecto de que determinen su responsabilidad conforme a la legislación universitaria.
+
+Artículo 71. La Defensoría hará pública la no aceptación de una Recomendación por parte de una autoridad universitaria a través de los medios de difusión oficiales de los que disponga. 
+TÍTULO V. DE LA PROMOCIÓN Y DIFUSIÓN
+
+Artículo 72. La Defensoría, como autoridad especializada en la promoción y protección de derechos universitarios y humanos, llevará a cabo distintas acciones dentro de la Universidad a efecto de difundir entre la comunidad universitaria, sus derechos y mecanismos para hacerlos valer.
+
+Para cumplir con la obligación de promover los derechos universitarios y humanos, podrán llevarse a cabo conferencias, actividades recreativas, mesas de trabajo, debates, pláticas, campañas de difusión mediante materiales audiovisuales y, en general, todas aquellas que se puedan realizar de acuerdo con los recursos disponibles.
+
+Artículo 73. Todas las acciones de promoción serán realizadas con perspectiva de derechos humanos. En cualquier caso, las acciones de la Defensoría en materia de promoción de derechos universitarios y humanos estarán encaminadas a la construcción de una cultura de la paz.
+
+Artículo 74. Las autoridades universitarias colaborarán con la Defensoría para que, de acuerdo con sus capacidades materiales, humanas y presupuestarias, realicen acciones en conjunto, brindando las facilidades para que la Defensoría desempeñe sus funciones al interior de los diferentes planteles, de acuerdo con la disponibilidad de espacios.
+
+Asimismo, cuando la Defensoría realice campañas por medio de materiales gráficos, las autoridades universitarias en los planteles proveerán de espacios y facilidades para cumplir con tal función.
+
+Artículo 75. En todo caso, la Defensoría contará con las más amplias facilidades para realizar acciones de promoción de derechos universitarios y humanos al interior de la Universidad.
+
+Las autoridades universitarias de los diferentes planteles no obstaculizarán las acciones de la Defensoría en la materia, en todo caso, deberán actuar en conjunto para encontrar espacios comunes donde llevar a cabo las acciones de que trata el presente Título.
+
+Artículo 76. La Defensoría contará con información disponible permanentemente en el sitio electrónico de que disponga y, cuando sea necesario, por medio de los canales de difusión oficiales de la Universidad.
+
+Artículo 77 La o el Defensor(a) titular y/o la o el Defensor(a) adjunto(a), con asistencia de la o el Asesor(a) legal, podrán plantear la colaboración, para contar con espacios e intercambio de acciones e información en la materia, con otras Universidades y/o autoridades de la Ciudad de México, nacionales, internacionales o actores de la sociedad civil, con el fin de promover los derechos universitarios y humanos.
+
+Artículo 78. De ser necesario, la Defensoría podrá proponer a la Oficina del Abogado General la realización de convenios con otras autoridades y/o instituciones externas a la Universidad para que ésta valore los mismos y en su caso celebre los actos jurídicos necesarios para tal efecto.
+
+Artículo 79. En cualquier caso, cuando la colaboración no requiera de la celebración de instrumentos jurídicos, la Defensoría podrá llevar a cabo las acciones para tal efecto.
+
+Artículo 80. La Unidad de promoción de derechos universitarios y humanos de la Defensoría será la encargada de realizar la planeación, propuesta y operación de acciones en materia de difusión y promoción al interior de la Universidad, con la asistencia de la o el Defensor(a) titular, Defensor(a) adjunto(a) y Asesor(a) legal.
+
+Artículo 81. La Unidad de promoción de derechos universitarios y humanos, con base en los datos de la presentación de quejas en la Defensoría, realizará el análisis para identificar el tipo de acciones que deberá implementar o que pudieran ser de utilidad.
+
+Artículo 82. La Unidad de promoción de derechos universitarios y humanos llevará a cabo campañas de difusión permanentes en los diferentes planteles y sedes, asimismo, asistirá periódicamente a cada uno de los mismos, de acuerdo con las capacidades y recursos humanos y materiales con los que cuente la Defensoría.
+
+Artículo 83. La Unidad de promoción de derechos universitarios y humanos analizará los datos con los que cuente la Defensoría de las campañas de promoción que haya realizado. Con base en lo anterior, realizará las acciones necesarias en los distintos planteles de la Universidad para contar con información específica respecto del estado de los derechos universitarios y humanos, destacando, entre otros datos, los grupos en situación de vulnerabilidad, los tipos de actos que se presentan, los derechos involucrados, la incidencia, entre otros.
+
+Con base en los datos que recabe, la Unidad de promoción, con apoyo de la o el Defensor(a) titular, Defensor(a) adjunto(a) y Asesor(a) legal, planeará las acciones que llevará a cabo con el fin de erradicar las situaciones que atenten contra los derechos universitarios y humanos.
+
+Artículo 84. Para abordar temas específicos, realizar eventos particulares y, en general, atender las necesidades identificadas por la Unidad de promoción de derechos universitarios y humanos, la Defensoría podrá invitar a personas expertas en la materia, autoridades y/o organismos públicos no gubernamentales, para atender de manera profesional y exhaustiva las necesidades de la Universidad.
+
+Artículo 85. Cuando con motivo de las acciones en materia de promoción, la Unidad de promoción de derechos universitarios y humanos detecte un caso que pudieran ser materia de alguno de los procedimientos de la Defensoría, informará a la o el Defensor(a) titular y a la o el Defensor(a) adjunto(a) para que, en su caso, determinen lo conducente.
+
+[Documento Principal](index.html)
+
+
+# TÍTULO VI. DE LAS OPINIONES, PROPUESTAS E INFORMES
+
+Artículo 86. La Defensoría podrá emitir opiniones, propuestas e informes sobre todas las cuestiones relativas a la promoción y protección de los derechos humanos y universitarios.
+
+Artículo 87. Las opiniones, propuestas e informes que emita la Defensoría tendrán como fin hacer manifiesta alguna situación relacionada con los derechos universitarios y/o humanos y su estado en la Universidad. En ellas aplicará el principio pro persona para establecer los mecanismos que resulten en una mejor protección de los derechos o en hacer más sencillo su ejercicio.
+
+Artículo 88. Durante el ejercicio de sus funciones, la Defensoría observará los distintos elementos, datos o situaciones que, siendo o no materia del procedimiento de queja establecido en el Título IV del presente Reglamento, pudieran aportar elementos para la emisión de opiniones, propuestas y/o informes.
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO I. DE LAS OPINIONES
+Artículo 89. La Defensoría, cuando tenga conocimiento de un tema que sea o no de su competencia y resulte de trascendencia para el desarrollo de sus funciones y/o esté relacionado con los derechos de la comunidad universitaria, podrá emitir opiniones al respecto, siempre y cuando las mismas no invadan la competencia de alguna otra autoridad universitaria y/o local o nacional.
+
+Artículo 90. La Defensoría podrá emitir su opinión respecto de resoluciones de las autoridades universitarias, de la Ciudad de México, nacionales y/o internacionales, en materia de derechos humanos, sin que las mismas constituyan una vía jurídica a favor o en contra de tales resoluciones o busquen resolver el fondo de tales asuntos.
+
+Las opiniones tendrán un carácter meramente reflexivo y solemne.
+
+Artículo 91. Las opiniones deberán establecer el posicionamiento que tenga la Defensoría con respecto a la problemática. Para ello las fundamentará en el marco de los derechos humanos de acuerdo con el principio pro persona.
+
+Artículo 92. Las opiniones podrán establecer el posicionamiento respecto de temas generales y en ninguna circunstancia podrán emitirse en relación con una resolución de otra autoridad universitaria, en tal caso deberá agotarse el procedimiento de queja establecido en el presente Reglamento.
+
+Artículo 93. Las opiniones también podrán emitirse con el fin de reconocer la labor que realice algún integrante de la comunidad universitaria, plantel, sector o la Universidad en general. Para tal efecto, la Defensoría destacará las labores que haya realizado la o el reconocido, la trascendencia general y la importancia en materia de derechos universitarios y/o humanos.
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO II. DE LAS PROPUESTAS E INFORMES ESPECIALES
+
+Artículo 94. La Defensoría, cuando con motivo de sus actividades, observe situaciones de hecho o derecho al interior de la Universidad que afecten derechos universitarios y/o humanos o bien, que su realización pudiera mejorarse, podrá elaborar propuestas dirigidas a las autoridades universitarias con el fin de mejorar servicios, legislación o procedimientos administrativos.
+
+Artículo 95. Cuando la naturaleza del caso lo requiera, por su importancia o gravedad, la Defensoría podrá emitir informes especiales en los que se expongan los logros obtenidos, la situación de particular gravedad que se presenta, las dificultades que para el desarrollo de las funciones de la Defensoría hayan surgido o el resultado de las investigaciones sobre situaciones de carácter general o sobre alguna cuestión que revista una especial trascendencia para los derechos universitarios y/o humanos, relacionadas con la competencia y actividades cotidianas de la Universidad.
+
+Artículo 96. Las propuestas podrán ser emitidas simultáneamente a las Recomendaciones, cuando de los informes que emita la autoridad, la Defensoría detecte hechos, procedimientos, situaciones contextuales, que se relacionen o no con el caso motivo de la Recomendación, los cuales necesiten abordarse de manera particular.
+
+Los informes especiales expondrán situaciones particulares que se presenten en la Universidad y que afecten a los derechos universitarios y/o humanos, mismos que no puedan ser resueltos, o que habiendo siendo materia o no de una Recomendación, persistan en su incidencia, de tal manera que requieran una exposición con el fin de evidenciar su situación a la comunidad universitaria.
+
+Artículo 97. Las propuestas deberán dirigirse a las autoridades de la Universidad competentes para resolver o modificar los procedimientos que haya detectado la Defensoría que deben mejorarse.
+
+Artículo 98. Las propuestas tendrán un carácter general, por lo que su naturaleza es la de hacer evidente una situación que afecte los derechos universitarios y/o humanos, o bien, proponer mejoras a las distintas situaciones presentes en la Universidad.
+
+Los informes especiales tendrán un carácter general, no estarán dirigidas a una autoridad universitaria en particular; sin embargo, señalarán a las autoridades que incidan en la materia de los informes, con el fin de hacer explícitas acciones u omisiones y la manera en que estas afectan a los derechos universitarios y/o humanos.
+
+Artículo 99. Las propuestas contendrán, como mínimo, los elementos siguientes:
+
+La autoridad responsable;
+El tipo de hechos, servicios, procedimientos o legislación materia de la propuesta;
+La competencia de la Defensoría;
+El régimen jurídico que debería aplicarse al caso;
+Posicionamiento de la Defensoría frente al caso; y 
+La propuesta de modificación concreta que considere la Defensoría.
+
+Artículo 100. Los informes especiales contendrán, como mínimo, los elementos siguientes:
+
+Los hechos que justifican su emisión;
+La competencia de la Defensoría;
+Los elementos recabados que coadyuvaron en la investigación;
+Los argumentos que evidencian los hechos o situaciones materia de la investigación;
+Régimen jurídico aplicable al caso; y 
+Conclusiones.
+
+Artículo 101. El cumplimiento de las propuestas no será obligatorio, en todo caso, la autoridad a la que se dirija valorará los argumentos de la Defensoría y determinará la viabilidad de hacer las modificaciones propuestas, establecer modificaciones diferentes o bien, continuar con el mismo estado en que se encuentran los servicios, procedimientos o legislación universitaria materia de la propuesta.
+
+Artículo 102. Las conclusiones señaladas en los informes especiales podrán tomarse en consideración por las autoridades universitarias para abordar las distintas situaciones que se tratan en los mismos, con el fin de diseñar estrategias que coadyuven a la erradicación de estas.
+
+En ningún caso, las conclusiones serán consideradas como puntos de cumplimiento obligatorio, sino como el estado de la situación materia del informe y posibles vías que pudieran abordarse.
+
+Artículo 103. La Defensoría hará públicas sus propuestas e informes especiales en sus medios de difusión y en los canales oficiales de la Universidad, cuidando en todo momento de la protección de datos personales.
+
+[Documento Principal](index.html)
+
+
+## CAPÍTULO III. DEL INFORME ANUAL
+
+Artículo 104. La Defensoría, dentro de los cinco primeros días del mes de diciembre en que cumpla el año en funciones, deberá rendir un informe anual a la Comisión de Mediación y Conciliación y ésta lo presentará, con el dictamen correspondiente al Consejo Universitario.
+
+Artículo 105. El informe anual deberá contener una descripción resumida del número y características de las quejas que se hayan presentado, los resultados de la labor de conciliación, las investigaciones realizadas, las Recomendaciones emitidas y el estado de su cumplimiento, los Acuerdos de no responsabilidad que hubiesen emitido, las acciones de promoción en los distintos planteles y sedes, los resultados logrados, así como las estadísticas y demás casos que se consideren de interés.
+
+Toda la información contenida en el informe anual deberá clasificarse de acuerdo con distintos criterios con el fin de sistematizarse y hacerla más comprensible. 
+
+Asimismo, la información contenida en el informe anual estará a lo dispuesto a la protección de datos personales.
+
+[Documento Principal](index.html)
+
+
+# TRANSITORIOS
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la página de la Universidad.
+
+Segundo. A partir del inicio de la vigencia del presente Reglamento, la Defensoría contará con un plazo de 20 días hábiles para comenzar a tramitar las quejas que haya recibido con anterioridad a su emisión.
+
+Tercero. La Defensoría iniciará los procedimientos de investigación de los casos que fueran materia del Protocolo para prevenir y erradicar la discriminación, la violencia contra las mujeres, el acoso y el hostigamiento sexual, en tanto este es emitido, no obstante, una vez que el mismo entre en vigor, la Defensoría turnará los casos a la Unidad especializada de aplicar el Protocolo, informando el estado de las investigaciones, las acciones realizadas, así como los datos y características propias de los casos para que tal Unidad continúe con las acciones y, en su caso, determine lo conducente.
+
+Cuarto. Las autoridades universitarias proveerán lo necesario a la Defensoría para el cumplimiento del presente Reglamento.
+
+Quinto. La Defensoría, en conjunto con la Coordinación de Comunicación y con la Coordinación de Difusión y Extensión Universitaria, elaborarán una campaña interna para dar a conocer el presente Reglamento entre la comunidad universitaria, haciendo énfasis en el procedimiento para la presentación de quejas.
+
+Sexto.- La Comisión de Asuntos Legislativos del Consejo Universitario presentará a la brevedad una propuesta de modificación del artículo 102 del Reglamento en Materia Electoral, así como una propuesta de sistema de resolución de conflictos en el marco de la aprobación del presente Reglamento y la normatividad aprobada relativa a la defensa de los derechos universitarios.
+
+(22 VOTOS A FAVOR, 0 VOTOS EN CONTRA, 1 ABSTENCIÓN y 0 AUSENCIAS)
